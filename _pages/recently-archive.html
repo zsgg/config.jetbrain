@@ -1,0 +1,18 @@
+---
+layout: archive
+permalink: /recently/
+title: "Posts Order by Recently"
+author_profile: true
+---
+{% include group-by-array collection=site.posts field="categories" %}
+
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+  </li>
+
+  <hr/>
+  {% endfor %}
+</ul>

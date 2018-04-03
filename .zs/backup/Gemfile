@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+gemspec
+
+# by zsgg
+gem 'github-pages'
+gem 'pygments.rb'
