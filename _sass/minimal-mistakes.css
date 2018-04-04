@@ -6281,6 +6281,7 @@ a.reversefootnote {
   .adsbygoogle {
     display: none !important;
     height: 1px !important; } }
+/* Global */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'NanumSquareRound'; }
 
@@ -6297,5 +6298,9 @@ h1, h2, h3, h4, h5, h6 {
 code {
   font-size: 0.85em;
   font-family: 'Source Code Pro'; }
+
+a {
+  text-decoration: none;
+  color: #4285F4; }
 
 /*# sourceMappingURL=minimal-mistakes.css.map */

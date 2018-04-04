@@ -1,3 +1,5 @@
+# zsgg : 네비게이션 설정
+# url은 _pages 폴더안의 permalink와 연결됨
 # main links
 main:
   #  - title: "Quick-Start Guide"
@@ -6,10 +8,10 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Category"
     url: /categories/
-  - title: "tag"
-    url: /tags/
-  - title: "Recently"
-    url: /recently/
+  #  - title: "tag"
+  #    url: /tags/
+  #  - title: "Recently"
+  #    url: /recently/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

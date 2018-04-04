@@ -155,7 +155,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: utf-8
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
@@ -259,3 +259,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+head_scripts:
+  - /assets/config_head/jquery-3.2.1.min.js
+
+footer_scripts:
+  - /assets/config_footer/app.js
