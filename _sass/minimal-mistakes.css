@@ -38,9 +38,9 @@
  */
 /* FONT PATH
  * -------------------------- */
-@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
-@import url("http://fonts.googleapis.com/earlyaccess/nanumgothic.css");
-@import url("https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css");
+@import url("//fonts.googleapis.com/css?family=Source+Code+Pro");
+@import url("//fonts.googleapis.com/earlyaccess/nanumgothic.css");
+@import url("//cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css");
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
