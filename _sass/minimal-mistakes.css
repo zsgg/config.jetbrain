@@ -6303,4 +6303,11 @@ a {
   text-decoration: none;
   color: #4285F4; }
 
+/* single footer social */
+.fa-tags:before, .fa-folder-open:before {
+  content: ''; }
+
+.page__footer {
+  position: relative; }
+
 /*# sourceMappingURL=minimal-mistakes.css.map */

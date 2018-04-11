@@ -262,6 +262,9 @@ defaults:
 
 head_scripts:
   - /assets/config_head/jquery-3.2.1.min.js
+  - /assets/config_head/vue-2.5.16.js
+  - /assets/config_head/axios-0.18.js
+
 
 footer_scripts:
   - /assets/config_footer/app.js

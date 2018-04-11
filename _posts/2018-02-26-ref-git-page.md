@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_zs
 title: Git Page Tip
 comments: true
 date: 2015-11-17 16:16:01 -0600
