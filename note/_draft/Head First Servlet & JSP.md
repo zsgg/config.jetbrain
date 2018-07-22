@@ -15,8 +15,6 @@ Jsp도 자기의 ServletConfig를 가짐
 
 #####[ServletConfig와 ServletContext 의 차이점](http://oya150.tistory.com/entry/JSPServletConfig%EC%99%80-ServletContext-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
-
-
 ####ServletContextListener
 리스너 종류 다양함
 HttpSessionAttributeListener : 세션에 속성이 추가 제거 수정되는 이벤트 들음

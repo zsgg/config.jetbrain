@@ -11,6 +11,7 @@
 ###리소스 모델링
 http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet  
 이 URI 디자인은 다음과 같은 자체 리소스 주소를 가진 URI가 있다는 것을 뜻한다.  
+
 - http://api.soccer.restapi.org/leagues/seattle/teams  
 - http://api.soccer.restapi.org/leagues/seattle  
 - http://api.soccer.restapi.org/leagues  
@@ -24,8 +25,10 @@ http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet
 ####도큐먼트
 도큐먼트 리소스는 객체 인스턴스나 데이터베이스 레코드와 유사한 단일 개념이다.  
 일반적으로 도큐먼트의 상태 표현은 값을 가진 필드와 다른 관련 리소스와의 링크 둘 다를 가지게 된다.  
-기본적인 필드와 링크 기반 구조로 인해, 도큐먼트 타입은 다른 리소스 원형들의 기반 원형이 된다. 즉, 서로 다른 리소스 원형 세 개는 도큐먼트 원형에서 분리된 것이라 볼 수 있다.  
+기본적인 필드와 링크 기반 구조로 인해, 도큐먼트 타입은 다른 리소스 원형들의 기반 원형이 된다.  
+즉, 서로 다른 리소스 원형 세 개는 도큐먼트 원형에서 분리된 것이라 볼 수 있다.  
 다음 URI는 각각 도큐먼트 리소스를 나타낸다.  
+
 - http://api.soccer.restapi.org/leagues/seattle  
 - http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet  
 - http://api.soccer.restapi.org/leagues/seattle/teams/trebuchet/players/mike  
@@ -67,10 +70,12 @@ POST 오류(도큐먼트) | 새로운 리소스를 생성한다.(컬렉션) | �
 ####규칙: 스토어 이름으로는 복수 명사를 사용해야 한다
 리소스 스토어를 나타내는 URI는 복수 명사, 복수 명사구로 표현해야 한다.  
 음악 플레이리스트 스토어의 URI는 다음과 같은 복수 명사 형태를 사용할 수 있다.  
+
 - http://api.music.restapi.org/artists/mikemassedotcom/playlists
 
 ####규칙: 컨트롤러 이름으로는 동사나 동사구를 사용해야 한다
 프로그램에 사용하는 함수처럼, 컨트롤 리소스를 나타내는 URI는 동작을 포함하는 이름으로 지어야 한다. 예를 들면 다음과 같이 짓는다.  
+
 - http://api.college.restapi.org/students/morgan/register  
 - http://api.example.restapi.org/lists/4324/dedupe  
 - http://api.ognom.restapi.org/dbs/reindex  
@@ -83,7 +88,8 @@ POST 오류(도큐먼트) | 새로운 리소스를 생성한다.(컬렉션) | �
 URI는 리소스를 식별하는 데만 사용해야 함
 
 ####URI Query 디자인
-URI 구성요소인 쿼리는 유일한 리소스를 식별하는 데 도움을 준다. 다음 예를 보자.  
+URI 구성요소인 쿼리는 유일한 리소스를 식별하는 데 도움을 준다. 다음 예를 보자. 
+ 
 - http://api.college.restapi.org/students/morgan/send-sms ➊  
 - http://api.college.restapi.org/students/morgan/send-sms?text=hello ➋  
 
@@ -94,6 +100,7 @@ URI의 쿼리 유무에 따라 캐시의 작용이나 기능이 바뀌어서는 
 
 ####규칙: URI 쿼리 부분으로 컬렉션이나 스토어를 필터링할 수 있다
 URI 쿼리는 컬렉션이나 스토어의 검색 기준으로 사용하기에 적합하다. 다음 예를보자.  
+
 - GET /users ➊   
 - GET /users?role=admin ➋  
 
