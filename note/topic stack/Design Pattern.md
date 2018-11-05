@@ -96,7 +96,8 @@
 
 ###[Builder](https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%8D%94_%ED%8C%A8%ED%84%B4)
 #####[https://johngrib.github.io/wiki/builder-pattern/](https://johngrib.github.io/wiki/builder-pattern/)
+#####[Java 8 lambdas and the builder pattern](https://leelevett.wordpress.com/2014/06/27/java-8-lambdas-and-the-builder-pattern/)
 
 
-
-
+###[Singleton](https://ko.wikipedia.org/wiki/%EC%8B%B1%EA%B8%80%ED%84%B4_%ED%8C%A8%ED%84%B4)
+#####[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)

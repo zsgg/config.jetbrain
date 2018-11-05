@@ -152,9 +152,13 @@ Do not store the URI in your database.
 The URI of a resource is not the resource itself. Also, you don't need to return the ID in your response. Clients have no need for it. Just return the URL for self and the URLs of any linked resources.
 
 ####[REST API: Put vs Post](http://1ambda.github.io/javascripts/rest-api-put-vs-post/)
-(1) POST to a URL creates a child resouce at a server defiend URL  
-(2) PUT to a URL create/replaces the resource in is entirely at the client defined URL  
-(3) PATCH to a URL updates part of the resource at that client defined URL  
+(1) POST to a URL **creates a child resouce** at a server defiend URL  
+(2) PUT to a URL **create/replaces the resource** in is entirely at the client defined URL  
+(3) PATCH to a URL **updates part of the resource** at that client defined URL  
+
+
+####[REST API: Put vs Post](https://1ambda.github.io/javascripts/rest-api-put-vs-post/)
+
 
 
 

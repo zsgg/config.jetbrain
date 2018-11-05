@@ -1,7 +1,5 @@
 ![alt book](http://image.yes24.com/momo/TopCate71/MidCate02/7017718.jpg)
 
-
-
 ####POST
 몸체(Message Body) 또는 짐(Payload)에 파라미터를 보냄
 
@@ -35,9 +33,6 @@ HTTP 프로토콜은 무상태 연결.
 
 ####쿠키는 세션을 사용하기 위해서만 필요하나요? 아니면 다른데서도 쓰나요?
 원래 쿠키는 세션을 지원하기 위해서 고안된것이기는 하지만 다른데서도 씀
-
-
-
 
 
 
