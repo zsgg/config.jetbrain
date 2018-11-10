@@ -29,10 +29,10 @@ It’s important to separate domain logic from other types of logic as it helps 
 
 ###[Domain-Driven Design – What is it and how do you use it?](https://airbrake.io/blog/software-design/domain-driven-design)
 
-Factories: As we’ve discussed through a number of design patterns articles already, DDD suggests the use of a factory, which encapsulates the logic of creating complex objects and aggregates, ensuring that the client has no knowledge of the inner-workings of object manipulation.
+**Factories**: As we’ve discussed through a number of design patterns articles already, DDD suggests the use of a factory, which encapsulates the logic of creating complex objects and aggregates, ensuring that the client has no knowledge of the inner-workings of object manipulation.
 > factory 패턴으로 DDD root를 만들어 낸다는거 같은데 어떤케이스에서 쓰느거지... 예제가 필요해..
 
-Domain Event: An object that is used to record a discrete event related to model activity within the system. While all events within the system could be tracked, a domain event is only created for event types which the domain experts care about.
+**Domain Event**: An object that is used to record a discrete event related to model activity within the system. While all events within the system could be tracked, a domain event is only created for event types which the domain experts care about.
 
 > 모델상태변화에 따른 시스템에 발생시키는 이벤트 같은데 아직 잘..
 
