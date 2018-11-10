@@ -1,9 +1,9 @@
 ![alt book](https://t1.daumcdn.net/cfile/tistory/2719C34052EC1C3C11?original)
 
-###종류
+#종류
 ![alt book](https://t1.daumcdn.net/cfile/tistory/99365F365B6A155511)
 
-####생성패턴
+###생성패턴
 
 - Abstract Factory (추상 팩토리)   
 > 동일한 주제의 다른 팩토리를 묶어 준다.
@@ -24,7 +24,7 @@
 > 한 클래스에 한 객체만 존재하도록 제한한다.
 
 
-####구조패턴
+###구조패턴
 
 - Adapter (적응자) 
 > 인터페이스가 호환되지 않는 클래스들을 함께 이용할 수 있도록, 타 클래스의 인터페이스를 기존 인터페이스에 덧씌운다.
@@ -48,7 +48,7 @@
 > 접근 조절, 비용 절감, 복잡도 감소를 위해 접근이 힘든 객체에 대한 대역을 제공한다.
 
 
-####행위패턴
+###행위패턴
 
 - Chain of Responsibility (책임연쇄) 
 > 책임들이 연결되어 있어 내가 책임을 못 질 것 같으면 다음 책임자에게 자동으로 넘어가는 구조
@@ -83,7 +83,7 @@
 - Visitor (방문자) 
 > 각 클래스의 데이터 구조로부터 처리 기능을 분리하여 별도의 visitor 클래스로 만들어놓고 해당 클래스의 메서드가 각 클래스를 돌아다니며 특정 작업을 수행하도록 하는 것
 
-
+---
 
 ###[Abstract Factory](https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%8C%A8%ED%84%B4)
 #####[java abstract factory pattern (추상 팩토리 패턴](https://blog.seotory.com/post/2016/08/java-abstract-factory-pattern)

@@ -1,6 +1,6 @@
 ![alt book](http://image.yes24.com/momo/TopCate1232/MidCate003/123128502.jpg)
 
-###리뷰
+#리뷰
 웹은 어떻게 동작하는가? 라는 부제에 맞게 구성되어있다.
 웹개발일을 하면서 당연히 되어서 알필요가 없어서 탑다운으로 공부하고 있어서 그다지 큰 관심이 없었던 내용들이 있어서 많은 도움이 되었다. 특히 http connection 과 ssl, https는 부끄럽게도 쓰기만 했지 잘 알지 못하였던 궁굼할때는 구글링으로 조금씩 배경지식만 쌓고있었는데 역시 배경지식을 잘깔려면 책을 읽어야하는거 같다.  
 
@@ -12,6 +12,6 @@ http header에 대해서도 한번도 써보지 않았던 get 방식에서 문�
 
 #####[웹 프로그래머를 위한 HTTP 완벽 가이드 읽는 법](https://blog.npcode.com/2015/06/07/%EC%9B%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-HTTP-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%9D%BD%EB%8A%94-%EB%B2%95/)
 
-###Todo
+#Todo
  - header로 캐시 갱신 컨트롤
 

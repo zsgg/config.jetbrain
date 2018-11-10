@@ -14,7 +14,7 @@ To do that, you need to look at **whether or not the code makes decisions that h
 None of the two code samples make the decision by themselves, they both delegate it to the domain model. That’s essentially how a proper separation of concerns often looks like. While the application services layer can contain quite a lot of code, **none of it should be about making any business-critical decisions. The only place for taking them is the domain model.**
 >비즈니스 의사결정은 오직 도메인로직에 있어야 한다.
 
-#####Summary
+####Summary
 Domain logic (aka business logic, business rules, and domain knowledge)  
 
 All other types of logic orchestrate the decisions made by the domain model and transform them into side-effects: save them to the data store, show to the user, or pass to 3rd-party services.  
@@ -24,7 +24,7 @@ It’s important to separate domain logic from other types of logic as it helps 
 
 
 
-
+---
 
 
 ###[Domain-Driven Design – What is it and how do you use it?](https://airbrake.io/blog/software-design/domain-driven-design)
@@ -36,7 +36,7 @@ Domain Event: An object that is used to record a discrete event related to model
 
 > 모델상태변화에 따른 시스템에 발생시키는 이벤트 같은데 아직 잘..
 
-#???
+#?
 DDD Factories use case  
 DDD Domain Event use case  
 
