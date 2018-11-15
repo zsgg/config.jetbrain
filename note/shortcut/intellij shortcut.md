@@ -29,33 +29,57 @@ Close Others
 - Alt + F5
 
 
-###ideaVim과 충돌나느것
-Super Method
+###[인텔리J 활용꿀팁 42가지](http://www.kwangsiklee.com/2016/12/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80/)
 
-- Ctrl + U
+**Productivity Guide**  
+ - 유용한 단축키 발굴
 
-Delete Line
+**블록으로 감싸기(if, try ...)**  
+ - Ctrl + Shift + T
 
-Find
+**{ } 사이 움직이기**  
+ - Ctrl + Shift + M
 
-- Ctrl + F
+**java... 구조보기**  
+ - Ctrl + F12  
+ - Alt + 7  
+
+**() 안 필요한 파라미터 보여줌**  
+ - Ctrl + P
+
+**알아서 완성하고 enter**  
+ - Ctrl + Shift + Enter
+
+**알아서 notnull.. 이제 알았다니..**  
+ - 변수.notnull + Ctrl + Space
+
+아아.. 이것도 왜 이제야..  
+Sql도 Json도 Reg도 잘할수...  
+**특정 String 언어 선택해서 포멧 편집편하게**  
+ - Alt + Enter  
+ - Fragment 열면 lint 잡아줌
+  
+**Http Client**  
+ - api 테스트할수있음
 
 
-####[iedaVim](http://ideavim.sourceforge.net/vim/index.html)
-- zc - 코드 접기(fold)   
-- zo - 접힌 코드 펼치기  
-- zd - fold 지우기  
-- zR - 접힌 코드 모두 펼치기  
-- zM - 코드 모두 접기   
-- zD - 모든 fold 지우기  
-- 42G, 42gg, :42 - 42라인으로 커서 이동  
-- 복사한 모든 리스트 모음 - :reg 명령 통해 확인 가능
-	- "0p : "0에 복사되어 있는 내용 복사
-- % - {}나 ()에서 현재 괄호의 짝으로 이동. 특히 유용할 듯
+**복사된 클립보드 히스토리**  
+ - Ctrl + Shift + V
 
+**에러인곳으로 커서 이동**  
+ - F2
 
-####[inside Vim](http://cfile8.uf.tistory.com/image/141F57474F4732890DE706)
+**북마크 보기**  
+ - Shift + F11
 
-####[Vim Cheat Sheet](https://vim.rtorr.com/lang/ko/)
+**북마크 마커창 보기**  
+ - Ctrl + F11
 
-####[intellij + vim plugin 활용 단축키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=25526279)
+**북마크 체크하기**  
+ - F11
+
+**북마크 옵션으로 체크하기**  
+ - Ctrl + Shift + Option
+
+**북마크 오션체크로 가기**  
+ - Ctrl + Option
