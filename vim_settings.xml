@@ -2,9 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="D:/Work/Miridih/bizhows-web/custmeta/member/inputForAiren.jsp" timestamp="1551002933459" />
-    </filemarks>
+    <filemarks />
     <jumps />
     <registers />
     <search>
@@ -17,6 +15,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
