@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Work/Miridih/bizhows-web/wp/design-service/cornerstone/step_page_renderer.ts" timestamp="1551001768613" />
+      <file name="D:/Work/Miridih/bizhows-web/custmeta/member/inputForAiren.jsp" timestamp="1551002933459" />
     </filemarks>
     <jumps />
     <registers />
@@ -11,7 +11,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
