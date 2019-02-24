@@ -1,0 +1,17 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="KEYMAP" value="close&#10;git" />
+    <property name="SettingsSearchHistory" value="keymap" />
+    <property name="TrendingPluginsSearchHistory" value="vim" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Work/Miridih/bizhows-web" />
+    <property name="file.gist.reindex.count" value="2976" />
+    <property name="ideavim.statistics.timestamp" value="1551001765021" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
