@@ -2,4 +2,28 @@
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
 </keymap>
