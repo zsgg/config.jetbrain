@@ -5,6 +5,12 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
@@ -22,6 +28,13 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt semicolon" />
