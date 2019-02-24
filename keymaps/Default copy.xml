@@ -23,6 +23,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
