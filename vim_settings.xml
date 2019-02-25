@@ -27,8 +27,8 @@
       <file name="/a.dummy" timestamp="1550130521332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/footer-temp.jsp" timestamp="1550536994106">
-        <mark key="[" line="45" column="0" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/footer-temp.jsp" timestamp="1551074006682">
+        <mark key="[" line="35" column="7" />
         <mark key="]" line="45" column="12" />
         <mark key="^" line="20" column="27" />
         <mark key="." line="45" column="12" />
@@ -39,11 +39,11 @@
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/privacy.jsp" timestamp="1550474916461">
         <mark key="[" line="23" column="20" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order-v2.jsp" timestamp="1551072481007">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="14" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="14" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order-v2.jsp" timestamp="1551073627531">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="40" column="13" />
+        <mark key="." line="40" column="13" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/oauth/firebase/admin/application/FireBaseMessagingService.java" timestamp="1549851702982">
         <mark key="[" line="53" column="76" />
