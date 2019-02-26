@@ -15,11 +15,11 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/login.jsp" timestamp="1550818112580">
-        <mark key="[" line="53" column="29" />
-        <mark key="]" line="53" column="29" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/login.jsp" timestamp="1551143094583">
+        <mark key="[" line="80" column="39" />
+        <mark key="]" line="80" column="39" />
         <mark key="^" line="54" column="50" />
-        <mark key="." line="53" column="29" />
+        <mark key="." line="80" column="39" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/test/com/miridih/views/com/miridih/views/bizhows/member/LoginTest.java" timestamp="1550479297933">
         <mark key="[" line="73" column="55" />
@@ -34,12 +34,16 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/user_term.jsp" timestamp="1550476567019">
-        <mark key="[" line="5" column="19" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/user_term.jsp" timestamp="1551143088807">
+        <mark key="[" line="146" column="39" />
+        <mark key="]" line="146" column="39" />
+        <mark key="." line="146" column="39" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/_gssong/gssong.html" timestamp="1551080429350" />
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/privacy.jsp" timestamp="1550474916461">
-        <mark key="[" line="23" column="20" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/privacy.jsp" timestamp="1551143119836">
+        <mark key="[" line="41" column="39" />
+        <mark key="]" line="41" column="39" />
+        <mark key="." line="41" column="39" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/help_design/help_design_order.jsp" timestamp="1551079630971">
         <mark key="[" line="43" column="36" />
@@ -72,7 +76,7 @@
         <mark key="]" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551142218239">
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551143043721">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="5" column="33" />
         <mark key="^" line="5" column="33" />
@@ -131,10 +135,10 @@
         <mark key="]" line="222" column="63" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/join.jsp" timestamp="1550725198111">
-        <mark key="[" line="88" column="55" />
-        <mark key="]" line="65" column="33" />
-        <mark key="." line="65" column="33" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/join.jsp" timestamp="1551143074920">
+        <mark key="[" line="126" column="39" />
+        <mark key="]" line="126" column="39" />
+        <mark key="." line="126" column="39" />
         <mark key="^" line="65" column="33" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/views/bizhows/member/Login.java" timestamp="1550478746072">
@@ -265,7 +269,7 @@
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFJlcXVlc3RBZGRpdGlvbmFsUGF5RHRvIGFkZGl0aW9uYWxQYXlEdG8gPSBuZXcgUmVxdWVzdEFkZGl0aW9uYWxQYXlEdG8oKTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXRQcmljZShwcmljZSk7CiAgICAgICAgICAgIGFkZGl0aW9uYWxQYXlEdG8uc2V0UmVmSGVscERlc2lnblJlcUlkeChyZXF1ZXN0SWR4KTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXREZXNjcmlwdGlvbihkZXNjcmlwdGlvbik7CiAgICAgICAgICAgIG5ldyBSZXF1ZXN0QWRkaXRpb25hbFBheVJlcG9zaXRvcnkoZ2V0RGJDb25uZWN0aW9uKCkpLmluc2VydFdpdGhvdXRQYXlJZHgoYWRkaXRpb25hbFBheUR0byk7CiAgICAgICAgfWNhdGNoKFNRTEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IEhlbHBEZXNpZ25FeGNlcHRpb24oQ29tbW9uRnJvbnRNZXNzYWdlLlJFVFJZLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>-</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICogd2hlbiBkZXNlcmlhbGl6aW5nIHRoYXQgZmllbGQuIEZvciB3ZXhhbXBsZSwgY29uc2lkZXIgdGhlc2UgdHlwZXM6Cg==</text>
@@ -274,7 +278,7 @@
         <text encoding="base64">ICogICAgICAgInJhZGl1cyI6IDIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>-</text>
       </register>
       <register name="m" type="4">
         <text />
