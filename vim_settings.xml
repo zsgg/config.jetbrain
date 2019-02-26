@@ -15,10 +15,10 @@
       <file name="C:/Work/Miridih/dev_web/web-java/test/gssong/GssongLogicFcmTest.java" timestamp="1549853929291">
         <mark key="[" line="32" column="70" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/header.jsp" timestamp="1551161631439">
-        <mark key="[" line="18" column="64" />
-        <mark key="]" line="18" column="85" />
-        <mark key="^" line="21" column="5" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/header.jsp" timestamp="1551166045512">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/login.jsp" timestamp="1551143094583">
@@ -33,7 +33,6 @@
       <file name="/a.dummy" timestamp="1550130521332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/footer-temp.jsp" timestamp="1551142196875" />
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/header-bar.html" timestamp="1551080162131">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -45,7 +44,6 @@
         <mark key="]" line="146" column="39" />
         <mark key="." line="146" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/_gssong/gssong.html" timestamp="1551080429350" />
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/privacy.jsp" timestamp="1551143119836">
         <mark key="[" line="41" column="39" />
         <mark key="]" line="41" column="39" />
@@ -82,8 +80,8 @@
         <mark key="]" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551157123165">
-        <mark key="[" line="4" column="36" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551165854759">
+        <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="33" />
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
@@ -132,7 +130,6 @@
       <file name="C:/Work/Miridih/dev_web/web-java/test/com/miridih/common/DtoVoGenerator.java" timestamp="1549863275164">
         <mark key="[" line="15" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/help_design_order-v2.jsp" timestamp="1551077525998" />
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/user/infrastructure/UserRepository.java" timestamp="1549863620013">
         <mark key="[" line="75" column="5" />
       </file>
