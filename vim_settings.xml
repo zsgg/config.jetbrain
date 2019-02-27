@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_title.html" timestamp="1551230211702" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_title.html" timestamp="1551233833104">
+        <mark key="[" line="0" column="39" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/oauth/firebase/admin/domain/FireBaseAdminApp.java" timestamp="1549853631660">
         <mark key="[" line="15" column="100" />
       </file>
@@ -16,11 +18,11 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/login.jsp" timestamp="1551230757793">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="92" column="39" />
-        <mark key="^" line="66" column="50" />
-        <mark key="." line="92" column="39" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/login.jsp" timestamp="1551233370094">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="67" />
+        <mark key="^" line="16" column="48" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/test/com/miridih/views/com/miridih/views/bizhows/member/LoginTest.java" timestamp="1550479297933">
         <mark key="[" line="73" column="55" />
@@ -39,6 +41,9 @@
         <mark key="]" line="146" column="39" />
         <mark key="." line="146" column="39" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/index.jsp" timestamp="1551233237151">
+        <mark key="[" line="253" column="53" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/privacy.jsp" timestamp="1551172880749">
         <mark key="[" line="17" column="101" />
         <mark key="]" line="41" column="39" />
@@ -50,11 +55,11 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order-v2.jsp" timestamp="1551230827244">
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="27" column="13" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order-v2.jsp" timestamp="1551233509646">
+        <mark key="[" line="5" column="84" />
+        <mark key="]" line="5" column="84" />
         <mark key="^" line="27" column="13" />
-        <mark key="." line="27" column="13" />
+        <mark key="." line="5" column="84" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/oauth/firebase/admin/application/FireBaseMessagingService.java" timestamp="1549851702982">
         <mark key="[" line="53" column="76" />
@@ -75,17 +80,16 @@
         <mark key="]" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551229808039">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="6" column="71" />
-        <mark key="^" line="0" column="43" />
-        <mark key="." line="6" column="71" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551233899681">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/design/help/constant/OrderStepKey.java" timestamp="1551070617577">
         <mark key="[" line="13" column="29" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_fixed_position_arrow.html" timestamp="1551230217257">
-        <mark key="[" line="2" column="89" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_fixed_position_arrow.html" timestamp="1551233749824">
+        <mark key="[" line="0" column="52" />
         <mark key="]" line="2" column="88" />
         <mark key="^" line="2" column="88" />
         <mark key="." line="2" column="88" />
@@ -128,8 +132,8 @@
         <mark key="[" line="104" column="43" />
       </file>
       <file name="/header_bar.html" timestamp="1551228496011" />
-      <file name="C:/Work/Miridih/dev_web/web-java/test/gssong/GssongLogicTest.java" timestamp="1551227609284">
-        <mark key="[" line="60" column="37" />
+      <file name="C:/Work/Miridih/dev_web/web-java/test/gssong/GssongLogicTest.java" timestamp="1551233500229">
+        <mark key="[" line="62" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include-header-html/README.md" timestamp="1551087207790">
         <mark key="[" line="0" column="212" />
@@ -140,8 +144,8 @@
       <file name="C:/Work/Miridih/dev_web/web-java/test/com/miridih/common/DtoVoGenerator.java" timestamp="1549863275164">
         <mark key="[" line="15" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_bar.html" timestamp="1551229726898">
-        <mark key="[" line="9" column="89" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_bar.html" timestamp="1551233809344">
+        <mark key="[" line="0" column="37" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/user/infrastructure/UserRepository.java" timestamp="1549863620013">
         <mark key="[" line="75" column="5" />
@@ -285,8 +289,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFJlcXVlc3RBZGRpdGlvbmFsUGF5RHRvIGFkZGl0aW9uYWxQYXlEdG8gPSBuZXcgUmVxdWVzdEFkZGl0aW9uYWxQYXlEdG8oKTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXRQcmljZShwcmljZSk7CiAgICAgICAgICAgIGFkZGl0aW9uYWxQYXlEdG8uc2V0UmVmSGVscERlc2lnblJlcUlkeChyZXF1ZXN0SWR4KTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXREZXNjcmlwdGlvbihkZXNjcmlwdGlvbik7CiAgICAgICAgICAgIG5ldyBSZXF1ZXN0QWRkaXRpb25hbFBheVJlcG9zaXRvcnkoZ2V0RGJDb25uZWN0aW9uKCkpLmluc2VydFdpdGhvdXRQYXlJZHgoYWRkaXRpb25hbFBheUR0byk7CiAgICAgICAgfWNhdGNoKFNRTEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IEhlbHBEZXNpZ25FeGNlcHRpb24oQ29tbW9uRnJvbnRNZXNzYWdlLlJFVFJZLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2NvbW1vbi9yZXNvdXJjZS9qcy9qcXVlcnkvanF1ZXJ5LTEuMTEuMC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICogd2hlbiBkZXNlcmlhbGl6aW5nIHRoYXQgZmllbGQuIEZvciB3ZXhhbXBsZSwgY29uc2lkZXIgdGhlc2UgdHlwZXM6Cg==</text>
@@ -295,7 +299,7 @@
         <text encoding="base64">ICogICAgICAgInJhZGl1cyI6IDIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -304,7 +308,7 @@
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2NvbW1vbi9yZXNvdXJjZS9qcy9qcXVlcnkvanF1ZXJ5LTEuMTEuMC5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIltzZXJ2aWNlTGlzdF0iICsgcmVxdWVzdC5nZXRIZWFkZXIoInJlZmVyZXIiKSArICJcbiIgKwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0pLmFwcGVuZFRvKCdoZWFkJyk7Cg==</text>
