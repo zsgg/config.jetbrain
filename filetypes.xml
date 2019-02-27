@@ -5,6 +5,7 @@
       <mapping ext="csl" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="stm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

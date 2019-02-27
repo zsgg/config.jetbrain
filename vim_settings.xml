@@ -98,7 +98,10 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550218275091">
+      <file name="/Dummy.txt" timestamp="1551237214633">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/test.html" timestamp="1551237243813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/user/infrastructure/UserAdminMemoDto.java" timestamp="1549863501358">
@@ -115,6 +118,11 @@
         <mark key="]" line="43" column="38" />
         <mark key="^" line="42" column="40" />
         <mark key="." line="43" column="38" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/test.stm" timestamp="1551237257122">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/sure/smilecat/commodity/assign/AssignStatisticsFilter.java" timestamp="1550559104650">
         <mark key="[" line="524" column="0" />
@@ -281,8 +289,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFJlcXVlc3RBZGRpdGlvbmFsUGF5RHRvIGFkZGl0aW9uYWxQYXlEdG8gPSBuZXcgUmVxdWVzdEFkZGl0aW9uYWxQYXlEdG8oKTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXRQcmljZShwcmljZSk7CiAgICAgICAgICAgIGFkZGl0aW9uYWxQYXlEdG8uc2V0UmVmSGVscERlc2lnblJlcUlkeChyZXF1ZXN0SWR4KTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXREZXNjcmlwdGlvbihkZXNjcmlwdGlvbik7CiAgICAgICAgICAgIG5ldyBSZXF1ZXN0QWRkaXRpb25hbFBheVJlcG9zaXRvcnkoZ2V0RGJDb25uZWN0aW9uKCkpLmluc2VydFdpdGhvdXRQYXlJZHgoYWRkaXRpb25hbFBheUR0byk7CiAgICAgICAgfWNhdGNoKFNRTEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IEhlbHBEZXNpZ25FeGNlcHRpb24oQ29tbW9uRnJvbnRNZXNzYWdlLlJFVFJZLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGpzcDppbmNsdWRlIHBhZ2U9Ii9jb21tb24vaGVhZGVyL2luY2x1ZGVfaGVhZGVyX2h0bWwvaGVhZGVyX3RpdGxlLmh0bWwiIGZsdXNoPSJ0cnVlIi8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>include_test</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICogd2hlbiBkZXNlcmlhbGl6aW5nIHRoYXQgZmllbGQuIEZvciB3ZXhhbXBsZSwgY29uc2lkZXIgdGhlc2UgdHlwZXM6Cg==</text>
@@ -291,7 +299,7 @@
         <text encoding="base64">ICogICAgICAgInJhZGl1cyI6IDIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>include_test</text>
       </register>
       <register name="m" type="4">
         <text />
