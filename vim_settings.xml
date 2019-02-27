@@ -12,12 +12,6 @@
       <file name="C:/Work/Miridih/dev_web/web-java/test/gssong/GssongLogicFcmTest.java" timestamp="1549853929291">
         <mark key="[" line="32" column="70" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/header.jsp" timestamp="1551230015753">
-        <mark key="[" line="14" column="80" />
-        <mark key="]" line="14" column="94" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/member/login.jsp" timestamp="1551233370094">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="67" />
@@ -131,7 +125,6 @@
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/design/help/application/info/DesignerInfo.java" timestamp="1550471259985">
         <mark key="[" line="104" column="43" />
       </file>
-      <file name="/header_bar.html" timestamp="1551228496011" />
       <file name="C:/Work/Miridih/dev_web/web-java/test/gssong/GssongLogicTest.java" timestamp="1551233500229">
         <mark key="[" line="62" column="0" />
       </file>
@@ -161,7 +154,6 @@
         <mark key="." line="126" column="39" />
         <mark key="^" line="65" column="33" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/src/com/sure/bizhows/batch/NotComposedWowpressCommodityNotifier.java" timestamp="1551227974438" />
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/views/bizhows/member/Login.java" timestamp="1550478746072">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="20" />
@@ -289,8 +281,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFJlcXVlc3RBZGRpdGlvbmFsUGF5RHRvIGFkZGl0aW9uYWxQYXlEdG8gPSBuZXcgUmVxdWVzdEFkZGl0aW9uYWxQYXlEdG8oKTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXRQcmljZShwcmljZSk7CiAgICAgICAgICAgIGFkZGl0aW9uYWxQYXlEdG8uc2V0UmVmSGVscERlc2lnblJlcUlkeChyZXF1ZXN0SWR4KTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXREZXNjcmlwdGlvbihkZXNjcmlwdGlvbik7CiAgICAgICAgICAgIG5ldyBSZXF1ZXN0QWRkaXRpb25hbFBheVJlcG9zaXRvcnkoZ2V0RGJDb25uZWN0aW9uKCkpLmluc2VydFdpdGhvdXRQYXlJZHgoYWRkaXRpb25hbFBheUR0byk7CiAgICAgICAgfWNhdGNoKFNRTEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IEhlbHBEZXNpZ25FeGNlcHRpb24oQ29tbW9uRnJvbnRNZXNzYWdlLlJFVFJZLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGpzcDppbmNsdWRlIHBhZ2U9Ii9jb21tb24vaGVhZGVyL2luY2x1ZGVfaGVhZGVyX2h0bWwvaGVhZGVyX3RpdGxlLmh0bWwiIGZsdXNoPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICogd2hlbiBkZXNlcmlhbGl6aW5nIHRoYXQgZmllbGQuIEZvciB3ZXhhbXBsZSwgY29uc2lkZXIgdGhlc2UgdHlwZXM6Cg==</text>
@@ -308,7 +300,7 @@
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIltzZXJ2aWNlTGlzdF0iICsgcmVxdWVzdC5nZXRIZWFkZXIoInJlZmVyZXIiKSArICJcbiIgKwo=</text>
+        <text encoding="base64">PGpzcDppbmNsdWRlIHBhZ2U9Ii9jb21tb24vaGVhZGVyL2luY2x1ZGVfaGVhZGVyX2h0bWwvaGVhZGVyX3RpdGxlLmh0bWwiIGZsdXNoPSJ0cnVlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0pLmFwcGVuZFRvKCdoZWFkJyk7Cg==</text>
