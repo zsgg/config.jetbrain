@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_title.html" timestamp="1551171345517">
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_title.html" timestamp="1551226811578">
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="30" />
@@ -140,9 +140,7 @@
       <file name="C:/Work/Miridih/dev_web/web-java/test/com/miridih/common/DtoVoGenerator.java" timestamp="1549863275164">
         <mark key="[" line="15" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_bar.html" timestamp="1551171371403">
-        <mark key="[" line="7" column="6" />
-      </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_bar.html" timestamp="1551226913401" />
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/user/infrastructure/UserRepository.java" timestamp="1549863620013">
         <mark key="[" line="75" column="5" />
       </file>
