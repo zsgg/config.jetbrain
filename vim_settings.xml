@@ -3,9 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_title.html" timestamp="1551233833104">
-        <mark key="[" line="0" column="39" />
-      </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_title.html" timestamp="1551241969776" />
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/oauth/firebase/admin/domain/FireBaseAdminApp.java" timestamp="1549853631660">
         <mark key="[" line="15" column="100" />
       </file>
@@ -49,7 +47,7 @@
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order-v2.jsp" timestamp="1551238176790">
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order-v2.jsp" timestamp="1551242525713">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="5" column="84" />
         <mark key="^" line="26" column="13" />
@@ -74,29 +72,24 @@
         <mark key="]" line="31" column="36" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551233899681">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="5" column="71" />
-        <mark key="." line="5" column="71" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551242013949">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/design/help/constant/OrderStepKey.java" timestamp="1551070617577">
         <mark key="[" line="13" column="29" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_fixed_position_arrow.html" timestamp="1551233749824">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="2" column="88" />
-        <mark key="^" line="2" column="88" />
-        <mark key="." line="2" column="88" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_fixed_position_arrow.html" timestamp="1551242010299">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/footer_temp.jsp" timestamp="1551173468685">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="85" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/_gssong/gssong.jsp" timestamp="1551080443771">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/_gssong/gssong.jsp" timestamp="1551242936465">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1551237214633">
         <mark key="[" line="0" column="0" />
@@ -119,6 +112,11 @@
         <mark key="^" line="42" column="40" />
         <mark key="." line="43" column="38" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/menu/menu.jsp" timestamp="1551242235268">
+        <mark key="[" line="85" column="87" />
+        <mark key="]" line="85" column="87" />
+        <mark key="." line="85" column="87" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/test.stm" timestamp="1551237257122">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="22" />
@@ -133,6 +131,9 @@
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/design/help/application/info/DesignerInfo.java" timestamp="1550471259985">
         <mark key="[" line="104" column="43" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/mypage/help_design_order_detail-v2.jsp" timestamp="1551242527612">
+        <mark key="[" line="15" column="8" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/web-java/test/gssong/GssongLogicTest.java" timestamp="1551233500229">
         <mark key="[" line="62" column="0" />
       </file>
@@ -145,8 +146,11 @@
       <file name="C:/Work/Miridih/dev_web/web-java/test/com/miridih/common/DtoVoGenerator.java" timestamp="1549863275164">
         <mark key="[" line="15" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_bar.html" timestamp="1551233809344">
-        <mark key="[" line="0" column="37" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/header/include_header_html/header_bar.html" timestamp="1551241998026">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/user/infrastructure/UserRepository.java" timestamp="1549863620013">
         <mark key="[" line="75" column="5" />
@@ -290,7 +294,7 @@
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFJlcXVlc3RBZGRpdGlvbmFsUGF5RHRvIGFkZGl0aW9uYWxQYXlEdG8gPSBuZXcgUmVxdWVzdEFkZGl0aW9uYWxQYXlEdG8oKTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXRQcmljZShwcmljZSk7CiAgICAgICAgICAgIGFkZGl0aW9uYWxQYXlEdG8uc2V0UmVmSGVscERlc2lnblJlcUlkeChyZXF1ZXN0SWR4KTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXREZXNjcmlwdGlvbihkZXNjcmlwdGlvbik7CiAgICAgICAgICAgIG5ldyBSZXF1ZXN0QWRkaXRpb25hbFBheVJlcG9zaXRvcnkoZ2V0RGJDb25uZWN0aW9uKCkpLmluc2VydFdpdGhvdXRQYXlJZHgoYWRkaXRpb25hbFBheUR0byk7CiAgICAgICAgfWNhdGNoKFNRTEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IEhlbHBEZXNpZ25FeGNlcHRpb24oQ29tbW9uRnJvbnRNZXNzYWdlLlJFVFJZLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>include_test</text>
+        <text>n</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICogd2hlbiBkZXNlcmlhbGl6aW5nIHRoYXQgZmllbGQuIEZvciB3ZXhhbXBsZSwgY29uc2lkZXIgdGhlc2UgdHlwZXM6Cg==</text>
@@ -299,7 +303,7 @@
         <text encoding="base64">ICogICAgICAgInJhZGl1cyI6IDIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>include_test</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <text />
