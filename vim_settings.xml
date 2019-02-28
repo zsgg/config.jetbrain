@@ -24,11 +24,11 @@
       <file name="C:/Work/Miridih/dev_web/web-java/src/com/miridih/oauth/firebase/admin/application/FireBaseMessagingService.java" timestamp="1549851702982">
         <mark key="[" line="53" column="76" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/commodity_thumbnail_full_width_vertical_viewer/commodity_thumbnail_full_width_vertical_viewer.jsp" timestamp="1551339156255">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="87" />
-        <mark key="^" line="35" column="25" />
-        <mark key="." line="36" column="0" />
+      <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/commodity_thumbnail_full_width_vertical_viewer/commodity_thumbnail_full_width_vertical_viewer.jsp" timestamp="1551341333807">
+        <mark key="[" line="66" column="9" />
+        <mark key="]" line="66" column="9" />
+        <mark key="^" line="65" column="9" />
+        <mark key="." line="66" column="9" />
       </file>
       <file name="C:/Work/Miridih/dev_web/web-java/resources/views/bizhows/common/footer/include_footer_html/footer_bar.html" timestamp="1551242013949">
         <mark key="[" line="0" column="0" />
@@ -258,8 +258,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFJlcXVlc3RBZGRpdGlvbmFsUGF5RHRvIGFkZGl0aW9uYWxQYXlEdG8gPSBuZXcgUmVxdWVzdEFkZGl0aW9uYWxQYXlEdG8oKTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXRQcmljZShwcmljZSk7CiAgICAgICAgICAgIGFkZGl0aW9uYWxQYXlEdG8uc2V0UmVmSGVscERlc2lnblJlcUlkeChyZXF1ZXN0SWR4KTsKICAgICAgICAgICAgYWRkaXRpb25hbFBheUR0by5zZXREZXNjcmlwdGlvbihkZXNjcmlwdGlvbik7CiAgICAgICAgICAgIG5ldyBSZXF1ZXN0QWRkaXRpb25hbFBheVJlcG9zaXRvcnkoZ2V0RGJDb25uZWN0aW9uKCkpLmluc2VydFdpdGhvdXRQYXlJZHgoYWRkaXRpb25hbFBheUR0byk7CiAgICAgICAgfWNhdGNoKFNRTEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCIiLCBlKTsKICAgICAgICAgICAgdGhyb3cgbmV3IEhlbHBEZXNpZ25FeGNlcHRpb24oQ29tbW9uRnJvbnRNZXNzYWdlLlJFVFJZLCBlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2NvbW1vbi9jb21tb2RpdHlfdGh1bWJuYWlsX2Z1bGxfd2lkdGhfdmVydGljYWxfdmlld2VyL2pzL2NvbW1vZGl0eV90aHVtYm5haWxfZnVsbF93aWR0aF92ZXJ0aWNhbF92aWV3ZXIuanM/dj08JT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSU+Ij48L3NjcmlwdD4K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICogd2hlbiBkZXNlcmlhbGl6aW5nIHRoYXQgZmllbGQuIEZvciB3ZXhhbXBsZSwgY29uc2lkZXIgdGhlc2UgdHlwZXM6Cg==</text>
@@ -268,7 +268,7 @@
         <text encoding="base64">ICogICAgICAgInJhZGl1cyI6IDIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>1</text>
       </register>
       <register name="m" type="4">
         <text />
@@ -277,7 +277,7 @@
         <text encoding="base64">XDxkaXZcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2NvbW1vbi9jb21tb2RpdHlfdGh1bWJuYWlsX2Z1bGxfd2lkdGhfdmVydGljYWxfdmlld2VyL2pzL2NvbW1vZGl0eV90aHVtYm5haWxfZnVsbF93aWR0aF92ZXJ0aWNhbF92aWV3ZXIuanM/dj08JT1TeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSU+Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIDxkaXY+MTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0pLmFwcGVuZFRvKCdoZWFkJyk7Cg==</text>
