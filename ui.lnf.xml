@@ -1,12 +1,5 @@
 <application>
-  <component name="DependencyUISettings">
-    <option name="UI_FLATTEN_PACKAGES" value="false" />
-    <option name="UI_SHOW_FILES" value="false" />
-    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
-  </component>
   <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="901" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="FONT_FACE" value="Malgun Gothic" />
   </component>
 </application>
