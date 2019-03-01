@@ -1,49 +1,34 @@
 <keymap version="1" name="Default copy" parent="$default">
-  <action id="CloseAllUnpinnedEditors">
-    <keyboard-shortcut first-keystroke="alt e" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt f5" />
   </action>
   <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="alt c" />
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
-  <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="alt z" />
+  <action id="Console.TableResult.SetDefault" />
+  <action id="EditorDeleteLine" />
+  <action id="GotoSuperMethod" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
-  <action id="LocalHistory.ShowHistory">
-    <keyboard-shortcut first-keystroke="alt j" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="alt quote" />
+  <action id="RunCoverage">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt a" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
-  <action id="SelectNextOccurrence" />
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f11" />
-    <keyboard-shortcut first-keystroke="alt v" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="alt x" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
 </keymap>
