@@ -50,7 +50,6 @@
       <file name="/fragment.java" timestamp="1551013665806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/test-project/src/Main.java" timestamp="1551465338494" />
     </filemarks>
     <jumps>
       <jump line="53" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SearchKeywordLink.java" />
@@ -169,7 +168,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
