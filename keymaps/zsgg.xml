@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="zsgg" parent="$default">
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -23,6 +23,10 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
@@ -31,6 +35,10 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt t" />
