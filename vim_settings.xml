@@ -13,6 +13,12 @@
       <file name="/Dummy.txt" timestamp="1551012890881">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Project/algo-programers/.gitignore" timestamp="1554734435905">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/parameter/SocialJoin.java" timestamp="1551015038208">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -143,7 +149,7 @@
         <text encoding="base64">cHVibGljIGNsYXNzIFNvY2lhbEpvaW4gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>xml</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdE1hcHBlci53cml0ZVZhbHVlKHdyaXRlciwgdXNlcik7Cg==</text>
@@ -167,7 +173,7 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>xml</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
