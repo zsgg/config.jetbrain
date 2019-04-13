@@ -39,8 +39,12 @@
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555176073469">
-        <mark key="[" line="12" column="54" />
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555179898758">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="51" />
+        <mark key="^" line="20" column="52" />
+        <mark key="." line="20" column="51" />
       </file>
       <file name="/Dummy.txt" timestamp="1555149125825">
         <mark key="[" line="0" column="0" />
@@ -157,19 +161,20 @@
       <jump line="40" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
       <jump line="41" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
       <jump line="59" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="34" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new</text>
+        <text>colC</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>colC</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWFhWzBdKyspOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZWdlci5wYXJzZUludCh2YWx1ZVswXSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmFpbFJhdGUuZ2V0KGkpOwo=</text>
