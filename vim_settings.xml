@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" timestamp="1555165073186">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="44" column="39" />
+        <mark key="^" line="44" column="39" />
+        <mark key="." line="44" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1555149125825">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,6 +48,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/stream/Collectors.java" timestamp="1555164403980" />
       <file name="D:/Project/algo-programers/src/test/java/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555148490047">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="25" column="0" />
@@ -90,7 +97,7 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555148670980">
+      <file name="/fragment.java" timestamp="1555158800316">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -143,46 +150,50 @@
       <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="45" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="59" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
+      <jump line="55" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="40" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="41" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="59" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUGF0dGVybi5jb21waWxlKCIoWzAtOV17NH18WzAtOV17Nn0pIikuKHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWFhWzBdKyspOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmFpbFJhdGUuZ2V0KGkpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHNvbHV0aW9uKFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIFBhdHRlcm4uY29tcGlsZSgiKFswLTldezR9fFswLTldezZ9KSIpLihzKTsKICAgICAgICByZXR1cm4gUGF0dGVybi5jb21waWxlKCIoWzAtOV17NH18WzAtOV17Nn0pIikuKHMpOwogICAgfQp9</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFNvY2lhbEpvaW4gewo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdE1hcHBlci53cml0ZVZhbHVlKHdyaXRlciwgdXNlcik7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29uT2JqZWN0TWFwcGVyLndyaXRlVmFsdWUod3JpdGVyLCB1c2VyKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nV3JpdGVyIHdyaXRlciA9IG5ldyBTdHJpbmdXcml0ZXIoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGFzZGZhc2RmCiAgICAgICAgICAgIGFzZGZhc2RmZmFzCiAgICAgICAgICAgIGRmCiAgICAgICAgICAgICAgICAgICAgYXNkZmFzZGZhZGYKCiAgICAgICAgICAgICAgICAgICAgc2Rmc2ZkCgogICAgICAgICAgICAgICAgICAgIHNkZnNkZgogICAgICAgICAgICAgICAgICAgIGFzZGZzc3Nzc3Nzc3Nzc3NzcwoKCiAgICBhc2RmYXNkZgoKCiAgICBzZGZhc2RmCiAgICBwdWJsaWMgZW51bSBTb3VyY2VUeXBlIHsKICAgICAgICBTSEVFVCwgU0VBUkNICiAgICB9CgogICAgcHJpdmF0ZSBsb25nIGlkOwogICAgcHJpdmF0ZSBTdHJpbmcgdHlwZTsKICAgIHByaXZhdGUgbG9uZyB3b3JkSWQ7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">YXNkZmFzZGYKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KCkpOwogICAg</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">KCkpOwogICAg</text>
       </register>
     </registers>
     <search>
