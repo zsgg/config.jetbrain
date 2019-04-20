@@ -9,12 +9,12 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555770245799">
-        <mark key="'" line="117" column="25" />
-        <mark key="[" line="60" column="57" />
-        <mark key="]" line="61" column="57" />
-        <mark key="^" line="98" column="39" />
-        <mark key="." line="61" column="0" />
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555774007266">
+        <mark key="'" line="114" column="25" />
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="30" />
+        <mark key="^" line="51" column="31" />
+        <mark key="." line="52" column="30" />
       </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SheetKeywordWeight.java" timestamp="1551012479062">
         <mark key="[" line="22" column="34" />
@@ -34,6 +34,9 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1555776033346">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555148490047">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="25" column="0" />
@@ -49,15 +52,17 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
       </file>
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_8.java" timestamp="1555775741827">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+      </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555186648170">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="80" column="33" />
-        <mark key="^" line="80" column="33" />
-        <mark key="." line="80" column="33" />
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555776039963">
+        <mark key="[" line="14" column="3" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
@@ -65,7 +70,7 @@
       <file name="/HTML File.txt.ft" timestamp="1555679047953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555149125825">
+      <file name="/Dummy.txt" timestamp="1555776060549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/.gitignore" timestamp="1555149188166">
@@ -135,7 +140,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555763859196">
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555773518138">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="25" column="42" />
         <mark key="]" line="23" column="49" />
@@ -145,7 +150,7 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555747926144">
+      <file name="/fragment.java" timestamp="1555774009692">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -217,17 +222,17 @@
       <jump line="117" column="25" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGNvbnZlcnRlZFJlbGF0aW9uID0gY29udmVydChyZWxhdGlvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>ii</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGNvbnZlcnRlZFJlbGF0aW9uID0gY29udmVydChyZWxhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyJiIiwgImIiLCAiYiIsICJiIn0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIEludGVnZXIudG9CaW5hcnlTdHJpbmcoemVybykgKyIgLyAiKyBuZXcgR3NvbigpLnRvSnNvbihjb3B5KSk7Cg==</text>
