@@ -9,11 +9,8 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555748022457">
-        <mark key="[" line="26" column="47" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555764288896">
+        <mark key="'" line="100" column="25" />
       </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SheetKeywordWeight.java" timestamp="1551012479062">
         <mark key="[" line="22" column="34" />
@@ -134,7 +131,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555748040815">
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555763859196">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="25" column="42" />
         <mark key="]" line="23" column="49" />
@@ -213,19 +210,20 @@
       <jump line="17" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="24" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="16" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="117" column="25" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;)),</text>
+        <text>rightAnswer</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;)),</text>
+        <text>rightAnswer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyIxMDAiLCAicnlhbiIsICJtdXNpYyIsICIyIn0sCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWFhLmNvbnRhaW5zKG5ldyBTdHJpbmdbXXsiYWEiLCAiYmIifSkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIEludGVnZXIudG9CaW5hcnlTdHJpbmcoemVybykgKyIgLyAiKyBuZXcgR3NvbigpLnRvSnNvbihjb3B5KSk7Cg==</text>
