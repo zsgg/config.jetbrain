@@ -9,6 +9,12 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555748022457">
+        <mark key="[" line="26" column="47" />
+        <mark key="]" line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+      </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SheetKeywordWeight.java" timestamp="1551012479062">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="27" column="24" />
@@ -128,16 +134,17 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555744575112">
-        <mark key="'" line="7" column="0" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555748040815">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="23" column="49" />
+        <mark key="^" line="23" column="49" />
+        <mark key="." line="23" column="49" />
       </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555690390979">
+      <file name="/fragment.java" timestamp="1555747926144">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -200,46 +207,52 @@
       <jump line="8" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="41" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="7" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="22" column="47" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="26" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="25" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="17" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="24" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="16" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>&quot;&quot;)),</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>&quot;&quot;)),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>byte[][] bit</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyIxMDAiLCAicnlhbiIsICJtdXNpYyIsICIyIn0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZygweDEwMDAxICYgMHgxMDExMTEpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIEludGVnZXIudG9CaW5hcnlTdHJpbmcoemVybykgKyIgLyAiKyBuZXcgR3NvbigpLnRvSnNvbihjb3B5KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIG5ldyBHc29uKCkudG9Kc29uKGNvcHkpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBkb1Blcm11dGF0aW9uKGludFtdIGFyciwgaW50IHN0YXJ0SWR4KSB7CiAgICAgICAgaW50IGxlbmd0aCA9IGFyci5sZW5ndGg7CiAgICAgICAgaWYgKHN0YXJ0SWR4ID09IGxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgZm9yIChpbnQgaXRlbSA6IGFycikgU3lzdGVtLm91dC5wcmludChpdGVtICsgIiAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaSA9IHN0YXJ0SWR4OyBpIDwgbGVuZ3RoIC0gMTsgaSsrKSB7CiAgICAgICAgICAgIHN3YXAoYXJyLCBzdGFydElkeCwgaSk7CiAgICAgICAgICAgIGRvUGVybXV0YXRpb24oYXJyLCBzdGFydElkeCArIDEpOwogICAgICAgICAgICBzd2FwKGFyciwgc3RhcnRJZHgsIGkpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzd2FwKGludFtdIGFyciwgaW50IG4xLCBpbnQgbjIpIHsKICAgICAgICBpbnQgdGVtcCA9IGFycltuMV07CiAgICAgICAgYXJyW24xXSA9IGFycltuMl07CiAgICAgICAgYXJyW24yXSA9IHRlbXA7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIG5ldyBHc29uKCkudG9Kc29uKGNvcHkpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnJheXMuc3RyZWFtKGludHMpLm1hcFRvT2JqKHZhbHVlIC0+IFN0cmluZy52YWx1ZU9mKHZhbHVlKSkuY29sbGVjdChDb2xsZWN0b3JzLmpvaW5pbmcoIiIpKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvY2soMCwgY29sQywgaSwgLTEsIG5ldyBIYXNoTWFwPEludGVnZXIsIEludGVnZXI+KCksIHJlbGF0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbFJhdGUuZ2V0KGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyIyMDAiLCAiMnJ5YW4iLCAiMm11c2ljIiwgIjIyIn0sCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHNvbHV0aW9uKFN0cmluZyBzKSB7CiAgICAgICAgcmV0dXJuIFBhdHRlcm4uY29tcGlsZSgiKFswLTldezR9fFswLTldezZ9KSIpLihzKTsKICAgICAgICByZXR1cm4gUGF0dGVybi5jb21waWxlKCIoWzAtOV17NH18WzAtOV17Nn0pIikuKHMpOwogICAgfQp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0JpbmFyeVN0cmluZygweDEwMDAxICYgMHgxMDExMTEpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFNvY2lhbEpvaW4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbk9iamVjdE1hcHBlci53cml0ZVZhbHVlKHdyaXRlciwgdXNlcik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBkb1Blcm11dGF0aW9uKGludFtdIGFyciwgaW50IHN0YXJ0SWR4KSB7CiAgICAgICAgaW50IGxlbmd0aCA9IGFyci5sZW5ndGg7CiAgICAgICAgaWYgKHN0YXJ0SWR4ID09IGxlbmd0aCAtIDEpIHsKICAgICAgICAgICAgZm9yIChpbnQgaXRlbSA6IGFycikgU3lzdGVtLm91dC5wcmludChpdGVtICsgIiAiKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgZm9yIChpbnQgaSA9IHN0YXJ0SWR4OyBpIDwgbGVuZ3RoIC0gMTsgaSsrKSB7CiAgICAgICAgICAgIHN3YXAoYXJyLCBzdGFydElkeCwgaSk7CiAgICAgICAgICAgIGRvUGVybXV0YXRpb24oYXJyLCBzdGFydElkeCArIDEpOwogICAgICAgICAgICBzd2FwKGFyciwgc3RhcnRJZHgsIGkpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzd2FwKGludFtdIGFyciwgaW50IG4xLCBpbnQgbjIpIHsKICAgICAgICBpbnQgdGVtcCA9IGFycltuMV07CiAgICAgICAgYXJyW24xXSA9IGFycltuMl07CiAgICAgICAgYXJyW24yXSA9IHRlbXA7CiAgICB9</text>
       </register>
     </registers>
     <search>
