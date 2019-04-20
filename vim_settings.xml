@@ -9,8 +9,12 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555764288896">
-        <mark key="'" line="100" column="25" />
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555770245799">
+        <mark key="'" line="117" column="25" />
+        <mark key="[" line="60" column="57" />
+        <mark key="]" line="61" column="57" />
+        <mark key="^" line="98" column="39" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SheetKeywordWeight.java" timestamp="1551012479062">
         <mark key="[" line="22" column="34" />
@@ -213,17 +217,17 @@
       <jump line="117" column="25" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rightAnswer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGNvbnZlcnRlZFJlbGF0aW9uID0gY29udmVydChyZWxhdGlvbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>rightAnswer</text>
+        <text>ii</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWFhLmNvbnRhaW5zKG5ldyBTdHJpbmdbXXsiYWEiLCAiYmIifSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXVtdIGNvbnZlcnRlZFJlbGF0aW9uID0gY29udmVydChyZWxhdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIEludGVnZXIudG9CaW5hcnlTdHJpbmcoemVybykgKyIgLyAiKyBuZXcgR3NvbigpLnRvSnNvbihjb3B5KSk7Cg==</text>
