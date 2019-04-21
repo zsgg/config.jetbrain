@@ -8,9 +8,12 @@
 - Abstract Factory (추상 팩토리)   
 > 동일한 주제의 다른 팩토리를 묶어 준다.
 > Abstract factory pattern은 Strategy 와 Factory의 콜라보. 전략적인 공장이다.
+> factory pattern의 상위호환이 아니다.
 
 - Builder 
 > 생성(construction)과 표기(representation)를 분리해 복잡한 객체를 생성한다
+> 다른 의미의 Builder는 set 메서드를 노출하지 않으면서 유연한 인스턴스 생성을 위해 사용한다. 
+
 
 - Factory Method 
 > 생성할 객체의 클래스를 국한하지 않고 객체를 생성한다.
@@ -85,19 +88,97 @@
 
 ---
 
-###[Abstract Factory](https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%8C%A8%ED%84%B4)
-#####[java abstract factory pattern (추상 팩토리 패턴](https://blog.seotory.com/post/2016/08/java-abstract-factory-pattern)
-#####[자바 디자인패턴(Java Design Pattern)](http://oniondev.egloos.com/9663271)
+component pattern ?
+
+---
+
+#ref
+###[design-patterns-JS](https://github.com/fbeline/design-patterns-JS)
+###[Design Patterns in Java Tutorial](https://www.tutorialspoint.com/design_pattern/index.htm)
+###[JDM's Blog](https://jdm.kr/blog/)
+
+---
+
+#[Abstract Factory](https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/9/9d/Abstract_factory_UML.svg)  
+추상 팩토리 패턴(Abstract factory pattern)은 다양한 구성 요소 별로 '객체의 집합'을 생성해야 할 때 유용하다. 이 패턴을 사용하여 상황에 알맞은 객체를 생성할 수 있다. 
+###[java abstract factory pattern (추상 팩토리 패턴)](https://blog.seotory.com/post/2016/08/java-abstract-factory-pattern)
+###[자바 디자인패턴(Java Design Pattern)](http://oniondev.egloos.com/9663271)
+###[추상 팩토리 패턴 Abstract Factory Pattern](https://dev-momo.tistory.com/entry/%EC%B6%94%EC%83%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4-Abstract-Factory-Pattern)
+###[추상 팩토리 패턴이란](https://gmlwjd9405.github.io/2018/08/08/abstract-factory-pattern.html)
+
+#[Factory Method](https://ko.wikipedia.org/wiki/%ED%8C%A9%ED%86%A0%EB%A6%AC_%EB%A9%94%EC%84%9C%EB%93%9C_%ED%8C%A8%ED%84%B4)
+###[팩토리 메소드 패턴(Factory Method Pattern)](https://jdm.kr/blog/180)
+###[java factory pattern (팩토리 패턴)](https://blog.seotory.com/post/2016/08/java-factory-pattern)
 
 
-###[Factory Method](https://ko.wikipedia.org/wiki/%ED%8C%A9%ED%86%A0%EB%A6%AC_%EB%A9%94%EC%84%9C%EB%93%9C_%ED%8C%A8%ED%84%B4)
-#####[팩토리 메소드 패턴(Factory Method Pattern)](https://jdm.kr/blog/180)
+#[Builder](https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%8D%94_%ED%8C%A8%ED%84%B4)
+###[빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
+###[Java 8 lambdas and the builder pattern](https://leelevett.wordpress.com/2014/06/27/java-8-lambdas-and-the-builder-pattern/)
+###[++ Builder 패턴 정리](https://javaplant.tistory.com/22)
 
 
-###[Builder](https://ko.wikipedia.org/wiki/%EB%B9%8C%EB%8D%94_%ED%8C%A8%ED%84%B4)
-#####[https://johngrib.github.io/wiki/builder-pattern/](https://johngrib.github.io/wiki/builder-pattern/)
-#####[Java 8 lambdas and the builder pattern](https://leelevett.wordpress.com/2014/06/27/java-8-lambdas-and-the-builder-pattern/)
+#[Prototype](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%ED%8C%A8%ED%84%B4)
+###[java prototype pattern (프로토타입 패턴)](https://blog.seotory.com/post/2015/09/java-prototype-pattern)
+우리가 db로 부터 데이터를 가져온 경우를 생각해보자. 프로그램 내에서 여러번 데이터 수정이 이루어진다고 할 때, 똑같은 데이터를 매번 db에서 가져오는 것은 좋은 생각은 아니다. prototype pattern은 이런 문제점을 해결하기 위해 원래의 object의 property들을 확인하여 deep 또는 shallow copy(얕은 카피, 깊은 카피)를 시도하여 clone object를 제공해준다.
+
+###[Design Patterns - Prototype Pattern](https://www.tutorialspoint.com/design_pattern/prototype_pattern.htm)
+prototype 패턴과 factory 또는 abstract factory와 같이 사용할수도 있다.
+
+#[Singleton](https://ko.wikipedia.org/wiki/%EC%8B%B1%EA%B8%80%ED%84%B4_%ED%8C%A8%ED%84%B4)
+###[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 
 
-###[Singleton](https://ko.wikipedia.org/wiki/%EC%8B%B1%EA%B8%80%ED%84%B4_%ED%8C%A8%ED%84%B4)
-#####[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
+---
+
+
+#[Adapter](https://ko.wikipedia.org/wiki/%EC%96%B4%EB%8C%91%ED%84%B0_%ED%8C%A8%ED%84%B4)
+###[어댑터 패턴(Adapter Pattern)](https://jdm.kr/blog/11)
+사용처에서 클래스의 변경으로 많은 수정이 필요해질때 adapter를 중간에 두고 아무일없던것 처럼 기존 코드 호환을 만족시켜줄 수 있음.
+
+#[Bridge](https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4)
+###[Bridge 패턴](https://simsimjae.tistory.com/226)
+###[Bridge 패턴](https://effectiveprogramming.tistory.com/entry/Bridge-%ED%8C%A8%ED%84%B4)
+###[Bridge 패턴 (기능계층과 구현계층 분리하기)](https://m.blog.naver.com/PostView.nhn?blogId=tradlinx0522&logNo=220928963011&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+기능계층과 구현계층의 분리를 통해 코드를 분리함  
+기능(동물-공격), 구현(공격 방법)  
+기능(게임유저-공격), 구현(들고 있는 무기의 공격방법)  
+두 구체 클래스 간의 강한 결합을 제거하기 위해서 사용하는 패턴  
+
+
+#[Composite](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%8F%AC%EC%A7%80%ED%8A%B8_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/5/5a/Composite_UML_class_diagram_%28fixed%29.svg)
+컴포지트 패턴(Composite pattern)이란 객체들의 관계를 트리 구조로 구성하여 부분-전체 계층을 표현하는 패턴으로, 사용자가 단일 객체와 복합 객체 모두 동일하게 다루도록 한다.  
+
+
+
+#[Decorator](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/e/e9/Decorator_UML_class_diagram.svg)  
+데코레이터 패턴(Decorator pattern)이란 주어진 상황 및 용도에 따라 어떤 객체에 책임을 덧붙이는 패턴으로, 기능 확장이 필요할 때 서브클래싱 대신 쓸 수 있는 유연한 대안이 될 수 있다.   
+
+###[[Design Pattern] 데코레이터 패턴이란](https://gmlwjd9405.github.io/2018/07/09/decorator-pattern.html)
+###[데코레이터 패턴(Decorator Pattern)](https://jdm.kr/blog/78)
+클래스를 써서 기능을 확장하는 방법이고 프로그램을 실행하는 중에도 객체를 확장 시킬 수 있는 패턴
+`BufferedReader br = new BufferedReader(new FileReader(new File("test.txt")));`
+
+#[Proxy](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%EC%8B%9C_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/7/75/Proxy_pattern_diagram.svg)
+  
+###[프록시 패턴(Proxy Pattern)](https://jdm.kr/blog/235)
+실제 기능을 수행하는 객체Real Object 대신 가상의 객체Proxy Object를 사용해 로직 흐름제어
+가상 프록시(Virtual Proxy) 와 보호 프록시(Protection Proxy)가 있다.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
