@@ -16,6 +16,12 @@
         <mark key="^" line="51" column="31" />
         <mark key="." line="52" column="30" />
       </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SheetKeywordWeight.java" timestamp="1551012479062">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="27" column="24" />
@@ -34,7 +40,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1555779359461">
+      <file name="/a.dummy" timestamp="1556023104108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555148490047">
@@ -61,6 +67,12 @@
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/package-info.java" timestamp="1556022960135">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555776039963">
         <mark key="[" line="14" column="3" />
       </file>
@@ -69,6 +81,13 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1555679047953">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" timestamp="1556024655150">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1555779366389">
         <mark key="[" line="0" column="0" />
@@ -91,7 +110,7 @@
         <mark key="^" line="42" column="33" />
         <mark key="." line="41" column="33" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555149401622">
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555890114624">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -102,6 +121,12 @@
         <mark key="]" line="5" column="14" />
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/InputElement.java" timestamp="1556024416284">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="21" column="61" />
+        <mark key="^" line="21" column="61" />
+        <mark key="." line="21" column="61" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
@@ -121,6 +146,9 @@
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
+      </file>
+      <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
+        <mark key="[" line="18" column="64" />
       </file>
       <file name="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/OracleDatabaseConfig.java" timestamp="1551011021248">
         <mark key="[" line="43" column="58" />
@@ -226,13 +254,19 @@
       <jump line="24" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="16" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="117" column="25" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" />
+      <jump line="22" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
+      <jump line="21" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
+      <jump line="17" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
+      <jump line="16" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
+      <jump line="13" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
+      <jump line="12" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
