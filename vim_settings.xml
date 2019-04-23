@@ -9,13 +9,6 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" timestamp="1555774007266">
-        <mark key="'" line="114" column="25" />
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="52" column="30" />
-        <mark key="^" line="51" column="31" />
-        <mark key="." line="52" column="30" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -43,6 +36,12 @@
       <file name="/a.dummy" timestamp="1556023104108">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/factory/AbstractFactory.java" timestamp="1556026451289">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555148490047">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="25" column="0" />
@@ -51,6 +50,12 @@
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/element/AcceptInputElement.java" timestamp="1556026295175">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="10" column="39" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test9.java" timestamp="1554997444243">
         <mark key="[" line="10" column="5" />
@@ -63,6 +68,12 @@
         <mark key="]" line="22" column="36" />
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="36" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/element/package-info.java" timestamp="1556026398347">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
@@ -110,6 +121,11 @@
         <mark key="^" line="42" column="33" />
         <mark key="." line="41" column="33" />
       </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/element/FormElement.java" timestamp="1556025812596">
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test1.java" timestamp="1555890114624">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="10" column="0" />
@@ -131,13 +147,6 @@
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_5.java" timestamp="1555690782851">
-        <mark key="'" line="57" column="44" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="47" column="19" />
-        <mark key="^" line="47" column="19" />
-        <mark key="." line="47" column="19" />
-      </file>
       <file name="D:/Project/algo-programers/src/test/java/test14.java" timestamp="1555145874102">
         <mark key="[" line="16" column="45" />
         <mark key="]" line="16" column="45" />
@@ -156,6 +165,13 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="58" />
       </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/element/InputElement.java" timestamp="1556026217772">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="72" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/test8.java" timestamp="1554995112350">
         <mark key="[" line="16" column="61" />
         <mark key="]" line="16" column="61" />
@@ -168,13 +184,6 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" timestamp="1555773518138">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="23" column="49" />
-        <mark key="^" line="23" column="49" />
-        <mark key="." line="23" column="49" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,7 +193,7 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555774009692">
+      <file name="/fragment.java" timestamp="1556025915019">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -260,43 +269,44 @@
       <jump line="16" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="13" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="12" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
+      <jump line="2" column="13" filename="D:/Project/algo-programers/src/main/java/work/inipay/element/InputElement.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCBuYW1lPVwiIiArIG5hbWUgKyAiXCIgdmFsdWU9XCIiICsgdmFsdWUgKyAiXCIgPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHQgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHQgPiAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIEludGVnZXIudG9CaW5hcnlTdHJpbmcoemVybykgKyIgLyAiKyBuZXcgR3NvbigpLnRvSnNvbihjb3B5KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIG5ldyBHc29uKCkudG9Kc29uKGNvcHkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIEludGVnZXIudG9CaW5hcnlTdHJpbmcoemVybykgKyIgLyAiKyBuZXcgR3NvbigpLnRvSnNvbihjb3B5KSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9ICIrIG5ldyBHc29uKCkudG9Kc29uKGNvcHkpKTsK</text>
