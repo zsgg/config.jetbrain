@@ -101,7 +101,8 @@ component pattern ?
 
 #[Abstract Factory](https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%ED%8C%A9%ED%86%A0%EB%A6%AC_%ED%8C%A8%ED%84%B4)
 ![image](https://upload.wikimedia.org/wikipedia/commons/9/9d/Abstract_factory_UML.svg)  
-추상 팩토리 패턴(Abstract factory pattern)은 다양한 구성 요소 별로 '객체의 집합'을 생성해야 할 때 유용하다. 이 패턴을 사용하여 상황에 알맞은 객체를 생성할 수 있다. 
+추상 팩토리 패턴(Abstract factory pattern)은 다양한 구성 요소 별로 '객체의 집합'을 생성해야 할 때 유용하다. 이 패턴을 사용하여 상황에 알맞은 객체를 생성할 수 있다.  
+
 ###[java abstract factory pattern (추상 팩토리 패턴)](https://blog.seotory.com/post/2016/08/java-abstract-factory-pattern)
 ###[자바 디자인패턴(Java Design Pattern)](http://oniondev.egloos.com/9663271)
 ###[추상 팩토리 패턴 Abstract Factory Pattern](https://dev-momo.tistory.com/entry/%EC%B6%94%EC%83%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4-Abstract-Factory-Pattern)
@@ -119,6 +120,8 @@ component pattern ?
 
 
 #[Prototype](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/a/a5/Prototype_Pattern_ZP.svg)  
+
 ###[java prototype pattern (프로토타입 패턴)](https://blog.seotory.com/post/2015/09/java-prototype-pattern)
 우리가 db로 부터 데이터를 가져온 경우를 생각해보자. 프로그램 내에서 여러번 데이터 수정이 이루어진다고 할 때, 똑같은 데이터를 매번 db에서 가져오는 것은 좋은 생각은 아니다. prototype pattern은 이런 문제점을 해결하기 위해 원래의 object의 property들을 확인하여 deep 또는 shallow copy(얕은 카피, 깊은 카피)를 시도하여 clone object를 제공해준다.
 
@@ -133,10 +136,20 @@ prototype 패턴과 factory 또는 abstract factory와 같이 사용할수도 �
 
 
 #[Adapter](https://ko.wikipedia.org/wiki/%EC%96%B4%EB%8C%91%ED%84%B0_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/3/35/ClassAdapter.png)  
+
 ###[어댑터 패턴(Adapter Pattern)](https://jdm.kr/blog/11)
-사용처에서 클래스의 변경으로 많은 수정이 필요해질때 adapter를 중간에 두고 아무일없던것 처럼 기존 코드 호환을 만족시켜줄 수 있음.
+사용처에서 클래스의 변경으로 많은 수정이 필요해질때 adapter를 중간에 두고 아무일없던것 처럼 기존 코드 호환을 만족시켜줄 수 있음.  
+> 새로운 객체로 쓰고있는 객체를 대체하기 위해 둘 사이의 인터페이스를 맞추어 변경점이 최소화 되도록 함
+
+
+
+
 
 #[Bridge](https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A6%AC%EC%A7%80_%ED%8C%A8%ED%84%B4)
+브리지 패턴(Bridge pattern)이란 구현부에서 추상층을 분리하여 각자 독립적으로 변형할 수 있게 하는 패턴이다.  
+![image](https://upload.wikimedia.org/wikipedia/commons/c/cf/Bridge_UML_class_diagram.svg)  
+
 ###[Bridge 패턴](https://simsimjae.tistory.com/226)
 ###[Bridge 패턴](https://effectiveprogramming.tistory.com/entry/Bridge-%ED%8C%A8%ED%84%B4)
 ###[Bridge 패턴 (기능계층과 구현계층 분리하기)](https://m.blog.naver.com/PostView.nhn?blogId=tradlinx0522&logNo=220928963011&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
@@ -146,9 +159,23 @@ prototype 패턴과 factory 또는 abstract factory와 같이 사용할수도 �
 두 구체 클래스 간의 강한 결합을 제거하기 위해서 사용하는 패턴  
 
 
+
+
+
+
+
 #[Composite](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%8F%AC%EC%A7%80%ED%8A%B8_%ED%8C%A8%ED%84%B4)
 ![image](https://upload.wikimedia.org/wikipedia/commons/5/5a/Composite_UML_class_diagram_%28fixed%29.svg)
 컴포지트 패턴(Composite pattern)이란 객체들의 관계를 트리 구조로 구성하여 부분-전체 계층을 표현하는 패턴으로, 사용자가 단일 객체와 복합 객체 모두 동일하게 다루도록 한다.  
+
+
+
+
+
+
+
+
+
 
 
 
@@ -161,6 +188,43 @@ prototype 패턴과 factory 또는 abstract factory와 같이 사용할수도 �
 클래스를 써서 기능을 확장하는 방법이고 프로그램을 실행하는 중에도 객체를 확장 시킬 수 있는 패턴
 `BufferedReader br = new BufferedReader(new FileReader(new File("test.txt")));`
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#[Façade](https://ko.wikipedia.org/wiki/%ED%8D%BC%EC%82%AC%EB%93%9C_%ED%8C%A8%ED%84%B4)
+래퍼(wrapper)가 특정 인터페이스를 준수해야 하며, 폴리모픽 기능을 지원해야 할 경우에는 어댑터 패턴을 쓴다. 단지, 쉽고 단순한 인터페이스를 이용하고 싶을 경우에는 퍼사드를 쓴다.   
+###[Adapter 패턴 vs. Facade 패턴 vs. Decorator 패턴](https://nickjoit.tistory.com/27)
+
+
+
+
+
+#[Flyweight](https://ko.wikipedia.org/wiki/%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%9B%A8%EC%9D%B4%ED%8A%B8_%ED%8C%A8%ED%84%B4)
+###[Pattern #12  플라이웨이트 패턴](https://palpit.tistory.com/198)
+데이터를 공유하여 메모리를 절약할 수 있는 패턴
+>한번 생성되면 map에 저장하여 재생성하지 않도록 하는 패턴
+
+
+###[Flyweight 패턴](https://effectiveprogramming.tistory.com/entry/Flyweight-%ED%8C%A8%ED%84%B4)
+
+
+
+
+
 #[Proxy](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9D%EC%8B%9C_%ED%8C%A8%ED%84%B4)
 ![image](https://upload.wikimedia.org/wikipedia/commons/7/75/Proxy_pattern_diagram.svg)
   
@@ -169,9 +233,39 @@ prototype 패턴과 factory 또는 abstract factory와 같이 사용할수도 �
 가상 프록시(Virtual Proxy) 와 보호 프록시(Protection Proxy)가 있다.  
 
 
+---
+
+
+#[Chain of Responsibility](https://ko.wikipedia.org/wiki/%EC%B1%85%EC%9E%84_%EC%97%B0%EC%87%84_%ED%8C%A8%ED%84%B4)
+![image](https://cdncontribute.geeksforgeeks.org/wp-content/uploads/desigmpatternuml1.png)  
+명령 객체와 일련의 처리 객체를 포함하는 디자인 패턴이다. 각각의 처리 객체는 명령 객체를 처리할 수 있는 연산의 집합이고, 체인 안의 처리 객체가 핸들할 수 없는 명령은 다음 처리 객체로 넘겨진다. 이 작동방식은 새로운 처리 객체부터 체인의 끝까지 다시 반복된다. 
+
+###[13. 책임 연쇄 패턴(Chain-of-responsibility pattern)](https://objectbuilder.tistory.com/84)
+>링크드리스트 형태로 구현체들이 하나의 명령이 처리될때까지 구현체를 돌며 명령을 전달한다.
+
+
+#[Command](https://ko.wikipedia.org/wiki/%EC%BB%A4%EB%A7%A8%EB%93%9C_%ED%8C%A8%ED%84%B4)
+![image](https://upload.wikimedia.org/wikipedia/commons/8/8e/Command_Design_Pattern_Class_Diagram.png)  
+요청을 객체의 형태로 캡슐화하여 사용자가 보낸 요청을 나중에 이용할 수 있도록 매서드 이름, 매개변수 등 요청에 필요한 정보를 저장 또는 로깅, 취소할 수 있게 하는 패턴이다. 
+
+###[[Design Pattern] 커맨드 패턴이란](https://gmlwjd9405.github.io/2018/07/07/command-pattern.html)
+###[[디자인패턴] 커맨드 패턴 ( Command Pattern )](https://victorydntmd.tistory.com/295)
+> 여러 타입의 구현체들을 하나의 command interface로 추상화 하여 행위자에게 주입시켜줌  
 
 
 
+#[Visitor](https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A7%80%ED%84%B0_%ED%8C%A8%ED%84%B4)
+알고리즘을 객체 구조에서 분리시키는 디자인 패턴이다. 구조를 수정하지 않고도 실질적으로 새로운 동작을 기존의 객체 구조에 추가할 수 있게 된다. 개방-폐쇄 원칙을 적용하는 방법의 하나이다. 
+
+---
+
+#유사패턴
+###[꼬리에 꼬리를 무는 - 유사 디자인 패턴들 - (1,2)](https://hamait.tistory.com/868?category=131245)
+###[꼬리에 꼬리를 무는 - 유사 디자인 패턴들 - (3,4)](https://hamait.tistory.com/869)
+Adapter 는 중간에서 인터페이스 변환  
+Facade 는 중간에서 외부 모듈의 사용을 단순화   
+Proxy 는 중간에서 대리하여 기존 구현을 다른 방식으로 컨트롤   
+Decorator 는 중간에서 기존 구현에 다른 구현을 추가   
 
 
 
