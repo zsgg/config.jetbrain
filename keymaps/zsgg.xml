@@ -54,4 +54,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
 </keymap>
