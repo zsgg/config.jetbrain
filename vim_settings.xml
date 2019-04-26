@@ -51,6 +51,13 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
       </file>
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" timestamp="1556282903145">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="19" />
+        <mark key="^" line="59" column="11" />
+        <mark key="." line="64" column="19" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
       </file>
@@ -104,6 +111,7 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="/Inipay50Helper.java" timestamp="1556282534723" />
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
@@ -117,40 +125,17 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGModuleFactory.java" timestamp="1556282735172">
+        <mark key="'" line="40" column="48" />
+        <mark key="[" line="40" column="48" />
+        <mark key="]" line="40" column="48" />
+        <mark key="." line="40" column="48" />
+      </file>
       <file name="/fragment.java" timestamp="1556033217945">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SearchKeywordLink.java" />
-      <jump line="65" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/search/domain/SearchKeywordLink.java" />
-      <jump line="18" column="30" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="0" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="32" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="1" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="22" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="10" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="2" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="9" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="11" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="13" column="1" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="23" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/config/SwaggerConfig.java" />
-      <jump line="47" column="31" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="49" column="8" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="52" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="23" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="34" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="37" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="48" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="22" column="15" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="56" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="62" column="36" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="3" column="23" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="4" column="23" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="5" column="23" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="44" column="58" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="50" column="17" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="61" column="17" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="6" column="46" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="51" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="46" column="84" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -195,13 +180,69 @@
       <jump line="12" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="2" column="13" filename="D:/Project/algo-programers/src/main/java/work/inipay/element/InputElement.java" />
       <jump line="0" column="0" filename="D:/Work/Miridih/web-java/src/com/sure/smilecat/order3/OrderBo.java" />
+      <jump line="40" column="48" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGModuleFactory.java" />
+      <jump line="65" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="300" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="299" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="297" column="8" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="296" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="293" column="8" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="292" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="289" column="8" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="288" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="286" column="57" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="285" column="8" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="284" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="276" column="8" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="275" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="270" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="269" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="248" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="247" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="241" column="12" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="240" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="238" column="12" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="237" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="232" column="12" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="231" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="227" column="12" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="226" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="215" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="214" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="208" column="12" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="207" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="304" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="0" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="1" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="2" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="36" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="37" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="43" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="44" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="48" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="49" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="55" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="56" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="57" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="58" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="61" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="62" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="66" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="67" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="69" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="76" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="80" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="83" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="92" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="94" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="96" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>INICISAuthResult(request);</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>INICISAuthResult(request);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cml0ZXJcPg==</text>
@@ -210,31 +251,31 @@
         <text encoding="base64">ICAgICAgICBmb3JtRWxlbWVudC5hZGQoZ2V0Q29tbW9uRWxlbWVudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHQgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHQgPiAwKSB7Cg==</text>
       </register>
     </registers>
     <search>
