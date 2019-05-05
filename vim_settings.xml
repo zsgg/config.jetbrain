@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PaymentProxy.java" timestamp="1556283616683" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -13,7 +12,6 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/Inipay50ResultServlet.java" timestamp="1556322351971" />
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -26,7 +24,6 @@
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/make_site_manager/ui/MakeSiteServletProtocolServletBuilder.java" timestamp="1556281564312" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -43,6 +40,12 @@
         <mark key="]" line="35" column="44" />
         <mark key="^" line="32" column="41" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
+        <mark key="[" line="10" column="104" />
+        <mark key="]" line="10" column="130" />
+        <mark key="^" line="8" column="85" />
+        <mark key="." line="10" column="104" />
       </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
@@ -113,9 +116,14 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="/Inipay50Helper.java" timestamp="1556282534723" />
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/Builder.java" timestamp="1557078372063">
+        <mark key="[" line="7" column="375" />
+        <mark key="]" line="7" column="187" />
+        <mark key="^" line="7" column="187" />
+        <mark key="." line="7" column="187" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -123,7 +131,6 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1556281303948" />
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
