@@ -12,14 +12,14 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" timestamp="1557246636536">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" timestamp="1557249285065">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="17" />
-        <mark key="." line="79" column="17" />
-        <mark key="^" line="79" column="17" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="0" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557248343185">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557249524295">
         <mark key="'" line="207" column="0" />
         <mark key="[" line="127" column="35" />
         <mark key="]" line="127" column="36" />
@@ -198,7 +198,7 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557248147901">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557249159875">
         <mark key="'" line="225" column="27" />
         <mark key="[" line="231" column="19" />
         <mark key="]" line="231" column="19" />
