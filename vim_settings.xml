@@ -19,11 +19,12 @@
         <mark key="." line="78" column="18" />
         <mark key="^" line="78" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557230416239">
-        <mark key="[" line="84" column="19" />
-        <mark key="]" line="84" column="19" />
-        <mark key="^" line="84" column="19" />
-        <mark key="." line="84" column="19" />
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557238416433">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="194" column="57" />
+        <mark key="]" line="190" column="22" />
+        <mark key="^" line="190" column="22" />
+        <mark key="." line="190" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -141,7 +142,6 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="/keymap.c" timestamp="1557227758422" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/application/PaymentService.java" timestamp="1556281824415">
         <mark key="[" line="405" column="12" />
         <mark key="]" line="406" column="0" />
@@ -192,7 +192,7 @@
         <mark key="^" line="45" column="12" />
         <mark key="." line="45" column="12" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557228691319">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557237207984">
         <mark key="[" line="229" column="21" />
         <mark key="]" line="229" column="21" />
         <mark key="^" line="229" column="23" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="57" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="70" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="64" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -300,46 +298,48 @@
       <jump line="78" column="22" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
       <jump line="77" column="18" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
       <jump line="66" column="20" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
+      <jump line="176" column="13" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
+      <jump line="0" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HHKB</text>
+        <text>XXXXXXX</text>
       </register>
       <register name="-" type="4">
-        <text>HHKB</text>
+        <text>XXXXXXX</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx5ZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbQ1RfTU9dICA9IEFDVElPTl9UQVBfREFOQ0VfRE9VQkxFKE1PKEhIS0IpLCBNTyhNT1ZFTUVOVCkpLAo=</text>
+      <register name="0" type="4">
+        <text>TT(MOVEMENT)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENUX1BTRVEsCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">W01PVkVNRU5UXSA9IExBWU9VVCgKICAgICAgICBLQ19HUlYsIEtDX0FDTDAsIEtDX0FDTDEsIEtDX0FDTDIsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsCg==</text>
+        <text encoding="base64">ICAgIENUX1BTRVEsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">W01PVkVNRU5UXSA9IExBWU9VVCgKICAgICAgICBLQ19HUlYsIEtDX0FDTDAsIEtDX0FDTDEsIEtDX0FDTDIsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
       </register>
     </registers>
     <search>
