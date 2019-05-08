@@ -12,19 +12,11 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" timestamp="1557249285065">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="79" column="0" />
-      </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557343888898">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="229" column="68" />
-        <mark key="]" line="229" column="68" />
-        <mark key="." line="229" column="68" />
-        <mark key="^" line="229" column="68" />
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557346097761">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -35,13 +27,15 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/Project/qmk_firmware/.build/run_compile_zsgg.cmd" timestamp="1557154570358">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
+      </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
@@ -82,12 +76,6 @@
         <mark key="^" line="59" column="11" />
         <mark key="." line="72" column="13" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/planck/keymaps/default/keymap.c" timestamp="1557132437264">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-      </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
       </file>
@@ -100,17 +88,7 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/hhkb/keymaps/default/keymap.c" timestamp="1557084329322">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="66" />
-        <mark key="." line="5" column="40" />
-      </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/config.h" timestamp="1557155359846">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557272570252">
+      <file name="/Dummy.txt" timestamp="1557346278744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
@@ -131,11 +109,6 @@
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/application/pipeline/PaymentPipeline.java" timestamp="1556137335291">
         <mark key="[" line="2" column="16" />
       </file>
-      <file name="D:/Project/qmk_firmware/.build/run_hhkb_zsgg.cmd" timestamp="1557157233587">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="2" column="46" />
-        <mark key="." line="2" column="46" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/element/FormElement.java" timestamp="1556028034023">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="31" column="44" />
@@ -147,20 +120,17 @@
         <mark key="]" line="406" column="0" />
         <mark key="." line="404" column="13" />
       </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="26" />
+        <mark key="^" line="124" column="26" />
+        <mark key="." line="124" column="26" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/hhkb/keymaps/zsgg/README.md" timestamp="1557155035429">
-        <mark key="[" line="44" column="14" />
-      </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
-      </file>
-      <file name="D:/Project/qmk_firmware/run_compile_zsgg.cmd" timestamp="1557245530216">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
@@ -179,6 +149,13 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557345470497">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="2" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="2" />
+        <mark key="o" line="12" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,25 +165,36 @@
         <mark key="]" line="40" column="48" />
         <mark key="." line="40" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1556033217945">
+      <file name="/fragment.java" timestamp="1557346261385">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Project/qmk_firmware/keyboards/hhkb/keymaps/zsgg/keymap.c" timestamp="1557227403877">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="12" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="45" column="12" />
-      </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557250068327">
-        <mark key="'" line="225" column="27" />
-        <mark key="[" line="229" column="23" />
-        <mark key="]" line="229" column="22" />
-        <mark key="^" line="229" column="22" />
-        <mark key="." line="229" column="22" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="73" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="63" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="0" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="29" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="57" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="70" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="64" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="60" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="55" column="26" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
+      <jump line="45" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
+      <jump line="59" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
+      <jump line="55" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="40" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="41" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="59" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
+      <jump line="34" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" />
+      <jump line="41" column="44" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_5.java" />
+      <jump line="38" column="54" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="8" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
+      <jump line="41" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="7" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="22" column="47" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="26" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
@@ -279,81 +267,56 @@
       <jump line="92" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="94" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="96" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
-      <jump line="55" column="68" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
-      <jump line="16" column="4" filename="D:/Project/qmk_firmware/keyboards/hhkb/keymaps/zsgg/keymap.c" />
-      <jump line="18" column="0" filename="D:/Project/qmk_firmware/keyboards/hhkb/keymaps/zsgg/keymap.c" />
-      <jump line="78" column="22" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
-      <jump line="77" column="18" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
-      <jump line="66" column="20" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
-      <jump line="176" column="13" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="0" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="193" column="89" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="194" column="8" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="161" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="196" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="169" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="202" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="156" column="67" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="173" column="7" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="140" column="1" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="212" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="180" column="1" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="213" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="238" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="206" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="240" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="239" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="207" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="225" column="27" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
-      <jump line="15" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
-      <jump line="0" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
+      <jump line="27" column="3" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" />
+      <jump line="10" column="1" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" />
+      <jump line="38" column="0" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>X</text>
+        <text>vlan</text>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text>vlan</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5ZXNcPg==</text>
+        <text>echo 'test'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdWludDE2X3QgUFJPR01FTSBjb21ib193aW5kb3dfbGVmdFtdID0ge0tDX0xXSU4sIEtDX1MsIENPTUJPX0VORH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtRWxlbWVudC5hZGQoZ2V0Q29tbW9uRWxlbWVudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHwgKioqKiB8ICoqKiogfCAqKioqKioqKioqKioqKioqKioqKiB8ICoqKiogfCAqKioqIHwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHwgKioqKiB8ICoqKiogfCAqKioqKioqKioqKioqKioqKioqKiB8ICoqKiogfCAqKioqIHwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIENUX1BTRVEsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">W01PVkVNRU5UXSA9IExBWU9VVCgKICAgICAgICBLQ19HUlYsIEtDX0FDTDAsIEtDX0FDTDEsIEtDX0FDTDIsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsIEtDX1RSTlMsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5ZXNcPg==</last-search>
+      <last-search>echo 'test'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5ZXNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>echo 'test'</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -366,9 +329,11 @@
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
-        <entry encoding="base64">XDx5ZXNcPg==</entry>
+        <entry>echo 'test'</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>test</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
