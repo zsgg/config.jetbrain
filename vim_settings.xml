@@ -12,6 +12,12 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557344776677">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="11" />
+        <mark key="." line="33" column="11" />
+        <mark key="^" line="49" column="56" />
+      </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,6 +29,13 @@
       </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
+      </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
@@ -130,6 +143,13 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557343812990">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="o" line="12" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,14 +159,11 @@
         <mark key="]" line="40" column="48" />
         <mark key="." line="40" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1556033217945">
+      <file name="/fragment.java" timestamp="1557344689776">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="46" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="51" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="46" column="84" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="73" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="63" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="0" column="0" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -244,52 +261,55 @@
       <jump line="92" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="94" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="96" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
+      <jump line="27" column="3" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" />
+      <jump line="10" column="1" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" />
+      <jump line="38" column="0" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INICISAuthResult(request);</text>
+        <text>vlan</text>
       </register>
       <register name="-" type="4">
-        <text>INICISAuthResult(request);</text>
+        <text>vlan</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZXJcPg==</text>
+        <text>echo 'test'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3JtRWxlbWVudC5hZGQoZ2V0Q29tbW9uRWxlbWVudCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMDsgayA8IHJlbGF0aW9uLmxlbmd0aDsgKytrKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHQgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgodCAmIDEpID09IDEpIHsK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZXJcPg==</last-search>
+      <last-search>echo 'test'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZXJcPg==</last-pattern>
+      <last-pattern>echo 'test'</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -303,6 +323,7 @@
         <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
+        <entry>echo 'test'</entry>
       </history-search>
       <history-cmd />
       <history-expr />
