@@ -12,11 +12,11 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557344776677">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="49" column="56" />
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557346097761">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -88,7 +88,7 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556059332929">
+      <file name="/Dummy.txt" timestamp="1557346278744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
@@ -120,6 +120,12 @@
         <mark key="]" line="406" column="0" />
         <mark key="." line="404" column="13" />
       </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="26" />
+        <mark key="^" line="124" column="26" />
+        <mark key="." line="124" column="26" />
+      </file>
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
       </file>
@@ -143,11 +149,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557343812990">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557345470497">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="26" column="2" />
+        <mark key="^" line="26" column="2" />
+        <mark key="." line="26" column="2" />
         <mark key="o" line="12" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
@@ -159,7 +165,7 @@
         <mark key="]" line="40" column="48" />
         <mark key="." line="40" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1557344689776">
+      <file name="/fragment.java" timestamp="1557346261385">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -325,7 +331,9 @@
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
         <entry>echo 'test'</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>test</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
