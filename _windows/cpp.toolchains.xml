@@ -1,0 +1,9 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="Cygwin" toolSetKind="CYGWIN" toolSetPath="C:\cygwin64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\cygwin64\bin\gdb.exe">
+        <toolSetOption type="version" value="8.1" />
+      </toolchain>
+    </toolchains>
+  </component>
+</application>
