@@ -872,6 +872,24 @@
               "altKey": false,
               "metaKey": false
             }
+          ],
+          [
+            {
+              "code": "KeyJ",
+              "key": "j",
+              "shiftKey": false,
+              "ctrlKey": false,
+              "altKey": false,
+              "metaKey": false
+            },
+            {
+              "code": "KeyJ",
+              "key": "j",
+              "shiftKey": false,
+              "ctrlKey": false,
+              "altKey": false,
+              "metaKey": false
+            }
           ]
         ],
         "openLinkInBackgroundTab": [
@@ -992,12 +1010,6 @@
         ],
         "hintChars": "ajskdlgheworuvncm",
         "scrollDown": [
-          [
-            {
-              "code": "KeyJ",
-              "key": "j"
-            }
-          ],
           [
             {
               "code": "KeyD",
