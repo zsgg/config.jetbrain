@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1557346766326">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -80,6 +83,9 @@
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555776039963">
         <mark key="[" line="14" column="3" />
+      </file>
+      <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
@@ -294,7 +300,7 @@
         <text>K</text>
       </register>
       <register name="/" type="4">
-        <text>echo 'test'</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text>KC_TAB(KC_RALT)</text>
@@ -326,11 +332,14 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>test</text>
+      </register>
     </registers>
     <search>
-      <last-search>echo 'test'</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>echo 'test'</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -345,6 +354,7 @@
         <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
         <entry>echo 'test'</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>test</entry>
