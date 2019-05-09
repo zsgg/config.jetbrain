@@ -22,12 +22,16 @@
         <mark key="'" line="65" column="74" />
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557403769825">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557403977843">
+        <mark key="b" line="180" column="4" />
+        <mark key="f" line="179" column="168" />
         <mark key="'" line="199" column="2" />
-        <mark key="[" line="176" column="14" />
-        <mark key="]" line="176" column="14" />
-        <mark key="^" line="171" column="17" />
-        <mark key="." line="176" column="14" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="m" line="179" column="168" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="n" line="179" column="168" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -284,7 +288,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>KC_TAB(KC_RALT)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -293,7 +297,7 @@
         <text>echo 'test'</text>
       </register>
       <register name="0" type="4">
-        <text>ACTION_TAP_DANCE_DOUBLE(KC_SPC, KC_ENT)</text>
+        <text>KC_TAB(KC_RALT)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
