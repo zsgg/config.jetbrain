@@ -22,15 +22,15 @@
         <mark key="'" line="65" column="74" />
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557420494608">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557425568804">
         <mark key="b" line="180" column="4" />
         <mark key="f" line="179" column="168" />
         <mark key="'" line="199" column="2" />
-        <mark key="[" line="179" column="55" />
-        <mark key="]" line="179" column="54" />
+        <mark key="[" line="231" column="59" />
+        <mark key="]" line="231" column="58" />
         <mark key="m" line="179" column="168" />
-        <mark key="^" line="179" column="54" />
-        <mark key="." line="179" column="54" />
+        <mark key="^" line="231" column="58" />
+        <mark key="." line="231" column="58" />
         <mark key="n" line="179" column="168" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
@@ -287,11 +287,11 @@
       <jump line="208" column="2" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+      <register name="&quot;" type="4">
+        <text>K</text>
       </register>
       <register name="-" type="4">
-        <text>ㅇ</text>
+        <text>K</text>
       </register>
       <register name="/" type="4">
         <text>echo 'test'</text>
