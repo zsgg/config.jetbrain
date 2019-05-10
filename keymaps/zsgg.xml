@@ -9,6 +9,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -17,9 +18,6 @@
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
@@ -33,6 +31,7 @@
   </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
@@ -52,11 +51,11 @@
     <keyboard-shortcut first-keystroke="shift f11" />
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt x" />
-  </action>
-  <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
