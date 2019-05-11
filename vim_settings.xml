@@ -25,16 +25,16 @@
         <mark key="'" line="65" column="74" />
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557591148621">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557593953775">
         <mark key="b" line="166" column="4" />
         <mark key="f" line="164" column="168" />
         <mark key="'" line="222" column="32" />
-        <mark key="[" line="170" column="51" />
+        <mark key="[" line="253" column="8" />
         <mark key="m" line="164" column="168" />
-        <mark key="]" line="170" column="57" />
+        <mark key="]" line="253" column="8" />
         <mark key="n" line="164" column="168" />
-        <mark key="." line="219" column="0" />
-        <mark key="^" line="15" column="3" />
+        <mark key="." line="253" column="8" />
+        <mark key="^" line="253" column="8" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -301,10 +301,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>MOVEMENT</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>MOVEMENT</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
