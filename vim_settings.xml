@@ -3,8 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1557346766326">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PaymentProxy.java" timestamp="1557600701584">
+        <mark key="[" line="54" column="26" />
+        <mark key="." line="54" column="27" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
@@ -15,26 +16,20 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557346097761">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-      </file>
       <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" timestamp="1557403324831">
         <mark key="'" line="65" column="74" />
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557598945026">
-        <mark key="b" line="166" column="4" />
-        <mark key="f" line="164" column="168" />
-        <mark key="'" line="222" column="32" />
-        <mark key="[" line="253" column="8" />
-        <mark key="m" line="164" column="168" />
-        <mark key="]" line="253" column="8" />
-        <mark key="n" line="164" column="168" />
-        <mark key="." line="253" column="8" />
-        <mark key="^" line="253" column="8" />
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557425568804">
+        <mark key="b" line="180" column="4" />
+        <mark key="f" line="179" column="168" />
+        <mark key="'" line="199" column="2" />
+        <mark key="[" line="231" column="59" />
+        <mark key="]" line="231" column="58" />
+        <mark key="m" line="179" column="168" />
+        <mark key="^" line="231" column="58" />
+        <mark key="." line="231" column="58" />
+        <mark key="n" line="179" column="168" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -45,15 +40,15 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" timestamp="1557598557071">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="5" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
@@ -64,22 +59,23 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
-        <mark key="[" line="5" column="33" />
-      </file>
-      <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/InipayBuilder.java" timestamp="1556032419754">
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="32" column="41" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
         <mark key="]" line="10" column="130" />
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
-      <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
-        <mark key="[" line="1" column="0" />
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+      </file>
+      <file name="D:/Work/Miridih/web-java/resources/views/bizhows/mall/bookbind/bookbind_binder.jsp" timestamp="1557604589536">
+        <mark key="[" line="157" column="38" />
+        <mark key="]" line="158" column="17" />
+        <mark key="^" line="158" column="17" />
+        <mark key="." line="158" column="17" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555776039963">
         <mark key="[" line="14" column="3" />
@@ -87,20 +83,82 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Project/testttt/pom.xml" timestamp="1557607537551" />
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/GlobalConfig.java" timestamp="1557606691457">
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+      </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="26" />
+        <mark key="^" line="124" column="26" />
+        <mark key="." line="124" column="26" />
+      </file>
+      <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
+        <mark key="[" line="18" column="56" />
+      </file>
+      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1551012964129">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/mobile/aaa.http" timestamp="1557600445685">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1557346766326">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557346097761">
+        <mark key="'" line="52" column="2" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
+        <mark key="]" line="197" column="74" />
+        <mark key="^" line="197" column="74" />
+        <mark key="." line="197" column="74" />
+      </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
+        <mark key="^" line="34" column="5" />
+      </file>
+      <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
+        <mark key="[" line="5" column="33" />
+      </file>
+      <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" timestamp="1556322750819">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="13" />
-        <mark key="^" line="59" column="11" />
-        <mark key="." line="72" column="13" />
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" timestamp="1557603037742">
+        <mark key="]" line="181" column="16" />
+        <mark key="^" line="181" column="16" />
+        <mark key="." line="181" column="16" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1555679047953">
+      <file name="/HTML File.txt.ft" timestamp="1557601226477">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/TemplateThemeBeanChecker.java" timestamp="1556027913869">
@@ -109,11 +167,11 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557598246425">
+      <file name="/Dummy.txt" timestamp="1557598536196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
-        <mark key="[" line="2" column="24" />
+      <file name="D:/Work/Miridih/web-java/src/checker/SftpClient.java" timestamp="1557600768319">
+        <mark key="[" line="29" column="1" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/Builder.java" timestamp="1556028476565">
         <mark key="[" line="2" column="16" />
@@ -136,33 +194,14 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/application/PaymentService.java" timestamp="1556281824415">
-        <mark key="[" line="405" column="12" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="404" column="13" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="26" />
-        <mark key="^" line="124" column="26" />
-        <mark key="." line="124" column="26" />
-      </file>
-      <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
-        <mark key="[" line="18" column="56" />
+      <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
-      <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
-        <mark key="[" line="2" column="22" />
-      </file>
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
-      </file>
-      <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/Builder.java" timestamp="1557083303531">
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -170,34 +209,29 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557345470497">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="26" column="2" />
-        <mark key="^" line="26" column="2" />
-        <mark key="." line="26" column="2" />
-        <mark key="o" line="12" column="0" />
+      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557607563875">
+        <mark key="'" line="856" column="25" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="0" column="103" />
+        <mark key="." line="0" column="103" />
+        <mark key="^" line="0" column="103" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1551012964129">
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
+        <mark key="[" line="61" column="52" />
+      </file>
+      <file name="/fragment.java" timestamp="1557604229941">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGModuleFactory.java" timestamp="1556282735172">
-        <mark key="'" line="40" column="48" />
-        <mark key="[" line="40" column="48" />
-        <mark key="]" line="40" column="48" />
-        <mark key="." line="40" column="48" />
-      </file>
-      <file name="/fragment.java" timestamp="1557346261385">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557592818348">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="236" column="26" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-        <mark key="^" line="235" column="0" />
       </file>
     </filemarks>
     <jumps>
+      <jump line="64" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="60" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="55" column="26" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
+      <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="45" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="59" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="55" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
@@ -288,66 +322,58 @@
       <jump line="65" column="74" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
       <jump line="192" column="148" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="208" column="2" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="141" column="35" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
-      <jump line="269" column="69" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="236" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="270" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="18" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
-      <jump line="107" column="40" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="317" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="222" column="32" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
-      <jump line="237" column="11" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
-      <jump line="0" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
+      <jump line="10" column="0" filename="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" />
+      <jump line="856" column="25" filename="D:/Work/Miridih/web-java/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MOVEMENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgSGVscERlc2lnbkNoZWNrZXIoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>MOVEMENT</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>KC_RALT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgSGVscERlc2lnbkNoZWNrZXIoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBLQ19DQVBTLCBfX19fX19fLCBfX19fX19fLCBfX19fX19fLCBYWFhYWFhYLCBLQ19IT01FLCBLQ19IT01FLCBLQ19QR0ROLCBLQ19QR1VQLCBLQ19FTkQsIEtDX0VORCwgWFhYWFhYWCwgWFhYWFhYWCwgX19fX19fXywKICAgICAgICBYWFhYWFhYLCBfX19fX19fLCBfX19fX19fLCBfX19fX19fLCBYWFhYWFhYLCBYWFhYWFhYLCBLQ19MRUZULCBLQ19ET1dOLCBLQ19VUCwgS0NfUkdIVCwgWFhYWFhYWCwgWFhYWFhYWCwgX19fX19fXywK</text>
+        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTggTWVjaE1lcmxpbgo=</text>
+        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTggTWVjaE1lcmxpbgo=</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZSA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaXByb3ZlZCBoaGtiIGxheW91dCB3aXRoIG1vcmUgZnVuY3Rpb25hbGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>test</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxtaXJpZGloXD4=</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxtaXJpZGloXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -362,6 +388,9 @@
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
         <entry>echo 'test'</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>cc</entry>
+        <entry encoding="base64">XDxtaXJpZGloXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>test</entry>

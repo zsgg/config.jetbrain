@@ -1,0 +1,23 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" useCustomColors="true" pattern="\bgssong\b.*">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="181a1f" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="181a1f" />
+    </pattern>
+    <pattern icon="question" useCustomColors="true" pattern="\bzsgg\b.*">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="BACKGROUND" value="181a1f" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="EFFECT_COLOR" value="181a1f" />
+      <option name="ERROR_STRIPE_COLOR" value="181a1f" />
+      <option name="EFFECT_TYPE" value="1" />
+    </pattern>
+    <filter name="gssong">
+      <pattern index="2" />
+    </filter>
+  </component>
+</application>
