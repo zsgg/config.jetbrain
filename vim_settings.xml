@@ -16,10 +16,11 @@
         <mark key="[" line="6" column="7" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557346097761">
+        <mark key="'" line="52" column="2" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" timestamp="1557403324831">
         <mark key="'" line="65" column="74" />
@@ -44,6 +45,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" timestamp="1557593922230">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
@@ -186,12 +190,14 @@
         <mark key="]" line="40" column="48" />
         <mark key="." line="40" column="48" />
       </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
+        <mark key="[" line="61" column="52" />
+      </file>
       <file name="/fragment.java" timestamp="1557346261385">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="70" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="64" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -291,6 +297,7 @@
       <jump line="65" column="74" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
       <jump line="192" column="148" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="208" column="2" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
+      <jump line="10" column="0" filename="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -355,6 +362,8 @@
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
         <entry>echo 'test'</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry>cc</entry>
       </history-search>
       <history-cmd>
         <entry>test</entry>
