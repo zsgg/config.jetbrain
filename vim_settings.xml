@@ -139,6 +139,13 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
+      <file name="D:/Project/test-webstrom/test.http" timestamp="1557593904377">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="5" column="109" />
+        <mark key="]" line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="32" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/application/PaymentService.java" timestamp="1556281824415">
         <mark key="[" line="405" column="12" />
         <mark key="]" line="406" column="0" />
@@ -179,8 +186,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Project/test-webstrom/index.html" timestamp="1557558505266">
-        <mark key="[" line="7" column="0" />
+      <file name="D:/Project/test-webstrom/index.html" timestamp="1557593742772">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557345470497">
         <mark key="[" line="26" column="3" />
@@ -203,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="70" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="64" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="60" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -303,6 +310,9 @@
       <jump line="65" column="74" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" />
       <jump line="192" column="148" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="208" column="2" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
+      <jump line="9" column="31" filename="D:/Project/test-webstrom/test.http" />
+      <jump line="11" column="0" filename="D:/Project/test-webstrom/test.http" />
+      <jump line="12" column="2" filename="D:/Project/test-webstrom/test.http" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
