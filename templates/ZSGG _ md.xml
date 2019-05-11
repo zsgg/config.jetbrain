@@ -1,5 +1,30 @@
 <templateSet group="ZSGG : md">
-  <template name="l1" value="#" description="#" toReformat="false" toShortenFQNames="true">
+  <template name="l1" value="# " description="#" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+  <template name="l2" value="## " description="##" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+  <template name="l3" value="### " description="###" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+  <template name="l4" value="#### " description="####" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+  <template name="l5" value="##### " description="#####" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+  <template name="l6" value="###### " description="######" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="MARKDOWN" value="true" />
     </context>
