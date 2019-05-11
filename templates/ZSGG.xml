@@ -4,4 +4,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="test2" value="aaaaa" description="is this test2" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
