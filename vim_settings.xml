@@ -186,11 +186,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Project/test-webstrom/index.html" timestamp="1557593742772">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="D:/Project/test-webstrom/index.html" timestamp="1557598618998">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="D:/Project/git-idea-vim/build.gradle" timestamp="1557345470497">
         <mark key="[" line="26" column="3" />
@@ -315,8 +315,8 @@
       <jump line="12" column="2" filename="D:/Project/test-webstrom/test.http" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>K</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT5hPC9saT4K</text>
       </register>
       <register name="-" type="4">
         <text>K</text>
@@ -324,8 +324,8 @@
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>KC_TAB(KC_RALT)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT5hPC9saT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
