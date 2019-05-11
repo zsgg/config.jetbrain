@@ -25,15 +25,15 @@
         <mark key="'" line="65" column="74" />
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557568727831">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557591148621">
         <mark key="b" line="166" column="4" />
         <mark key="f" line="164" column="168" />
-        <mark key="'" line="303" column="0" />
-        <mark key="[" line="6" column="12" />
+        <mark key="'" line="222" column="32" />
+        <mark key="[" line="170" column="51" />
         <mark key="m" line="164" column="168" />
-        <mark key="]" line="15" column="3" />
+        <mark key="]" line="170" column="57" />
         <mark key="n" line="164" column="168" />
-        <mark key="." line="15" column="3" />
+        <mark key="." line="219" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
@@ -109,7 +109,7 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557568467655">
+      <file name="/Dummy.txt" timestamp="1557592823097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
@@ -189,17 +189,15 @@
       <file name="/fragment.java" timestamp="1557346261385">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557568442305">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" timestamp="1557592818348">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="223" column="15" />
-        <mark key="." line="223" column="15" />
-        <mark key="^" line="223" column="15" />
+        <mark key="[" line="236" column="26" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="235" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="45" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="59" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="55" column="8" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
@@ -295,46 +293,48 @@
       <jump line="236" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="270" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="18" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
-      <jump line="0" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
       <jump line="107" column="40" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="317" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
+      <jump line="222" column="32" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
+      <jump line="237" column="11" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
+      <jump line="0" column="0" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/config.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTggTWVjaE1lcmxpbgo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2RlZmluZSBNS19DX09GRlNFVF8yIDY0Cg==</text>
+      <register name="0" type="4">
+        <text>KC_RALT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTggTWVjaE1lcmxpbgo=</text>
+        <text encoding="base64">ICAgICAgICBLQ19DQVBTLCBfX19fX19fLCBfX19fX19fLCBfX19fX19fLCBYWFhYWFhYLCBLQ19IT01FLCBLQ19IT01FLCBLQ19QR0ROLCBLQ19QR1VQLCBLQ19FTkQsIEtDX0VORCwgWFhYWFhYWCwgWFhYWFhYWCwgX19fX19fXywKICAgICAgICBYWFhYWFhYLCBfX19fX19fLCBfX19fX19fLCBfX19fX19fLCBYWFhYWFhYLCBYWFhYWFhYLCBLQ19MRUZULCBLQ19ET1dOLCBLQ19VUCwgS0NfUkdIVCwgWFhYWFhYWCwgWFhYWFhYWCwgX19fX19fXywK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTggTWVjaE1lcmxpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZSA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCg==</text>
+        <text encoding="base64">LyogQ29weXJpZ2h0IDIwMTggTWVjaE1lcmxpbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UK</text>
+        <text encoding="base64">ICogYWxvbmcgd2l0aCB0aGlzIHByb2dyYW0uICBJZiBub3QsIHNlZSA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogWW91IHNob3VsZCBoYXZlIHJlY2VpdmVkIGEgY29weSBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaXByb3ZlZCBoaGtiIGxheW91dCB3aXRoIG1vcmUgZnVuY3Rpb25hbGl0eQo=</text>
+        <text encoding="base64">ICoKICogVGhpcyBwcm9ncmFtIGlzIGRpc3RyaWJ1dGVkIGluIHRoZSBob3BlIHRoYXQgaXQgd2lsbCBiZSB1c2VmdWwsCiAqIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiAqIE1FUkNIQU5UQUJJTElUWSBvciBGSVRORVNTIEZPUiBBIFBBUlRJQ1VMQVIgUFVSUE9TRS4gIFNlZSB0aGUKICogR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+        <text encoding="base64">Ly8gaXByb3ZlZCBoaGtiIGxheW91dCB3aXRoIG1vcmUgZnVuY3Rpb25hbGl0eQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
