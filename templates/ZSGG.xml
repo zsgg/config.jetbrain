@@ -1,10 +1,12 @@
 <templateSet group="ZSGG">
-  <template name="test" value="hello live template" description="is this test" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="gssong" value="/*&#10; * gssong $date$ : $END$ &#10; */" description="gssong 주석" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="test2" value="aaaaa" description="is this test2" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="zsgg" value="/*&#10; * zsgg $date$ : $END$ &#10; */" description="zsgg 주석" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
