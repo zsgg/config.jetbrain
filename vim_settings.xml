@@ -25,15 +25,15 @@
         <mark key="'" line="65" column="74" />
         <mark key="[" line="79" column="19" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557562758092">
+      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557567046507">
         <mark key="b" line="180" column="4" />
         <mark key="f" line="178" column="168" />
         <mark key="'" line="270" column="0" />
-        <mark key="[" line="234" column="44" />
-        <mark key="]" line="234" column="43" />
+        <mark key="[" line="235" column="53" />
+        <mark key="]" line="235" column="60" />
         <mark key="m" line="178" column="168" />
-        <mark key="^" line="234" column="43" />
-        <mark key="." line="234" column="43" />
+        <mark key="^" line="235" column="60" />
+        <mark key="." line="235" column="60" />
         <mark key="n" line="178" column="168" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
@@ -301,16 +301,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>KC_BTN1</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>KC_BTN1</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>KC_TAB(KC_RALT)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIENUVF8xLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
