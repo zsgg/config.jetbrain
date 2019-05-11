@@ -1,0 +1,7 @@
+<templateSet group="ZSGG">
+  <template name="test" value="hello live template" description="is this test" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
