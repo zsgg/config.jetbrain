@@ -16,11 +16,12 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/rules.mk" timestamp="1557403324831">
-        <mark key="'" line="65" column="74" />
-        <mark key="[" line="79" column="19" />
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557675161701">
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="1" />
+        <mark key="^" line="29" column="1" />
+        <mark key="." line="29" column="1" />
       </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557673832580" />
       <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557425568804">
         <mark key="b" line="180" column="4" />
         <mark key="f" line="179" column="168" />
@@ -59,6 +60,10 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
+      </file>
+      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" timestamp="1557676559899">
+        <mark key="'" line="64" column="11" />
+        <mark key="n" line="68" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -219,12 +224,11 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1557673869297">
+      <file name="/fragment.java" timestamp="1557676249146">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="12" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="60" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -324,13 +328,14 @@
       <jump line="208" column="2" filename="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" />
       <jump line="10" column="0" filename="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" />
       <jump line="856" column="25" filename="D:/Work/Miridih/web-java/pom.xml" />
+      <jump line="59" column="11" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tt</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>tt</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
