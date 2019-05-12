@@ -83,7 +83,6 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/testttt/pom.xml" timestamp="1557607537551" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -209,12 +208,12 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557607563875">
-        <mark key="'" line="856" column="25" />
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="0" column="103" />
-        <mark key="." line="0" column="103" />
-        <mark key="^" line="0" column="103" />
+      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557639959191">
+        <mark key="'" line="857" column="25" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
@@ -326,17 +325,17 @@
       <jump line="856" column="25" filename="D:/Work/Miridih/web-java/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGVscERlc2lnbkNoZWNrZXIoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>tt</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>tt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGVscERlc2lnbkNoZWNrZXIoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsKICAgICAgICBuZXcgSGVscERlc2lnblNlcnZpY2UoKTsK</text>
+        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPnRlc3R0dHQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
