@@ -1390,6 +1390,16 @@
               "key": "T",
               "shiftKey": true
             }
+          ],
+          [
+            {
+              "code": "KeyA",
+              "key": "a",
+              "shiftKey": false,
+              "ctrlKey": false,
+              "altKey": false,
+              "metaKey": false
+            }
           ]
         ],
         "duplicateTab": [

@@ -1,85 +1,127 @@
-###Custom keymap
-Show Implicit Hints  
+###.
+#####히스토리 보여줌 (vcs > local history)  
+alt h  
 
- - Ctrl + Alt + Shift + =  
- - Ctrl + Alt + Shift + NumPad+
+#####디퍼 보여줌 (vcs > local history > show history)  
+alt j
 
-Reformat Code
+#####코드 접기
+alt ctrl -
 
-- Ctrl + Alt + L
-- Ctrl + Shift + Comma
+#####코드 펴기
+alt ctrl =
 
-Optimize Imports
+#####괄호사이 움직이기 (vim %)
+ctrl shift m
 
-- Ctrl + Alt + O
-- Ctrl + Comma
+#####서브창들 열었다 접었다 토글
+shift f12
 
-Compare with
+#####java 구조보기
+alt 7  
+ctrl f12  
 
-- Ctrl + Alt + D
+#####알아서 완성하고 엔터
+ctrl shift enter
 
-Show History
+#####선택한 영역에 스테이트먼트 생성
+ctrl alt t
 
-- Alt + H
+#####파일 찾기
+shift shift   
+shift n   
 
-Show Local History
+#####최근파일 열기
+shift e  
+shift ctrl e  
 
-Close Others
+#####선택한 현재블록 위치 옮기기
+ctrl shift 방향
 
-- Alt + F5
+#####서브창 늘리기 줄이기
+ctrl shift 방향
+
+#####현재 작성하려는 메서드의 파라미터 확인
+ctrl p
+
+#####커서 그대로 아래줄 추가하기
+shift enter
+
+#####에러인곳으로 커서 이동  
+F2
+
+#####인터페이스 구현
+ctrl i
+
+#####상속 구현
+ctrl o
+
+#####W로 감싼블록 undo
+ctrl shift w
+
+#####구현부 바로보기
+ctrl shift i
+
+#####터미널창 열기
+alt f12
+
+#####상속 또는 확장하고 있는곳 보여줌
+ctrl alt b
+
+###live template
+
+#####라이브 템플릿 불러오기
+ctrl j
+
+######로컬과 히스토리 비교
+alt k
 
 
-###[인텔리J 활용꿀팁 42가지](http://www.kwangsiklee.com/2016/12/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80/)
-
-**Productivity Guide**  
- - 유용한 단축키 발굴
-
-**블록으로 감싸기(if, try ...)**  
- - Ctrl + Shift + T
-
-**{ } 사이 움직이기**  
- - Ctrl + Shift + M
-
-**java... 구조보기**  
- - Ctrl + F12  
- - Alt + 7  
-
-**() 안 필요한 파라미터 보여줌**  
- - Ctrl + P
-
-**알아서 완성하고 enter**  
- - Ctrl + Shift + Enter
-
-**알아서 notnull.. 이제 알았다니..**  
- - 변수.notnull + Ctrl + Space
-
-아아.. 이것도 왜 이제야..  
-Sql도 Json도 Reg도 잘할수...  
-**특정 String 언어 선택해서 포멧 편집편하게**  
- - Alt + Enter  
- - Fragment 열면 lint 잡아줌
-  
-**Http Client**  
- - api 테스트할수있음
 
 
-**복사된 클립보드 히스토리**  
- - Ctrl + Shift + V
 
-**에러인곳으로 커서 이동**  
- - F2
 
-**북마크 보기**  
- - Shift + F11
+###Todo
+live template  
 
-**북마크 마커창 보기**  
- - Ctrl + F11
 
-**북마크 체크하기**  
- - F11
 
-**북마크 옵션으로 체크하기**  
- - Ctrl + Shift + Option
 
-**북마크 오션체크로 가기**  
- - Ctrl + Option
+
+
+
+###창 분할
+#####세로축으로 분할
+alt '
+
+#####다음 창으로 이동
+alt [, ]
+
+
+
+
+
+
+
+
+
+###북마크
+
+#####북마크 보기  
+Shift + F11
+
+#####북마크 마커창 보기  
+Ctrl + F11
+
+#####북마크 체크하기  
+ctrl shift 1-9  
+>이거 ctrl alt 1-9로 바꿀까
+
+#####북마크 오션체크로 가기  
+Ctrl + 1-9
+
+
+
+###자주 잊는 기능
+http client
+
