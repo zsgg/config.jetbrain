@@ -22,17 +22,6 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="D:/Project/qmk_firmware/keyboards/kbdfans/kbd6x/keymaps/zsgg/keymap.c" timestamp="1557425568804">
-        <mark key="b" line="180" column="4" />
-        <mark key="f" line="179" column="168" />
-        <mark key="'" line="199" column="2" />
-        <mark key="[" line="231" column="59" />
-        <mark key="]" line="231" column="58" />
-        <mark key="m" line="179" column="168" />
-        <mark key="^" line="231" column="58" />
-        <mark key="." line="231" column="58" />
-        <mark key="n" line="179" column="168" />
-      </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,6 +41,7 @@
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/jsp_global.scss" timestamp="1557709553983" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -207,6 +197,9 @@
       </file>
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/comm_data.ts" timestamp="1557709396642">
+        <mark key="'" line="1062" column="36" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -382,24 +375,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry encoding="base64">XDxTdHJpbmdXcml0ZXJcPg==</entry>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry encoding="base64">XDxVc2VyTG9naW5FeGNlcHRpb25cPg==</entry>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
-        <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
-        <entry>echo 'test'</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDx7XD4=</entry>
-        <entry>cc</entry>
-        <entry encoding="base64">XDxtaXJpZGloXD4=</entry>
-      </history-search>
-      <history-cmd>
-        <entry>test</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
