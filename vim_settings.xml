@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" timestamp="1557598557071">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/menu/resource/js/menu.js" timestamp="1557800917516">
         <mark key="[" line="157" column="31" />
         <mark key="]" line="157" column="30" />
@@ -33,7 +26,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1557996796133">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1558057763827">
         <mark key="[" line="1" column="16" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/README.md" timestamp="1557992361922" />
@@ -42,43 +35,15 @@
         <mark key="]" line="40" column="12" />
         <mark key="." line="40" column="12" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1557996840666">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/jsp_global2.scss" timestamp="1557983790739">
-        <mark key="'" line="6" column="16" />
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1557346097761">
-        <mark key="'" line="52" column="2" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="5" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1558058553368">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/common_global.scss" timestamp="1557995846511">
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557655830448">
-        <mark key="'" line="857" column="25" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="632" column="0" />
-        <mark key="." line="632" column="0" />
-        <mark key="^" line="632" column="0" />
       </file>
     </filemarks>
     <jumps>
