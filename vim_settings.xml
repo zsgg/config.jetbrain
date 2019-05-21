@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_global.scss" timestamp="1557992727746">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/payment/cornerstone/payment.js" timestamp="1558420355873" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1558060969143">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1558058553368">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/menu/resource/js/menu.js" timestamp="1557800917516">
         <mark key="[" line="157" column="31" />
@@ -15,17 +27,16 @@
         <mark key="^" line="157" column="30" />
         <mark key="." line="157" column="30" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/common_global.scss" timestamp="1557995846511">
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/jsp_global.scss" timestamp="1557994376469">
         <mark key="[" line="30" column="1" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_global.scss" timestamp="1557992727746">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1558059315503">
         <mark key="[" line="36" column="1" />
@@ -33,23 +44,11 @@
         <mark key="^" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/h.scss" timestamp="1558064438328" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/README.md" timestamp="1557992361922" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1558058553368">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/test.scss" timestamp="1558060960423">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/common_global.scss" timestamp="1557995846511">
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
