@@ -210,12 +210,11 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="D:/Project/test-webstrom/index.html" timestamp="1557921225791">
-        <mark key="j" line="19" column="16" />
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-        <mark key="." line="25" column="36" />
+      <file name="D:/Project/test-webstrom/index.html" timestamp="1558449377473">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
@@ -327,17 +326,17 @@
       <jump line="10" column="0" filename="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JCgnI2NvbnRlbnRfd3JhcHBlcicpLmNzcyh7CiAgICAnd2lkdGgnOicxMDAlJywKICAgICdwYWRkaW5nJzonMCcsCiAgICAnbWFyZ2luJzonMCcKfSk7CiQoJyNhdC1tYWluJykuY3NzKHsnd2lkdGgnOicxMDAlJywgJ3BhZGRpbmctcmlnaHQnOicwJ30pOwokKCcjYXQtd3JhcCcpLmNzcyh7J3dpZHRoJzonMTAwJScsICdwYWRkaW5nLXJpZ2h0JzonMCd9KTsKJCgnI2F0LXJpZ2h0JykucmVtb3ZlKCk7CiQoJ2lmcmFtZScpLmNzcyh7CiAgICAnaGVpZ2h0JzonNjUwcHgnLAogICAgJ3RvcCc6JzAnLAogICAgJ2xlZnQnOicwJywKICAgICd6LWluZGV4JzonOTk5OScsCiAgICAncGFkZGluZyc6JzAnLAogICAgJ3Bvc2l0aW9uJzonZml4ZWQnCn0pOwokKCcjY29udGVudF93cmFwcGVyJykuY3NzKCdtYXJnaW4tdG9wJywnODAwcHgnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxvYmplY3QgZGF0YT0iaHR0cHM6Ly9kZXYudzMub3JnL1NWRy90b29scy9zdmd3ZWIvc2FtcGxlcy9zdmctZmlsZXMvYWxwaGFjaGFubmVsLnN2ZyIKICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0iaW1hZ2Uvc3ZnK3htbCI+PC9vYmplY3Q+Cg==</text>
+        <text encoding="base64">PGRpdj4tPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">JCgnI2NvbnRlbnRfd3JhcHBlcicpLmNzcyh7CiAgICAnd2lkdGgnOicxMDAlJywKICAgICdwYWRkaW5nJzonMCcsCiAgICAnbWFyZ2luJzonMCcKfSk7CiQoJyNhdC1tYWluJykuY3NzKHsnd2lkdGgnOicxMDAlJywgJ3BhZGRpbmctcmlnaHQnOicwJ30pOwokKCcjYXQtd3JhcCcpLmNzcyh7J3dpZHRoJzonMTAwJScsICdwYWRkaW5nLXJpZ2h0JzonMCd9KTsKJCgnI2F0LXJpZ2h0JykucmVtb3ZlKCk7CiQoJ2lmcmFtZScpLmNzcyh7CiAgICAnaGVpZ2h0JzonNjUwcHgnLAogICAgJ3RvcCc6JzAnLAogICAgJ2xlZnQnOicwJywKICAgICd6LWluZGV4JzonOTk5OScsCiAgICAncGFkZGluZyc6JzAnLAogICAgJ3Bvc2l0aW9uJzonZml4ZWQnCn0pOwokKCcjY29udGVudF93cmFwcGVyJykuY3NzKCdtYXJnaW4tdG9wJywnODAwcHgnKQo=</text>
