@@ -3,29 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_global.scss" timestamp="1557992727746">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="15" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/payment/cornerstone/payment.js" timestamp="1558420355873" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1558060969143">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1558058553368">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/menu/resource/js/menu.js" timestamp="1557800917516">
         <mark key="[" line="157" column="31" />
         <mark key="]" line="157" column="30" />
         <mark key="^" line="157" column="30" />
         <mark key="." line="157" column="30" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/es_ts_test/tsconfig.json" timestamp="1558496369255">
+        <mark key="[" line="2" column="26" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/common_global.scss" timestamp="1557995846511">
         <mark key="]" line="9" column="0" />
@@ -38,17 +29,37 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1558059315503">
-        <mark key="[" line="36" column="1" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/test.scss" timestamp="1558060960423">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_global.scss" timestamp="1557992727746">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/es_ts_test/test.ts" timestamp="1558496381879">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="2" column="8" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1558058553368">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/test.ts" timestamp="1558496216790">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1558059315503">
+        <mark key="[" line="36" column="1" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -155,16 +166,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>common_global</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>common_global</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPnRlc3R0dHQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">Y29uc3QgYWFhID0gJyc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
