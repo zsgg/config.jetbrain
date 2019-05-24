@@ -29,6 +29,12 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/resource/pay_mock.scss" timestamp="1558658370925">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/test.scss" timestamp="1558060960423">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -172,10 +178,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
