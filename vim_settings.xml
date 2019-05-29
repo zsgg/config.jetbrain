@@ -3,15 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design_new_mod.js" timestamp="1559036325052" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_typings/jquery.d.ts" timestamp="1558677080714" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/help-order/status_aj_res.ts" timestamp="1558680970672" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/data_saver.ts" timestamp="1558677648381">
-        <mark key="[" line="24" column="31" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/api_result.ts" timestamp="1558676725976">
-        <mark key="[" line="26" column="9" />
-      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/menu/resource/css/left_menu_mobile.scss" timestamp="1559114276564" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/help-order/main.ts" timestamp="1558680827014">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="21" />
@@ -24,25 +16,25 @@
         <mark key="^" line="511" column="49" />
         <mark key="." line="511" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/help_design/src/shared/api/ApiCallers.ts" timestamp="1558676959531" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/payment/cornerstone/js/data_saver.ts" timestamp="1558672158992" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/help-order/main.js" timestamp="1558680252324" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/resource/pay_mock.scss" timestamp="1558658370925">
         <mark key="[" line="44" column="2" />
         <mark key="]" line="43" column="35" />
         <mark key="^" line="43" column="35" />
         <mark key="." line="43" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login_join_module.ts" timestamp="1558677022660" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/jquery/jquery.cookie.js" timestamp="1558672543113" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/comm_data.ts" timestamp="1558671903776">
         <mark key="]" line="781" column="37" />
         <mark key="^" line="781" column="37" />
         <mark key="." line="781" column="37" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/payment/cornerstone/js/api_result.ts" timestamp="1558676761892" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/components/_button.scss" timestamp="1558594402132">
         <mark key="[" line="54" column="29" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/data_saver.ts" timestamp="1558677648381">
+        <mark key="[" line="24" column="31" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/api_result.ts" timestamp="1558676725976">
+        <mark key="[" line="26" column="9" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/design_service.ts" timestamp="1558676876444">
         <mark key="'" line="258" column="0" />
