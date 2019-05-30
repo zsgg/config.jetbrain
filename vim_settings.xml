@@ -22,8 +22,8 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559225092432">
-        <mark key="[" line="33" column="48" />
+      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559230877778">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="34" column="50" />
         <mark key="^" line="34" column="50" />
         <mark key="." line="34" column="50" />
@@ -137,11 +137,10 @@
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
       </file>
-      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559227875286">
-        <mark key="[" line="28" column="5" />
-        <mark key="]" line="43" column="4" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="43" column="4" />
+      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559230844252">
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
         <mark key="'" line="37" column="0" />
@@ -339,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
