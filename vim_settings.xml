@@ -22,7 +22,7 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559224646935">
+      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559225092432">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="34" column="50" />
         <mark key="^" line="34" column="50" />
@@ -137,7 +137,12 @@
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
       </file>
-      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559224533900" />
+      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559225067089">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="33" column="7" />
