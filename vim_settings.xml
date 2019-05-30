@@ -6,6 +6,25 @@
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/menu/resource/css/left_menu_mobile.scss" timestamp="1559114366119">
         <mark key="[" line="11" column="1" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1559178457667" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/help-order/main.ts" timestamp="1558680827014">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/step_page_renderer.ts" timestamp="1558661433546">
+        <mark key="[" line="511" column="43" />
+        <mark key="]" line="511" column="43" />
+        <mark key="^" line="511" column="49" />
+        <mark key="." line="511" column="43" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/resource/pay_mock.scss" timestamp="1558658370925">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="43" column="35" />
+        <mark key="^" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/test.js" timestamp="1559116144048">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="3" column="28" />
@@ -17,20 +36,9 @@
         <mark key="^" line="781" column="37" />
         <mark key="." line="781" column="37" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/help-order/main.ts" timestamp="1558680827014">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/price_block_renderer/price_block_renderer.ts" timestamp="1559178339322" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/components/_button.scss" timestamp="1558594402132">
         <mark key="[" line="54" column="29" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/step_page_renderer.ts" timestamp="1558661433546">
-        <mark key="[" line="511" column="43" />
-        <mark key="]" line="511" column="43" />
-        <mark key="^" line="511" column="49" />
-        <mark key="." line="511" column="43" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_css_selector.scss" timestamp="1559114370224">
         <mark key="[" line="22" column="55" />
@@ -44,12 +52,6 @@
       <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/design_service.ts" timestamp="1558676876444">
         <mark key="'" line="258" column="0" />
         <mark key="[" line="1" column="57" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/resource/pay_mock.scss" timestamp="1558658370925">
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="43" column="35" />
-        <mark key="^" line="43" column="35" />
-        <mark key="." line="43" column="35" />
       </file>
     </filemarks>
     <jumps>
