@@ -133,10 +133,22 @@
         <mark key="^" line="63" column="1" />
         <mark key="." line="63" column="1" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/test2.scss" timestamp="1559625493420">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="12" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
         <mark key="]" line="197" column="74" />
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/test.scss" timestamp="1559625200609">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559230844252">
         <mark key="]" line="44" column="0" />
@@ -339,10 +351,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>000</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
