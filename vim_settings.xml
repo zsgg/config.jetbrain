@@ -22,11 +22,8 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
-        <mark key="[" line="41" column="30" />
-        <mark key="]" line="42" column="43" />
-        <mark key="^" line="42" column="43" />
-        <mark key="." line="42" column="43" />
+      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1560187589131">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -47,7 +44,6 @@
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1559585623151" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -88,8 +84,8 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="D:/LocalDev/vm/README.md" timestamp="1559232407232">
-        <mark key="[" line="72" column="1" />
+      <file name="D:/LocalDev/vm/README.md" timestamp="1560187020918">
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/GlobalConfig.java" timestamp="1557606691457">
         <mark key="]" line="27" column="28" />
@@ -107,6 +103,12 @@
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
+      </file>
+      <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1560189138176">
+        <mark key="[" line="11" column="62" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
@@ -138,8 +140,8 @@
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
       </file>
-      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559319888952">
-        <mark key="[" line="41" column="5" />
+      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1560188292815">
+        <mark key="[" line="46" column="45" />
         <mark key="]" line="41" column="4" />
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
