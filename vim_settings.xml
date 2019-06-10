@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PaymentProxy.java" timestamp="1557600701584">
-        <mark key="[" line="54" column="26" />
-        <mark key="." line="54" column="27" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -44,10 +40,14 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1559585623151" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -56,6 +56,9 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
+      </file>
+      <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" timestamp="1557676559899">
         <mark key="'" line="64" column="11" />
@@ -108,6 +111,12 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1560193436405">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="17" column="4" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="15" />
@@ -117,6 +126,7 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/LocalDev/vm/oooo.config/docker/.env" timestamp="1560197619658" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/mobile/aaa.http" timestamp="1557600445685">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="26" />
@@ -133,6 +143,7 @@
         <mark key="^" line="63" column="1" />
         <mark key="." line="63" column="1" />
       </file>
+      <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1560196280336" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
         <mark key="]" line="197" column="74" />
         <mark key="^" line="197" column="74" />
@@ -144,6 +155,7 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1560196005196" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="33" column="7" />
@@ -153,6 +165,10 @@
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
+      </file>
+      <file name="D:/Code Personal/jetbrain.config/keymaps/zsgg.xml" timestamp="1560198448236" />
+      <file name="/a.sql" timestamp="1560198348923">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
@@ -171,13 +187,19 @@
       <file name="/HTML File.txt.ft" timestamp="1557601226477">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/LocalDev/vm/oooo.config/docker/docker-compose.yml" timestamp="1560198406653">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/checker/TemplateThemeBeanChecker.java" timestamp="1556027913869">
         <mark key="[" line="61" column="59" />
         <mark key="]" line="61" column="58" />
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557598536196">
+      <file name="/Dummy.txt" timestamp="1560198348931">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/SftpClient.java" timestamp="1557600768319">
@@ -206,6 +228,9 @@
         <mark key="]" line="31" column="44" />
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
+      </file>
+      <file name="/package-info.txt.ft" timestamp="1560195955265">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
