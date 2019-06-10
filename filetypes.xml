@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="nginx" type=".env file" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <removed_mapping ext="nginx" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
