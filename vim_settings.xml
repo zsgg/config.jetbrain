@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PaymentProxy.java" timestamp="1557600701584">
+        <mark key="[" line="54" column="26" />
+        <mark key="." line="54" column="27" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -18,8 +22,11 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1560187589131">
-        <mark key="[" line="8" column="0" />
+      <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="42" column="43" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="42" column="43" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -40,6 +47,7 @@
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1559585623151" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -48,9 +56,6 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
-      </file>
-      <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" timestamp="1557676559899">
         <mark key="'" line="64" column="11" />
@@ -83,8 +88,8 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="D:/LocalDev/vm/README.md" timestamp="1560187020918">
-        <mark key="[" line="19" column="0" />
+      <file name="D:/LocalDev/vm/README.md" timestamp="1559232407232">
+        <mark key="[" line="72" column="1" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/GlobalConfig.java" timestamp="1557606691457">
         <mark key="]" line="27" column="28" />
@@ -103,12 +108,6 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1560193436405">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="4" />
-      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="15" />
@@ -118,7 +117,6 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/.env" timestamp="1560197619658" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/mobile/aaa.http" timestamp="1557600445685">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="26" />
@@ -135,19 +133,17 @@
         <mark key="^" line="63" column="1" />
         <mark key="." line="63" column="1" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1560196280336" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
         <mark key="]" line="197" column="74" />
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
       </file>
-      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1560196712958">
-        <mark key="[" line="47" column="45" />
-        <mark key="]" line="42" column="4" />
-        <mark key="^" line="42" column="4" />
-        <mark key="." line="42" column="4" />
+      <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559319888952">
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="41" column="4" />
+        <mark key="." line="41" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1560196005196" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="33" column="7" />
@@ -172,14 +168,8 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1560195954580">
+      <file name="/HTML File.txt.ft" timestamp="1557601226477">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/docker-compose.yml" timestamp="1560197241400">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="45" column="15" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/TemplateThemeBeanChecker.java" timestamp="1556027913869">
         <mark key="[" line="61" column="59" />
@@ -216,9 +206,6 @@
         <mark key="]" line="31" column="44" />
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
-      </file>
-      <file name="/package-info.txt.ft" timestamp="1560195955265">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
@@ -359,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
