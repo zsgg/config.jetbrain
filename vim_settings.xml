@@ -77,8 +77,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/tsconfig.json" timestamp="1560225886732">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/tsconfig.json" timestamp="1560227297219">
         <mark key="[" line="2" column="26" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/css/index.css" timestamp="1560159316663">
         <mark key="[" line="0" column="39" />
@@ -160,11 +163,11 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/left_menu_desktop-gssong.ts" timestamp="1560226210462">
-        <mark key="[" line="174" column="42" />
-        <mark key="]" line="174" column="44" />
-        <mark key="^" line="174" column="44" />
-        <mark key="." line="174" column="44" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/left_menu_desktop-gssong.ts" timestamp="1560227242714">
+        <mark key="[" line="178" column="42" />
+        <mark key="]" line="178" column="44" />
+        <mark key="^" line="178" column="44" />
+        <mark key="." line="178" column="44" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/left_menu_desktop-gssong.js" timestamp="1560220295165">
         <mark key="]" line="0" column="13" />
@@ -251,11 +254,11 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/index.html" timestamp="1560225897531">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="20" column="6" />
-        <mark key="^" line="20" column="6" />
-        <mark key="." line="20" column="6" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/index.html" timestamp="1560227219199">
+        <mark key="[" line="19" column="88" />
+        <mark key="]" line="19" column="88" />
+        <mark key="^" line="19" column="92" />
+        <mark key="." line="19" column="88" />
       </file>
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
@@ -377,10 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ㄸ</text>
+        <text>gssong</text>
       </register>
       <register name="-" type="4">
-        <text>ㄸ</text>
+        <text>gssong</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
