@@ -33,21 +33,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" timestamp="1557598557071">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/api-mock.json" timestamp="1560232415366" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -59,10 +48,6 @@
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" timestamp="1557676559899">
-        <mark key="'" line="64" column="11" />
-        <mark key="n" line="68" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -117,6 +102,11 @@
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="15" />
@@ -126,28 +116,26 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/.env" timestamp="1560197619658" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/mobile/aaa.http" timestamp="1557600445685">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="26" />
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data.ts" timestamp="1560235081252">
+        <mark key="'" line="72" column="21" />
+        <mark key="^" line="74" column="11" />
+      </file>
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1558442683884">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="1" />
-        <mark key="^" line="63" column="1" />
-        <mark key="." line="63" column="1" />
-      </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1560196280336" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
         <mark key="]" line="197" column="74" />
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/.gitignore" timestamp="1560235139236">
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559319888952">
         <mark key="[" line="41" column="5" />
@@ -155,18 +143,16 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1560196005196" />
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="5" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/left_menu_desktop-gssong.ts" timestamp="1560235087946">
+        <mark key="'" line="75" column="38" />
+        <mark key="[" line="53" column="2" />
+        <mark key="]" line="53" column="1" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="53" column="1" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="D:/Code Personal/jetbrain.config/keymaps/zsgg.xml" timestamp="1560198448236" />
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,7 +185,7 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560198348931">
+      <file name="/Dummy.txt" timestamp="1560235155405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/SftpClient.java" timestamp="1557600768319">
@@ -238,21 +224,20 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/index.html" timestamp="1560229798523">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/mock.html" timestamp="1560235152068">
+        <mark key="[" line="8" column="81" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="10" column="12" />
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557655830448">
-        <mark key="'" line="857" column="25" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="632" column="0" />
-        <mark key="." line="632" column="0" />
-        <mark key="^" line="632" column="0" />
       </file>
       <file name="D:/Code Study/algo-programers/src/main/java/work_draft/Test.java" timestamp="1559585575897">
         <mark key="[" line="11" column="5" />
@@ -268,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="60" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="55" column="26" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -368,6 +351,8 @@
       <jump line="10" column="0" filename="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" />
       <jump line="856" column="25" filename="D:/Work/Miridih/web-java/pom.xml" />
       <jump line="59" column="11" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" />
+      <jump line="197" column="38" filename="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/left_menu_desktop-gssong.ts" />
+      <jump line="71" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,34 +365,34 @@
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPnRlc3R0dHQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBodG1sLnB1c2goYDx1bCBjbGFzcz0ibmF2LW1lbnUgIGRhdGEtbGV2ZWw9JyR7cGFyZW50LmxldmVsfScgZGF0YS1pZHg9JyR7cGFyZW50LmlkeH0nICI+PC91bD5gKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGZ1bmN0aW9uICgpIHsKICAgIHRlc3REYXRhID0gcmVzOwoKICAgIENhdGVNb2R1bGUucnVuKCkKfQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
+        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>test</text>
