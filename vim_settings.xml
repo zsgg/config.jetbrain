@@ -33,13 +33,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" timestamp="1557598557071">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
         <mark key="]" line="1" column="8" />
         <mark key="^" line="1" column="8" />
@@ -59,10 +52,6 @@
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" timestamp="1557676559899">
-        <mark key="'" line="64" column="11" />
-        <mark key="n" line="68" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -88,6 +77,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/algo_programers/README.md" timestamp="1560286982197" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -138,13 +128,7 @@
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1558442683884">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="1" />
-        <mark key="^" line="63" column="1" />
-        <mark key="." line="63" column="1" />
-      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/algo_programers/level1/test3.java" timestamp="1560287020570" />
       <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1560206179192">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
@@ -156,18 +140,14 @@
         <mark key="^" line="197" column="74" />
         <mark key="." line="197" column="74" />
       </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/baekjoon/Test.java" timestamp="1560287040470">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559319888952">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="41" column="4" />
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="5" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
@@ -251,13 +231,6 @@
         <mark key="]" line="10" column="12" />
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557655830448">
-        <mark key="'" line="857" column="25" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="632" column="0" />
-        <mark key="." line="632" column="0" />
-        <mark key="^" line="632" column="0" />
       </file>
       <file name="D:/Code Study/algo-programers/src/main/java/work_draft/Test.java" timestamp="1559585575897">
         <mark key="[" line="11" column="5" />
@@ -376,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subicura</text>
+        <text>..</text>
       </register>
       <register name="-" type="4">
-        <text>subicura</text>
+        <text>..</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
