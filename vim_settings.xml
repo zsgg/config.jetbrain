@@ -40,11 +40,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
@@ -88,6 +83,11 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -126,7 +126,6 @@
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/.env" timestamp="1560197619658" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/mobile/aaa.http" timestamp="1557600445685">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="26" />
@@ -143,7 +142,6 @@
         <mark key="^" line="63" column="1" />
         <mark key="." line="63" column="1" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1560196280336" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
         <mark key="]" line="197" column="74" />
         <mark key="^" line="197" column="74" />
@@ -155,7 +153,6 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1560196005196" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="33" column="7" />
@@ -166,7 +163,6 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="D:/Code Personal/jetbrain.config/keymaps/zsgg.xml" timestamp="1560198448236" />
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -198,6 +194,9 @@
         <mark key="]" line="61" column="58" />
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
+      </file>
+      <file name="D:/Code Test/test-webstrom/index.html" timestamp="1560254660361">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1560198348931">
         <mark key="[" line="0" column="0" />
