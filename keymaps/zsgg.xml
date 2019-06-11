@@ -57,6 +57,9 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
