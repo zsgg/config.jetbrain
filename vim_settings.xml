@@ -12,7 +12,12 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560301462215" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560317372639">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="5" />
+      </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557675161701">
         <mark key="[" line="29" column="2" />
         <mark key="]" line="29" column="1" />
@@ -96,12 +101,14 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_jsp.scss" timestamp="1560318022951" />
       <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1560193436405">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="4" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" timestamp="1560317399489" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
         <mark key="]" line="1" column="8" />
         <mark key="^" line="1" column="8" />
@@ -223,10 +230,10 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560313903107">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="31" column="9" />
-        <mark key="." line="31" column="9" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560318118021">
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="48" column="15" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
@@ -260,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="55" column="26" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -360,6 +366,7 @@
       <jump line="59" column="11" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" />
       <jump line="197" column="38" filename="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/left_menu_desktop-gssong.ts" />
       <jump line="71" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data.ts" />
+      <jump line="7" column="22" filename="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
