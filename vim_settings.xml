@@ -19,6 +19,7 @@
         <mark key="^" line="42" column="5" />
         <mark key="." line="42" column="5" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/tbpe30/web/resources/js/img_lib_srch_list_biz.js" timestamp="1560327332429" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557675161701">
         <mark key="[" line="29" column="2" />
         <mark key="]" line="29" column="1" />
@@ -84,11 +85,11 @@
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/mypage/resource/js/help_design_order_detail/page.ts" timestamp="1560319666666" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560323664137" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560325791408">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="29" column="52" />
-        <mark key="^" line="29" column="52" />
-        <mark key="." line="29" column="52" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560328439282">
+        <mark key="[" line="40" column="70" />
+        <mark key="]" line="71" column="70" />
+        <mark key="^" line="70" column="48" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
@@ -274,6 +275,7 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/design_service.ts" timestamp="1560326488566" />
       <file name="/fragment.java" timestamp="1557676249146">
         <mark key="[" line="0" column="0" />
       </file>
@@ -381,17 +383,17 @@
       <jump line="489" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/ga.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>action</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZEdhKHtldmVudEFjdGlvbjogJ7nos8ogtN2x4icsIGV2ZW50TGFiZWw6IGxvY2F0aW9uLmhyZWZ9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>es6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHR5cGUgYWN0aW9uID0gJ8PWu/O03CC56LPKJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZEdhKHtldmVudEFjdGlvbjogJ7nos8ogtN2x4icsIGV2ZW50TGFiZWw6IGxvY2F0aW9uLmhyZWZ9KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0ewo=</text>
