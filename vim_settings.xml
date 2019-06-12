@@ -36,7 +36,6 @@
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/api-mock.json" timestamp="1560232415366" />
       <file name="D:/Project/algo-programers/src/test/java/test11.java" timestamp="1555143260140">
         <mark key="[" line="21" column="21" />
       </file>
@@ -154,6 +153,12 @@
       </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-bar/index.html" timestamp="1560298197806">
+        <mark key="[" line="120" column="4" />
+        <mark key="]" line="119" column="22" />
+        <mark key="^" line="119" column="22" />
+        <mark key="." line="119" column="22" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
@@ -352,16 +357,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBodG1sLnB1c2goYDx1bCBjbGFzcz0ibmF2LW1lbnUgIGRhdGEtbGV2ZWw9JyR7cGFyZW50LmxldmVsfScgZGF0YS1pZHg9JyR7cGFyZW50LmlkeH0nICI+PC91bD5gKTsK</text>
+        <text encoding="base64">ICAgICQoJ2JvZHknKS5hcHBlbmQoJGEpOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IGZ1bmN0aW9uICgpIHsKICAgIHRlc3REYXRhID0gcmVzOwoKICAgIENhdGVNb2R1bGUucnVuKCkKfQ==</text>
