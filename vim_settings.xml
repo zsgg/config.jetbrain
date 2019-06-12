@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/top_banner.js" timestamp="1560323630668" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -38,6 +39,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/ga.ts" timestamp="1560323860361">
+        <mark key="'" line="489" column="21" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
@@ -79,6 +83,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/mypage/resource/js/help_design_order_detail/page.ts" timestamp="1560319666666" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560323664137" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560323687750" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -268,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="26" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
@@ -368,6 +373,7 @@
       <jump line="197" column="38" filename="C:/Work/Miridih/dev_web/bizhows-web/_gssong/dev-menu-type2/gssong/js/left_menu_desktop-gssong.ts" />
       <jump line="71" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data.ts" />
       <jump line="7" column="22" filename="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" />
+      <jump line="489" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/ga.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
