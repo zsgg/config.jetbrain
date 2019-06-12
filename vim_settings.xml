@@ -84,7 +84,12 @@
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/mypage/resource/js/help_design_order_detail/page.ts" timestamp="1560319666666" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560323664137" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560323687750" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560325791408">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -377,16 +382,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>action</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>action</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICQoJ2JvZHknKS5hcHBlbmQoJGEpOwo=</text>
+        <text encoding="base64">ICAgIHR5cGUgYWN0aW9uID0gJ8PWu/O03CC56LPKJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0ewo=</text>
