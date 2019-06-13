@@ -90,6 +90,7 @@
         <mark key="^" line="144" column="8" />
         <mark key="." line="144" column="8" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/site_map_data.ts" timestamp="1560416100199" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -155,6 +156,13 @@
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index.js" timestamp="1560415805936">
+        <mark key="'" line="195" column="33" />
+        <mark key="[" line="384" column="204" />
+        <mark key="]" line="384" column="204" />
+        <mark key="^" line="308" column="11" />
+        <mark key="." line="384" column="0" />
       </file>
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
@@ -263,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="45" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="59" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
@@ -363,19 +370,20 @@
       <jump line="7" column="22" filename="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" />
       <jump line="489" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/ga.ts" />
       <jump line="358" column="61" filename="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_left_menu.scss" />
+      <jump line="195" column="33" filename="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW5pdEZsYWdDb29raWVLZXksICQuY29va2llKGluaXRGbGFnQ29va2llS2V5KSk7Cg==</text>
+        <text encoding="base64">CSQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0ewo=</text>
