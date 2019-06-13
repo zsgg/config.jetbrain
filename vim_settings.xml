@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/top_banner.js" timestamp="1560323630668" />
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/form/Element.java" timestamp="1556023556207">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
@@ -84,12 +83,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/mypage/resource/js/help_design_order_detail/page.ts" timestamp="1560319666666" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560323664137" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560405089714">
-        <mark key="[" line="37" column="50" />
-        <mark key="]" line="37" column="50" />
-        <mark key="^" line="105" column="41" />
-        <mark key="." line="37" column="50" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560406578843" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560406989945">
+        <mark key="[" line="140" column="4" />
+        <mark key="]" line="140" column="8" />
+        <mark key="^" line="140" column="8" />
+        <mark key="." line="140" column="8" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
@@ -364,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
