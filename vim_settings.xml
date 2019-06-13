@@ -96,6 +96,9 @@
       <file name="D:/LocalDev/vm/README.md" timestamp="1559232407232">
         <mark key="[" line="72" column="1" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_left_menu.scss" timestamp="1560414576726">
+        <mark key="'" line="358" column="61" />
+      </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="26" />
@@ -260,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
       <jump line="45" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
@@ -360,6 +362,7 @@
       <jump line="71" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data.ts" />
       <jump line="7" column="22" filename="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" />
       <jump line="489" column="21" filename="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/ga.ts" />
+      <jump line="358" column="61" filename="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_left_menu.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
