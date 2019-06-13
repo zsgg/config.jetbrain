@@ -85,11 +85,11 @@
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/mypage/resource/js/help_design_order_detail/page.ts" timestamp="1560319666666" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560323664137" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560399267382">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="61" column="8" />
-        <mark key="^" line="61" column="8" />
-        <mark key="." line="61" column="8" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560401908625">
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
@@ -384,16 +384,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cookie</text>
+        <text>topBannnerDisplayKey</text>
       </register>
       <register name="-" type="4">
-        <text>cookie</text>
+        <text>topBannnerDisplayKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJC5jb29raWUobW92ZUNvdW50Q29va2llS2V5KSwgJC5jb29raWUoaW5pdEZsYWdDb29raWVLZXkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW5pdEZsYWdDb29raWVLZXksICQuY29va2llKGluaXRGbGFnQ29va2llS2V5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0ewo=</text>
