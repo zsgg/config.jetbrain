@@ -12,11 +12,11 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560317372639">
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="42" column="5" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560500604477">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="24" column="30" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557675161701">
         <mark key="[" line="29" column="2" />
@@ -375,16 +375,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0ewo=</text>
