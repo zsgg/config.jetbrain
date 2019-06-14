@@ -129,7 +129,6 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/test.css" timestamp="1560478741043" />
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,7 +161,12 @@
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/test.scss" timestamp="1560478632882" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/test.scss" timestamp="1560479823776">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="23" />
+        <mark key="." line="21" column="22" />
+      </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
       </file>
@@ -229,7 +233,7 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560478704767">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560479396511">
         <mark key="]" line="48" column="15" />
         <mark key="." line="48" column="15" />
         <mark key="^" line="48" column="15" />
@@ -368,11 +372,11 @@
       <jump line="195" column="33" filename="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7JCh0aGlzKTskKHRoaXMpOyQodGhpcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>in</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
