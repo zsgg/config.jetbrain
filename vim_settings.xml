@@ -12,11 +12,8 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560500604477">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="24" column="30" />
-        <mark key="^" line="24" column="30" />
-        <mark key="." line="24" column="30" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560502961671">
+        <mark key="[" line="38" column="60" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557675161701">
         <mark key="[" line="29" column="2" />
@@ -235,10 +232,11 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560479396511">
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
-        <mark key="^" line="48" column="15" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560502168791">
+        <mark key="[" line="53" column="8" />
+        <mark key="]" line="53" column="7" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="53" column="7" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
@@ -375,16 +373,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">Jj4=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Jj4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLmwtbGVmdC1sb2dvLWltZyBpbWcnKS5jc3MoeydvcGFjaXR5JzogJzAnfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlucHV0ewo=</text>
