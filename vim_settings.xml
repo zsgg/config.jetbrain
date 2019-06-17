@@ -12,6 +12,7 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.ts" timestamp="1560739233540" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtension.java" timestamp="1557675161701">
         <mark key="[" line="29" column="2" />
         <mark key="]" line="29" column="1" />
@@ -150,6 +151,12 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="$USER_HOME$/Downloads/1298922_1559696308322.svg" timestamp="1560738183185">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
       </file>
@@ -258,6 +265,7 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="10" column="23" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/plasticbag/cornerstone/plasticbag.js" timestamp="1560739035361" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
@@ -369,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
