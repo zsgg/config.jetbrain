@@ -115,8 +115,11 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_title.ts" timestamp="1560733393586">
-        <mark key="[" line="18" column="47" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_title.ts" timestamp="1560734756772">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="27" />
       </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
@@ -365,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>html</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
