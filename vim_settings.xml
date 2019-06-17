@@ -115,11 +115,11 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_title.ts" timestamp="1560736358655">
-        <mark key="[" line="10" column="124" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_title.ts" timestamp="1560737377439">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
@@ -221,6 +221,7 @@
       <file name="/package-info.txt.ft" timestamp="1560195955265">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/header_title.ts" timestamp="1560737323413" />
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
@@ -368,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>html</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>html</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
