@@ -72,11 +72,25 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/user_status_data.ts" timestamp="1560827650028">
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="19" />
-        <mark key="^" line="41" column="22" />
-        <mark key="." line="41" column="19" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/user_status_data.ts" timestamp="1560831974282">
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="27" />
+        <mark key="^" line="48" column="27" />
+        <mark key="." line="48" column="27" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560831962253">
+        <mark key="[" line="27" column="18" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1560831863243">
+        <mark key="[" line="137" column="18" />
+        <mark key="]" line="137" column="18" />
+        <mark key="." line="137" column="18" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/site_map_data.ts" timestamp="1560831834638">
+        <mark key="[" line="94" column="48" />
+        <mark key="]" line="94" column="48" />
+        <mark key="^" line="94" column="51" />
+        <mark key="." line="94" column="48" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/status_aj_res-sleep.jsp" timestamp="1560826310817">
         <mark key="[" line="215" column="4" />
@@ -89,11 +103,6 @@
         <mark key="]" line="33" column="7" />
         <mark key="^" line="33" column="7" />
         <mark key="." line="33" column="7" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/GlobalConfig.java" timestamp="1557606691457">
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
         <mark key="[" line="124" column="0" />
@@ -112,11 +121,6 @@
         <mark key="]" line="17" column="4" />
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
@@ -148,11 +152,6 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
-        <mark key="]" line="197" column="74" />
-        <mark key="^" line="197" column="74" />
-        <mark key="." line="197" column="74" />
-      </file>
       <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559319888952">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="41" column="4" />
@@ -177,13 +176,14 @@
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar/header_bizhows_bar.ts" timestamp="1560831933138">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="16" />
+        <mark key="^" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" timestamp="1557603037742">
-        <mark key="]" line="181" column="16" />
-        <mark key="^" line="181" column="16" />
-        <mark key="." line="181" column="16" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>responseText</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>responseText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
