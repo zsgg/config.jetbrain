@@ -72,10 +72,10 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/user_status_data.ts" timestamp="1560826452684">
-        <mark key="[" line="38" column="46" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/user_status_data.ts" timestamp="1560827650028">
+        <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="19" />
-        <mark key="^" line="41" column="19" />
+        <mark key="^" line="41" column="22" />
         <mark key="." line="41" column="19" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/status_aj_res-sleep.jsp" timestamp="1560826310817">
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
