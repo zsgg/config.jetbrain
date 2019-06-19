@@ -24,6 +24,7 @@
         <mark key="^" line="42" column="43" />
         <mark key="." line="42" column="43" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1560922658416" />
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,11 +118,19 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data/user_status_data.ts" timestamp="1560923699461">
+        <mark key="[" line="12" column="7" />
+      </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1560193436405">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
         <mark key="^" line="17" column="8" />
         <mark key="." line="17" column="4" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" timestamp="1560923175304">
+        <mark key="[" line="188" column="14" />
+        <mark key="]" line="188" column="14" />
+        <mark key="." line="188" column="14" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
@@ -173,6 +182,11 @@
       </file>
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/tsconfig.json" timestamp="1560923643240">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
@@ -247,6 +261,7 @@
         <mark key="^" line="2" column="11" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/css/design_service-tempppppasdf.scss" timestamp="1560909234391" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560922434464" />
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
@@ -385,10 +400,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>page_init_data</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>page_init_data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
