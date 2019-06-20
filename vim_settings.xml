@@ -64,8 +64,16 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/join.ts" timestamp="1561008499333">
-        <mark key="[" line="280" column="28" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/join/join.scss" timestamp="1561011673627">
+        <mark key="]" line="155" column="24" />
+        <mark key="^" line="155" column="24" />
+        <mark key="." line="155" column="24" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/join.ts" timestamp="1561010696875">
+        <mark key="[" line="359" column="0" />
+        <mark key="]" line="308" column="16" />
+        <mark key="." line="308" column="16" />
+        <mark key="^" line="238" column="3" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -85,7 +93,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561006075356" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561011174039" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/user_status_data.ts" timestamp="1560833347016">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="19" />
@@ -128,7 +136,7 @@
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login_join_module.ts" timestamp="1561008105565">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login_join_module.ts" timestamp="1561010483230">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="15" />
         <mark key="^" line="10" column="15" />
