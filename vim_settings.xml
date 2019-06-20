@@ -34,6 +34,7 @@
         <mark key="^" line="3" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1561007787233" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_global.scss" timestamp="1561014731872" />
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
@@ -65,15 +66,9 @@
         <mark key="." line="10" column="104" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/join/join.scss" timestamp="1561011673627">
-        <mark key="]" line="155" column="24" />
-        <mark key="^" line="155" column="24" />
-        <mark key="." line="155" column="24" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/join.ts" timestamp="1561010696875">
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="308" column="16" />
-        <mark key="." line="308" column="16" />
-        <mark key="^" line="238" column="3" />
+        <mark key="]" line="96" column="24" />
+        <mark key="^" line="96" column="24" />
+        <mark key="." line="96" column="24" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -136,12 +131,6 @@
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login_join_module.ts" timestamp="1561010483230">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-      </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
@@ -162,11 +151,6 @@
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/url_param_util.ts" timestamp="1561008000631">
         <mark key="[" line="13" column="12" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/login.ts" timestamp="1560923175304">
-        <mark key="[" line="188" column="14" />
-        <mark key="]" line="188" column="14" />
-        <mark key="." line="188" column="14" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
