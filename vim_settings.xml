@@ -24,7 +24,6 @@
         <mark key="^" line="42" column="43" />
         <mark key="." line="42" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1560922658416" />
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,11 +51,11 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1560934908179">
-        <mark key="[" line="3518" column="51" />
-        <mark key="]" line="3591" column="30" />
-        <mark key="^" line="3591" column="30" />
-        <mark key="." line="3591" column="30" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1560993292610">
+        <mark key="[" line="3523" column="69" />
+        <mark key="]" line="3523" column="69" />
+        <mark key="^" line="3593" column="30" />
+        <mark key="." line="3523" column="69" />
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
@@ -219,7 +218,6 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/smilecat-web/admin/statistics/js/statistics_etc.js" timestamp="1560930912499" />
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
       </file>
@@ -280,8 +278,6 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/css/design_service-tempppppasdf.scss" timestamp="1560909234391" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_bizhows_bar.scss" timestamp="1560922434464" />
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
@@ -420,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_this_1</text>
+        <text>commodity</text>
       </register>
       <register name="-" type="4">
-        <text>_this_1</text>
+        <text>commodity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
