@@ -33,7 +33,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1560925761158">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1560997058798">
         <mark key="[" line="912" column="60" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
@@ -51,10 +51,11 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1560995762479">
-        <mark key="]" line="3611" column="16" />
-        <mark key="^" line="3611" column="16" />
-        <mark key="." line="3611" column="16" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1560998325495">
+        <mark key="[" line="3670" column="12" />
+        <mark key="]" line="3670" column="12" />
+        <mark key="^" line="3674" column="19" />
+        <mark key="." line="3670" column="12" />
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
@@ -421,16 +422,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>commodity</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>commodity</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3BhZ2UgaW5pdCBkYXRhIC0gaWYnLCByZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzQ29tcGFueUlwID0gaXNDb21wYW55SXA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
