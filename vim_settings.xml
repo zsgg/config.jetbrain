@@ -33,9 +33,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1560997058798">
-        <mark key="[" line="912" column="60" />
-      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1560997058798" />
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
@@ -51,11 +49,11 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1560998325495">
-        <mark key="[" line="3670" column="12" />
-        <mark key="]" line="3670" column="12" />
-        <mark key="^" line="3674" column="19" />
-        <mark key="." line="3670" column="12" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1560999513365">
+        <mark key="[" line="3520" column="37" />
+        <mark key="]" line="2011" column="59" />
+        <mark key="^" line="2011" column="59" />
+        <mark key="." line="2011" column="59" />
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
@@ -207,10 +205,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/tsconfig.json" timestamp="1560928010963">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
@@ -422,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
