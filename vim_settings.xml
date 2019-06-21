@@ -9,12 +9,9 @@
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1561007787233" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_global.scss" timestamp="1561014731872" />
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/iframe_layer_controller/iframe_layer_controller.ts" timestamp="1561017508488" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/README.md" timestamp="1560926367074">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,7 +27,6 @@
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/join/join.scss" timestamp="1561011673627" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login/join.ts" timestamp="1561021108219">
         <mark key="]" line="280" column="67" />
         <mark key="^" line="280" column="67" />
@@ -42,7 +38,6 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561011174039" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1560831962253">
         <mark key="[" line="27" column="18" />
       </file>
@@ -82,7 +77,6 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index.js" timestamp="1561007328078" />
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,7 +101,6 @@
       <file name="/HTML File.txt.ft" timestamp="1557601226477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/common/wp_common.js" timestamp="1561007732657" />
       <file name="/Dummy.txt" timestamp="1560198348931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,11 +128,11 @@
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/README.md" timestamp="1561007615341">
         <mark key="[" line="1" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/main.ts" timestamp="1561016973726">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/main.ts" timestamp="1561077212493">
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/tsconfig.json" timestamp="1560732926942">
         <mark key="[" line="5" column="3" />
@@ -150,7 +143,6 @@
       <file name="/fragment.java" timestamp="1557676249146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design-v2/design/js/page_renderer.ts" timestamp="1561017548406" />
     </filemarks>
     <jumps>
       <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -255,8 +247,8 @@
       <jump line="59" column="11" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coTWFpbi5mKCd0ZXN0JykpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -265,34 +257,34 @@
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVjbGFyZSBjb25zdCBVcmxQYXJhbVV0aWw6YW55Owo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coTWFpbi5mKCd0ZXN0JykpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">KCk9PnsKICAgICAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
+        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
+        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxpbnB1dCAiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3Ryc1trXS5hcHBlbmQocmVsYXRpb25ba11bY29sXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>test</text>
