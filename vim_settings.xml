@@ -91,6 +91,11 @@
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_find-v2/simple_user_find.scss" timestamp="1561098858681">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar/header_left_menu.ts" timestamp="1560832702867">
         <mark key="[" line="66" column="22" />
       </file>
@@ -125,7 +130,7 @@
       <file name="D:/LocalDev/README.md" timestamp="1559226473430">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/user_term_and_privacy/user_term_and_privacy.scss" timestamp="1561080314366" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/user_term_and_privacy/user_term_and_privacy.scss" timestamp="1561098758360" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_responsive.scss" timestamp="1561096609323" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/application/pipeline/PaymentPipeline.java" timestamp="1556137335291">
         <mark key="[" line="2" column="16" />
@@ -143,7 +148,7 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design-v2/design/css/design.scss" timestamp="1561096434665">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design-v2/design/css/design.scss" timestamp="1561098751523">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="8" column="43" />
         <mark key="^" line="8" column="43" />
@@ -170,6 +175,7 @@
       <file name="/fragment.java" timestamp="1557676249146">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_find.css" timestamp="1561098830772" />
     </filemarks>
     <jumps>
       <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
@@ -275,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UserStatusData</text>
+        <text>ne</text>
       </register>
       <register name="-" type="4">
-        <text>UserStatusData</text>
+        <text>ne</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
