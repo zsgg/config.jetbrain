@@ -9,10 +9,11 @@
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Desktop.java" timestamp="1556029196750">
         <mark key="[" line="6" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1561344514933">
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-        <mark key="." line="7" column="43" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1561358588261">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="58" column="20" />
+        <mark key="^" line="58" column="20" />
+        <mark key="." line="58" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -60,7 +61,7 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="33" column="24" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1561356837404">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1561356848649">
         <mark key="[" line="30" column="13" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/status_aj_res-sleep.jsp" timestamp="1560826310817">
@@ -291,10 +292,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>none</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
