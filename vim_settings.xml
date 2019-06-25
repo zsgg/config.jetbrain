@@ -98,11 +98,8 @@
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_layer.scss" timestamp="1561437601818">
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="16" column="39" />
-        <mark key="^" line="16" column="39" />
-        <mark key="." line="16" column="39" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_layer.scss" timestamp="1561442851463">
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar/header_left_menu.ts" timestamp="1560832702867">
         <mark key="[" line="66" column="22" />
@@ -149,8 +146,10 @@
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/application/pipeline/PaymentPipeline.java" timestamp="1556137335291">
         <mark key="[" line="2" column="16" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_color.scss" timestamp="1561430799576">
-        <mark key="[" line="22" column="22" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_color.scss" timestamp="1561442813728">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="/package-info.txt.ft" timestamp="1560195955265">
         <mark key="[" line="0" column="0" />
@@ -291,10 +290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
