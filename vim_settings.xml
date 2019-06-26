@@ -15,8 +15,11 @@
         <mark key="^" line="58" column="20" />
         <mark key="." line="58" column="20" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/login_link.scss" timestamp="1561537879681">
-        <mark key="[" line="5" column="2" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/login_link.scss" timestamp="1561540133461">
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="24" />
+        <mark key="^" line="55" column="24" />
+        <mark key="." line="55" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1556033088948">
         <mark key="[" line="0" column="0" />
@@ -52,7 +55,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561537107196">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561539959320">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="452" column="11" />
       </file>
@@ -103,6 +106,9 @@
       </file>
       <file name="/Clipboard.txt" timestamp="1551012964129">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login_link.js" timestamp="1561540422801">
+        <mark key="[" line="105" column="38" />
       </file>
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
