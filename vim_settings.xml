@@ -35,6 +35,12 @@
         <mark key="^" line="24" column="31" />
         <mark key="." line="24" column="31" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/login/resource/css/login_order.scss" timestamp="1561618458612">
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561614573730">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="332" column="17" />
@@ -66,7 +72,7 @@
         <mark key="^" line="60" column="13" />
         <mark key="." line="60" column="13" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login_link.js" timestamp="1561598799688">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/login_link.js" timestamp="1561618674087">
         <mark key="[" line="105" column="38" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_layer.scss" timestamp="1561609435681" />
@@ -82,20 +88,19 @@
         <mark key="^" line="41" column="3" />
         <mark key="." line="41" column="3" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1561511770612">
-        <mark key="]" line="981" column="26" />
-        <mark key="^" line="981" column="26" />
-        <mark key="." line="981" column="26" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_join_complete.scss" timestamp="1561612707603">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_join_complete.scss" timestamp="1561616995209">
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/join_naver.scss" timestamp="1561613951685">
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="2" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/login/resource/js/login_order.js" timestamp="1561619057510">
+        <mark key="[" line="204" column="33" />
+        <mark key="]" line="207" column="8" />
+        <mark key="^" line="207" column="8" />
+        <mark key="." line="207" column="8" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/join_naver.scss" timestamp="1561616453449">
+        <mark key="^" line="7" column="2" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/gssong.html" timestamp="1561522657380">
         <mark key="[" line="17" column="0" />
@@ -103,6 +108,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.js" timestamp="1561617091856" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_css_selector.scss" timestamp="1561359635646">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="6" column="2" />
@@ -214,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
