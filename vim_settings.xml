@@ -14,7 +14,6 @@
         <mark key="^" line="59" column="24" />
         <mark key="." line="59" column="24" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mypage/resource/js/help_design_order_detail-v2/page.js" timestamp="1561706856912" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/login_link_success.scss" timestamp="1561708415422">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="34" column="14" />
@@ -26,9 +25,7 @@
         <mark key="]" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/mall/design/resource/js/design.ts" timestamp="1561701686561" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_find.js" timestamp="1561687501045" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/util/opener/move_page.js" timestamp="1561689587392" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/loading_ui.ts" timestamp="1561711621643" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/iframe_layer_controller/iframe_layer_controller.ts" timestamp="1561444689417">
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="31" />
@@ -43,21 +40,18 @@
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/util/opener/move_page.ts" timestamp="1561690304404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index.js" timestamp="1561687527000" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/in_ts.ts" timestamp="1561342606194">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" timestamp="1561690253525" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_regacy.ts" timestamp="1561706993287">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="105" column="10" />
         <mark key="^" line="105" column="10" />
         <mark key="." line="105" column="10" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/check_util.ts" timestamp="1561708824483" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/js/simple_user_layer.js" timestamp="1561704658156">
         <mark key="'" line="228" column="8" />
         <mark key="[" line="495" column="25" />
@@ -77,38 +71,35 @@
         <mark key="^" line="57" column="52" />
         <mark key="." line="57" column="52" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/opener/full_modal_ctrl.ts" timestamp="1561710146077">
-        <mark key="[" line="118" column="8" />
-        <mark key="]" line="135" column="63" />
-        <mark key="^" line="134" column="61" />
-        <mark key="." line="135" column="0" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/opener/full_modal_ctrl.ts" timestamp="1561711708263">
+        <mark key="[" line="195" column="36" />
+        <mark key="]" line="195" column="36" />
+        <mark key="^" line="195" column="38" />
+        <mark key="." line="195" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1561708888462" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_find.scss" timestamp="1561596805715">
         <mark key="[" line="59" column="1" />
         <mark key="]" line="41" column="3" />
         <mark key="^" line="41" column="3" />
         <mark key="." line="41" column="3" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_join_complete.scss" timestamp="1561707146898">
-        <mark key="[" line="15" column="14" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_join_complete.scss" timestamp="1561712718729">
+        <mark key="[" line="17" column="3" />
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/payment/cornerstone/payment.js" timestamp="1561689653637" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/layer/layer.js" timestamp="1561603196233">
         <mark key="[" line="27" column="125" />
         <mark key="]" line="25" column="3" />
         <mark key="^" line="25" column="3" />
         <mark key="." line="25" column="3" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/global.js" timestamp="1561687676625" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_layout.scss" timestamp="1561707773714">
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="15" />
-        <mark key="^" line="60" column="13" />
-        <mark key="." line="83" column="15" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_layout.scss" timestamp="1561712506155">
+        <mark key="[" line="73" column="2" />
+        <mark key="]" line="72" column="5" />
+        <mark key="^" line="72" column="5" />
+        <mark key="." line="72" column="5" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar/header_right_personal.ts" timestamp="1561708854981">
         <mark key="[" line="100" column="12" />
@@ -119,7 +110,6 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_bizhows_bar.js" timestamp="1561689783270" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_css_selector.scss" timestamp="1561359635646">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="6" column="2" />
@@ -242,11 +232,11 @@
       <jump line="2910" column="38" filename="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/cm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLmNzcyhjc3NQcm9wZXJ0eU92ZXJGbG93WSwgcHJldk92ZXJmbG93WSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>showEffect</text>
       </register>
       <register name="-" type="4">
-        <text>hidden</text>
+        <text>showEffect</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
