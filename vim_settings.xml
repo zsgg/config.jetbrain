@@ -33,10 +33,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/css/index.scss" timestamp="1562124622631">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="20" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/in_ts.ts" timestamp="1561342606194">
         <mark key="[" line="0" column="19" />
@@ -88,6 +88,12 @@
         <mark key="^" line="41" column="3" />
         <mark key="." line="41" column="3" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/wp_responsive_page_import.scss" timestamp="1562132047077">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_join_complete.scss" timestamp="1561712718729">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="15" column="14" />
@@ -133,8 +139,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/css/header_mega_menu.scss" timestamp="1562124668522" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_css_selector.scss" timestamp="1561359635646">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/base/_css_selector.scss" timestamp="1562131962010">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
@@ -250,11 +255,11 @@
       <jump line="705" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/wp/design-service/cornerstone/step_page_renderer.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5wcmV2T3ZlcmZsb3cpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>transparent</text>
       </register>
       <register name="-" type="4">
-        <text>RemoveEvent</text>
+        <text>transparent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
