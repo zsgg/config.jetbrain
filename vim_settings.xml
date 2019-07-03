@@ -32,11 +32,17 @@
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/util/opener/move_page.ts" timestamp="1561690304404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/css/index.scss" timestamp="1562124622631">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="20" />
-        <mark key="." line="60" column="20" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/css/index.scss" timestamp="1562139136487">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="505" column="20" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_mega_menu_banner.ts" timestamp="1562139764163">
+        <mark key="[" line="237" column="68" />
+        <mark key="]" line="234" column="72" />
+        <mark key="." line="234" column="72" />
+        <mark key="^" line="234" column="72" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/_gssong/typescript-option/dir1/in_ts.ts" timestamp="1561342606194">
         <mark key="[" line="0" column="19" />
@@ -256,16 +262,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transparent</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>transparent</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5wcmV2T3ZlcmZsb3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnI2luZGV4TWVnYU1lbnVBbmRCYW5uZXIgPiAubWVnYS1tZW51JykuYXBwZW5kKCRtZW51RG9jKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgLmlmcmFtZS1jb250ZW50ewogICAgcGFkZGluZzogMCA0MHB4OwogIH0KICAmI2ZyYW1lewogICAgaGVpZ2h0OiBhdXRvOwogIH0KICAmI2ZyYW1lIC5oZWFkewogICAgd2lkdGg6IDEwMCU7CiAgfQogICYjZnJhbWUgLmhlYWQgaDF7CiAgICB3aWR0aDogYXV0bzsKICB9CiAgJiNmcmFtZSBwLm1haW5fdGV4dHsKICAgIHdpZHRoOiAxMDAlOwogICAgcGFkZGluZzogMjRweCAwOwogICAgYm94LXNpemluZzogYm9yZGVyLWJveDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIG1hcmdpbjogYXV0bzsKICAgIHdvcmQtYnJlYWs6IGtlZXAtYWxsOwogICAgaGVpZ2h0OiBhdXRvOwogIH0KICAmI2ZyYW1lIC5maW5kX3RhYl93cmFwewogICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgIG1hcmdpbjogYXV0bzsKICAgIHBhZGRpbmc6IDIwcHggMDsKICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICB3aWR0aDogMTAwJTsKICB9CiAgJiNmcmFtZSAuZmluZF90YWJfd3JhcCBkaXZ7CiAgICB3aWR0aDogNTAlOwogIH0KICAmICNmaW5kSWRJbnB1dHsKICAgIHdpZHRoOiAxMDAlOwogICAgbWFyZ2luOiBhdXRvOwogIH0KICAmI2ZyYW1lIC5zaW1wbGVfYnRuX2JsdWV7CiAgICB3aWR0aDogMTAwJTsKICAgIG1hcmdpbjogMjRweCBhdXRvIGF1dG87CiAgfQogICYjZnJhbWUgLm5lZWRfbW9yZV9oZWxwewogICAgbWFyZ2luOiAxNnB4IGF1dG87CiAgfQogICYjZnJhbWUgLmluZm97CiAgICB3aWR0aDogMTAwJTsKICAgIG1hcmdpbjogMzdweCBhdXRvOwogICAgaGVpZ2h0OiBhdXRvOwogIH0KICAmI2ZyYW1lIC5ib3R0b217CiAgICB3aWR0aDogMTAwJTsKICB9</text>
