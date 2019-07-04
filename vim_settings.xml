@@ -3,22 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_vertical_mega_menu_ga.ts" timestamp="1562208164826">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="52" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="52" />
-      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_vertical_mega_menu_ga.ts" timestamp="1562209960580" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1561514749711">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="58" column="20" />
         <mark key="^" line="58" column="20" />
         <mark key="." line="58" column="20" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/login_link.scss" timestamp="1561696417140">
-        <mark key="]" line="59" column="24" />
-        <mark key="^" line="59" column="24" />
-        <mark key="." line="59" column="24" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/login_link_success.scss" timestamp="1561708415422">
         <mark key="[" line="34" column="14" />
@@ -26,8 +16,16 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="40" column="2" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_ga.ts" timestamp="1562208234849">
-        <mark key="[" line="7" column="31" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/slide/SlideCtrl.js" timestamp="1562209288564">
+        <mark key="[" line="128" column="23" />
+        <mark key="]" line="128" column="23" />
+        <mark key="." line="128" column="23" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_ga.ts" timestamp="1562209956920">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/iframe_layer_controller/iframe_layer_controller.ts" timestamp="1561444689417">
         <mark key="[" line="24" column="31" />
@@ -52,11 +50,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_mega_menu.ts" timestamp="1562206689986" />
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_regacy.ts" timestamp="1562040312058">
-        <mark key="]" line="101" column="10" />
-        <mark key="^" line="101" column="10" />
-        <mark key="." line="101" column="10" />
-      </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/check_util.ts" timestamp="1562040373650">
         <mark key="[" line="36" column="5" />
       </file>
@@ -79,16 +72,11 @@
         <mark key="^" line="57" column="52" />
         <mark key="." line="57" column="52" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/opener/full_modal_ctrl.ts" timestamp="1561969812228">
-        <mark key="[" line="4" column="0" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/opener/full_modal_ctrl.ts" timestamp="1562210278342">
+        <mark key="[" line="222" column="150" />
         <mark key="]" line="123" column="38" />
         <mark key="^" line="123" column="38" />
         <mark key="." line="123" column="38" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_silver_bar.ts" timestamp="1561967076333">
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1562207992427" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_find.scss" timestamp="1561596805715">
@@ -268,16 +256,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>클릭</text>
+        <text>content_item</text>
       </register>
       <register name="-" type="4">
-        <text>클릭</text>
+        <text>content_item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI2luZGV4TWVnYU1lbnVBbmRCYW5uZXIgPiAubWVnYS1tZW51JykuYXBwZW5kKCRtZW51RG9jKTsK</text>
+        <text encoding="base64">CSAgICAJLmFkZENsYXNzKCdjb250ZW50X2l0ZW0nKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgLmlmcmFtZS1jb250ZW50ewogICAgcGFkZGluZzogMCA0MHB4OwogIH0KICAmI2ZyYW1lewogICAgaGVpZ2h0OiBhdXRvOwogIH0KICAmI2ZyYW1lIC5oZWFkewogICAgd2lkdGg6IDEwMCU7CiAgfQogICYjZnJhbWUgLmhlYWQgaDF7CiAgICB3aWR0aDogYXV0bzsKICB9CiAgJiNmcmFtZSBwLm1haW5fdGV4dHsKICAgIHdpZHRoOiAxMDAlOwogICAgcGFkZGluZzogMjRweCAwOwogICAgYm94LXNpemluZzogYm9yZGVyLWJveDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIG1hcmdpbjogYXV0bzsKICAgIHdvcmQtYnJlYWs6IGtlZXAtYWxsOwogICAgaGVpZ2h0OiBhdXRvOwogIH0KICAmI2ZyYW1lIC5maW5kX3RhYl93cmFwewogICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgIG1hcmdpbjogYXV0bzsKICAgIHBhZGRpbmc6IDIwcHggMDsKICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICB3aWR0aDogMTAwJTsKICB9CiAgJiNmcmFtZSAuZmluZF90YWJfd3JhcCBkaXZ7CiAgICB3aWR0aDogNTAlOwogIH0KICAmICNmaW5kSWRJbnB1dHsKICAgIHdpZHRoOiAxMDAlOwogICAgbWFyZ2luOiBhdXRvOwogIH0KICAmI2ZyYW1lIC5zaW1wbGVfYnRuX2JsdWV7CiAgICB3aWR0aDogMTAwJTsKICAgIG1hcmdpbjogMjRweCBhdXRvIGF1dG87CiAgfQogICYjZnJhbWUgLm5lZWRfbW9yZV9oZWxwewogICAgbWFyZ2luOiAxNnB4IGF1dG87CiAgfQogICYjZnJhbWUgLmluZm97CiAgICB3aWR0aDogMTAwJTsKICAgIG1hcmdpbjogMzdweCBhdXRvOwogICAgaGVpZ2h0OiBhdXRvOwogIH0KICAmI2ZyYW1lIC5ib3R0b217CiAgICB3aWR0aDogMTAwJTsKICB9</text>
