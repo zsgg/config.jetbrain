@@ -20,11 +20,11 @@
         <mark key="]" line="128" column="23" />
         <mark key="." line="128" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_ga.ts" timestamp="1562290149332">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_ga.ts" timestamp="1562292764468">
         <mark key="[" line="24" column="5" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/iframe_layer_controller/iframe_layer_controller.ts" timestamp="1561444689417">
         <mark key="[" line="24" column="31" />
@@ -43,6 +43,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_mega_menu.ts" timestamp="1562292860582">
+        <mark key="[" line="303" column="41" />
+        <mark key="]" line="298" column="20" />
+        <mark key="^" line="298" column="20" />
+        <mark key="." line="298" column="20" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/check_util.ts" timestamp="1562040373650">
         <mark key="[" line="36" column="5" />
@@ -248,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content_item</text>
+        <text>배너</text>
       </register>
       <register name="-" type="4">
-        <text>content_item</text>
+        <text>배너</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
