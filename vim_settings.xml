@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_vertical_mega_menu_ga.ts" timestamp="1562209960580" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/responsive_scss/global_common.scss" timestamp="1561514749711">
         <mark key="[" line="53" column="19" />
         <mark key="]" line="58" column="20" />
@@ -21,8 +20,8 @@
         <mark key="]" line="128" column="23" />
         <mark key="." line="128" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_ga.ts" timestamp="1562209956920">
-        <mark key="[" line="36" column="30" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/resource/js/index/index_ga.ts" timestamp="1562290149332">
+        <mark key="[" line="24" column="5" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -45,7 +44,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_mega_menu.ts" timestamp="1562206689986" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/util/check_util.ts" timestamp="1562040373650">
         <mark key="[" line="36" column="5" />
       </file>
@@ -74,7 +72,6 @@
         <mark key="^" line="123" column="38" />
         <mark key="." line="123" column="38" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_top_banner.ts" timestamp="1562207992427" />
       <file name="C:/Work/Miridih/dev_web/bizhows-web/member/resource/css/simple_user_find.scss" timestamp="1561596805715">
         <mark key="[" line="59" column="1" />
         <mark key="]" line="41" column="3" />
