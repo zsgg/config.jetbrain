@@ -33,6 +33,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Api.ts" timestamp="1562749467435">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
@@ -91,6 +96,9 @@
         <mark key="]" line="124" column="26" />
         <mark key="^" line="124" column="26" />
         <mark key="." line="124" column="26" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Api.ts" timestamp="1562749417563">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
@@ -154,6 +162,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/step3_cart.jsp" timestamp="1562725425630" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/tsconfig.json" timestamp="1562749337198">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
       <file name="D:/Project/test-intellij-algo2/src/test/java/___sample.java" timestamp="1554733880887">
         <mark key="[" line="1" column="0" />
       </file>
@@ -349,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>..</text>
+        <text>Api</text>
       </register>
       <register name="-" type="4">
-        <text>..</text>
+        <text>Api</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
