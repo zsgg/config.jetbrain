@@ -59,7 +59,6 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
-      <file name="D:/Code Personal/qmk_firmware/keyboards/planck/ez/keymaps/zsgg/keymap.c" timestamp="1562859773600" />
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
         <mark key="]" line="55" column="8" />
@@ -230,6 +229,12 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
+      <file name="D:/Code Personal/qmk_firmware/.build/run_hhkb_zsgg_planck.cmd" timestamp="1562863033696">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="10" column="12" />
@@ -359,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kbd6x</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>kbd6x</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
