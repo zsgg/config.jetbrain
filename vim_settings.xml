@@ -40,6 +40,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/Code Personal/qmk_firmware/keyboards/planck/ez/config.h" timestamp="1562850460093">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
       </file>
@@ -157,7 +162,6 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="D:/Code Personal/qmk_firmware/keyboards/planck/ez/zsgg/keymap.c" timestamp="1562348568414" />
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="33" column="7" />
@@ -377,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subicura</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>subicura</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
