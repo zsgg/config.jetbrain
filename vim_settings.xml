@@ -33,12 +33,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" timestamp="1557598557071">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/Code Personal/qmk_firmware/keyboards/planck/ez/config.h" timestamp="1562857266455">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/pattern/_3/Command.java" timestamp="1556136811431">
         <mark key="[" line="2" column="22" />
@@ -54,10 +52,6 @@
       </file>
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" timestamp="1557676559899">
-        <mark key="'" line="64" column="11" />
-        <mark key="n" line="68" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -83,16 +77,14 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1557346817717">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="D:/LocalDev/vm/README.md" timestamp="1559232407232">
-        <mark key="[" line="72" column="1" />
+      <file name="D:/LocalDev/vm/README.md" timestamp="1560280706558">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/GlobalConfig.java" timestamp="1557606691457">
         <mark key="]" line="27" column="28" />
@@ -104,6 +96,9 @@
         <mark key="]" line="124" column="26" />
         <mark key="^" line="124" column="26" />
         <mark key="." line="124" column="26" />
+      </file>
+      <file name="D:/Code Personal/qmk_firmware/.build/run_compile_zsgg.cmd" timestamp="1562857624778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/level1/_test1.java" timestamp="1555148379959">
         <mark key="[" line="18" column="56" />
@@ -135,12 +130,11 @@
       <file name="vim_settings.xml" timestamp="1557346766326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/TestHandler.java" timestamp="1558442683884">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="63" column="1" />
-        <mark key="^" line="63" column="1" />
-        <mark key="." line="63" column="1" />
+      <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1560206179192">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
         <mark key="]" line="197" column="74" />
@@ -152,13 +146,6 @@
         <mark key="]" line="41" column="4" />
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
-      </file>
-      <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/action/ResetModeAction.java" timestamp="1557344570905">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="5" />
-        <mark key="." line="34" column="5" />
-        <mark key="^" line="34" column="5" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
@@ -183,8 +170,8 @@
       <file name="/HTML File.txt.ft" timestamp="1557601226477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/docker/docker-compose.yml" timestamp="1560198406653">
-        <mark key="[" line="4" column="0" />
+      <file name="D:/LocalDev/vm/oooo.config/docker/docker-compose.yml" timestamp="1560199235619">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="13" column="15" />
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
@@ -195,11 +182,13 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="D:/Code Test/test-webstrom/index.html" timestamp="1560254660361">
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1560198348931">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/SftpClient.java" timestamp="1557600768319">
         <mark key="[" line="29" column="1" />
@@ -240,18 +229,17 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
+      <file name="D:/Code Personal/qmk_firmware/.build/run_hhkb_zsgg_planck.cmd" timestamp="1562938119311">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="10" column="12" />
         <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="12" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/pom.xml" timestamp="1557655830448">
-        <mark key="'" line="857" column="25" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="632" column="0" />
-        <mark key="." line="632" column="0" />
-        <mark key="^" line="632" column="0" />
       </file>
       <file name="D:/Code Study/algo-programers/src/main/java/work_draft/Test.java" timestamp="1559585575897">
         <mark key="[" line="11" column="5" />
@@ -264,6 +252,12 @@
       </file>
       <file name="/fragment.java" timestamp="1557676249146">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Personal/qmk_firmware/run_compile_zsgg_planck_ez.cmd" timestamp="1562857313538">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -370,10 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
