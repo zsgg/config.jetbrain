@@ -23,28 +23,27 @@
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="alt p" />
-    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">

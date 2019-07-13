@@ -103,11 +103,11 @@
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
       </file>
-      <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1560193436405">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="4" />
+      <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1563037566210">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGAuthResult.java" timestamp="1557599648670">
         <mark key="[" line="8" column="13" />
@@ -393,6 +393,8 @@
       <last-search encoding="base64">XDxtaXJpZGloXD4=</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxtaXJpZGloXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxtaXJpZGloXD4=</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
