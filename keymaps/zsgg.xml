@@ -9,6 +9,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
@@ -20,7 +21,7 @@
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -31,9 +32,6 @@
   </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -51,7 +49,7 @@
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt quote" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
