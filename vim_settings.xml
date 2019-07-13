@@ -80,6 +80,16 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563046872496">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="118" column="5" />
+        <mark key="]" line="118" column="4" />
+        <mark key="^" line="118" column="4" />
+        <mark key="." line="118" column="4" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563045427743">
+        <mark key="a" line="39" column="23" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
       </file>
@@ -150,11 +160,11 @@
       <file name="D:/Code Study/algo-logic-test/src/test/java/test/baekjoon/Test.java" timestamp="1560287040470">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/change/delete/DeleteJoinVisualLinesSpacesAction.java" timestamp="1563044416113">
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="7" />
-        <mark key="^" line="48" column="7" />
-        <mark key="." line="53" column="45" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/change/delete/DeleteJoinVisualLinesSpacesAction.java" timestamp="1563045472568">
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="10" />
+        <mark key="^" line="52" column="10" />
+        <mark key="." line="52" column="10" />
       </file>
       <file name="D:/LocalDev/vm/Vagrantfile" timestamp="1559319888952">
         <mark key="[" line="41" column="5" />
@@ -197,7 +207,13 @@
         <mark key="^" line="61" column="58" />
         <mark key="." line="61" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560198348931">
+      <file name="D:/Code Personal/git-idea-vim/test/org/jetbrains/plugins/ideavim/action/MotionActionTest.java" timestamp="1563046693170">
+        <mark key="[" line="43" column="65" />
+        <mark key="]" line="44" column="26" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563046560025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/SftpClient.java" timestamp="1557600768319">
@@ -260,15 +276,11 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1557676249146">
+      <file name="/fragment.java" timestamp="1563046560035">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="60" column="21" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="59" column="35" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
-      <jump line="55" column="26" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="53" column="25" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="54" column="40" filename="D:/Work/Miridih/user-service/src/main/java/com/miridih/api/user/controller/SignInController.java" />
       <jump line="14" column="0" filename="D:/Work/Miridih/web-java/src/checker/TemplateThemeGroupBeanChecker.java" />
@@ -365,6 +377,10 @@
       <jump line="10" column="0" filename="D:/Wiki/zsgg.github.io/note/g/OpenSSL ssl ssh https.md" />
       <jump line="856" column="25" filename="D:/Work/Miridih/web-java/pom.xml" />
       <jump line="59" column="11" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" />
+      <jump line="180" column="39" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="0" column="0" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="8" column="2" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="21" column="0" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -384,6 +400,9 @@
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZG9ja2VyIHB1c2ggcHVsbCDA2rW/yK0K</text>
