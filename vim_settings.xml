@@ -56,6 +56,9 @@
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563049830306">
+        <mark key="'" line="95" column="1" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
         <mark key="]" line="10" column="130" />
@@ -80,12 +83,12 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563047782200">
-        <mark key="'" line="279" column="6" />
-        <mark key="[" line="118" column="5" />
-        <mark key="]" line="118" column="4" />
-        <mark key="^" line="118" column="4" />
-        <mark key="." line="118" column="4" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563049251337">
+        <mark key="'" line="190" column="12" />
+        <mark key="[" line="36" column="13" />
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563045427743">
         <mark key="a" line="39" column="23" />
@@ -281,12 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test2.java" />
-      <jump line="34" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" />
-      <jump line="41" column="44" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_5.java" />
-      <jump line="38" column="54" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="8" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="41" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="7" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="22" column="47" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="26" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
@@ -381,16 +378,22 @@
       <jump line="251" column="0" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
       <jump line="245" column="4" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
       <jump line="279" column="6" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="197" column="18" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="224" column="12" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="190" column="12" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" />
+      <jump line="77" column="6" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
+      <jump line="42" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
+      <jump line="95" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>..</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
