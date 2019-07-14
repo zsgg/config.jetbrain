@@ -56,8 +56,8 @@
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563049830306">
-        <mark key="'" line="95" column="1" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563084797706">
+        <mark key="'" line="41" column="1" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -284,8 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="22" column="47" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="26" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="25" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="17" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
@@ -384,6 +382,8 @@
       <jump line="77" column="6" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="42" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="95" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
+      <jump line="94" column="16" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
+      <jump line="41" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
