@@ -33,11 +33,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c12dcf1c-eb64-4cd1-a167-15ff2a2cfa31/console.sql" timestamp="1560198358024">
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Set.java" timestamp="1563042186404">
         <mark key="[" line="74" column="6" />
       </file>
@@ -56,8 +51,12 @@
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563084797706">
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563195995718">
         <mark key="'" line="41" column="1" />
+        <mark key="[" line="210" column="9" />
+        <mark key="]" line="210" column="8" />
+        <mark key="^" line="210" column="8" />
+        <mark key="." line="210" column="8" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -101,11 +100,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="^" line="33" column="7" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/GlobalConfig.java" timestamp="1557606691457">
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
       </file>
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/ex/CommandParser.java" timestamp="1557345558170">
         <mark key="[" line="124" column="0" />
@@ -155,17 +149,11 @@
       <file name="vim_settings.xml" timestamp="1563030056017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/PatternListTestClassFilter.java" timestamp="1563194021093" />
       <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1563041319992">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="22" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISAuthResult.java" timestamp="1557599952229">
-        <mark key="]" line="197" column="74" />
-        <mark key="^" line="197" column="74" />
-        <mark key="." line="197" column="74" />
       </file>
       <file name="D:/Code Study/algo-logic-test/src/test/java/test/baekjoon/Test.java" timestamp="1560287040470">
         <mark key="[" line="2" column="19" />
@@ -182,6 +170,12 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/resources/META-INF/plugin.xml" timestamp="1563195875813">
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="118" column="3" />
+        <mark key="^" line="118" column="3" />
+        <mark key="." line="118" column="3" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
       </file>
@@ -193,11 +187,6 @@
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
-      </file>
-      <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" timestamp="1557603037742">
-        <mark key="]" line="181" column="16" />
-        <mark key="^" line="181" column="16" />
-        <mark key="." line="181" column="16" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
@@ -258,6 +247,12 @@
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/test/org/jetbrains/plugins/ideavim/action/AutoIndentTest.java" timestamp="1563196033477">
+        <mark key="[" line="91" column="16" />
+        <mark key="]" line="91" column="1" />
+        <mark key="^" line="91" column="1" />
+        <mark key="." line="91" column="1" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
@@ -394,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text>|l|</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -405,8 +400,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxhcnRpZmFjdElkPnRlc3R0dHQ8L2FydGlmYWN0SWQ+Cg==</text>
+      <register name="0" type="4">
+        <text>|l|</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
