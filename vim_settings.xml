@@ -70,6 +70,13 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/asdfasdf.java" timestamp="1563200522792">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
         <mark key="]" line="55" column="8" />
@@ -284,6 +291,12 @@
         <mark key="^" line="37" column="19" />
         <mark key="." line="37" column="19" />
       </file>
+      <file name="$USER_HOME$/Downloads/planck_ez_default-t2_3vBoD(2)/planck_ez_default-t2_source/keymap.c" timestamp="1563200518408">
+        <mark key="[" line="221" column="7" />
+        <mark key="]" line="221" column="6" />
+        <mark key="^" line="221" column="6" />
+        <mark key="." line="221" column="6" />
+      </file>
       <file name="D:/Code Study/algo-programers/src/main/java/work_draft/Test.java" timestamp="1559585575897">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="10" column="23" />
@@ -298,8 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="17" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="24" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="16" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="117" column="25" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" />
@@ -398,16 +409,18 @@
       <jump line="94" column="16" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="41" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="36" column="13" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" />
+      <jump line="3" column="3" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/asdfasdf.java" />
+      <jump line="2" column="0" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/asdfasdf.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|l|</text>
+        <text>f</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
