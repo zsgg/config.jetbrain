@@ -84,14 +84,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563049251337">
-        <mark key="'" line="190" column="12" />
         <mark key="[" line="36" column="13" />
         <mark key="]" line="36" column="22" />
         <mark key="^" line="36" column="22" />
         <mark key="." line="36" column="22" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563045427743">
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563194909631">
         <mark key="a" line="39" column="23" />
+        <mark key="[" line="40" column="42" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
@@ -118,6 +118,12 @@
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_2.java" timestamp="1555683163281">
         <mark key="[" line="2" column="22" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/test/org/jetbrains/plugins/ideavim/ex/MapCommandTest.java" timestamp="1563194474701">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="9" />
+        <mark key="." line="19" column="9" />
       </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1563040979155">
         <mark key="[" line="25" column="0" />
@@ -149,6 +155,7 @@
       <file name="vim_settings.xml" timestamp="1563030056017">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/PatternListTestClassFilter.java" timestamp="1563194021093" />
       <file name="D:/LocalDev/vm/oooo.config/docker/Dockerfile.nginx" timestamp="1563041319992">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="22" />
