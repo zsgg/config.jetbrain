@@ -1,9 +1,4 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Source Code Pro" />
-    <option name="LINE_SPACING" value="1.2" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
