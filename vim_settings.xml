@@ -18,13 +18,19 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/ide/CharToVKeyMap.java" timestamp="1563198082998">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="42" column="43" />
         <mark key="^" line="42" column="43" />
         <mark key="." line="42" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1556033088948">
+      <file name="/a.dummy" timestamp="1563198814280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/factory/AbstractFactory.java" timestamp="1556027378849">
@@ -82,11 +88,11 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563049251337">
-        <mark key="[" line="36" column="13" />
-        <mark key="]" line="36" column="22" />
-        <mark key="^" line="36" column="22" />
-        <mark key="." line="36" column="22" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563198334471">
+        <mark key="[" line="70" column="10" />
+        <mark key="]" line="74" column="9" />
+        <mark key="^" line="74" column="9" />
+        <mark key="." line="74" column="9" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563194909631">
         <mark key="a" line="39" column="23" />
@@ -118,6 +124,9 @@
         <mark key="]" line="19" column="9" />
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563198603657">
+        <mark key="'" line="36" column="13" />
       </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1563040979155">
         <mark key="[" line="25" column="0" />
@@ -242,7 +251,9 @@
         <mark key="^" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/awt/event/KeyEvent.java" timestamp="1563196676469" />
+      <file name="C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/awt/event/KeyEvent.java" timestamp="1563198087583">
+        <mark key="[" line="561" column="65" />
+      </file>
       <file name="/package-info.txt.ft" timestamp="1560195955265">
         <mark key="[" line="0" column="0" />
       </file>
@@ -282,12 +293,11 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1563046560035">
+      <file name="/fragment.java" timestamp="1563198369430">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="25" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="17" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
       <jump line="24" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
@@ -387,6 +397,7 @@
       <jump line="95" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="94" column="16" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="41" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
+      <jump line="36" column="13" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -399,7 +410,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaXJpZGloXD4=</text>
+        <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>|l|</text>
@@ -439,9 +450,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaXJpZGloXD4=</last-search>
+      <last-search encoding="base64">XDxQc2lIZWxwZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaXJpZGloXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQc2lIZWxwZXJcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxtaXJpZGloXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -462,6 +473,7 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>cc</entry>
         <entry encoding="base64">XDxtaXJpZGloXD4=</entry>
+        <entry encoding="base64">XDxQc2lIZWxwZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>test</entry>
