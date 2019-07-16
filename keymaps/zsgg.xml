@@ -24,6 +24,10 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
@@ -32,6 +36,10 @@
   </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt r" />
