@@ -57,6 +57,12 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_mega_menu.ts" timestamp="1563260968013">
+        <mark key="[" line="360" column="20" />
+        <mark key="]" line="360" column="19" />
+        <mark key="^" line="360" column="19" />
+        <mark key="." line="360" column="19" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
         <mark key="]" line="55" column="8" />
@@ -74,6 +80,12 @@
       </file>
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/global/page_init_data/site_map_data.ts" timestamp="1563260084315">
+        <mark key="[" line="188" column="70" />
+        <mark key="]" line="188" column="74" />
+        <mark key="^" line="188" column="74" />
+        <mark key="." line="188" column="74" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
@@ -368,14 +380,14 @@
       <jump line="59" column="11" filename="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/extension/VimExtensionFacade.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>eventLabel</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>..</text>
+        <text>eventLabel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
