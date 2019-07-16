@@ -135,6 +135,12 @@
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563198603657">
         <mark key="'" line="36" column="13" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/MotionRightAction.java" timestamp="1563284216632">
+        <mark key="[" line="47" column="3" />
+        <mark key="]" line="49" column="3" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="49" column="3" />
+      </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant/vagrant-setup.sh" timestamp="1563040979155">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -312,7 +318,7 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1563282849718">
+      <file name="/fragment.java" timestamp="1563284360484">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
