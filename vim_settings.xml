@@ -138,12 +138,13 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563374712048">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/psi/PsiElement.java" timestamp="1563375829983" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563375284612">
         <mark key="'" line="36" column="13" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+        <mark key="[" line="97" column="30" />
+        <mark key="]" line="97" column="29" />
+        <mark key="^" line="97" column="29" />
+        <mark key="." line="97" column="29" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/MotionRightAction.java" timestamp="1563284216632">
         <mark key="[" line="47" column="3" />

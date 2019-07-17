@@ -75,6 +75,10 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
+  </action>
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
