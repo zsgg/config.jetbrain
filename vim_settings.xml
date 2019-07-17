@@ -30,7 +30,7 @@
         <mark key="^" line="42" column="43" />
         <mark key="." line="42" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1563198814280">
+      <file name="/a.dummy" timestamp="1563377950485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/factory/AbstractFactory.java" timestamp="1556027378849">
@@ -94,6 +94,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/command/asdfasdfasdfasdf.java" timestamp="1563379860173" />
       <file name="D:/Code Personal/git-idea-vim/src/_test/aaa.jsp" timestamp="1563370789672">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="11" />
@@ -106,10 +107,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="54" column="0" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563194909631">
-        <mark key="a" line="39" column="23" />
-        <mark key="[" line="40" column="42" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/MobileCard.java" timestamp="1556027686883">
         <mark key="[" line="2" column="24" />
@@ -137,6 +134,12 @@
         <mark key="]" line="19" column="9" />
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/handler/EditorActionHandlerBase.java" timestamp="1563380015807">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="^" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/psi/PsiElement.java" timestamp="1563375829983" />
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563375284612">
@@ -209,14 +212,20 @@
         <mark key="^" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/command/Testb.java" timestamp="1563380026040">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+      </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/command/Command.java" timestamp="1563377163044">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="43" column="4" />
-        <mark key="^" line="43" column="4" />
-        <mark key="." line="43" column="4" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/command/Command.java" timestamp="1563378855400">
+        <mark key="[" line="115" column="16" />
+        <mark key="]" line="115" column="19" />
+        <mark key="^" line="115" column="19" />
+        <mark key="." line="115" column="19" />
       </file>
       <file name="/a.sql" timestamp="1560198348923">
         <mark key="[" line="0" column="0" />
@@ -226,6 +235,9 @@
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/Mobile.java" timestamp="1556029190795">
         <mark key="[" line="6" column="7" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/command/Testaa.java" timestamp="1563378975164">
+        <mark key="[" line="5" column="5" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_1.java" timestamp="1555684218876">
         <mark key="[" line="108" column="38" />
@@ -251,7 +263,7 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563046560025">
+      <file name="/Dummy.txt" timestamp="1563379120819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/checker/SftpClient.java" timestamp="1557600768319">
@@ -259,6 +271,12 @@
       </file>
       <file name="D:/LocalDev/README.md" timestamp="1559226473430">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/command/MappingMode.java" timestamp="1563379735370">
+        <mark key="[" line="41" column="9" />
+        <mark key="]" line="42" column="1" />
+        <mark key="^" line="42" column="1" />
+        <mark key="." line="42" column="1" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/Builder.java" timestamp="1556028476565">
         <mark key="[" line="2" column="16" />
@@ -335,7 +353,7 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1563364381639">
+      <file name="/fragment.java" timestamp="1563378962419">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -443,13 +461,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>*</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
