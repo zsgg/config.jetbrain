@@ -18,17 +18,17 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/ide/CharToVKeyMap.java" timestamp="1563198082998">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="42" column="43" />
         <mark key="^" line="42" column="43" />
         <mark key="." line="42" column="43" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2018.2.5/33987790f3474de4898d462469161390d27633b1/ideaIC-2018.2.5-sources.jar!/com/intellij/ide/CharToVKeyMap.java" timestamp="1563198082998">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1563198814280">
         <mark key="[" line="0" column="0" />
@@ -69,6 +69,12 @@
         <mark key="]" line="10" column="130" />
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/header/resource/js/header_mega_menu.ts" timestamp="1563323580355">
+        <mark key="[" line="402" column="35" />
+        <mark key="]" line="402" column="37" />
+        <mark key="^" line="402" column="37" />
+        <mark key="." line="402" column="37" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/asdfasdf.java" timestamp="1563200839840">
         <mark key="'" line="2" column="0" />
@@ -285,6 +291,12 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
+      <file name="$USER_HOME$/Downloads/planck_ez_default-t2_3vBoD(2)/planck_ez_default-t2_source/keymap.c" timestamp="1563200518408">
+        <mark key="[" line="221" column="7" />
+        <mark key="]" line="221" column="6" />
+        <mark key="^" line="221" column="6" />
+        <mark key="." line="221" column="6" />
+      </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/MotionLastColumnAction.java" timestamp="1563201062144">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -302,12 +314,6 @@
         <mark key="]" line="37" column="19" />
         <mark key="^" line="37" column="19" />
         <mark key="." line="37" column="19" />
-      </file>
-      <file name="$USER_HOME$/Downloads/planck_ez_default-t2_3vBoD(2)/planck_ez_default-t2_source/keymap.c" timestamp="1563200518408">
-        <mark key="[" line="221" column="7" />
-        <mark key="]" line="221" column="6" />
-        <mark key="^" line="221" column="6" />
-        <mark key="." line="221" column="6" />
       </file>
       <file name="D:/Code Study/algo-programers/src/main/java/work_draft/Test.java" timestamp="1559585575897">
         <mark key="[" line="11" column="5" />
