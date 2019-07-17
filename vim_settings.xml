@@ -57,12 +57,12 @@
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563195995718">
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563373392417">
         <mark key="'" line="41" column="1" />
-        <mark key="[" line="210" column="9" />
-        <mark key="]" line="210" column="8" />
-        <mark key="^" line="210" column="8" />
-        <mark key="." line="210" column="8" />
+        <mark key="[" line="215" column="91" />
+        <mark key="]" line="221" column="2" />
+        <mark key="^" line="221" column="2" />
+        <mark key="." line="221" column="2" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
@@ -100,12 +100,12 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563363061825">
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563373136727">
         <mark key="'" line="115" column="4" />
-        <mark key="[" line="52" column="2" />
-        <mark key="]" line="52" column="2" />
-        <mark key="^" line="67" column="28" />
-        <mark key="." line="52" column="2" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563194909631">
         <mark key="a" line="39" column="23" />
@@ -138,8 +138,12 @@
         <mark key="^" line="19" column="9" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563198603657">
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/PsiHelper.java" timestamp="1563374712048">
         <mark key="'" line="36" column="13" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/MotionRightAction.java" timestamp="1563284216632">
         <mark key="[" line="47" column="3" />
