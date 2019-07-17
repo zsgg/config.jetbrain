@@ -11,12 +11,12 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="z aa" value="/**" toReformat="false" toShortenFQNames="true">
+  <template name="z aa" value="/**" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="z a" value="/*" toReformat="false" toShortenFQNames="true">
+  <template name="z a" value="/*" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
