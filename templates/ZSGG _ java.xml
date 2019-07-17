@@ -1,5 +1,5 @@
 <templateSet group="ZSGG : java">
-  <template name="z main" value="public static void main(String[] args){&#10;  $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="z main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -10,7 +10,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="z foreach" value="for ($i$ : $data$) {&#10;    $cursor$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="z foreach" value="for ($i$ : $data$) {&#10;    $cursor$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />

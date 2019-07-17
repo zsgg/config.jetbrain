@@ -94,6 +94,12 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code Personal/git-idea-vim/src/_test/aaa.jsp" timestamp="1563362602533">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563285084035">
         <mark key="'" line="115" column="4" />
         <mark key="[" line="51" column="0" />
@@ -318,7 +324,7 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1563284987788">
+      <file name="/fragment.java" timestamp="1563362716532">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

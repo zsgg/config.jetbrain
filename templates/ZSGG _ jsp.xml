@@ -1,0 +1,7 @@
+<templateSet group="ZSGG : jsp">
+  <template name="z tag" value="&lt;%=%&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
