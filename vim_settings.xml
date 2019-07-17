@@ -94,11 +94,11 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/_test/aaa.jsp" timestamp="1563362770291">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/Code Personal/git-idea-vim/src/_test/aaa.jsp" timestamp="1563370789672">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="11" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="11" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563363061825">
         <mark key="'" line="115" column="4" />
@@ -432,13 +432,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text />
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
