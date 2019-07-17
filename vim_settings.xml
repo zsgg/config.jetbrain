@@ -94,18 +94,18 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/_test/aaa.jsp" timestamp="1563362602533">
+      <file name="D:/Code Personal/git-idea-vim/src/_test/aaa.jsp" timestamp="1563362770291">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563285084035">
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/helper/StringHelper.java" timestamp="1563363061825">
         <mark key="'" line="115" column="4" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="67" column="28" />
+        <mark key="[" line="52" column="2" />
+        <mark key="]" line="52" column="2" />
         <mark key="^" line="67" column="28" />
-        <mark key="." line="67" column="28" />
+        <mark key="." line="52" column="2" />
       </file>
       <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/ex/handler/MarkHandler.java" timestamp="1563194909631">
         <mark key="a" line="39" column="23" />
@@ -291,11 +291,11 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/MotionLastColumnAction.java" timestamp="1563201062144">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
+      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/action/motion/leftright/MotionLastColumnAction.java" timestamp="1563363087902">
+        <mark key="[" line="61" column="1" />
+        <mark key="]" line="61" column="1" />
         <mark key="^" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+        <mark key="." line="61" column="1" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -324,7 +324,7 @@
       <file name="D:/Project/git-idea-vim/src/com/maddyhome/idea/vim/group/KeyGroup.java" timestamp="1557435726702">
         <mark key="[" line="61" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1563362716532">
+      <file name="/fragment.java" timestamp="1563362817968">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -432,13 +432,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>b</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
