@@ -88,6 +88,12 @@
         <mark key="^" line="402" column="37" />
         <mark key="." line="402" column="37" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563497425814">
+        <mark key="[" line="136" column="29" />
+        <mark key="]" line="136" column="34" />
+        <mark key="." line="136" column="34" />
+        <mark key="^" line="136" column="34" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
         <mark key="]" line="55" column="8" />
@@ -515,19 +521,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>pov_seq[]</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>pov_seq[]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzIDInKTsK</text>
+        <text encoding="base64">ICAgICAgICBmYWlsX3BhZ2U6IG51bWJlcjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -536,7 +542,7 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGV4cG9ydCBmdW5jdGlvbiBnZXRDb21tb2RpdGllc0luZm8oKTogSlF1ZXJ5UHJvbWlzZTxDb21tb2RpdGllc0luZm8+IHsKICAgICAgICByZXR1cm4gY2FsbDxDb21tb2RpdGllc0luZm8+KHsKICAgICAgICAgICAgZGF0YToge30sCiAgICAgICAgICAgIHVybDogJy9zZXJ2bGV0L2FwaS9iaXpob3dzL3ZpZXdzL3ByaW50aW5nL3N0ZXAzLWNhcnQvY29tbW9kaXRpZXMtaW5mbycsCiAgICAgICAgICAgIHR5cGU6ICdHRVQnCiAgICAgICAgfSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgID0gMzI0O3sK</text>
