@@ -88,12 +88,12 @@
         <mark key="^" line="402" column="37" />
         <mark key="." line="402" column="37" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563518616204">
-        <mark key="'" line="69" column="43" />
-        <mark key="[" line="197" column="21" />
-        <mark key="]" line="197" column="14" />
-        <mark key="^" line="197" column="14" />
-        <mark key="." line="197" column="14" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563524605211">
+        <mark key="'" line="77" column="23" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="42" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -107,11 +107,11 @@
         <mark key="^" line="158" column="17" />
         <mark key="." line="158" column="17" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3CommodityData.ts" timestamp="1563522129041">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3CommodityData.ts" timestamp="1563524349675">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="32" />
       </file>
       <file name="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3.java" timestamp="1555776039963">
         <mark key="[" line="14" column="3" />
@@ -376,6 +376,9 @@
         <mark key="^" line="91" column="1" />
         <mark key="." line="91" column="1" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1563524551666">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
@@ -420,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
-      <jump line="12" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="2" column="13" filename="D:/Project/algo-programers/src/main/java/work/inipay/element/InputElement.java" />
       <jump line="0" column="0" filename="D:/Work/Miridih/web-java/src/com/sure/smilecat/order3/OrderBo.java" />
       <jump line="40" column="48" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGModuleFactory.java" />
@@ -520,10 +521,12 @@
       <jump line="222" column="42" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" />
       <jump line="69" column="43" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" />
       <jump line="29" column="7" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Main.ts" />
+      <jump line="77" column="23" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" />
+      <jump line="49" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>extends</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIGV4cG9ydCBmdW5jdGlvbiB0b2dnbGVFeHByZXNzT3B0aW9uKGRhdGE6IHsKICAgICAgICBjb21tb2RpdHlJZHhMaXN0OiBudW1iZXJbXTsKICAgIH0pOiBKUXVlcnlQcm9taXNlPHZvaWQ+IHsKICAgICAgICBjb25zdCBjb252ZXJ0ZWREYXRhID0gewogICAgICAgICAgICBjbWQ6ICd0b2dnbGVfbGlzdF9leHByZXNzX29wdGlvbicsCiAgICAgICAgICAgICdjX2Noa1tdJzogZGF0YS5jb21tb2RpdHlJZHhMaXN0LAogICAgICAgICAgICBmYWlsX3BhZ2U6IGxvY2F0aW9uLmhyZWYsCiAgICAgICAgICAgIHN1Y2NfcGFnZTogbG9jYXRpb24uaHJlZgogICAgICAgIH07CiAgICAgICAgcmV0dXJuIGNhbGw8dm9pZD4oewogICAgICAgICAgICBkYXRhOiBjb252ZXJ0ZWREYXRhLAogICAgICAgICAgICB1cmw6ICcvc2VydmxldC9jb20uc3VyZS5zbWlsZWNhdC5vcmRlcmluZy5PcmRlcmluZ1NlcnZsZXQnLAogICAgICAgICAgICB0eXBlOiAnUE9TVCcKICAgICAgICB9KTsKICAgIH0K</text>
@@ -532,7 +535,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>adminCommodityAllCategory</text>
+        <text>extends</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
