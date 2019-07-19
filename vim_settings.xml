@@ -88,12 +88,11 @@
         <mark key="^" line="402" column="37" />
         <mark key="." line="402" column="37" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563509923591">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563512279518">
         <mark key="'" line="69" column="43" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="69" column="43" />
-        <mark key="^" line="69" column="43" />
-        <mark key="." line="69" column="43" />
+        <mark key="]" line="244" column="0" />
+        <mark key="^" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -522,13 +521,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>업데이트</text>
+        <text>commodityIdxList</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>업데이트</text>
+        <text>commodityIdxList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQc2lIZWxwZXJcPg==</text>
