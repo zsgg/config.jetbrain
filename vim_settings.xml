@@ -246,11 +246,10 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1563867913660">
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="41" />
-        <mark key="^" line="32" column="41" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1563872827070">
+        <mark key="[" line="81" column="0" />
+        <mark key="^" line="80" column="41" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -380,20 +379,20 @@
       <jump line="41" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhYnN0cmFjdCBpc0FibGVDb3B5QnRuKCk6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGUxOiB0aGlzLmluZm8uY29tbUNvZGUxLAo=</text>
+        <text encoding="base64">ICAgICAgICBhYnN0cmFjdCBpc0FibGVDb3B5QnRuKCk6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
