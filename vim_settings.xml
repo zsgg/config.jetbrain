@@ -60,10 +60,12 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563928305996">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563942301807">
         <mark key="'" line="18" column="27" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="25" column="11" />
+        <mark key="[" line="416" column="0" />
+        <mark key="]" line="418" column="19" />
+        <mark key="^" line="418" column="19" />
+        <mark key="." line="418" column="19" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -275,18 +277,18 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1563933599703" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1563941164890" />
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1563933590375">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="95" />
-        <mark key="." line="227" column="0" />
-        <mark key="^" line="226" column="94" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1563943063233">
+        <mark key="[" line="173" column="32" />
+        <mark key="]" line="183" column="8" />
+        <mark key="^" line="183" column="8" />
+        <mark key="." line="183" column="8" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -314,10 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="24" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="16" column="0" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_6.java" />
-      <jump line="117" column="25" filename="D:/Project/algo-programers/src/test/java/test/KAKAO_BLIND_RECRUITMENT__2018/test3_7.java" />
       <jump line="22" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="21" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="17" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
@@ -414,16 +412,20 @@
       <jump line="41" column="1" filename="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" />
       <jump line="18" column="27" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" />
       <jump line="67" column="18" filename="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_thumbnail_finder/comm_thumbnail_finder.ts" />
+      <jump line="184" column="8" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
+      <jump line="183" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
+      <jump line="188" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
+      <jump line="192" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZBQ1RPUlkuc2V0KENvbW1Db252ZW50aW9uLm1ldGFGcmVlRGVzaWduLCBpbmZvID0+IG5ldyBEZWZhdWx0RGlzYWJsZU9yZGVyQ29tbW9kaXR5KGluZm8pKTsK</text>
+      <register name="&quot;" type="4">
+        <text>OrderableCommodity</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>OrderableCommodity</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaXJpZGloXD4=</text>
@@ -431,35 +433,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEZBQ1RPUlkuc2V0KENvbW1Db252ZW50aW9uLm1ldGFGcmVlRGVzaWduLCBpbmZvID0+IG5ldyBEZWZhdWx0RGlzYWJsZU9yZGVyQ29tbW9kaXR5KGluZm8pKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbmZvID0gaW5mbzsKICAgICAgICB9CgogICAgICAgIGlzQWJsZU9wdGlvbkJ0bigpOiBib29sZWFuIHsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgaXNBYmxlQ29weUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICBpc0FibGVRdWFudGl0eUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbmZvID0gaW5mbzsKICAgICAgICB9CgogICAgICAgIGlzQWJsZU9wdGlvbkJ0bigpOiBib29sZWFuIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG9ja2VyIHB1c2ggcHVsbCDA2rW/yK0K</text>
+        <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+        <text encoding="base64">ZG9ja2VyIHB1c2ggcHVsbCDA2rW/yK0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
+        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZvcm1FbGVtZW50IGZvcm1FbGVtZW50ID0gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIW9yZGVyUm9vdEVudGl0eS5nZXRWbygpLmdldE93bmVyKCkuZXF1YWxzKG93bmVyKSl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>test</text>
