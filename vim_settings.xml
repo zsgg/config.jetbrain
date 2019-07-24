@@ -51,9 +51,6 @@
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Personal/git-idea-vim/src/com/maddyhome/idea/vim/package-info.java" timestamp="1563084797706">
-        <mark key="'" line="41" column="1" />
-      </file>
       <file name="D:/Project/algo-programers/src/main/java/work_draft/payment/inipay/builder/BuilderParam.java" timestamp="1557077746912">
         <mark key="[" line="10" column="104" />
         <mark key="]" line="10" column="130" />
@@ -66,6 +63,13 @@
         <mark key="]" line="418" column="19" />
         <mark key="^" line="418" column="19" />
         <mark key="." line="418" column="19" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/memo2.xml" timestamp="1563959738462">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="65" column="22" />
+        <mark key="^" line="71" column="19" />
+        <mark key="." line="65" column="22" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -277,19 +281,20 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1563941164890" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1563959016163">
+        <mark key="]" line="419" column="22" />
+        <mark key="^" line="419" column="22" />
+        <mark key="." line="419" column="22" />
+      </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
       </file>
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1563945804912">
-        <mark key="'" line="199" column="28" />
-        <mark key="[" line="224" column="59" />
-        <mark key="]" line="224" column="60" />
-        <mark key="." line="224" column="60" />
-        <mark key="^" line="204" column="22" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1563959819078">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="182" column="12" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -317,10 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
-      <jump line="17" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
-      <jump line="16" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
-      <jump line="13" column="4" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="12" column="0" filename="D:/Project/algo-programers/src/main/java/work/inipay/form/FormElement.java" />
       <jump line="2" column="13" filename="D:/Project/algo-programers/src/main/java/work/inipay/element/InputElement.java" />
       <jump line="0" column="0" filename="D:/Work/Miridih/web-java/src/com/sure/smilecat/order3/OrderBo.java" />
@@ -417,64 +418,71 @@
       <jump line="188" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
       <jump line="192" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
       <jump line="199" column="28" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
+      <jump line="22" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/memo2.xml" />
+      <jump line="28" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/memo2.xml" />
+      <jump line="24" column="32" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
+      <jump line="0" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>false</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaXJpZGloXD4=</text>
+        <text encoding="base64">XDwxNTUxNFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JmNvZGUxPSR7aW5mby5jb21tQ29kZTF9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4cG9ydCBjb25zdCBtZXRhUGxhc3RpY0JhZ0Rlc2lnblByaW50ZWQ6IE1ldGFDb2RlID0gbmV3IE1ldGFDb2RlKHsKICAgICAgICBjb2RlMTogODIwMCwKICAgICAgICBjb2RlMjogMjAwLAogICAgICAgIGNvZGUzOiA4MTE1CiAgICB9LCB7Y3NzQ2xhc3M6ICdjb21tX3BsYXN0aWNfYmFnX2Rlc2lnbl9wcmludGVkJ30pOy8vseK8uiC68bTSusDF9QoKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB1cmwgPSBgJHtyZXN9P2NtZD11cGRhdGUmaWR4PSR7aW5mby5jb21tSWR4fSZjb2RlMT0ke2luZm8uY29tbUNvZGUxfSZjb2RlMj0ke2luZm8uY29tbUNvZGUyfSZjb2RlMz0ke2luZm8uY29tbUNvZGUzfWA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFV0aWwuZ2V0T3B0aW9uUGFnZUZvcldQKHRoaXMuaW5mbywgMTQ4NzQpOwogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB1cmwgPSBgJHtyZXN9P2NtZD11cGRhdGUmaWR4PSR7aW5mby5jb21tSWR4fSZjb2RlMT0ke2luZm8uY29tbUNvZGUxfSZjb2RlMj0ke2luZm8uY29tbUNvZGUyfSZjb2RlMz0ke2luZm8uY29tbUNvZGUzfWA7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgaXNBYmxlQ29weUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICBpc0FibGVRdWFudGl0eUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbmZvID0gaW5mbzsKICAgICAgICB9CgogICAgICAgIGlzQWJsZU9wdGlvbkJ0bigpOiBib29sZWFuIHsK</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgIGV4cG9ydCBjb25zdCBtZXRhU3ViTWF0ZXJpYWxFY29ub21pY2FsQmFubmVySG9sZGVyOiBNZXRhQ29kZSA9IG5ldyBNZXRhQ29kZSh7CiAgICAgICAgY29kZTE6IDExMDAwLAogICAgICAgIGNvZGUyOiAyMDAsCiAgICAgICAgY29kZTM6IDExMDAzCiAgICB9LCB7Y3NzQ2xhc3M6ICdjb21tX3N1Yl9tYXRlcmlhbF9lY29ub21pY2FsX2Jhbm5lcl9ob2xkZXInfSk7Ly+9x7zTx/wgvcezuyC56LPKILDFxKG06woKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbmZvID0gaW5mbzsKICAgICAgICB9CgogICAgICAgIGlzQWJsZU9wdGlvbkJ0bigpOiBib29sZWFuIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZG9ja2VyIHB1c2ggcHVsbCDA2rW/yK0K</text>
+        <text encoding="base64">CSMgaWYgeW91IHdvdWxkIGxpa2UgdG8gdXNlIERvY2tlciBhcyBhIC4uLiDH9sDnIMGivNPB38DOILvnv+vA2r+hsNQgscfH0cHWseIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
+        <text encoding="base64">ZG9ja2VyIHB1c2ggcHVsbCDA2rW/yK0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
+        <text encoding="base64">ICAgIGFhc2RmYXNkbGZhc2RmICBhc2RmYXNkZqSxpKSkt6SrpKSkt6SrpKSkt6SpYXNkZmFzZGZhc6SxpKSkt6SrpKSkt6SpYXNkZnNkZmFzZGZhc2Rmc2RmYXNkZnNkZmFzZGRmYXNkYXNkZmFzZGYgICAgYXNkZmFzZGZhc2RmpLGkpKS3pKukpKS3pKlhc2RmpLGkpKS3pKukpKS3pKukpKS3pKlhc2RmpKSkt6SrpKSkt7b3s8qkv6TTpLGkpHNkZHNkZmFzZGZmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IElOSUNJU0F1dGhSZXN1bHQocmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIGphdmEuc3JjRGlyICd0ZXN0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>test</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaXJpZGloXD4=</last-search>
+      <last-search encoding="base64">XDwxNTUxNFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaXJpZGloXD4=</last-pattern>
+      <last-pattern encoding="base64">XDwxNTUxNFw+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxtaXJpZGloXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-substitute encoding="base64">XDwxNTUxNFw+</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -492,6 +500,8 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry>cc</entry>
         <entry encoding="base64">XDxtaXJpZGloXD4=</entry>
+        <entry encoding="base64">XDwxNDg3NFw+</entry>
+        <entry encoding="base64">XDwxNTUxNFw+</entry>
       </history-search>
       <history-cmd>
         <entry>test</entry>
