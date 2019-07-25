@@ -18,11 +18,11 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564020887557">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564022326833">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
       </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
         <mark key="[" line="41" column="30" />
@@ -63,9 +63,9 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1563942301807">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1564022303665">
         <mark key="'" line="18" column="27" />
-        <mark key="[" line="416" column="0" />
+        <mark key="[" line="51" column="4" />
         <mark key="]" line="418" column="19" />
         <mark key="^" line="418" column="19" />
         <mark key="." line="418" column="19" />
@@ -203,10 +203,10 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" timestamp="1564020727980">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" timestamp="1564022223536">
         <mark key="'" line="593" column="8" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="31" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="74" column="9" />
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
@@ -443,19 +443,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Admi</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>Admi</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNTUxNFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZBQ1RPUlkuc2V0KENvbW1Db252ZW50aW9uLm1ldGFOYW1lQ2FyZFBhcGVyU2FtcGxlLCBpbmZvID0+IG5ldyBTYW1wbGVDb21tb2RpdHlEZWZhdWx0KGluZm8pKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgaW5mbzogVXNlckNvbW1vZGl0eUluZm87CgogICAgICAgIGNvbnN0cnVjdG9yKGluZm86IFVzZXJDb21tb2RpdHlJbmZvKSB7CiAgICAgICAgICAgIHRoaXMuaW5mbyA9IGluZm87CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFV0aWwuZ2V0T3B0aW9uUGFnZUZvcldQKHRoaXMuaW5mbywgMTQ4NzQpOwogICAgICAgIH0K</text>
