@@ -18,10 +18,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564023954761">
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564027818181">
+        <mark key="'" line="101" column="32" />
+        <mark key="[" line="98" column="54" />
+        <mark key="]" line="98" column="51" />
+        <mark key="^" line="98" column="51" />
+        <mark key="." line="98" column="51" />
       </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
         <mark key="[" line="41" column="30" />
@@ -62,12 +64,12 @@
         <mark key="^" line="8" column="85" />
         <mark key="." line="10" column="104" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1564022303665">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3ApiCaller.ts" timestamp="1564027144092">
         <mark key="'" line="18" column="27" />
         <mark key="[" line="51" column="4" />
-        <mark key="]" line="418" column="19" />
-        <mark key="^" line="418" column="19" />
-        <mark key="." line="418" column="19" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -339,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="48" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGModuleFactory.java" />
       <jump line="65" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="300" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="299" column="0" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
@@ -439,22 +440,23 @@
       <jump line="224" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
       <jump line="621" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity.ts" />
       <jump line="593" column="8" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" />
+      <jump line="69" column="32" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhYnN0cmFjdCBpc0FibGVPcmRlckNoZWNrQnRuKCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>metaCode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNTUxNFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgaW5mbzogVXNlckNvbW1vZGl0eUluZm87CgogICAgICAgIGNvbnN0cnVjdG9yKGluZm86IFVzZXJDb21tb2RpdHlJbmZvKSB7CiAgICAgICAgICAgIHRoaXMuaW5mbyA9IGluZm87CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhYnN0cmFjdCBpc0FibGVPcmRlckNoZWNrQnRuKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFV0aWwuZ2V0T3B0aW9uUGFnZUZvcldQKHRoaXMuaW5mbywgMTQ4NzQpOwogICAgICAgIH0K</text>
