@@ -18,11 +18,10 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564022326833">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564023954761">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
         <mark key="[" line="41" column="30" />
@@ -203,7 +202,7 @@
         <mark key="." line="58" column="40" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" timestamp="1564022223536">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" timestamp="1564023948147">
         <mark key="'" line="593" column="8" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="74" column="9" />
@@ -443,13 +442,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>true</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNTUxNFw+</text>
