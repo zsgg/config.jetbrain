@@ -18,6 +18,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_admin_commodity_data.ts" timestamp="1564020887557">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+      </file>
       <file name="D:/LocalDev/vm/oooo.config/vagrant-setup.sh" timestamp="1559232583402">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="42" column="43" />
@@ -48,7 +54,6 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/memo.txt" timestamp="1564017197287" />
       <file name="/Gradle Kotlin DSL Settings.txt.ft" timestamp="1560195956911">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,13 +69,6 @@
         <mark key="]" line="418" column="19" />
         <mark key="^" line="418" column="19" />
         <mark key="." line="418" column="19" />
-      </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/memo2.xml" timestamp="1564017364650">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="78" column="43" />
-        <mark key="]" line="78" column="65" />
-        <mark key="^" line="78" column="65" />
-        <mark key="." line="78" column="65" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/data/INICISRequestData.java" timestamp="1557598748714">
         <mark key="[" line="55" column="9" />
@@ -90,7 +88,7 @@
       <file name="colors/_@user_Darcula.icls" timestamp="1563030072306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Renderer.ts" timestamp="1564018232021">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Renderer.ts" timestamp="1564019352811">
         <mark key="[" line="18" column="5" />
         <mark key="]" line="20" column="25" />
         <mark key="^" line="20" column="25" />
@@ -199,12 +197,18 @@
         <mark key="^" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_thumbnail_finder/comm_thumbnail_finder.ts" timestamp="1564017107588">
-        <mark key="'" line="58" column="18" />
-        <mark key="[" line="35" column="7" />
-        <mark key="]" line="35" column="16" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="16" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_thumbnail_finder/comm_thumbnail_finder.ts" timestamp="1564020510853">
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
+      </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" timestamp="1564020727980">
+        <mark key="'" line="593" column="8" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/FromBuilder.java" timestamp="1556028489182">
         <mark key="[" line="5" column="33" />
@@ -284,11 +288,11 @@
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/test.md" timestamp="1557603428994">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1564017381521">
-        <mark key="[" line="785" column="40" />
-        <mark key="]" line="785" column="38" />
-        <mark key="^" line="785" column="38" />
-        <mark key="." line="785" column="38" />
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/common/resource/js/comm_convention/comm_convention.ts" timestamp="1564020334854">
+        <mark key="[" line="710" column="40" />
+        <mark key="]" line="710" column="38" />
+        <mark key="^" line="710" column="38" />
+        <mark key="." line="710" column="38" />
       </file>
       <file name="D:/Work/Miridih/web-java/src/com/sure/smilecat/pg/inipay50/web/standard/InipayStandardForm.java" timestamp="1556059240987">
         <mark key="[" line="45" column="31" />
@@ -296,11 +300,12 @@
       <file name="D:/Project/algo-programers/build.gradle" timestamp="1556023779334">
         <mark key="[" line="18" column="64" />
       </file>
-      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1564016406557">
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" timestamp="1564020534693">
         <mark key="'" line="219" column="0" />
-        <mark key="]" line="234" column="17" />
-        <mark key="^" line="234" column="17" />
-        <mark key="." line="234" column="17" />
+        <mark key="[" line="123" column="46" />
+        <mark key="]" line="123" column="60" />
+        <mark key="^" line="123" column="60" />
+        <mark key="." line="123" column="60" />
       </file>
       <file name="D:/Project/algo-programers/src/main/java/work/inipay/builder/device/MobileCard.java" timestamp="1556032998049">
         <mark key="[" line="22" column="8" />
@@ -326,10 +331,15 @@
       <file name="/fragment.java" timestamp="1563046560035">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity.ts" timestamp="1564020684084">
+        <mark key="'" line="621" column="0" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="13" filename="D:/Project/algo-programers/src/main/java/work/inipay/element/InputElement.java" />
-      <jump line="0" column="0" filename="D:/Work/Miridih/web-java/src/com/sure/smilecat/order3/OrderBo.java" />
       <jump line="40" column="48" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/PGModuleFactory.java" />
       <jump line="65" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
       <jump line="300" column="4" filename="D:/Work/Miridih/web-java/src/com/miridih/payment/infrastructure/pg/inicis/INICISProxy.java" />
@@ -428,16 +438,18 @@
       <jump line="24" column="32" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
       <jump line="0" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
       <jump line="224" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/Step3Commodity.ts" />
+      <jump line="621" column="0" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity.ts" />
+      <jump line="593" column="8" filename="C:/Work/Miridih/dev_web/bizhows-web/printing/resource/js/step3_cart/step3_user_commodity_data.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>Admi</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Admi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxNTUxNFw+</text>
@@ -458,7 +470,7 @@
         <text encoding="base64">CiAgICAgICAgaXNBYmxlQ29weUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICBpc0FibGVRdWFudGl0eUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0=</text>
       </register>
       <register name="s" type="2">
-        <text encoding="base64">ICAgIGV4cG9ydCBjb25zdCBtZXRhU3ViTWF0ZXJpYWxFY29ub21pY2FsQmFubmVySG9sZGVyOiBNZXRhQ29kZSA9IG5ldyBNZXRhQ29kZSh7CiAgICAgICAgY29kZTE6IDExMDAwLAogICAgICAgIGNvZGUyOiAyMDAsCiAgICAgICAgY29kZTM6IDExMDAzCiAgICB9LCB7Y3NzQ2xhc3M6ICdjb21tX3N1Yl9tYXRlcmlhbF9lY29ub21pY2FsX2Jhbm5lcl9ob2xkZXInfSk7Ly+9x7zTx/wgvcezuyC56LPKILDFxKG06woKCg==</text>
+        <text encoding="base64">ICAgICAgICBpc0FibGVRdWFudGl0eUJ0bigpOiBib29sZWFuIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbmZvID0gaW5mbzsKICAgICAgICB9CgogICAgICAgIGlzQWJsZU9wdGlvbkJ0bigpOiBib29sZWFuIHsK</text>
