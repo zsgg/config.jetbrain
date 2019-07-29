@@ -64,6 +64,7 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="SavaAs" />
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
