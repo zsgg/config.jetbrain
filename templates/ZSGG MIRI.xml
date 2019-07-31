@@ -1,0 +1,7 @@
+<templateSet group="ZSGG MIRI">
+  <template name="z i designer" value="INSERT INTO DESIGNER (REF_USER_ID, ROLE, NICK_NAME, ACTIVE) VALUES ('dykang@miridih.com', 'MIRI_DESIGNER', '동윤님', 'Y');&#10;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
