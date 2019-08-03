@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="JSHELL" />
     </extensionMap>
   </component>
 </application>
