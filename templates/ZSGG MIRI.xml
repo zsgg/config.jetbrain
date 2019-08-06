@@ -1,5 +1,5 @@
 <templateSet group="ZSGG MIRI">
-  <template name="z i designer" value="INSERT INTO DESIGNER (REF_USER_ID, ROLE, NICK_NAME, ACTIVE) VALUES ('dykang@miridih.com', 'MIRI_DESIGNER', '동윤님', 'Y');&#10;&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="z i designer" value="&#10;select *&#10;from DESIGNER;&#10;&#10;select *&#10;from TBLUSER where EMAIL = 'sunny8892.k@gmail.com';&#10;&#10;INSERT INTO DESIGNER (REF_USER_ID, ROLE, NICK_NAME, ACTIVE) VALUES ('190805194447a1440dbb0d4463a12c', 'FREELANCE', '김진선님', 'Y');" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SQL" value="true" />
     </context>
