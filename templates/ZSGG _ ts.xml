@@ -20,4 +20,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="z arrow" value="()=&gt;{$END$}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
