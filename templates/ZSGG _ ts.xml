@@ -25,4 +25,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="z jquery" value="$($END$)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
