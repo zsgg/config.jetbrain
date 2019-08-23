@@ -4,7 +4,11 @@
     <property name="created">2019-07-15T21:51:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
+<<<<<<< HEAD
     <property name="modified">2019-08-24T00:55:55</property>
+=======
+    <property name="modified">2019-08-21T09:21:35</property>
+>>>>>>> parent of a66780f... WS-2019.2 <MIRI-gssong@PC-gssong Update React.xml, _@user_Dracula.icls
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
