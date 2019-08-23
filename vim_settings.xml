@@ -3,7 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Personal/zsgg-instance-script/Facebook-Script-2018.04.28.0709.html" timestamp="1566575675833" />
+      <file name="D:/Wiki/zsgg.github.io/note/_draft/g__자바-메로리-구조.md" timestamp="1566575254979" />
+      <file name="/a.dummy" timestamp="1566575101430">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/zsgg.github.io/config/README.md" timestamp="1566575344001">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="D:/Wiki/zsgg.github.io/.gitignore" timestamp="1566574766689">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="5" />
@@ -14,10 +23,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>workspace.xml</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>workspace.xml</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
