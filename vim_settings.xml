@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Code Personal/zsgg-instance-script/Facebook-Script-2018.04.28.0709.html" timestamp="1566575675833" />
       <file name="D:/Wiki/zsgg.github.io/.gitignore" timestamp="1566574766689">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="5" />
@@ -23,7 +24,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
