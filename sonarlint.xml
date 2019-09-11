@@ -1,9 +1,0 @@
-<application>
-  <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="squid:ModifiersOrderCheck" />
-      </set>
-    </option>
-  </component>
-</application>
