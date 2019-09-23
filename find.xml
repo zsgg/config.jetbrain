@@ -12,9 +12,9 @@
     <mask>*.sht</mask>
     <mask>*.html</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
