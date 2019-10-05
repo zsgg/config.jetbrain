@@ -20,7 +20,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="z arrow" value="()=&gt;{$END$}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="z arrow" value="()=&gt;{ $END$ }" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -32,11 +32,16 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="z cl" value="console.log(`$END$`);" toReformat="false" toShortenFQNames="true">
+  <template name="z cl" value="console.log(`$END$`)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="z arrow v" value="(v)=&gt;{ v$END$ }" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
