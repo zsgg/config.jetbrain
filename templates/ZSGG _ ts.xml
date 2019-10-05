@@ -32,7 +32,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="z cl" value="console.log(`$END$`)" toReformat="false" toShortenFQNames="true">
+  <template name="z cl" value="console.log(`$END$`)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
