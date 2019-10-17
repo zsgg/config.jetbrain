@@ -19,4 +19,9 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="z get userinfo by 상품, 코드3 상태" value="select CART_DATE, idx, MEMO3, id, PASSWORD&#10;from (select ROWNUM rnum, COMMODITY.*, TBLUSER.*&#10;      from COMMODITY&#10;               inner join TBLUSER on (PASSWORD is not null and COMMODITY.OWNER = TBLUSER.ID)&#10;      where CODE2 = 200&#10;        and CODE3 = 11005&#10;        and STATUS = 1)$END$&#10;where rnum &lt; 10;&#10;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
