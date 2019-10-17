@@ -9,7 +9,12 @@
       <option name="SQL" value="true" />
     </context>
   </template>
-  <template name="z db 송장이 하나이상인 상품" value="select cnt, id, PASSWORD, ORDER_NO, ORDER_IDX&#10;from (select COMM_IDX, count(COMM_IDX) cnt&#10;      from DELIVERY_INVOICE&#10;      group by COMM_IDX having count(COMM_IDX) &gt; 1)&#10;         inner join COMMODITY on (COMMODITY.idx = COMM_IDX)&#10;         inner join TBLORDER on (TBLORDER.IDX = COMMODITY.ORDER_IDX)&#10;         inner join TBLUSER on (PASSWORD is not null and COMMODITY.OWNER = TBLUSER.ID)&#10;order by ORDER_IDX desc&#10;;" toReformat="false" toShortenFQNames="true">
+  <template name="z get userinfo by 송장이 하나이상인 상품" value="select cnt, id, PASSWORD, ORDER_NO, ORDER_IDX&#10;from (select COMM_IDX, count(COMM_IDX) cnt&#10;      from DELIVERY_INVOICE&#10;      group by COMM_IDX having count(COMM_IDX) &gt; 1)&#10;         inner join COMMODITY on (COMMODITY.idx = COMM_IDX)&#10;         inner join TBLORDER on (TBLORDER.IDX = COMMODITY.ORDER_IDX)&#10;         inner join TBLUSER on (PASSWORD is not null and COMMODITY.OWNER = TBLUSER.ID)&#10;order by ORDER_IDX desc&#10;;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="z get userinfo by 주문상태" value="select ORDER_NO, IDX, id, PASSWORD&#10;from (select ROWNUM rnum, TBLORDER.*, TBLUSER.*&#10;      from TBLORDER&#10;               inner join TBLUSER on (PASSWORD is not null and TBLORDER.OWNER = TBLUSER.ID)&#10;      where STATUS = 99&#10;     )&#10;where rnum &lt; 10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SQL" value="true" />
     </context>
