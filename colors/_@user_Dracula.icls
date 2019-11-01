@@ -1,10 +1,10 @@
 <scheme name="_@user_Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-25T09:16:49</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-30T09:14:54</property>
+    <property name="created">2019-10-07T09:19:25</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.2.2.0.0</property>
+    <property name="modified">2019-11-01T06:29:55</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -803,10 +803,6 @@
         <option name="BACKGROUND" value="44475a" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
