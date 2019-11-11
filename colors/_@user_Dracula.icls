@@ -1,15 +1,22 @@
 <scheme name="_@user_Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-29T13:43:16</property>
+    <property name="created">2019-11-11T09:47:50</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-30T11:26:00</property>
+    <property name="modified">2019-11-11T09:59:33</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Hack" />
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -18,7 +25,6 @@
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
