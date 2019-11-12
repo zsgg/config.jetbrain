@@ -25,9 +25,4 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="z log i" value="LOG.info(&quot;\n\n\n\n\n\n\n&quot; + $END$ + &quot;\n\n\n\n\n\n\n&quot;);" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
 </templateSet>
