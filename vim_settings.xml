@@ -97,7 +97,6 @@
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
