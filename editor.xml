@@ -8,7 +8,7 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="\bgssong\b.*">
+    <pattern icon="question" useCustomColors="true" pattern="\b(?&lt;!@author )gssong\b.*">
       <option name="FOREGROUND" value="ffffff" />
       <option name="BACKGROUND" value="181a1f" />
       <option name="FONT_TYPE" value="2" />
