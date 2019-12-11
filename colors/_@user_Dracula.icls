@@ -1,10 +1,10 @@
 <scheme name="_@user_Dracula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-10-17T09:47:05</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-11T10:34:34</property>
+    <property name="created">2019-11-20T08:40:51</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.2.3.0.0</property>
+    <property name="modified">2019-12-11T10:14:53</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -41,6 +41,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff79c6" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff79c6" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff79c6" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="50fa7b" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ffb86c" />
     <option name="FILESTATUS_MERGED" value="bd93f9" />
     <option name="FILESTATUS_MODIFIED" value="8be9fd" />
@@ -137,12 +140,15 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -397,7 +403,7 @@
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="50fa78" />
@@ -631,6 +637,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
@@ -796,6 +803,10 @@
         <option name="BACKGROUND" value="44475a" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -807,7 +818,7 @@
         <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="JS.CONSOLE">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -820,11 +831,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.NULL_UNDEFINED">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -1853,15 +1869,15 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -2281,7 +2297,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="6272a4" />
@@ -2309,14 +2325,14 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -2358,7 +2374,7 @@
     <option name="TWIG_BACKGROUND">
       <value />
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cd4848" />
