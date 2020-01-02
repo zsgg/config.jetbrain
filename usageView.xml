@@ -1,6 +1,6 @@
 <application>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
+  <component name="ShowUsagesSettings">
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
   <component name="UsageViewSettings">
     <option name="GROUP_BY_MODULE" value="false" />
