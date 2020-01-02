@@ -15,7 +15,9 @@
     <mask>*.cjs</mask>
     <mask>*.jsp</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
+    <mask>*.ts</mask>
+    <mask>*repository.java</mask>
   </component>
 </application>
