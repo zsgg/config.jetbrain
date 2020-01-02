@@ -1,16 +1,14 @@
 <keymap version="1" name="zsgg" parent="$default">
-  <action id="ActivateDebugToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
-  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
@@ -29,12 +27,23 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt 9" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="GotoNextElementUnderCaretUsage">
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="alt x" />
