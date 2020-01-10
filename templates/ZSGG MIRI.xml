@@ -19,4 +19,9 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="z s cert" value="select *&#10;from HELP_DESIGN_ORDER&#10;         left join CERTIFICATE on (CERTIFICATE.ORDER_IDX = HELP_DESIGN_ORDER.IDX)&#10;         left join TBLUSER on (TBLUSER.ID = HELP_DESIGN_ORDER.OWNER)&#10;where CERTIFICATE.IDX is not null&#10;order by HELP_DESIGN_ORDER.IDX desc&#10;;&#10;&#10;&#10;select *&#10;from TBLORDER&#10;         left join CERTIFICATE on (CERTIFICATE.ORDER_IDX = TBLORDER.IDX)&#10;         left join TBLUSER on (TBLUSER.ID = TBLORDER.OWNER)&#10;where CERTIFICATE.IDX is not null&#10;order by TBLORDER.IDX desc&#10;;&#10;" description="증빙서류찾기" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
