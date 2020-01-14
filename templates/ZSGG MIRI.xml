@@ -24,4 +24,9 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="z s loop commodity parent" value="select idx, status, LTRIM(SYS_CONNECT_BY_PATH(idx, ' &gt; '), ' &gt; ') AS depth_fullname, level&#10;from COMMODITY&#10;where 1 = 1&#10;  and STATUS in (90, 89)&#10;  and level &lt;= 3&#10;start with idx = 11444581&#10;connect by prior PARENT_IDX = idx&#10;;&#10;&#10;&#10;select count(level) related_help_design_status_cnt&#10;from COMMODITY&#10;where 1 = 1&#10;  and STATUS in (90, 89)&#10;  and level &lt;= 3&#10;start with idx = 11444581&#10;connect by prior PARENT_IDX = idx&#10;;&#10;" description="상품상태에 따른 부모 찾기" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
