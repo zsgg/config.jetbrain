@@ -1,5 +1,3 @@
 <templateSet group="JavaScript Testing">
-  <template name="af" value="after(function() {&#10;  $END$&#10;});" description="Inserts after() block" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="af" value="after(function() {&#10;  $END$&#10;});" description="Inserts after() block" toReformat="true" toShortenFQNames="true" />
 </templateSet>
