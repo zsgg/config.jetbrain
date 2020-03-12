@@ -4,7 +4,7 @@
     <property name="created">2019-10-17T09:47:05</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-03-09T10:43:58</property>
+    <property name="modified">2020-03-12T10:48:42</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -191,7 +191,7 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="262626" />
@@ -655,18 +655,18 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_TAG" baseAttributes="TEXT" />
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_TAG" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
@@ -2317,8 +2317,8 @@
         <option name="FOREGROUND" value="bd93f9" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
