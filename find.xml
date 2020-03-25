@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -18,8 +19,8 @@
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
-    <mask>*.ts</mask>
     <mask>*repository.java</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
