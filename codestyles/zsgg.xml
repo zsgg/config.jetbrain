@@ -6,6 +6,7 @@
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
   <JSON>
+    <option name="SPACE_AFTER_COLON" value="false" />
     <option name="PROPERTY_ALIGNMENT" value="2" />
     <option name="ARRAY_WRAPPING" value="0" />
   </JSON>
@@ -21,7 +22,10 @@
   <codeStyleSettings language="JSON">
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="SPACE_AFTER_COMMA" value="false" />
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
