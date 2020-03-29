@@ -5,6 +5,10 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -14,6 +18,11 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_AFTER_COMMA" value="false" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
