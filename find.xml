@@ -9,5 +9,6 @@
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
