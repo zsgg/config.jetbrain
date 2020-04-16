@@ -1,6 +1,23 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>E</entry>
+        <entry>e</entry>
+        <entry>d</entry>
+        <entry>y</entry>
+        <entry>c</entry>
+        <entry>gU</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -93,7 +110,177 @@
         <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Wiki/private.zsgg.github.io/script/transaction-analysis-chart/index.html" timestamp="1586989509173">
+        <mark key="[" line="99" column="140" />
+        <mark key="]" line="99" column="140" />
+        <mark key="." line="99" column="140" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587074444789">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/test/futures/체결기반/체결로그키움.spec.ts" timestamp="1587074060311" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/청산기반/FutureRaw2.ts" timestamp="1586896245833">
+        <mark key="[" line="0" column="7" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/청산기반/청산기반기본.ts" timestamp="1586898095445">
+        <mark key="[" line="190" column="8" />
+        <mark key="]" line="190" column="15" />
+        <mark key="^" line="190" column="15" />
+        <mark key="." line="190" column="15" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/utils/청산체결결합.ts" timestamp="1586988519455">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/Util.ts" timestamp="1586984834052">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/transaction-analysis-chart/src/source.json" timestamp="1587066397917">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/체결기반/체결로그키움.ts" timestamp="1586898476409">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/trading-rollbook/README.md" timestamp="1587074334708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/tsconfig.json" timestamp="1586908177675">
+        <mark key="[" line="8" column="34" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-sheet/src/Main.ts" timestamp="1586985397500">
+        <mark key="[" line="212" column="23" />
+        <mark key="]" line="212" column="24" />
+        <mark key="." line="212" column="24" />
+        <mark key="^" line="212" column="26" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/index.ts" timestamp="1586989175207">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/체결기반/체결기반로그키움.ts" timestamp="1586988450326">
+        <mark key="[" line="106" column="8" />
+        <mark key="]" line="106" column="46" />
+        <mark key="^" line="106" column="46" />
+        <mark key="." line="106" column="46" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1586903010411">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/test/futures/체결기반/체결로그키움.spec.ts" timestamp="1586988652391">
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="46" column="65" />
+        <mark key="^" line="46" column="65" />
+        <mark key="." line="46" column="65" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/utils/makeFuturesSheet.ts" timestamp="1586985422451">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="14" filename="D:/Code Project/dutch-pay--api/play.js" />
+      <jump line="25" column="7" filename="D:/Code Project/dutch-pay--api/play.js" />
+      <jump line="38" column="0" filename="D:/Code Project/dutch-pay--api/routes.js" />
+      <jump line="4" column="29" filename="D:/Code Project/dutch-pay--api/routes.js" />
+      <jump line="10" column="9" filename="D:/Code Project/dutch-pay--api/routes.js" />
+      <jump line="16" column="0" filename="D:/Code Project/dutch-pay--api/views/add-product.html" />
+      <jump line="6" column="0" filename="D:/Code Project/dutch-pay--api/routes/shop.js" />
+      <jump line="13" column="41" filename="D:/Code Project/dutch-pay--api/app.js" />
+      <jump line="3" column="3" filename="D:/Code Project/kubernetes-demo/asdfasdfasf" />
+      <jump line="9" column="0" filename="D:/Code Project/kubernetes-demo/asdfasdfasf" />
+      <jump line="0" column="0" filename="D:/Code Project/kubernetes-demo/asdfasdfasf" />
+      <jump line="4" column="15" filename="D:/Code Project/kubernetes-demo/asdfasdfasf" />
+      <jump line="8" column="0" filename="D:/Code Project/integration-api/p--dutch/src/util/logger.ts" />
+      <jump line="59" column="0" filename="D:/Code Project/integration-api/p--dutch/src/util/logger.ts" />
+      <jump line="0" column="0" filename="D:/Wiki/private.zsgg.github.io/t/_draft/1.Open/learning--인사이드 자바스크립트.md" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>1</text>
+      </register>
+      <register name="-" type="4">
+        <text>1</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmxvZygnLS0tIGYxIGlzIG51bGwgJysgYXJyMS50b1N0cmluZygpKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gY29uc3QgYXBwZW5kRnV0dXJlQnnDu7vqID0gKCkgPT4gewovLyAgICAgbWFrZUZ1dHVyZXNTaGVldChnZXRGdXR1cmVUZW1wb3JhcnlSYXcoKSk7Ci8vIH07Ci8vCi8vCi8vIGZ1bmN0aW9uIGdldEZ1dHVyZVRlbXBvcmFyeVJhdygpOiBhbnlbXSB7Ci8vICAgICBjb25zdCBzaGVldCA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCkuZ2V0U2hlZXRCeU5hbWUoJ0Z1dHVyZVRlbXBvcmFyeVJhdycpOwovLyAgICAgY29uc3QgcmFuZ2UgPSBzaGVldC5nZXREYXRhUmFuZ2UoKTsKLy8gICAgIGNvbnN0IHZhbHVlcyA9IHJhbmdlLmdldFZhbHVlcygpOwovLyAgICAgcmV0dXJuIEZ1dHVyZVJhdzIubWFrZSh2YWx1ZXMpLnNvcnQoKGEsIGIpID0+IGEuZ2V0Q29udHJhY3RJblRpbWVZWVlZTU1EREhITU1TUygpIC0gYi5nZXRDb250cmFjdEluVGltZVlZWVlNTURESEhNTVNTKCkpOwovLyB9Ci8vCi8vCi8vIGZ1bmN0aW9uIG1ha2VGdXR1cmVzU2hlZXQocmF3QXJyOiBhbnlbXSkgewovLyAgICAgLy8tLS0KLy8gICAgIGNvbnN0IGZ1dHVyZVNoZWV0ID0gU3ByZWFkc2hlZXRBcHAuZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKS5nZXRTaGVldEJ5TmFtZSgnRnV0dXJlcycpOwovLyAgICAgZm9yIChsZXQgcmF3IG9mIHJhd0FycikgewovLyAgICAgICAgIGNvbnN0IGtpbmRzID0gcmF3LmdldEtpbmQoKTsKLy8gICAgICAgICAvKgovLyAgICAgICAgICAqLwovLyAgICAgICAgIC8vvcPB8CjA28D8uO0pCi8vICAgICAgICAgZnV0dXJlU2hlZXQuaW5zZXJ0Um93QmVmb3JlKDIpOwovLyAgICAgICAgIC8vu/PFwgovLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDMpLnNldFZhbHVlKCfDu7vqv8+34ScpOwovLyAgICAgICAgIC8vu/PHsMDMuKcKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCA0KS5zZXRWYWx1ZShraW5kcyk7Ci8vICAgICAgICAgLy/G98H2vMcKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCA1KS5zZXRWYWx1ZShyYXcuZ2V0RGlyZWN0aW9uKCkpOwovLyAgICAgICAgIC8vwfjA1CC9w7CjCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgNikuc2V0VmFsdWUocmF3LmdldENvbnRyYWN0SW5UaW1lWVlZWU1NRERISE1NU1MoKSk7Ci8vICAgICAgICAgLy/B+MDUIMH2vPYKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCA3KS5zZXRWYWx1ZShyYXcuZ2V0Q29udHJhY3RJblBvaW50KCkpOwovLyAgICAgICAgIC8vsOi+4CC89govLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDgpLnNldFZhbHVlKHJhdy5nZXRDb250cmFjdFF1YW50aXR5KCkpOwovLyAgICAgICAgIC8vw7u76iC9w7CjCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgOSkuc2V0VmFsdWUocmF3LmdldENvbnRyYWN0T3V0VGltZVlZWVlNTURESEhNTVNTKCkpOwovLyAgICAgICAgIC8vw7u76iDB9rz2Ci8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTApLnNldFZhbHVlKHJhdy5nZXRDb250cmFjdE91dFBvaW50KCkpOwovLyAgICAgICAgIC8vvPa89rfhCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTEpLnNldFZhbHVlKHJhdy5nZXRGZWUoKSk7Ci8vICAgICAgICAgLy+9xyDF9cDaILOvwqUKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCAxMikuc2V0VmFsdWUoJz1pZihIT1VSKCRGMik+VmFyISRCJDcsICRGMiwgJEYyLTEpJyk7Ci8vICAgICAgICAgLy+8+CDB9rz2ILC4Ci8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTMpLnNldFZhbHVlKCc9aWYoaXNibGFuaygkajIpLCAwLCBhYnMoJGoyLSRnMikpJyk7Ci8vICAgICAgICAgLy+8+CDB9rz2ILC4KCstKQovLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDE0KS5zZXRWYWx1ZSgnPWlmKCRvMjwwLCAkbTIqLTEsICRtMiknKTsKLy8gICAgICAgICAvL7z4ILz2wM0KLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCAxNSkuc2V0VmFsdWUocmF3LmdldE5ldFByb2ZpdCgpKTsKLy8gICAgICAgICAvL7q4wK8gvcOwowovLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDE2KS5zZXRWYWx1ZSgnPWlmKG9yKElTQkxBTksoJEkyKSwgSVNCTEFOSygkRjIpKSwwLCAkSTItJEYyKScpOwovLyAgICAgICAgIC8vurjAryC9w7CjLCAovcMsutAsw8opCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTcpLnNldFZhbHVlKCc9U1BMSVQoVE9fVEVYVCgkUDIpLCAiOiIpJyk7Ci8vICAgICAgICAgLy+6uMCvIL3DsKMow8osIMivu+opCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMjApLnNldFZhbHVlKCc9KCRRMio2MCo2MCkrKCRSMio2MCkrKCRTMiknKTsKLy8gICAgICAgICAvL7q4wK8gvcOwoyi60CwgyK+76ikKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCAyMSkuc2V0VmFsdWUoJz0kVDIvNjAnKTsKLy8gICAgIH0KLy8gfQovLwovLyBjb25zdCBhcHBlbmRGdXR1cmVCecO7u+o0xbC/8iA9ICgpID0+IHsKLy8gICAgIGNvbnN0IHNoZWV0MiA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCkuZ2V0U2hlZXRCeU5hbWUoJ0Z1dHVyZVRlbXBvcmFyeVJhd8Wwv/K6uMG2Jyk7Ci8vICAgICBjb25zdCByYW5nZTIgPSBzaGVldDIuZ2V0RGF0YVJhbmdlKCk7Ci8vICAgICBjb25zdCB2YWx1ZXMyID0gcmFuZ2UyLmdldFZhbHVlcygpOwovLyAgICAgY29uc3QgcmF3QXJyMiA9IEZ1dHVyZVJhdzMubWFrZSh2YWx1ZXMyKQovLyAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLmdldFlZWVlNTURESEhNTVNTKCkgLSBhLmdldFlZWVlNTURESEhNTVNTKCkpCi8vICAgICA7Ci8vCi8vICAgICBjb25zdCBzaGVldCA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCkuZ2V0U2hlZXRCeU5hbWUoJ0Z1dHVyZVRlbXBvcmFyeVJhdycpOwovLyAgICAgY29uc3QgcmFuZ2UgPSBzaGVldC5nZXREYXRhUmFuZ2UoKTsKLy8gICAgIGNvbnN0IHZhbHVlcyA9IHJhbmdlLmdldFZhbHVlcygpOwovLyAgICAgY29uc3QgcmF3QXJyMSA9IEZ1dHVyZVJhdzIubWFrZSh2YWx1ZXMpLnJldmVyc2UoKTsKLy8KLy8gICAgIHJhd0FycjEuZm9yRWFjaCgodmFsdWUxLCBpbmRleDEsIGFycmF5MSkgPT4gewovLyAgICAgICAgIGxldCBjbnQgPSAwOwovLwovLyAgICAgICAgIGZvciAobGV0IGluZGV4MiA9IHJhd0FycjIubGVuZ3RoIC0gMTsgaW5kZXgyID49IDA7IGluZGV4Mi0tKSB7Ci8vICAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gcmF3QXJyMltpbmRleDJdOwovLyAgICAgICAgICAgICBjb25zdCBpc0VxdWFsS2luZCA9IHZhbHVlLmdldEtpbmQoKSA9PT0gdmFsdWUxLmdldEtpbmQoKTsKLy8gICAgICAgICAgICAgaWYgKGlzRXF1YWxLaW5kKSB7Ci8vICAgICAgICAgICAgICAgICBjb25zdCBpc0VxdWFsSW5Qb2ludCA9IHZhbHVlLmdldFNoYWtlUHJpY2UoKSA9PT0gdmFsdWUxLmdldENvbnRyYWN0SW5Qb2ludCgpOwovLyAgICAgICAgICAgICAgICAgY29uc3QgaXNFcXVhbE91dFBvaW50ID0gdmFsdWUuZ2V0U2hha2VQcmljZSgpID09PSB2YWx1ZTEuZ2V0Q29udHJhY3RPdXRQb2ludCgpOwovLwovLyAgICAgICAgICAgICAgICAgaWYgKGlzRXF1YWxJblBvaW50KSB7Ci8vICAgICAgICAgICAgICAgICAgICAgdmFsdWUxLnNldENvbnRyYWN0SW5UaW1lWVlZWU1NRERISE1NU1ModmFsdWUuZ2V0WVlZWU1NRERISE1NU1MoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgcmF3QXJyMi5zcGxpY2UoaW5kZXgyLCAxKTsKLy8gICAgICAgICAgICAgICAgICAgICBpZiAoKytjbnQgPT0gMikgewovLyAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGlzRXF1YWxPdXRQb2ludCkgewovLyAgICAgICAgICAgICAgICAgICAgIHZhbHVlMS5zZXRDb250cmFjdE91dFRpbWVZWVlZTU1EREhITU1TUyh2YWx1ZS5nZXRZWVlZTU1EREhITU1TUygpKTsKLy8gICAgICAgICAgICAgICAgICAgICByYXdBcnIyLnNwbGljZShpbmRleDIsIDEpOwovLyAgICAgICAgICAgICAgICAgICAgIGlmICgrK2NudCA9PSAyKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgIH0KLy8gICAgIH0pOwovLwovLwovLyAgICAgLy8tLS0KLy8gICAgIG1ha2VGdXR1cmVzU2hlZXQocmF3QXJyMSk7Ci8vIH07Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text>js 최소화 도입</text>
+      </register>
+      <register name="3" type="2">
+        <text>namespace aa{
+    
+}</text>
+      </register>
+      <register name="4" type="4">
+        <text>etFutureTemporaryRaw(): Raw[] {
+//     const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('FutureTemporaryRaw');
+//     const range = sheet.getDataRange();
+//     const values = range.getValues();
+//     return FutureRaw2.make(values);
+// }</text>
+      </register>
+      <register name="5" type="2">
+        <text>{
+    &quot;compilerOptions&quot;: {
+        &quot;module&quot;: &quot;commonjs&quot;,
+            &quot;noImplicitAny&quot;: true,
+            &quot;removeComments&quot;: true,
+            &quot;preserveConstEnums&quot;: true,
+            &quot;sourceMap&quot;: true
+    }
+}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS4yMzhlbTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgZmlsZUJhc2UgPSBwcm9jZXNzLmVudi5MT0dfRklMRV9CQVNFIGFzIHN0cmluZyB8fCByZXNvbHZlKF9fZGlybmFtZSwgJy4uJywgJy4uL2xvZycpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZmlsZUJhc2UgPSBwcm9jZXNzLmVudi5MT0dfRklMRV9CQVNFIGFzIHN0cmluZyB8fCByZXNvbHZlKF9fZGlybmFtZSwgJy4uJywgJy4uL2xvZycpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgZmlsZUJhc2UgPSBwcm9jZXNzLmVudi5MT0dfRklMRV9CQVNFIGFzIHN0cmluZyB8fCByZXNvbHZlKF9fZGlybmFtZSwgJy4uJywgJy4uL2xvZycpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>y</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
