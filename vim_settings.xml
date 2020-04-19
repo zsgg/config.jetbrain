@@ -124,15 +124,8 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/test/futures/체결기반/체결로그키움.spec.ts" timestamp="1587074060311" />
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/청산기반/FutureRaw2.ts" timestamp="1586896245833">
-        <mark key="[" line="0" column="7" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/청산기반/청산기반기본.ts" timestamp="1586898095445">
-        <mark key="[" line="190" column="8" />
-        <mark key="]" line="190" column="15" />
-        <mark key="^" line="190" column="15" />
-        <mark key="." line="190" column="15" />
+      <file name="/Dummy.txt" timestamp="1587262890419">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/utils/청산체결결합.ts" timestamp="1586988519455">
         <mark key="[" line="30" column="19" />
@@ -150,23 +143,41 @@
         <mark key="]" line="1" column="15" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/index.html" timestamp="1587169179827">
-        <mark key="[" line="212" column="38" />
-        <mark key="]" line="212" column="38" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/index.html" timestamp="1587263881287">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="105" />
         <mark key="^" line="212" column="38" />
         <mark key="." line="212" column="37" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/체결기반/체결로그키움.ts" timestamp="1586898476409">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/index.ts" timestamp="1587262783784">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="40" />
+        <mark key="." line="36" column="39" />
+        <mark key="^" line="36" column="40" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/utils/SheetToJson.ts" timestamp="1587262689313">
+        <mark key="[" line="21" column="78" />
+        <mark key="]" line="21" column="90" />
+        <mark key="^" line="21" column="90" />
+        <mark key="." line="21" column="89" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/dist/appsscript.json" timestamp="1587262901736">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/trading-rollbook/README.md" timestamp="1587074334708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/tsconfig.json" timestamp="1586908177675">
         <mark key="[" line="8" column="34" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/trading-rollbook/index.html" timestamp="1587264217435">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="20" column="8" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/google-sheet/src/Main.ts" timestamp="1586985397500">
         <mark key="[" line="212" column="23" />
@@ -185,9 +196,6 @@
         <mark key="]" line="106" column="46" />
         <mark key="^" line="106" column="46" />
         <mark key="." line="106" column="46" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1586903010411">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/test/futures/체결기반/체결로그키움.spec.ts" timestamp="1586988652391">
         <mark key="[" line="46" column="59" />
@@ -228,14 +236,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>종목</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICR7cHJvZml0WzRdfTxicj4=</text>
+        <text>종목</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBtaW51c1N1bSA9IGdhcCA9PT0gLTEgPyBwcmV2aW91c1ZhbHVlWzVdICsgTWF0aC5hYnModHJhbnNhY3Rpb25TcFtjdXJyZW50SW5kZXhdIC0gdHJhbnNhY3Rpb25FcFtjdXJyZW50SW5kZXhdKSA6IHByZXZpb3VzVmFsdWVbNV07Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2pxdWVyeS8zLjQuMS9qcXVlcnkubWluLmpzIgogICAgICAgIGludGVncml0eT0ic2hhMjU2LUNTWG9yWHZaY1RrYWl4Nll2bzZIcHBjWkdldGJZTUdXU0ZsQnc4SGZDSm89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
