@@ -119,10 +119,8 @@
         <mark key="]" line="99" column="140" />
         <mark key="." line="99" column="140" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/src/source.json" timestamp="1587169539124">
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/src/source.json" timestamp="1587511216896">
         <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1587338738833">
         <mark key="[" line="0" column="0" />
@@ -149,7 +147,7 @@
         <mark key="^" line="212" column="38" />
         <mark key="." line="212" column="37" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/index.ts" timestamp="1587335217088">
+      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/index.ts" timestamp="1587510832420">
         <mark key="[" line="64" column="99" />
         <mark key="]" line="64" column="99" />
         <mark key="." line="64" column="99" />
@@ -242,10 +240,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>금</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>금</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2pxdWVyeS8zLjQuMS9qcXVlcnkubWluLmpzIgogICAgICAgIGludGVncml0eT0ic2hhMjU2LUNTWG9yWHZaY1RrYWl4Nll2bzZIcHBjWkdldGJZTUdXU0ZsQnc4SGZDSm89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4K</text>
