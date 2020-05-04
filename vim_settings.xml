@@ -145,11 +145,11 @@
         <mark key="." line="64" column="99" />
         <mark key="^" line="64" column="65" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/temp/index.html" timestamp="1588589938531">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="21" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/temp/index.html" timestamp="1588596842209">
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="39" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/utils/SheetToJson.ts" timestamp="1587262689313">
         <mark key="[" line="21" column="78" />
@@ -196,11 +196,11 @@
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/temp/webiopi.js" timestamp="1588590436566">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="18" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/temp/webiopi.js" timestamp="1588596889667">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="19" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="33" column="19" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/temp/js/jquery-3.5.0.min.js" timestamp="1588589986506" />
     </filemarks>
@@ -225,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>application</text>
+        <text>click</text>
       </register>
       <register name="-" type="4">
-        <text>application</text>
+        <text>click</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2pxdWVyeS8zLjQuMS9qcXVlcnkubWluLmpzIgogICAgICAgIGludGVncml0eT0ic2hhMjU2LUNTWG9yWHZaY1RrYWl4Nll2bzZIcHBjWkdldGJZTUdXU0ZsQnc4SGZDSm89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4K</text>
