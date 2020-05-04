@@ -125,14 +125,8 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587511574384">
+      <file name="/Dummy.txt" timestamp="1588589357946">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/utils/청산체결결합.ts" timestamp="1586988519455">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="17" column="36" />
-        <mark key="." line="17" column="36" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/transaction-analysis-chart/src/source.json" timestamp="1587066397917">
         <mark key="[" line="30" column="4" />
@@ -151,7 +145,12 @@
         <mark key="." line="64" column="99" />
         <mark key="^" line="64" column="65" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/futures/체결기반/체결기반로그키움.ts" timestamp="1587585083941" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/temp/index.html" timestamp="1588589938531">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/utils/SheetToJson.ts" timestamp="1587262689313">
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="90" />
@@ -167,7 +166,7 @@
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/trading-rollbook/README.md" timestamp="1587074334708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/src/futures/청산기반/청산기반로그기본.ts" timestamp="1587585095525" />
+      <file name="$USER_HOME$/Downloads/WebIOPi-0.7.1/htdocs/webiopi.js" timestamp="1588590430364" />
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/.clasp.json" timestamp="1587334935175">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="57" />
@@ -179,23 +178,11 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-sheet/src/Main.ts" timestamp="1586985397500">
-        <mark key="[" line="212" column="23" />
-        <mark key="]" line="212" column="24" />
-        <mark key="." line="212" column="24" />
-        <mark key="^" line="212" column="26" />
-      </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/index.ts" timestamp="1586989175207">
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="32" />
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="32" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/futures/체결기반/체결기반로그키움.ts" timestamp="1586988450326">
-        <mark key="[" line="106" column="8" />
-        <mark key="]" line="106" column="46" />
-        <mark key="^" line="106" column="46" />
-        <mark key="." line="106" column="46" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/test/futures/체결기반/체결로그키움.spec.ts" timestamp="1586988652391">
         <mark key="[" line="46" column="59" />
@@ -209,12 +196,13 @@
         <mark key="^" line="11" column="8" />
         <mark key="." line="11" column="7" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/utils/makeFuturesSheet.ts" timestamp="1586985422451">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="2" column="39" />
-        <mark key="^" line="2" column="39" />
-        <mark key="." line="2" column="39" />
+      <file name="D:/Wiki/private.zsgg.github.io/script/temp/webiopi.js" timestamp="1588590436566">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="18" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/script/temp/js/jquery-3.5.0.min.js" timestamp="1588589986506" />
     </filemarks>
     <jumps>
       <jump line="5" column="14" filename="D:/Code Project/dutch-pay--api/play.js" />
@@ -237,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>화</text>
+        <text>application</text>
       </register>
       <register name="-" type="4">
-        <text>화</text>
+        <text>application</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2pxdWVyeS8zLjQuMS9qcXVlcnkubWluLmpzIgogICAgICAgIGludGVncml0eT0ic2hhMjU2LUNTWG9yWHZaY1RrYWl4Nll2bzZIcHBjWkdldGJZTUdXU0ZsQnc4SGZDSm89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4K</text>
