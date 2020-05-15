@@ -114,11 +114,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/private.zsgg.github.io/script/transaction-analysis-chart/index.html" timestamp="1586989509173">
-        <mark key="[" line="99" column="140" />
-        <mark key="]" line="99" column="140" />
-        <mark key="." line="99" column="140" />
-      </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/src/source.json" timestamp="1587585370672">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="10" />
@@ -128,6 +123,7 @@
       <file name="/Dummy.txt" timestamp="1588589357946">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/start-1/.Truble QnA.md" timestamp="1589563683633" />
       <file name="D:/Wiki/private.zsgg.github.io/script/transaction-analysis-chart/src/source.json" timestamp="1587066397917">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="1" column="15" />
@@ -166,11 +162,16 @@
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/trading-rollbook/README.md" timestamp="1587074334708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/temp/jquery-3.5.0.min.js" timestamp="1588682662801" />
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/google-script-sheet--stock/.clasp.json" timestamp="1587334935175">
         <mark key="[" line="4" column="57" />
         <mark key="]" line="4" column="57" />
         <mark key="." line="4" column="57" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589563951879">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/trading-rollbook/index.html" timestamp="1587264217435">
         <mark key="[" line="17" column="4" />
@@ -178,17 +179,14 @@
         <mark key="^" line="20" column="8" />
         <mark key="." line="17" column="4" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/src/index.ts" timestamp="1586989175207">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="32" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="32" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-sass-seperate/Clock.module.scss" timestamp="1589563893679">
+        <mark key="[" line="4" column="1" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/script/google-script-sheet/test/futures/체결기반/체결로그키움.spec.ts" timestamp="1586988652391">
-        <mark key="[" line="46" column="59" />
-        <mark key="]" line="46" column="65" />
-        <mark key="^" line="46" column="65" />
-        <mark key="." line="46" column="65" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-sass-seperate/Clock.tsx" timestamp="1589563903417">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/README.md" timestamp="1587155965097">
         <mark key="[" line="3" column="52" />
@@ -202,6 +200,7 @@
         <mark key="^" line="8" column="38" />
         <mark key="." line="33" column="19" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/globals.d.ts" timestamp="1589563912828" />
     </filemarks>
     <jumps>
       <jump line="5" column="14" filename="D:/Code Project/dutch-pay--api/play.js" />
@@ -223,56 +222,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>click</text>
+      <register name="&quot;" type="2">
+        <text>declare module '*.scss';</text>
       </register>
       <register name="-" type="4">
-        <text>click</text>
+        <text>hello</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2pxdWVyeS8zLjQuMS9qcXVlcnkubWluLmpzIgogICAgICAgIGludGVncml0eT0ic2hhMjU2LUNTWG9yWHZaY1RrYWl4Nll2bzZIcHBjWkdldGJZTUdXU0ZsQnc4SGZDSm89IiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4K</text>
+        <text>declare module '*.scss';</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0cmFuc2FjdGlvbkRpcmVjdGlvbiwgZ2FwKTsK</text>
+        <text encoding="base64">PrnMuK6/obyttMIgvu62u7DUIMffwfY/Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgYXBwZW5kRnV0dXJlQnnDu7vqID0gKCkgPT4gewovLyAgICAgbWFrZUZ1dHVyZXNTaGVldChnZXRGdXR1cmVUZW1wb3JhcnlSYXcoKSk7Ci8vIH07Ci8vCi8vCi8vIGZ1bmN0aW9uIGdldEZ1dHVyZVRlbXBvcmFyeVJhdygpOiBhbnlbXSB7Ci8vICAgICBjb25zdCBzaGVldCA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCkuZ2V0U2hlZXRCeU5hbWUoJ0Z1dHVyZVRlbXBvcmFyeVJhdycpOwovLyAgICAgY29uc3QgcmFuZ2UgPSBzaGVldC5nZXREYXRhUmFuZ2UoKTsKLy8gICAgIGNvbnN0IHZhbHVlcyA9IHJhbmdlLmdldFZhbHVlcygpOwovLyAgICAgcmV0dXJuIEZ1dHVyZVJhdzIubWFrZSh2YWx1ZXMpLnNvcnQoKGEsIGIpID0+IGEuZ2V0Q29udHJhY3RJblRpbWVZWVlZTU1EREhITU1TUygpIC0gYi5nZXRDb250cmFjdEluVGltZVlZWVlNTURESEhNTVNTKCkpOwovLyB9Ci8vCi8vCi8vIGZ1bmN0aW9uIG1ha2VGdXR1cmVzU2hlZXQocmF3QXJyOiBhbnlbXSkgewovLyAgICAgLy8tLS0KLy8gICAgIGNvbnN0IGZ1dHVyZVNoZWV0ID0gU3ByZWFkc2hlZXRBcHAuZ2V0QWN0aXZlU3ByZWFkc2hlZXQoKS5nZXRTaGVldEJ5TmFtZSgnRnV0dXJlcycpOwovLyAgICAgZm9yIChsZXQgcmF3IG9mIHJhd0FycikgewovLyAgICAgICAgIGNvbnN0IGtpbmRzID0gcmF3LmdldEtpbmQoKTsKLy8gICAgICAgICAvKgovLyAgICAgICAgICAqLwovLyAgICAgICAgIC8vvcPB8CjA28D8uO0pCi8vICAgICAgICAgZnV0dXJlU2hlZXQuaW5zZXJ0Um93QmVmb3JlKDIpOwovLyAgICAgICAgIC8vu/PFwgovLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDMpLnNldFZhbHVlKCfDu7vqv8+34ScpOwovLyAgICAgICAgIC8vu/PHsMDMuKcKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCA0KS5zZXRWYWx1ZShraW5kcyk7Ci8vICAgICAgICAgLy/G98H2vMcKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCA1KS5zZXRWYWx1ZShyYXcuZ2V0RGlyZWN0aW9uKCkpOwovLyAgICAgICAgIC8vwfjA1CC9w7CjCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgNikuc2V0VmFsdWUocmF3LmdldENvbnRyYWN0SW5UaW1lWVlZWU1NRERISE1NU1MoKSk7Ci8vICAgICAgICAgLy/B+MDUIMH2vPYKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCA3KS5zZXRWYWx1ZShyYXcuZ2V0Q29udHJhY3RJblBvaW50KCkpOwovLyAgICAgICAgIC8vsOi+4CC89govLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDgpLnNldFZhbHVlKHJhdy5nZXRDb250cmFjdFF1YW50aXR5KCkpOwovLyAgICAgICAgIC8vw7u76iC9w7CjCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgOSkuc2V0VmFsdWUocmF3LmdldENvbnRyYWN0T3V0VGltZVlZWVlNTURESEhNTVNTKCkpOwovLyAgICAgICAgIC8vw7u76iDB9rz2Ci8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTApLnNldFZhbHVlKHJhdy5nZXRDb250cmFjdE91dFBvaW50KCkpOwovLyAgICAgICAgIC8vvPa89rfhCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTEpLnNldFZhbHVlKHJhdy5nZXRGZWUoKSk7Ci8vICAgICAgICAgLy+9xyDF9cDaILOvwqUKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCAxMikuc2V0VmFsdWUoJz1pZihIT1VSKCRGMik+VmFyISRCJDcsICRGMiwgJEYyLTEpJyk7Ci8vICAgICAgICAgLy+8+CDB9rz2ILC4Ci8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTMpLnNldFZhbHVlKCc9aWYoaXNibGFuaygkajIpLCAwLCBhYnMoJGoyLSRnMikpJyk7Ci8vICAgICAgICAgLy+8+CDB9rz2ILC4KCstKQovLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDE0KS5zZXRWYWx1ZSgnPWlmKCRvMjwwLCAkbTIqLTEsICRtMiknKTsKLy8gICAgICAgICAvL7z4ILz2wM0KLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCAxNSkuc2V0VmFsdWUocmF3LmdldE5ldFByb2ZpdCgpKTsKLy8gICAgICAgICAvL7q4wK8gvcOwowovLyAgICAgICAgIGZ1dHVyZVNoZWV0LmdldFJhbmdlKDIsIDE2KS5zZXRWYWx1ZSgnPWlmKG9yKElTQkxBTksoJEkyKSwgSVNCTEFOSygkRjIpKSwwLCAkSTItJEYyKScpOwovLyAgICAgICAgIC8vurjAryC9w7CjLCAovcMsutAsw8opCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMTcpLnNldFZhbHVlKCc9U1BMSVQoVE9fVEVYVCgkUDIpLCAiOiIpJyk7Ci8vICAgICAgICAgLy+6uMCvIL3DsKMow8osIMivu+opCi8vICAgICAgICAgZnV0dXJlU2hlZXQuZ2V0UmFuZ2UoMiwgMjApLnNldFZhbHVlKCc9KCRRMio2MCo2MCkrKCRSMio2MCkrKCRTMiknKTsKLy8gICAgICAgICAvL7q4wK8gvcOwoyi60CwgyK+76ikKLy8gICAgICAgICBmdXR1cmVTaGVldC5nZXRSYW5nZSgyLCAyMSkuc2V0VmFsdWUoJz0kVDIvNjAnKTsKLy8gICAgIH0KLy8gfQovLwovLyBjb25zdCBhcHBlbmRGdXR1cmVCecO7u+o0xbC/8iA9ICgpID0+IHsKLy8gICAgIGNvbnN0IHNoZWV0MiA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCkuZ2V0U2hlZXRCeU5hbWUoJ0Z1dHVyZVRlbXBvcmFyeVJhd8Wwv/K6uMG2Jyk7Ci8vICAgICBjb25zdCByYW5nZTIgPSBzaGVldDIuZ2V0RGF0YVJhbmdlKCk7Ci8vICAgICBjb25zdCB2YWx1ZXMyID0gcmFuZ2UyLmdldFZhbHVlcygpOwovLyAgICAgY29uc3QgcmF3QXJyMiA9IEZ1dHVyZVJhdzMubWFrZSh2YWx1ZXMyKQovLyAgICAgICAgIC5zb3J0KChhLCBiKSA9PiBiLmdldFlZWVlNTURESEhNTVNTKCkgLSBhLmdldFlZWVlNTURESEhNTVNTKCkpCi8vICAgICA7Ci8vCi8vICAgICBjb25zdCBzaGVldCA9IFNwcmVhZHNoZWV0QXBwLmdldEFjdGl2ZVNwcmVhZHNoZWV0KCkuZ2V0U2hlZXRCeU5hbWUoJ0Z1dHVyZVRlbXBvcmFyeVJhdycpOwovLyAgICAgY29uc3QgcmFuZ2UgPSBzaGVldC5nZXREYXRhUmFuZ2UoKTsKLy8gICAgIGNvbnN0IHZhbHVlcyA9IHJhbmdlLmdldFZhbHVlcygpOwovLyAgICAgY29uc3QgcmF3QXJyMSA9IEZ1dHVyZVJhdzIubWFrZSh2YWx1ZXMpLnJldmVyc2UoKTsKLy8KLy8gICAgIHJhd0FycjEuZm9yRWFjaCgodmFsdWUxLCBpbmRleDEsIGFycmF5MSkgPT4gewovLyAgICAgICAgIGxldCBjbnQgPSAwOwovLwovLyAgICAgICAgIGZvciAobGV0IGluZGV4MiA9IHJhd0FycjIubGVuZ3RoIC0gMTsgaW5kZXgyID49IDA7IGluZGV4Mi0tKSB7Ci8vICAgICAgICAgICAgIGNvbnN0IHZhbHVlID0gcmF3QXJyMltpbmRleDJdOwovLyAgICAgICAgICAgICBjb25zdCBpc0VxdWFsS2luZCA9IHZhbHVlLmdldEtpbmQoKSA9PT0gdmFsdWUxLmdldEtpbmQoKTsKLy8gICAgICAgICAgICAgaWYgKGlzRXF1YWxLaW5kKSB7Ci8vICAgICAgICAgICAgICAgICBjb25zdCBpc0VxdWFsSW5Qb2ludCA9IHZhbHVlLmdldFNoYWtlUHJpY2UoKSA9PT0gdmFsdWUxLmdldENvbnRyYWN0SW5Qb2ludCgpOwovLyAgICAgICAgICAgICAgICAgY29uc3QgaXNFcXVhbE91dFBvaW50ID0gdmFsdWUuZ2V0U2hha2VQcmljZSgpID09PSB2YWx1ZTEuZ2V0Q29udHJhY3RPdXRQb2ludCgpOwovLwovLyAgICAgICAgICAgICAgICAgaWYgKGlzRXF1YWxJblBvaW50KSB7Ci8vICAgICAgICAgICAgICAgICAgICAgdmFsdWUxLnNldENvbnRyYWN0SW5UaW1lWVlZWU1NRERISE1NU1ModmFsdWUuZ2V0WVlZWU1NRERISE1NU1MoKSk7Ci8vICAgICAgICAgICAgICAgICAgICAgcmF3QXJyMi5zcGxpY2UoaW5kZXgyLCAxKTsKLy8gICAgICAgICAgICAgICAgICAgICBpZiAoKytjbnQgPT0gMikgewovLyAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKLy8gICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGlzRXF1YWxPdXRQb2ludCkgewovLyAgICAgICAgICAgICAgICAgICAgIHZhbHVlMS5zZXRDb250cmFjdE91dFRpbWVZWVlZTU1EREhITU1TUyh2YWx1ZS5nZXRZWVlZTU1EREhITU1TUygpKTsKLy8gICAgICAgICAgICAgICAgICAgICByYXdBcnIyLnNwbGljZShpbmRleDIsIDEpOwovLyAgICAgICAgICAgICAgICAgICAgIGlmICgrK2NudCA9PSAyKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwovLyAgICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgfQovLyAgICAgICAgIH0KLy8gICAgIH0pOwovLwovLwovLyAgICAgLy8tLS0KLy8gICAgIG1ha2VGdXR1cmVzU2hlZXQocmF3QXJyMSk7Ci8vIH07Cg==</text>
+        <text encoding="base64">IyB0c2O+yL+hIHNhc3MgsLDAzCDExMbEwM8K</text>
       </register>
       <register name="4" type="2">
-        <text>js 최소화 도입</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>namespace aa{
-    
-}</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>etFutureTemporaryRaw(): Raw[] {
-//     const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('FutureTemporaryRaw');
-//     const range = sheet.getDataRange();
-//     const values = range.getValues();
-//     return FutureRaw2.make(values);
-// }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>{
-    &quot;compilerOptions&quot;: {
-        &quot;module&quot;: &quot;commonjs&quot;,
-            &quot;noImplicitAny&quot;: true,
-            &quot;removeComments&quot;: true,
-            &quot;preserveConstEnums&quot;: true,
-            &quot;sourceMap&quot;: true
-    }
-}</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS4yMzhlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZmlsZUJhc2UgPSBwcm9jZXNzLmVudi5MT0dfRklMRV9CQVNFIGFzIHN0cmluZyB8fCByZXNvbHZlKF9fZGlybmFtZSwgJy4uJywgJy4uL2xvZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
