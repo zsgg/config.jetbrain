@@ -148,19 +148,24 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589641605767">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589642613240">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="22" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/SampleComponent.tsx" timestamp="1589624444323" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/ZsAnimation.tsx" timestamp="1589624782113">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-sass-in-tsc/Clock.tsx" timestamp="1589638286168" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Input.tsx" timestamp="1589642892080">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="19" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssr.tsx" timestamp="1589639699594">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="50" />
@@ -226,13 +231,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>theme</text>
+        <text>Input</text>
       </register>
       <register name="-" type="4">
-        <text>theme</text>
+        <text>Input</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUaGVtZVByb3ZpZGVyIHRoZW1lPXt0aGVtZX0+CiAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbj5UaGVtZWQ8L0J1dHRvbj4KICAgICAgICAgICAgICAgIDwvVGhlbWVQcm92aWRlcj4K</text>
+        <text encoding="base64">IyAocmVhY3QpILv9uO3B1rHiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
