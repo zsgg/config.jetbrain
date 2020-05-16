@@ -120,10 +120,11 @@
         <mark key="." line="23" column="2" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.babelrc" timestamp="1589639293721">
-        <mark key="[" line="2" column="71" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.babelrc" timestamp="1589646806761">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/ZsInput.tsx" timestamp="1589624600061" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleComponent.tsx" timestamp="1589639762783">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="30" />
@@ -182,8 +183,10 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/package.json" timestamp="1589638852488">
-        <mark key="[" line="9" column="41" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/package.json" timestamp="1589647048657">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/with-custom-babel-config-app/.babelrc" timestamp="1589639179354" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/index.tsx" timestamp="1589639719106">
@@ -228,10 +231,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Input</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Input</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAocmVhY3QpILv9uO3B1rHiCg==</text>
