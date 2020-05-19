@@ -178,8 +178,11 @@
         <mark key="^" line="0" column="50" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.ts" timestamp="1589861409539">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.ts" timestamp="1589861481065">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589648700303">
         <mark key="[" line="6" column="3" />
@@ -231,10 +234,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAocmVhY3QpILv9uO3B1rHiCg==</text>
