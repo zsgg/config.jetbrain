@@ -114,6 +114,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.tsx" timestamp="1589862198105" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/StyledComponent.tsx" timestamp="1589639614616">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="23" column="3" />
@@ -143,6 +144,7 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="26" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/tsconfig.json" timestamp="1589862130416" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/Theme.tsx" timestamp="1589639443871">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -178,19 +180,13 @@
         <mark key="^" line="0" column="50" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.ts" timestamp="1589861481065">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="40" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589648700303">
-        <mark key="[" line="6" column="3" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/ZsAnimation.tsx" timestamp="1589624782113">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.ts" timestamp="1589862183688">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589648700303">
+        <mark key="[" line="6" column="3" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssg.tsx" timestamp="1589639705849">
         <mark key="[" line="1" column="43" />
@@ -198,12 +194,7 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="49" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Input.tsx" timestamp="1589861393609">
-        <mark key="[" line="57" column="25" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="57" column="32" />
-        <mark key="." line="57" column="31" />
-      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Input.tsx" timestamp="1589862864618" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/styled.tsx" timestamp="1589639689342">
         <mark key="[" line="0" column="52" />
         <mark key="]" line="0" column="77" />
@@ -234,10 +225,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAocmVhY3QpILv9uO3B1rHiCg==</text>
