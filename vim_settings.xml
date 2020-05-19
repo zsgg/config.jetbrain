@@ -125,11 +125,29 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssr.tsx" timestamp="1589639699594">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="1" column="50" />
+        <mark key="." line="1" column="49" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleComponent.tsx" timestamp="1589639762783">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="29" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/Input.tsx" timestamp="1589639525614">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="26" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/Theme.tsx" timestamp="1589639443871">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/other.tsx" timestamp="1589639713306">
         <mark key="[" line="0" column="43" />
@@ -143,63 +161,42 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/package.json" timestamp="1589647048657">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/StyledComponent.tsx" timestamp="1589639630042">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589648700303">
-        <mark key="[" line="23" column="3" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/ZsAnimation.tsx" timestamp="1589624782113">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-sass-in-tsc/Clock.tsx" timestamp="1589638286168" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Input.tsx" timestamp="1589642892080">
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="19" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssr.tsx" timestamp="1589639699594">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="50" />
-        <mark key="^" line="1" column="50" />
-        <mark key="." line="1" column="49" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/Input.tsx" timestamp="1589639525614">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="27" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="28" column="26" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleStyledComponent.tsx" timestamp="1589639650460" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/Theme.tsx" timestamp="1589639443871">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/package.json" timestamp="1589647048657">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/with-custom-babel-config-app/.babelrc" timestamp="1589639179354" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/index.tsx" timestamp="1589639719106">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="50" />
         <mark key="^" line="0" column="50" />
         <mark key="." line="0" column="49" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.TodoNTruble QnA.md" timestamp="1589648700303">
+        <mark key="[" line="6" column="3" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/ZsAnimation.tsx" timestamp="1589624782113">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssg.tsx" timestamp="1589639705849">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="50" />
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="49" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Input.tsx" timestamp="1589851032622">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="57" column="27" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="57" column="26" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/styled.tsx" timestamp="1589639689342">
         <mark key="[" line="0" column="52" />
