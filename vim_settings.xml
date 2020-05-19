@@ -132,6 +132,12 @@
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="49" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/dir/index.tsx" timestamp="1589864625072">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleComponent.tsx" timestamp="1589639762783">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="30" />
@@ -144,12 +150,17 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="26" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/tsconfig.json" timestamp="1589862130416" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/typescript-with-styled-component/Theme.tsx" timestamp="1589639443871">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="26" column="0" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleStyledComponent.tsx" timestamp="1589864999592">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="27" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/tsconfig.json" timestamp="1589864976632">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="18" column="9" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="18" column="8" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/other.tsx" timestamp="1589639713306">
         <mark key="[" line="0" column="43" />
@@ -226,10 +237,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>src</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyAocmVhY3QpILv9uO3B1rHiCg==</text>
