@@ -115,12 +115,6 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.tsx" timestamp="1589862198105" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/StyledComponent.tsx" timestamp="1589639614616">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="2" />
-        <mark key="^" line="23" column="3" />
-      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.babelrc" timestamp="1589646806761">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
@@ -190,6 +184,7 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/store.ts" timestamp="1589875453052" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/index.tsx" timestamp="1589639719106">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="50" />
