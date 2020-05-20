@@ -115,22 +115,10 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.tsx" timestamp="1589862198105" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.babelrc" timestamp="1589646806761">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleComponent.tsx" timestamp="1589639762783">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="29" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/other.tsx" timestamp="1589639713306">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="49" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.babelrc" timestamp="1589942194268">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Theme.tsx" timestamp="1589641244981">
         <mark key="[" line="32" column="0" />
@@ -138,12 +126,7 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/StyledComponent.tsx" timestamp="1589639630042">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="29" />
-      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/mobx/CounterWithDeco.tsx" timestamp="1589944376191" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/test.ts" timestamp="1589862183688">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -155,19 +138,13 @@
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/typescript-with-styled-component/Input.tsx" timestamp="1589862864618" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/with-mobx-state-tree-typescript-app/pages/ssr.tsx" timestamp="1589863674338" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/testDummy/aaa.tsx" timestamp="1589869384016" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssr.tsx" timestamp="1589639699594">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="50" />
-        <mark key="^" line="1" column="50" />
-        <mark key="." line="1" column="49" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/dir/index.tsx" timestamp="1589944402875">
+        <mark key="[" line="6" column="74" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="4" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/dir/index.tsx" timestamp="1589864625072">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleStyledComponent.tsx" timestamp="1589864999592">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleStyledComponent.tsx" timestamp="1589944006467">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="28" />
         <mark key="^" line="4" column="28" />
@@ -190,24 +167,18 @@
         <mark key="^" line="35" column="4" />
         <mark key="." line="35" column="3" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/index.tsx" timestamp="1589639719106">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="49" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/dir/Counter.jsx" timestamp="1589942205489" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/dir/CounterWithDeco.tsx" timestamp="1589942618631" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/mobx/CounterStore.ts" timestamp="1589944357029">
+        <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssg.tsx" timestamp="1589639705849">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="50" />
-        <mark key="^" line="1" column="50" />
-        <mark key="." line="1" column="49" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleMobxComponent.tsx" timestamp="1589944573845">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="17" column="44" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/styled.tsx" timestamp="1589639689342">
-        <mark key="[" line="0" column="52" />
-        <mark key="]" line="0" column="77" />
-        <mark key="." line="0" column="76" />
-        <mark key="^" line="0" column="77" />
-      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/dir/Counter.tsx" timestamp="1589942580177" />
     </filemarks>
     <jumps>
       <jump line="5" column="14" filename="D:/Code Project/dutch-pay--api/play.js" />
@@ -232,13 +203,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>src</text>
+        <text>increase</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>increase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAocmVhY3QpILv9uO3B1rHiCg==</text>
+        <text encoding="base64">ICAgICAgICA8aDE+e3RoaXMucHJvcHMudGl0bGV9PC9oMT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
