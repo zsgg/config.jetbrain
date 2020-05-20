@@ -103,10 +103,23 @@
         <mark key="^" line="36" column="46" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/mobx/counter1.tsx" timestamp="1589959416490" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/stores/store.ts" timestamp="1589955519798">
-        <mark key="]" line="23" column="31" />
-        <mark key="^" line="23" column="31" />
-        <mark key="." line="23" column="30" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After1ColorBox.tsx" timestamp="1589960939022">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After2ColorProvider.tsx" timestamp="1589962276673" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/after1/ColorContext.ts" timestamp="1589960896824">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="27" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/after2.tsx" timestamp="1589962141738">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/stores/StoreOriginal.ts" timestamp="1589957223507">
         <mark key="[" line="3" column="0" />
@@ -120,76 +133,46 @@
         <mark key="^" line="25" column="42" />
         <mark key="." line="26" column="31" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssg.tsx" timestamp="1589957034922">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="53" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssg.tsx" timestamp="1589962391977">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/stores/InvoiceStore.ts" timestamp="1589954652087">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="22" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/mobx/invoice1.tsx" timestamp="1589955137369">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/_app.tsx" timestamp="1589955775876">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="34" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/before.tsx" timestamp="1589959467345">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/with-mobx-state-tree-typescript-app/pages/_app.tsx" timestamp="1589955586260" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/before.tsx" timestamp="1589960514094" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After2ColorContext.ts" timestamp="1589962740067" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/counter1.tsx" timestamp="1589959356570">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssr.tsx" timestamp="1589957281683">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="33" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="33" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/after1.tsx" timestamp="1589960951275">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="64" />
+        <mark key="." line="0" column="55" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/after.tsx" timestamp="1589959700082">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="50" column="11" />
-        <mark key="^" line="50" column="11" />
-        <mark key="." line="50" column="10" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After1ColorBoxConsumer.tsx" timestamp="1589961158273" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/ssr.tsx" timestamp="1589962406269">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleStyledComponent.tsx" timestamp="1589956287158">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="27" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/pages/context-api/after.tsx" timestamp="1589960604185">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="18" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleMobxInvoiceComponent.tsx" timestamp="1589955342067">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="31" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/ColorBox.tsx" timestamp="1589960412459">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="27" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleMobxComponent.tsx" timestamp="1589955490841">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="9" />
-        <mark key="^" line="2" column="46" />
-        <mark key="." line="8" column="9" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/stores/InvoiceStoreWithTree.ts" timestamp="1589955296066">
-        <mark key="[" line="7" column="3" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/SampleMobxTreeComponent.tsx" timestamp="1589955438966">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After2ColorBox.tsx" timestamp="1589961039065">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
       </file>
     </filemarks>
     <jumps />
@@ -197,19 +180,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>before</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>before</text>
+        <text>f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGluayBocmVmPXt0aGlzLnByb3BzLmxpbmtUb30+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhPk5hdmlnYXRlPC9hPgogICAgICAgICAgICAgICAgICAgIDwvTGluaz4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpcyBzc2cnLCBjdHgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
+        <text encoding="base64">Y29uc3QgQXBwID0gKCkgPT4gewogICAgY29uc3QgY2hhbXBpb24gPSB7CiAgICAgICAgbmFtZTogJ0RyYXZlbicsCiAgICAgICAgY2hhcmFjdGVyaXN0aWM6ICdkaXJ0eScsCiAgICB9OwogICAgCiAgICByZXR1cm4gKAogICAgICAgIDw+CiAgICAgICAgICAgIDxIZWFkZXIgdXNlcj17Y2hhbXBpb259Lz4KICAgICAgICA8Lz4KICAgICk7Cn07CmNvbnN0IEhlYWRlciA9ICh7dXNlcn0pID0+IHsKICAgIHJldHVybiAoCiAgICAgICAgPD4KICAgICAgICAgICAgPE5hdiB1c2VyPXt1c2VyfS8+CiAgICAgICAgPC8+CiAgICApOwp9Owpjb25zdCBOYXYgPSAoe3VzZXJ9KSA9PiB7CiAgICByZXR1cm4gPD57dXNlci5uYW1lfTwvPjsKfTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -221,16 +204,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVuZGVyKAo=</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPEJ1dHRvbj5Ob3JtYWw8L0J1dHRvbj4KICAgICAgICA8VGhlbWVQcm92aWRlciB0aGVtZT17dGhlbWV9PgogICAgICAgICAgICA8QnV0dG9uPlRoZW1lZDwvQnV0dG9uPgogICAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">cmVuZGVyKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgSW5wdXQgPSBzdHlsZWQuaW5wdXQuYXR0cnMocHJvcHMgPT4gKHsKICAvLyB3ZSBjYW4gZGVmaW5lIHN0YXRpYyBwcm9wcwogIHR5cGU6ICJwYXNzd29yZCIsCiAgCiAgLy8gb3Igd2UgY2FuIGRlZmluZSBkeW5hbWljIG9uZXMKICBzaXplOiBwcm9wcy5zaXplIHx8ICIxZW0iLAp9KSlgCiAgY29sb3I6IHBhbGV2aW9sZXRyZWQ7CiAgZm9udC1zaXplOiAxZW07CiAgYm9yZGVyOiAycHggc29saWQgcGFsZXZpb2xldHJlZDsKICBib3JkZXItcmFkaXVzOiAzcHg7CgogIC8qIGhlcmUgd2UgdXNlIHRoZSBkeW5hbWljYWxseSBjb21wdXRlZCBwcm9wICovCiAgbWFyZ2luOiAke3Byb3BzID0+IHByb3BzLnNpemV9OwogIHBhZGRpbmc6ICR7cHJvcHMgPT4gcHJvcHMuc2l6ZX07CmA7Cgo=</text>
+        <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgPEJ1dHRvbj5Ob3JtYWw8L0J1dHRvbj4KICAgICAgICA8VGhlbWVQcm92aWRlciB0aGVtZT17dGhlbWV9PgogICAgICAgICAgICA8QnV0dG9uPlRoZW1lZDwvQnV0dG9uPgogICAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
