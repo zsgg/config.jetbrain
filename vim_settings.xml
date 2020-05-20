@@ -125,7 +125,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/package.json" timestamp="1589991293052">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/package.json" timestamp="1589992360010">
         <mark key="]" line="15" column="21" />
         <mark key="." line="15" column="21" />
       </file>
@@ -152,20 +152,17 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/index.tsx" timestamp="1589990986953">
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="0" column="31" />
-      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/index.tsx" timestamp="1589992417539" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/button-group/ButtonGroup.stories.tsx" timestamp="1589989498573">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After2ColorContext.ts" timestamp="1589990509340" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.storybook/main.js" timestamp="1589991295920">
-        <mark key="^" line="5" column="8" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.storybook/main.js" timestamp="1589991347239">
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="1" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/styled.tsx" timestamp="1589990425195">
         <mark key="[" line="0" column="38" />
@@ -193,10 +190,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>preset</text>
+        <text>Link</text>
       </register>
       <register name="-" type="4">
-        <text>preset</text>
+        <text>Link</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnQHN0b3J5Ym9vay9hZGRvbi1kb2NzL3ByZXNldCcsCg==</text>
