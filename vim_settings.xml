@@ -99,10 +99,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/hello/Hello.tsx" timestamp="1589986353110">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/ssr.tsx" timestamp="1589990409780">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/_app.tsx" timestamp="1590060821123">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="39" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.storybook/config.js" timestamp="1589990044496">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/index.tsx" timestamp="1590060952227">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/index.tsx" timestamp="1590060891664">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/button-group/ButtonGroup.stories.tsx" timestamp="1589989498573">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After2ColorContext.ts" timestamp="1589990509340" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.storybook/main.js" timestamp="1589991347239">
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="1" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/styled.tsx" timestamp="1589990425195">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/button/Button.tsx" timestamp="1589989343646">
         <mark key="[" line="13" column="23" />
@@ -129,63 +169,6 @@
         <mark key="]" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/hello/Hello.stories.js" timestamp="1589984429407">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/ssr.tsx" timestamp="1589990409780">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-        <mark key="." line="2" column="30" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/_app.tsx" timestamp="1589990800904">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="29" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.storybook/config.js" timestamp="1589990044496">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/index.tsx" timestamp="1589995078001">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="33" column="19" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="33" column="18" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/button-group/ButtonGroup.stories.tsx" timestamp="1589989498573">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/components/sample/context-api/After2ColorContext.ts" timestamp="1589990509340" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/.storybook/main.js" timestamp="1589991347239">
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="10" column="1" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/styled.tsx" timestamp="1589990425195">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="36" />
-        <mark key="^" line="0" column="37" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/src/hello/Hello.ts" timestamp="1589986714072">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/storybook-tutorial/.storybook/addons.js" timestamp="1589983765480">
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="29" />
-      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/README.md" timestamp="1589994801318">
         <mark key="[" line="11" column="0" />
       </file>
@@ -198,10 +181,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Link</text>
+        <text>ssr</text>
       </register>
       <register name="-" type="4">
-        <text>Link</text>
+        <text>ssr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnQHN0b3J5Ym9vay9hZGRvbi1kb2NzL3ByZXNldCcsCg==</text>
