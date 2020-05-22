@@ -99,59 +99,49 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst-2.tsx" timestamp="1590083696507">
-        <mark key="[" line="18" column="14" />
+      <file name="/Dummy.ts" timestamp="1590163992526">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component.tsx" timestamp="1590147023431">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="25" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component-with-inject.tsx" timestamp="1590163900440">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="32" />
       </file>
-      <file name="/a.dummy" timestamp="1590079889829">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleIndexComponent.tsx" timestamp="1590146886915">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="58" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/with-mobx-state-tree-typescript-app/components/SampleComponent.tsx" timestamp="1590079081383" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/index.tsx" timestamp="1590084012387">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="10" column="24" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/sample.tsx" timestamp="1590163586842">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="20" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/css-in-ts--with-sass/Clock.tsx" timestamp="1590158595914" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst-1.tsx" timestamp="1590084308795" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst.tsx" timestamp="1590078359790">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="9" column="24" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1590164042177">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="19" />
       </file>
+      <file name="D:/Code Project/integration-web/src/components/sample/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1590164974749">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="22" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/index.ts" timestamp="1590162669609">
+        <mark key="[" line="0" column="79" />
+        <mark key="]" line="0" column="90" />
+        <mark key="." line="0" column="89" />
+        <mark key="^" line="0" column="90" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/node_modules/mobx-state-tree/dist/middlewares/on-action.d.ts" timestamp="1590161492394" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component-with-inject.tsx" timestamp="1590159456289">
         <mark key="[" line="22" column="32" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleMst2Component.tsx" timestamp="1590083693091">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-        <mark key="." line="9" column="36" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1590158944208">
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="46" column="52" />
-        <mark key="^" line="46" column="52" />
-        <mark key="." line="46" column="51" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/stores/RootStore.ts" timestamp="1590078029417">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="13" column="30" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="29" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component.tsx" timestamp="1590165432756">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/fail-store-in-page.tsx" timestamp="1590158969968">
         <mark key="[" line="37" column="9" />
@@ -159,11 +149,33 @@
         <mark key="^" line="37" column="10" />
         <mark key="." line="37" column="9" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590146654287">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="27" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/hooks/sample/README.md" timestamp="1590160032563">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590164050961">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="43" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1590162231843">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="17" column="1" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/sample/css-in-ts--styled-component/SampleStyledComponentCompose.tsx" timestamp="1590163440282">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590164237399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1590158944208">
+        <mark key="[" line="46" column="54" />
+        <mark key="]" line="46" column="52" />
+        <mark key="^" line="46" column="52" />
+        <mark key="." line="46" column="51" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/stores/sample/dutch-pay/index.ts" timestamp="1590159022281">
         <mark key="[" line="2" column="7" />
@@ -171,25 +183,11 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleMst3Component.tsx" timestamp="1590084266564">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="35" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst-3.tsx" timestamp="1590084077661">
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="12" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/hooks/sample/README.md" timestamp="1590160032563">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/fail-store-in-staticprops--pass-to-component.tsx" timestamp="1590146549106">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="2" column="50" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="49" />
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1590163701490">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="41" />
       </file>
     </filemarks>
     <jumps />
@@ -197,40 +195,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text>export type {initializeStore, SampleRootStore, useStore, IStore, currStore};</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpc3Bvc2VyID0gYWRkTWlkZGxld2FyZShzdG9yZSwgKGNhbGwsIG5leHQsIGFib3J0KSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coYGFjdGlvbiAke2NhbGwubmFtZX0gd2FzIGludm9rZWRgKTsKICAgICAgICAvLyBydW5zIHRoZSBuZXh0IG1pZGRsZXdhcmUKICAgICAgICAvLyBvciB0aGUgaW1wbGVtZW50YXRpb24gb2YgdGhlIHRhcmdldGVkIGFjdGlvbgogICAgICAgIC8vIGlmIHRoZXJlIGlzIG5vIG1pZGRsZXdhcmUgbGVmdCB0byBydW4KICAgICAgICAKICAgICAgICAvLyB0aGUgdmFsdWUgcmV0dXJuZWQgZnJvbSB0aGUgbmV4dCBjYW4gYmUgbWFuaXB1bGF0ZWQKICAgICAgICBuZXh0KGNhbGwsIHZhbHVlID0+ICdhc2RmYXNkZicpOwogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgovLyBleHBvcnQgY29uc3QgU2FtcGxlTXN0MkNvbXBvbmVudCA9IG9ic2VydmVyKHByb3BzID0+IHsKLy8KLy8gICAgIHJldHVybiAoCi8vICAgICA8ZGl2PgovLyAgICAgICAgIHtKU09OLnN0cmluZ2lmeShwcm9wcyl9Ci8vICAgICA8L2Rpdj4pCi8vICl9Owo=</text>
+        <text encoding="base64">Y29uc3QgdGVzdEZ1bmNBcnJvdyA9ICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvdXRzaWRlIHRlc3QgZnVuYyBhcnJvdycpOwp9OwoKZnVuY3Rpb24gdGVzdEZ1bmMoKSB7CiAgICBjb25zb2xlLmxvZygnb3V0c2lkZSB0ZXN0IGZ1bmMnKTsKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgQXBwID0gKCkgPT4gewogICAgY29uc3QgY2hhbXBpb24gPSB7CiAgICAgICAgbmFtZTogJ0RyYXZlbicsCiAgICAgICAgY2hhcmFjdGVyaXN0aWM6ICdkaXJ0eScsCiAgICB9OwogICAgCiAgICByZXR1cm4gKAogICAgICAgIDw+CiAgICAgICAgICAgIDxIZWFkZXIgdXNlcj17Y2hhbXBpb259Lz4KICAgICAgICA8Lz4KICAgICk7Cn07CmNvbnN0IEhlYWRlciA9ICh7dXNlcn0pID0+IHsKICAgIHJldHVybiAoCiAgICAgICAgPD4KICAgICAgICAgICAgPE5hdiB1c2VyPXt1c2VyfS8+CiAgICAgICAgPC8+CiAgICApOwp9Owpjb25zdCBOYXYgPSAoe3VzZXJ9KSA9PiB7CiAgICByZXR1cm4gPD57dXNlci5uYW1lfTwvPjsKfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGVzdEZ1bmNBcnJvd0luID0gKCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIHRlc3QgZnVuYyBhcnJvdycpOwogICAgICAgICAgICB9OwogICAgICAgICAgICAKICAgICAgICAgICAgZnVuY3Rpb24gdGVzdEZ1bmNJbigpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbiB0ZXN0IGZ1bmMnKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgdGVzdEZ1bmMoKTsKICAgICAgICAgICAgdGVzdEZ1bmNBcnJvdygpOwogICAgICAgICAgICB0ZXN0RnVuY0Fycm93SW4oKTsKICAgICAgICAgICAgdGVzdEZ1bmNJbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
+        <text encoding="base64">CgovLyBleHBvcnQgY29uc3QgU2FtcGxlTXN0MkNvbXBvbmVudCA9IG9ic2VydmVyKHByb3BzID0+IHsKLy8KLy8gICAgIHJldHVybiAoCi8vICAgICA8ZGl2PgovLyAgICAgICAgIHtKU09OLnN0cmluZ2lmeShwcm9wcyl9Ci8vICAgICA8L2Rpdj4pCi8vICl9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQXBwID0gKCkgPT4gewogICAgY29uc3QgY2hhbXBpb24gPSB7CiAgICAgICAgbmFtZTogJ0RyYXZlbicsCiAgICAgICAgY2hhcmFjdGVyaXN0aWM6ICdkaXJ0eScsCiAgICB9OwogICAgCiAgICByZXR1cm4gKAogICAgICAgIDw+CiAgICAgICAgICAgIDxIZWFkZXIgdXNlcj17Y2hhbXBpb259Lz4KICAgICAgICA8Lz4KICAgICk7Cn07CmNvbnN0IEhlYWRlciA9ICh7dXNlcn0pID0+IHsKICAgIHJldHVybiAoCiAgICAgICAgPD4KICAgICAgICAgICAgPE5hdiB1c2VyPXt1c2VyfS8+CiAgICAgICAgPC8+CiAgICApOwp9Owpjb25zdCBOYXYgPSAoe3VzZXJ9KSA9PiB7CiAgICByZXR1cm4gPD57dXNlci5uYW1lfTwvPjsKfTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
