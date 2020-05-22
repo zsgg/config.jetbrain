@@ -102,8 +102,20 @@
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst-2.tsx" timestamp="1590083696507">
         <mark key="[" line="18" column="14" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component.tsx" timestamp="1590147023431">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="25" />
+      </file>
       <file name="/a.dummy" timestamp="1590079889829">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleIndexComponent.tsx" timestamp="1590146886915">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/with-mobx-state-tree-typescript-app/components/SampleComponent.tsx" timestamp="1590079081383" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/stores/ParticipantsStore.ts" timestamp="1590077694159">
@@ -123,12 +135,6 @@
         <mark key="]" line="10" column="24" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="10" column="24" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/index.tsx" timestamp="1590066664159">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="7" column="24" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst-1.tsx" timestamp="1590084308795" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mst.tsx" timestamp="1590078359790">
@@ -155,11 +161,23 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="29" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleMobxComponent.tsx" timestamp="1590065830294">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-        <mark key="^" line="2" column="54" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/fail-store-in-page.tsx" timestamp="1590146561326">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="49" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590146654287">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="27" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/stores/sample/dutch-pay/index.ts" timestamp="1590146995643">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleMst3Component.tsx" timestamp="1590084266564">
         <mark key="[" line="22" column="2" />
@@ -172,15 +190,11 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleStyledComponent.tsx" timestamp="1590065806216">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/components/sample/SampleComponent.tsx" timestamp="1590065814559">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/fail-store-in-staticprops--pass-to-component.tsx" timestamp="1590146549106">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="49" />
       </file>
     </filemarks>
     <jumps />
@@ -188,13 +202,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>diwv</text>
+        <text>index</text>
       </register>
       <register name="-" type="4">
-        <text>diwv</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXthZGR9PmFkZDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ0BzdG9yZXMvc2FtcGxlL2R1dGNoLXBheS9pbmRleCc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgovLyBleHBvcnQgY29uc3QgU2FtcGxlTXN0MkNvbXBvbmVudCA9IG9ic2VydmVyKHByb3BzID0+IHsKLy8KLy8gICAgIHJldHVybiAoCi8vICAgICA8ZGl2PgovLyAgICAgICAgIHtKU09OLnN0cmluZ2lmeShwcm9wcyl9Ci8vICAgICA8L2Rpdj4pCi8vICl9Owo=</text>
