@@ -108,11 +108,11 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590209979948">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="9" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="33" column="9" />
+      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590212839077">
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+        <mark key="." line="25" column="50" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--playground.tsx" timestamp="1590210631233">
         <mark key="j" line="42" column="27" />
