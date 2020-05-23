@@ -99,20 +99,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590210790915">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--with-middleware.tsx" timestamp="1590210789189">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="13" column="8" />
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590212839077">
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="25" column="51" />
-        <mark key="^" line="25" column="51" />
-        <mark key="." line="25" column="50" />
+      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590216537656">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="58" column="25" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--playground.tsx" timestamp="1590210631233">
         <mark key="j" line="42" column="27" />
@@ -125,16 +122,7 @@
       <file name="/Dummy.ts" timestamp="1590163992526">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component.tsx" timestamp="1590204932398">
-        <mark key="j" line="3" column="3" />
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="14" column="45" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-hooks-mobx-state-tree/src/models/Root.ts" timestamp="1590205233610" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mst-middlewares/src/undo-manager.ts" timestamp="1590179540525" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mst-middlewares/README.md" timestamp="1590179665838" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mobx-state-tree/src/types/utility-types/snapshotProcessor.ts" timestamp="1590216391739" />
       <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component-with-inject.tsx" timestamp="1590205740485">
         <mark key="[" line="25" column="26" />
         <mark key="]" line="31" column="2" />
@@ -147,16 +135,7 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/hooks/sample/README.md" timestamp="1590160032563">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--temp.tsx" timestamp="1590207717289">
-        <mark key="[" line="39" column="12" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1590162231843">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="1" />
-      </file>
+      <file name="D:/Code Project/integration-web/node_modules/mobx-state-tree/dist/types/complex-types/model.d.ts" timestamp="1590215775920" />
       <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1590164042177">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="18" column="20" />
@@ -169,11 +148,33 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/index.ts" timestamp="1590162669609">
-        <mark key="[" line="0" column="79" />
-        <mark key="]" line="0" column="90" />
-        <mark key="." line="0" column="89" />
-        <mark key="^" line="0" column="90" />
+      <file name="D:/Code Project/integration-web/src/components/sample/css-in-ts--styled-component/SampleStyledComponentCompose.tsx" timestamp="1590163440282">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590210790915">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component.tsx" timestamp="1590204932398">
+        <mark key="j" line="3" column="3" />
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="45" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-hooks-mobx-state-tree/src/models/Root.ts" timestamp="1590205233610" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mst-middlewares/src/undo-manager.ts" timestamp="1590179540525" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mst-middlewares/README.md" timestamp="1590179665838" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--temp.tsx" timestamp="1590207717289">
+        <mark key="[" line="39" column="12" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--localstorage.tsx" timestamp="1590216601601">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1590163701490">
         <mark key="[" line="7" column="53" />
@@ -181,11 +182,11 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/sample/css-in-ts--styled-component/SampleStyledComponentCompose.tsx" timestamp="1590163440282">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/index.ts" timestamp="1590216560673">
+        <mark key="[" line="0" column="61" />
+        <mark key="]" line="0" column="96" />
+        <mark key="^" line="0" column="96" />
+        <mark key="." line="0" column="95" />
       </file>
     </filemarks>
     <jumps />
@@ -193,40 +194,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52RGkudGVzdDEoJ2FkZFBhcnRpY2lwYW50cyBkaScpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHthcHBseVNuYXBzaG90LCBvblNuYXBzaG90fSBmcm9tICdtb2J4LXN0YXRlLXRyZWUnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdEZ1bmNBcnJvdyA9ICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvdXRzaWRlIHRlc3QgZnVuYyBhcnJvdycpOwp9OwoKZnVuY3Rpb24gdGVzdEZ1bmMoKSB7CiAgICBjb25zb2xlLmxvZygnb3V0c2lkZSB0ZXN0IGZ1bmMnKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayB3aGV0aGVyIHRoZSBzdHJ1Y3R1cmUgaXMgY2hhbmdlZCBvciBub3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHN0b3JlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGVzdEZ1bmNBcnJvd0luID0gKCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIHRlc3QgZnVuYyBhcnJvdycpOwogICAgICAgICAgICB9OwogICAgICAgICAgICAKICAgICAgICAgICAgZnVuY3Rpb24gdGVzdEZ1bmNJbigpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbiB0ZXN0IGZ1bmMnKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgdGVzdEZ1bmMoKTsKICAgICAgICAgICAgdGVzdEZ1bmNBcnJvdygpOwogICAgICAgICAgICB0ZXN0RnVuY0Fycm93SW4oKTsKICAgICAgICAgICAgdGVzdEZ1bmNJbigpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0b3JlID0gcHJvcHMuaW5pdGlhbFN0YXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgovLyBleHBvcnQgY29uc3QgU2FtcGxlTXN0MkNvbXBvbmVudCA9IG9ic2VydmVyKHByb3BzID0+IHsKLy8KLy8gICAgIHJldHVybiAoCi8vICAgICA8ZGl2PgovLyAgICAgICAgIHtKU09OLnN0cmluZ2lmeShwcm9wcyl9Ci8vICAgICA8L2Rpdj4pCi8vICl9Owo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0b3JlID0gaW5pdGlhbGl6ZVN0b3JlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
+        <text encoding="base64">Y29uc3QgdGVzdEZ1bmNBcnJvdyA9ICgpID0+IHsKICAgIGNvbnNvbGUubG9nKCdvdXRzaWRlIHRlc3QgZnVuYyBhcnJvdycpOwp9OwoKZnVuY3Rpb24gdGVzdEZ1bmMoKSB7CiAgICBjb25zb2xlLmxvZygnb3V0c2lkZSB0ZXN0IGZ1bmMnKTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgQXBwID0gKCkgPT4gewogICAgY29uc3QgY2hhbXBpb24gPSB7CiAgICAgICAgbmFtZTogJ0RyYXZlbicsCiAgICAgICAgY2hhcmFjdGVyaXN0aWM6ICdkaXJ0eScsCiAgICB9OwogICAgCiAgICByZXR1cm4gKAogICAgICAgIDw+CiAgICAgICAgICAgIDxIZWFkZXIgdXNlcj17Y2hhbXBpb259Lz4KICAgICAgICA8Lz4KICAgICk7Cn07CmNvbnN0IEhlYWRlciA9ICh7dXNlcn0pID0+IHsKICAgIHJldHVybiAoCiAgICAgICAgPD4KICAgICAgICAgICAgPE5hdiB1c2VyPXt1c2VyfS8+CiAgICAgICAgPC8+CiAgICApOwp9Owpjb25zdCBOYXYgPSAoe3VzZXJ9KSA9PiB7CiAgICByZXR1cm4gPD57dXNlci5uYW1lfTwvPjsKfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5wdXQgZGVmYXVsdFZhbHVlPSJhc2RmIj48L0lucHV0PgogICAgICAgIDxJbnB1dCBzaXplPSIxcm0iPjwvSW5wdXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdGVzdEZ1bmNBcnJvd0luID0gKCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2luIHRlc3QgZnVuYyBhcnJvdycpOwogICAgICAgICAgICB9OwogICAgICAgICAgICAKICAgICAgICAgICAgZnVuY3Rpb24gdGVzdEZ1bmNJbigpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbiB0ZXN0IGZ1bmMnKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgdGVzdEZ1bmMoKTsKICAgICAgICAgICAgdGVzdEZ1bmNBcnJvdygpOwogICAgICAgICAgICB0ZXN0RnVuY0Fycm93SW4oKTsKICAgICAgICAgICAgdGVzdEZ1bmNJbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgovLyBleHBvcnQgY29uc3QgU2FtcGxlTXN0MkNvbXBvbmVudCA9IG9ic2VydmVyKHByb3BzID0+IHsKLy8KLy8gICAgIHJldHVybiAoCi8vICAgICA8ZGl2PgovLyAgICAgICAgIHtKU09OLnN0cmluZ2lmeShwcm9wcyl9Ci8vICAgICA8L2Rpdj4pCi8vICl9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
