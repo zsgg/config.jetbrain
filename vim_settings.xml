@@ -169,11 +169,11 @@
         <mark key="." line="9" column="36" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/sample/SampleIndexComponent.tsx" timestamp="1590228330212" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" timestamp="1590235932127">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" timestamp="1590235996355">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" timestamp="1590235862566">
         <mark key="'" line="69" column="0" />
@@ -196,11 +196,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbnB1dCwgQnV0dG9uLCBDb2RlfSBmcm9tICdAemVpdC11aS9yZWFjdCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHtJbnB1dCwgQnV0dG9uLCBDb2RlfSBmcm9tICdAemVpdC11aS9yZWFjdCc7Cg==</text>
