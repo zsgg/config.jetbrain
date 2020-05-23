@@ -102,19 +102,25 @@
       <file name="/Dummy.txt" timestamp="1590206537540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590209017492">
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="29" column="20" />
-        <mark key="." line="29" column="19" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--with-middleware.tsx" timestamp="1590210779536">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="32" column="30" />
+        <mark key="^" line="32" column="30" />
+        <mark key="." line="32" column="29" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--playground.tsx" timestamp="1590208837250">
+      <file name="D:/Code Project/integration-web/src/stores/sample/dutch-pay/SampleRootStore.ts" timestamp="1590209979948">
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="9" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="33" column="9" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--playground.tsx" timestamp="1590210631233">
         <mark key="j" line="42" column="27" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="19" column="30" />
-        <mark key="^" line="19" column="30" />
-        <mark key="." line="19" column="29" />
-        <mark key="o" line="52" column="20" />
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="48" column="7" />
+        <mark key="." line="39" column="46" />
+        <mark key="o" line="57" column="20" />
       </file>
       <file name="/Dummy.ts" timestamp="1590163992526">
         <mark key="[" line="0" column="0" />
@@ -157,11 +163,11 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/sample/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1590208913329">
+      <file name="D:/Code Project/integration-web/src/components/sample/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1590210033413">
         <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="57" />
+        <mark key="]" line="12" column="52" />
         <mark key="^" line="12" column="57" />
-        <mark key="." line="12" column="56" />
+        <mark key="." line="12" column="52" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/index.ts" timestamp="1590162669609">
         <mark key="[" line="0" column="79" />
@@ -175,9 +181,6 @@
         <mark key="^" line="8" column="42" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/zsgg-react-next-startp/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component-with-inject.tsx" timestamp="1590159456289">
-        <mark key="[" line="22" column="32" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/sample/css-in-ts--styled-component/SampleStyledComponentCompose.tsx" timestamp="1590163440282">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="18" column="0" />
@@ -190,10 +193,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>test1</text>
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text>test1</text>
+        <text>context</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZW52RGkudGVzdDEoJ2FkZFBhcnRpY2lwYW50cyBkaScpOwo=</text>
