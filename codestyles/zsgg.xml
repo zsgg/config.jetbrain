@@ -22,6 +22,7 @@
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
     <option name="BLANK_LINES_AROUND_METHOD" value="2" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
