@@ -125,11 +125,11 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590308881371">
-        <mark key="[" line="17" column="75" />
-        <mark key="]" line="17" column="77" />
-        <mark key="^" line="17" column="77" />
-        <mark key="." line="17" column="76" />
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590311648974">
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="88" />
+        <mark key="^" line="17" column="82" />
+        <mark key="." line="17" column="88" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590262999255">
         <mark key="[" line="14" column="22" />
@@ -154,7 +154,7 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590309120703">
+      <file name="/Dummy.txt" timestamp="1590311078516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590262052282" />
@@ -214,10 +214,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
