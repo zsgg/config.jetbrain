@@ -37,30 +37,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
   <action id="GotoBookmark0" />
-  <action id="GotoBookmark1">
-    <keyboard-shortcut first-keystroke="shift a" />
-  </action>
-  <action id="GotoBookmark2">
-    <keyboard-shortcut first-keystroke="shift s" />
-  </action>
-  <action id="GotoBookmark3">
-    <keyboard-shortcut first-keystroke="shift d" />
-  </action>
-  <action id="GotoBookmark4">
-    <keyboard-shortcut first-keystroke="shift f" />
-  </action>
-  <action id="GotoBookmark5">
-    <keyboard-shortcut first-keystroke="shift g" />
-  </action>
-  <action id="GotoBookmark6">
-    <keyboard-shortcut first-keystroke="shift z" />
-  </action>
-  <action id="GotoBookmark7">
-    <keyboard-shortcut first-keystroke="shift x" />
-  </action>
-  <action id="GotoBookmark8">
-    <keyboard-shortcut first-keystroke="shift c" />
-  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
@@ -117,30 +101,14 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="ToggleBookmark0" />
-  <action id="ToggleBookmark1">
-    <keyboard-shortcut first-keystroke="shift 1" />
-  </action>
-  <action id="ToggleBookmark2">
-    <keyboard-shortcut first-keystroke="shift 2" />
-  </action>
-  <action id="ToggleBookmark3">
-    <keyboard-shortcut first-keystroke="shift 3" />
-  </action>
-  <action id="ToggleBookmark4">
-    <keyboard-shortcut first-keystroke="shift 4" />
-  </action>
-  <action id="ToggleBookmark5">
-    <keyboard-shortcut first-keystroke="shift 5" />
-  </action>
-  <action id="ToggleBookmark6">
-    <keyboard-shortcut first-keystroke="shift 6" />
-  </action>
-  <action id="ToggleBookmark7">
-    <keyboard-shortcut first-keystroke="shift 7" />
-  </action>
-  <action id="ToggleBookmark8">
-    <keyboard-shortcut first-keystroke="shift 8" />
-  </action>
+  <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark5" />
+  <action id="ToggleBookmark6" />
+  <action id="ToggleBookmark7" />
+  <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
