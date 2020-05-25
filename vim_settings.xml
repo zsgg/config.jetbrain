@@ -1,6 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxvdmVyZmxvd1lcPg==</entry>
+      </history-search>
+      <history-cmd />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -93,7 +103,173 @@
         <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Code Project/integration-web/src/utils/StoreError.ts" timestamp="1590308487749">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="32" />
+      </file>
+      <file name="/Dummy.ts" timestamp="1590307955780">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1590261990919">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/ParticipantStore.ts" timestamp="1590310368192">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="2" />
+        <mark key="^" line="7" column="3" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590311654228">
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="87" />
+        <mark key="^" line="17" column="87" />
+        <mark key="." line="17" column="86" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590262999255">
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="17" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590265143680">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="40" />
+        <mark key="^" line="15" column="40" />
+        <mark key="." line="15" column="39" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/README.md" timestamp="1590263546279">
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="18" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/PartyCard.tsx" timestamp="1590309687496">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="22" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590311078516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590324469469">
+        <mark key="[" line="7" column="34" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/utils/Error.ts" timestamp="1590308508884">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1590265905379">
+        <mark key="[" line="1" column="36" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590262471524">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" timestamp="1590311026926">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="30" column="40" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.scss" timestamp="1590263696268">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="23" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590309754118">
+        <mark key="'" line="44" column="49" />
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="29" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1590307012123">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="14" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/utils/Toast.ts" timestamp="1590310750652">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="22" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
+      <jump line="35" column="12" filename="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" />
+      <jump line="44" column="49" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>r</text>
+      </register>
+      <register name="-" type="4">
+        <text>r</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9J2hlYWQnPntjaGlsZHJlblswXX08L2Rpdj4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IER1bW15U3R5bGUgPSBzdHlsZWQuZGl2YAovLyAgIGJvcmRlci1yYWRpdXM6IDNweDsKLy8gYDsKLy8gICAgIHJldHVybiAoCi8vICAgICAgICAgPER1bW15U3R5bGU+ZHVtbXk8L0R1bW15U3R5bGU+Ci8vICAgICApOwovLyB9OwoKCmV4cG9ydCBjb25zdCBEdW1teVN0eWxlID0gc3R5bGVkLmRpdmAKICBib3JkZXItcmFkaXVzOiAzcHg7CiAgYmFja2dyb3VuZDogI2QxZGRiMTsKODAwb3JkZXI6ICNkZDAwMDM7CiAgYm94LXNpemluZzogYm9yZGVyLWJveDsKYDsKY29uc3QgRHVtbXkgPSAoKSA9PiB7CiAgICByZXR1cm4gKAogICAgICAgIDxEdW1teVN0eWxlPmR1bW15PC9EdW1teVN0eWxlPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gY29uc3QgRHVtbXkgPSAoKSA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXNlIGVmZmVjdCcpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>y</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxvdmVyZmxvd1lcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxvdmVyZmxvd1lcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
