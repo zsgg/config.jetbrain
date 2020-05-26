@@ -107,14 +107,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1590331561592">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590324606122">
+        <mark key="[" line="7" column="34" />
+      </file>
       <file name="D:/Code Project/integration-web/src/utils/StoreError.ts" timestamp="1590308487749">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="D:/Code Project/integration-web/src/utils/Error.ts" timestamp="1590326298835">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="/Dummy.ts" timestamp="1590307955780">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1590265905379">
+        <mark key="[" line="1" column="36" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590328992819">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/ParticipantStore.ts" timestamp="1590324896764">
         <mark key="[" line="6" column="60" />
@@ -122,11 +143,24 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="26" />
       </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" timestamp="1590327686310">
+        <mark key="[" line="66" column="41" />
+        <mark key="m" line="4" column="30" />
+        <mark key="]" line="66" column="41" />
+        <mark key="^" line="66" column="41" />
+        <mark key="." line="66" column="40" />
+      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Head.tsx" timestamp="1590329090123">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="11" />
         <mark key="^" line="26" column="12" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.scss" timestamp="1590263696268">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590327746587">
         <mark key="'" line="33" column="60" />
@@ -135,7 +169,16 @@
         <mark key="^" line="38" column="73" />
         <mark key="." line="38" column="72" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1590331115217" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590331208685">
+        <mark key="'" line="44" column="49" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="40" />
+        <mark key="^" line="42" column="40" />
+        <mark key="." line="42" column="39" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1590454340566">
+        <mark key="[" line="30" column="39" />
+      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590329338715">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="53" />
@@ -147,47 +190,6 @@
         <mark key="]" line="22" column="12" />
         <mark key="^" line="22" column="12" />
         <mark key="." line="22" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590331561592">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590324606122">
-        <mark key="[" line="7" column="34" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/utils/Error.ts" timestamp="1590326298835">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="0" column="18" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1590265905379">
-        <mark key="[" line="1" column="36" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590328992819">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="19" />
-        <mark key="^" line="24" column="20" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" timestamp="1590327686310">
-        <mark key="[" line="66" column="41" />
-        <mark key="m" line="4" column="30" />
-        <mark key="]" line="66" column="41" />
-        <mark key="^" line="66" column="41" />
-        <mark key="." line="66" column="40" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.scss" timestamp="1590263696268">
-        <mark key="[" line="11" column="22" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="23" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590331208685">
-        <mark key="'" line="44" column="49" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="40" />
-        <mark key="^" line="42" column="40" />
-        <mark key="." line="42" column="39" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1590331441255">
         <mark key="[" line="78" column="0" />
