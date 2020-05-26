@@ -128,11 +128,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590496095619">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="39" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590499241754">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/webpack--inflearn/package.json" timestamp="1590470513244">
         <mark key="[" line="6" column="57" />
@@ -140,7 +140,7 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590495751809">
+      <file name="/Dummy.txt" timestamp="1590499246762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590481551800">
@@ -154,11 +154,11 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590496089263">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="29" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590499235587">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="30" />
         <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="29" />
+        <mark key="^" line="41" column="30" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mst-example-boxes/webpack.config.js" timestamp="1590470867926" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/app.js" timestamp="1590486201388">
