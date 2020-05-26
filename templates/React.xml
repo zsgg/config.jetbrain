@@ -1,5 +1,3 @@
 <templateSet group="React">
-  <template name="disp" value="function mapDispatchToProps(dispatch) {&#10; return {&#10; }&#10;}" description="Adds the redux mapDispatchToProps function" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="disp" value="function mapDispatchToProps(dispatch) {&#10; return {&#10; }&#10;}" description="Adds the redux mapDispatchToProps function" toReformat="true" toShortenFQNames="true" />
 </templateSet>
