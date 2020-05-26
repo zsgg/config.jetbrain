@@ -107,8 +107,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/package.json" timestamp="1590477858817">
-        <mark key="[" line="13" column="14" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/package.json" timestamp="1590480551256">
+        <mark key="[" line="10" column="24" />
         <mark key="]" line="13" column="21" />
         <mark key="^" line="13" column="21" />
         <mark key="." line="13" column="20" />
@@ -138,11 +138,11 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590479205817">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590480407448">
         <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="16" column="26" />
+        <mark key="]" line="16" column="46" />
+        <mark key="^" line="16" column="46" />
+        <mark key="." line="16" column="45" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1590454340566">
         <mark key="[" line="30" column="39" />
@@ -168,8 +168,8 @@
       <file name="/Dummy.txt" timestamp="1590331561592">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590479178195">
-        <mark key="[" line="2" column="52" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590480506176">
+        <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="19" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="18" />
