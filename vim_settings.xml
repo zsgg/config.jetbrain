@@ -107,26 +107,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/dist/main.js" timestamp="1590485854671" />
-      <file name="D:/Code Project/integration-web/src/components/sample/context-api/SampleColorContext.ts" timestamp="1590495971176" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/index.html" timestamp="1590478917052">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="6" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" timestamp="1590506808494">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="44" />
+        <mark key="^" line="40" column="4" />
+        <mark key="." line="40" column="3" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/webpack.config.js" timestamp="1590477925001">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="15" />
+      <file name="D:/Code Project/integration-web/src/utils/Numbers.ts" timestamp="1590500597702">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/main.css" timestamp="1590485847952" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-ewebpack-loader.js" timestamp="1590479069680">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/sample/context-api/SampleCountProvider.tsx" timestamp="1590503201623" />
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1590501467951">
+        <mark key="[" line="9" column="38" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="9" column="38" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/sample/context-api/SampleCountContext.ts" timestamp="1590503138073" />
+      <file name="D:/Code Project/integration-web/tsconfig.json" timestamp="1590504418174">
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+        <mark key="." line="35" column="21" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590502537983" />
+      <file name="D:/Code Project/integration-web/src/context/ViewContext.ts" timestamp="1590507817733">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="55" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590506972902">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="45" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="0" column="45" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1590500682694">
+        <mark key="[" line="31" column="85" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590499241754">
         <mark key="[" line="6" column="17" />
@@ -134,51 +158,45 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/webpack--inflearn/package.json" timestamp="1590470513244">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="21" />
-        <mark key="." line="7" column="20" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/PartyCard.tsx" timestamp="1590501866861">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590499246762">
+      <file name="/Dummy.txt" timestamp="1590502710910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590481551800">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" timestamp="1590506750116">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="56" column="23" />
+        <mark key="^" line="56" column="23" />
+        <mark key="." line="56" column="22" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/webpack--inflearn/src/app.js" timestamp="1590470243529">
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="15" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590506978782">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590499235587">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="30" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="30" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590505196638">
+        <mark key="'" line="113" column="37" />
+        <mark key="[" line="120" column="38" />
+        <mark key="]" line="120" column="38" />
+        <mark key="." line="120" column="38" />
+        <mark key="^" line="120" column="47" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/mobx-state-tree/packages/mst-example-boxes/webpack.config.js" timestamp="1590470867926" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/app.js" timestamp="1590486201388">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="9" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590507797517">
+        <mark key="'" line="38" column="29" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="3" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/webpack--inflearn/webpack.config.js" timestamp="1590478880728">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="2" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1590494149720">
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="11" column="47" />
-        <mark key="^" line="66" column="21" />
-        <mark key="." line="11" column="47" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/ViewContext.ts" timestamp="1590504334181">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -188,128 +206,54 @@
       <jump line="33" column="60" filename="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" />
       <jump line="6" column="17" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/webpack--inflearn/webpack.config.js" />
       <jump line="47" column="31" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="36" column="12" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="113" column="37" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="29" column="33" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="48" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="39" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="38" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmRpc3BsYXl9PntkaXNwbGF5fTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB1c2VDb250ZXh0KFZpZXdDb250ZXh0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8RGlzcGxheSBzdHlsZT17e2hlaWdodDonMTAwJSd9fS8+Ki99CiAgICAgICAgey8qICAgIDxQYXJ0eUNhcmRMaXN0Lz4qL30KICAgICAgICB7LyogICAgPFBhcnRpY2lwYW50Q2FyZExpc3QvPiovfQogICAgICAgIHsvKjwvTWFpbkxheW91dD4qL30K</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj57b2JqLnN1YmplY3R9PC9zcGFuPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8TWFpbkxheW91dCBEZXY9e0RlMTF2fT4qL30KICAgICAgICB7LyogICAgLyEqPGRpdj4qIS8qL30KICAgICAgICB7LyogICAgLyEqICAgIDxCdXR0b24gc2l6ZT0ic21hbGwiIG9uQ2xpY2s9e2NsZWFyU3RvcmV9PmNsZWFyIGxvY2FsU3RvcmFnZTwvQnV0dG9uPiohLyovfQogICAgICAgIHsvKiAgICAvISogICAgPFBsYXlncm91bmRQYXJ0aWNpcGFudElucHV0Lz4qIS8qL30KICAgICAgICB7LyogICAgLyEqICAgIDxQbGF5Z3JvdW5kUGFydHlJbnB1dC8+KiEvKi99CiAgICAgICAgey8qICAgIC8hKiAgICA8RGlzcGxheUNvbXBvbmVudC8+KiEvKi99CiAgICAgICAgey8qICAgIC8hKjwvZGl2PiohLyovfQogICAgICAgIHsvKiAgICAvISoqIS8qL30KICAgICAgICB7LyogICAgLyEqKiEvKi99CiAgICAgICAgey8qICAgIC8hKiohLyovfQogICAgICAgIHsvKiAgICA8SGVhZGVyIHN0eWxlPXt7aGVpZ2h0OicxMDAlJ319Lz4qL30K</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IG9iai5jb2xvciwKICAgICAgICAgICAgZGlzcGxheTogJ2lubGluZS1ibG9jaycsCiAgICAgICAgICAgIHdpZHRoOiAnMTBweCcsCiAgICAgICAgICAgIGhlaWdodDogJzEwcHgnCiAgICAgICAgfX0vPgogICAgICAgIDxzcGFuIHN0eWxlPXt7CiAgICAgICAgICAgIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgICAgICAgICB0ZXh0T3ZlcmZsb3c6ICdlbGxpcHNpcycsCiAgICAgICAgICAgIG92ZXJmbG93OiAnaGlkZGVuJywKICAgICAgICB9fT57b2JqLm5hbWV9PC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7ZGV2fQogICAgICAgIHt9CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB7Lyo8RGV2IGNsYXNzTmFtZT17c3R5bGVzLmRldn0vPiovfQogICAgICAgIHsvKjxEaXNwbGF5IGNsYXNzTmFtZT17c3R5bGVzLmRpc3BsYXl9Lz4qL30KICAgICAgICB7Lyo8SGVhZGVyIGNsYXNzTmFtZT17c3R5bGVzLmhlYWRlcn0vPiovfQogICAgICAgIHsvKjxMZWZ0IGNsYXNzTmFtZT17c3R5bGVzLmxlZnR9Lz4qL30KICAgICAgICB7Lyo8UmlnaHQgY2xhc3NOYW1lPXtzdHlsZXMucmlnaHR9Lz4qL30K</text>
+        <text encoding="base64">ICAgICAgICB7LyoqL30KICAgICAgICB7LyoqL30KICAgICAgICB7LyoqL30KICAgICAgICB7Lyo8U2FtcGxlQ291bnRDb250ZXh0LlByb3ZpZGVyIHZhbHVlPXt7dmFsdWU6MX19PiovfQogICAgICAgIHsvKiAgICA8U2FtcGxlQ291bnRDb250ZXh0LkNvbnN1bWVyPiovfQogICAgICAgIHsvKiAgICAgICAge3YgPT4geyovfQogICAgICAgIHsvKiAgICAgICAgICAgIHJldHVybiA8ZGl2Pnt2LnZhbHVlfTwvZGl2PiovfQogICAgICAgIHsvKiAgICAgICAgfX0qL30KICAgICAgICB7LyogICAgPC9TYW1wbGVDb3VudENvbnRleHQuQ29uc3VtZXI+Ki99CiAgICAgICAgey8qPC9TYW1wbGVDb3VudENvbnRleHQuUHJvdmlkZXI+Ki99CiAgICAgICAgey8qKi99CiAgICAgICAgey8qKi99CiAgICAgICAgey8qKi99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8RGV2IGNsYXNzTmFtZT17c3R5bGVzLmRldn0vPgogICAgICAgIAogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmRldn0+e2NoaWxkcmVuWzBdfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmhlYWRlcn0+e2NoaWxkcmVuWzFdfTwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmRpc3BsYXl9PntjaGlsZHJlblsyXX08L2Rpdj4KICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5sZWZ0fT57Y2hpbGRyZW5bM119PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMucmlnaHR9PntjaGlsZHJlbls0XX08L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pntjb250ZXh0LnZhbHVlfTwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0OiAvLihqcGd8cG5nfHN2Z3xnaWYpJC8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-    'participants': {
-        '김대근': {
-            'name': '김대근',
-            'color': '#773E02',
-            'account': ''
-        },
-        '반상우': {
-            'name': '반상우',
-            'color': '#0650E7',
-            'account': ''
-        },
-        '정준효': {
-            'name': '정준효',
-            'color': '#3FCA78',
-            'account': ''
-        },
-        '박상일': {
-            'name': '박상일',
-            'color': '#998DDE',
-            'account': ''
-        },
-        '이창원': {
-            'name': '이창원',
-            'color': '#002672',
-            'account': ''
-        },
-        '송길섭': {
-            'name': '송길섭',
-            'color': '#F6EAC4',
-            'account': ''
-        },
-        '이남호': {
-            'name': '이남호',
-            'color': '#AE8874',
-            'account': ''
-        },
-        '어머니': {
-            'name': '어머니',
-            'color': '#26CD50',
-            'account': ''
-        },
-        '아버지': {
-            'name': '아버지',
-            'color': '#8C734F',
-            'account': ''
-        },
-        '마린보이': {
-            'name': '마린보이',
-            'color': '#7B876B',
-            'account': ''
-        },
-        '큰대뿌리근': {
-            'name': '큰대뿌리근',
-            'color': '#7D6F4C',
-            'account': ''
-        },
-        '배달의민족': {
-            'name': '배달의민족',
-            'color': '#5EB700',
-            'account': ''
-        },
-        '약쟁이': {
-            'name': '약쟁이',
-            'color': '#593A34',
-            'account': ''
-        },
-        '대나무숲': {
-            'name': '대나무숲',
-            'color': '#278F10',
-            'account': ''
-        },
-    },
-    'parties': {
-        '인삼주!': {
-            'subject': '인삼주!',
-            'amount': 82000,
-            'participants': []
-        }
-    },
-};</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB1c2VDb250ZXh0KFZpZXdDb250ZXh0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
