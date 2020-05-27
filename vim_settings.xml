@@ -107,6 +107,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/dist/main.js" timestamp="1590544320748" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-plugin.js" timestamp="1590545390723">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" timestamp="1590514331590">
         <mark key="'" line="42" column="34" />
         <mark key="j" line="64" column="12" />
@@ -125,28 +132,16 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1590501467951">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="38" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/sample/context-api/SampleCountContext.ts" timestamp="1590508694823" />
-      <file name="D:/Code Project/integration-web/tsconfig.json" timestamp="1590504418174">
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-        <mark key="." line="35" column="21" />
-      </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590510700213">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="75" />
       </file>
-      <file name="D:/Code Project/integration-web/src/context/ViewContext.ts" timestamp="1590508407447">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590545296442">
+        <mark key="[" line="27" column="6" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590513383853">
         <mark key="[" line="39" column="46" />
@@ -154,27 +149,32 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="35" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/PartyCard.tsx" timestamp="1590501866861">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="15" />
-        <mark key="^" line="22" column="15" />
-        <mark key="." line="22" column="14" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-custom-loader.js" timestamp="1590544556755">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590537274597">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/index.html" timestamp="1590544206243">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590544691504">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590544622061">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590512687164">
         <mark key="[" line="16" column="30" />
         <mark key="]" line="16" column="50" />
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="49" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" timestamp="1590506750116">
-        <mark key="'" line="39" column="29" />
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="56" column="23" />
-        <mark key="^" line="56" column="23" />
-        <mark key="." line="56" column="22" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590510267692">
         <mark key="[" line="0" column="38" />
@@ -195,23 +195,11 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="42" column="35" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/ViewContext.ts" timestamp="1590504334181">
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="27" />
-      </file>
       <file name="D:/Code Project/integration-web/src/context/ViewContext.tsx" timestamp="1590511488453">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="6" column="65" />
         <mark key="." line="6" column="64" />
         <mark key="^" line="6" column="65" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/context/ViewContextConsumer.ts" timestamp="1590508453765">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="22" />
-        <mark key="^" line="39" column="22" />
-        <mark key="." line="39" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -231,21 +219,22 @@
       <jump line="50" column="44" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" />
       <jump line="32" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" />
       <jump line="42" column="34" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" />
+      <jump line="28" column="7" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ015UGx1Z2luOmRvbmUnKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>css</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGFydHkgPSBBcnJheS5mcm9tKHJvb3RTdG9yZS5wYXJ0aWVzLnZhbHVlcygpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbmQoKHYpID0+IHYuc3ViamVjdCA9PT0gY29udGV4dC5jbGlja2VkUGFydHlOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ015UGx1Z2luOmRvbmUnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
