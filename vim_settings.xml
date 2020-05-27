@@ -122,32 +122,44 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="28" />
       </file>
-      <file name="/a.dummy" timestamp="1590508703491">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="D:/Code Project/integration-web/src/context/ViewContextConsumer.tsx" timestamp="1590511474659">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="64" />
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/sample/context-api/SampleCountContext.ts" timestamp="1590508694823" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/app.js" timestamp="1590557463082">
+        <mark key="[" line="0" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/babel.config.js" timestamp="1590557446137">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="20" />
+      </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590510700213">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="75" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590554964330">
-        <mark key="'" line="56" column="14" />
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="39" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590513383853">
         <mark key="[" line="39" column="46" />
         <mark key="]" line="43" column="35" />
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="35" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-babel-plugin.js" timestamp="1590556630658">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-custom-loader.js" timestamp="1590544556755">
         <mark key="[" line="0" column="45" />
@@ -161,7 +173,7 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590544691504">
+      <file name="/Dummy.txt" timestamp="1590554965979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590544622061">
@@ -176,17 +188,10 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590510267692">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590509790184">
-        <mark key="'" line="122" column="32" />
-        <mark key="[" line="129" column="18" />
-        <mark key="]" line="130" column="12" />
-        <mark key="." line="130" column="11" />
-        <mark key="^" line="130" column="12" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-babel-preset.js" timestamp="1590556841684">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590511678883">
         <mark key="'" line="38" column="29" />
@@ -227,16 +232,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>webpackj</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>webpackj</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpCg==</text>
+        <text encoding="base64">ICAgICAgICAnQGJhYmVsL3BsdWdpbi10cmFuc2Zvcm0tYmxvY2stc2NvcGluZycsCiAgICAgICAgJ0BiYWJlbC9wbHVnaW4tdHJhbnNmb3JtLWFycm93LWZ1bmN0aW9ucycsCiAgICAgICAgJ0BiYWJlbC9wbHVnaW4tdHJhbnNmb3JtLXN0cmljdC1tb2RlJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coZW52Lk5PREVfRU5WKQpjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5OT0RFX0VOVikKY29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpCmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7Cg==</text>
