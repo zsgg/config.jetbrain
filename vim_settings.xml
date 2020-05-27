@@ -137,11 +137,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="75" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590545296442">
-        <mark key="[" line="27" column="6" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590553206171">
+        <mark key="'" line="35" column="10" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="39" column="74" />
+        <mark key="^" line="39" column="74" />
+        <mark key="." line="39" column="73" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590513383853">
         <mark key="[" line="39" column="46" />
@@ -155,11 +156,11 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/index.html" timestamp="1590544206243">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="32" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/src/index.html" timestamp="1590553351074">
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="33" column="47" />
+        <mark key="^" line="33" column="47" />
+        <mark key="." line="33" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1590544691504">
         <mark key="[" line="0" column="0" />
@@ -220,21 +221,22 @@
       <jump line="32" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" />
       <jump line="42" column="34" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" />
       <jump line="28" column="7" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
+      <jump line="33" column="10" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ015UGx1Z2luOmRvbmUnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>webpack</text>
       </register>
       <register name="-" type="4">
-        <text>css</text>
+        <text>webpack</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ015UGx1Z2luOmRvbmUnKTsK</text>
+        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
