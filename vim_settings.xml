@@ -125,7 +125,6 @@
       <file name="/a.dummy" timestamp="1590508703491">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/sample/context-api/SampleCountProvider.tsx" timestamp="1590508685029" />
       <file name="D:/Code Project/integration-web/src/context/ViewContextConsumer.tsx" timestamp="1590511474659">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="64" />
@@ -137,12 +136,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="75" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590553206171">
-        <mark key="'" line="35" column="10" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="74" />
-        <mark key="^" line="39" column="74" />
-        <mark key="." line="39" column="73" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590554964330">
+        <mark key="'" line="56" column="14" />
+        <mark key="[" line="72" column="40" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590513383853">
         <mark key="[" line="39" column="46" />
@@ -222,48 +221,49 @@
       <jump line="42" column="34" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" />
       <jump line="28" column="7" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
       <jump line="33" column="10" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
+      <jump line="53" column="14" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>webpack</text>
+        <text>webpackj</text>
       </register>
       <register name="-" type="4">
-        <text>webpack</text>
+        <text>webpackj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgd2VicGFjayA9IHJlcXVpcmUoJ3dlYnBhY2snKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coZW52Lk5PREVfRU5WKQpjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5OT0RFX0VOVikKY29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpCmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj57b2JqLnN1YmplY3R9PC9zcGFuPgo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IG9iai5jb2xvciwKICAgICAgICAgICAgZGlzcGxheTogJ2lubGluZS1ibG9jaycsCiAgICAgICAgICAgIHdpZHRoOiAnMTBweCcsCiAgICAgICAgICAgIGhlaWdodDogJzEwcHgnCiAgICAgICAgfX0vPgogICAgICAgIDxzcGFuIHN0eWxlPXt7CiAgICAgICAgICAgIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgICAgICAgICB0ZXh0T3ZlcmZsb3c6ICdlbGxpcHNpcycsCiAgICAgICAgICAgIG92ZXJmbG93OiAnaGlkZGVuJywKICAgICAgICB9fT57b2JqLm5hbWV9PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c3Bhbj57b2JqLnN1YmplY3R9PC9zcGFuPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT17ewogICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IG9iai5jb2xvciwKICAgICAgICAgICAgZGlzcGxheTogJ2lubGluZS1ibG9jaycsCiAgICAgICAgICAgIHdpZHRoOiAnMTBweCcsCiAgICAgICAgICAgIGhlaWdodDogJzEwcHgnCiAgICAgICAgfX0vPgogICAgICAgIDxzcGFuIHN0eWxlPXt7CiAgICAgICAgICAgIHdoaXRlU3BhY2U6ICdub3dyYXAnLAogICAgICAgICAgICB0ZXh0T3ZlcmZsb3c6ICdlbGxpcHNpcycsCiAgICAgICAgICAgIG92ZXJmbG93OiAnaGlkZGVuJywKICAgICAgICB9fT57b2JqLm5hbWV9PC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7LyoqL30KICAgICAgICB7LyoqL30KICAgICAgICB7LyoqL30KICAgICAgICB7Lyo8U2FtcGxlQ291bnRDb250ZXh0LlByb3ZpZGVyIHZhbHVlPXt7dmFsdWU6MX19PiovfQogICAgICAgIHsvKiAgICA8U2FtcGxlQ291bnRDb250ZXh0LkNvbnN1bWVyPiovfQogICAgICAgIHsvKiAgICAgICAge3YgPT4geyovfQogICAgICAgIHsvKiAgICAgICAgICAgIHJldHVybiA8ZGl2Pnt2LnZhbHVlfTwvZGl2PiovfQogICAgICAgIHsvKiAgICAgICAgfX0qL30KICAgICAgICB7LyogICAgPC9TYW1wbGVDb3VudENvbnRleHQuQ29uc3VtZXI+Ki99CiAgICAgICAgey8qPC9TYW1wbGVDb3VudENvbnRleHQuUHJvdmlkZXI+Ki99CiAgICAgICAgey8qKi99CiAgICAgICAgey8qKi99CiAgICAgICAgey8qKi99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2Pntjb250ZXh0LnZhbHVlfTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB7LyoqL30KICAgICAgICB7LyoqL30KICAgICAgICB7LyoqL30KICAgICAgICB7Lyo8U2FtcGxlQ291bnRDb250ZXh0LlByb3ZpZGVyIHZhbHVlPXt7dmFsdWU6MX19PiovfQogICAgICAgIHsvKiAgICA8U2FtcGxlQ291bnRDb250ZXh0LkNvbnN1bWVyPiovfQogICAgICAgIHsvKiAgICAgICAge3YgPT4geyovfQogICAgICAgIHsvKiAgICAgICAgICAgIHJldHVybiA8ZGl2Pnt2LnZhbHVlfTwvZGl2PiovfQogICAgICAgIHsvKiAgICAgICAgfX0qL30KICAgICAgICB7LyogICAgPC9TYW1wbGVDb3VudENvbnRleHQuQ29uc3VtZXI+Ki99CiAgICAgICAgey8qPC9TYW1wbGVDb3VudENvbnRleHQuUHJvdmlkZXI+Ki99CiAgICAgICAgey8qKi99CiAgICAgICAgey8qKi99CiAgICAgICAgey8qKi99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2Pntjb250ZXh0LnZhbHVlfTwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQgPSB1c2VDb250ZXh0KFZpZXdDb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
