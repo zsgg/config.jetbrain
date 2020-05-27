@@ -128,27 +128,11 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/app.js" timestamp="1590560254727">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="13" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/babel.config.js" timestamp="1590559870433">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="28" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590510700213">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="75" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590561299473">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="17" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/app.js" timestamp="1590563847440">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590513383853">
         <mark key="[" line="39" column="46" />
@@ -174,7 +158,7 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590561908325">
+      <file name="/Dummy.txt" timestamp="1590563159103">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590544622061">
@@ -193,6 +177,12 @@
         <mark key="[" line="3" column="4" />
         <mark key="]" line="5" column="50" />
         <mark key="." line="3" column="4" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/.eslintrc.js" timestamp="1590563810291">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="42" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590511678883">
         <mark key="'" line="38" column="29" />
@@ -233,10 +223,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
