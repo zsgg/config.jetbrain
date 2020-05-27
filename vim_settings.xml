@@ -107,7 +107,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/dist/main.js" timestamp="1590544320748" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/dist/main.js" timestamp="1590561685409" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-plugin.js" timestamp="1590545390723">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="41" />
@@ -128,7 +128,7 @@
         <mark key="^" line="11" column="64" />
         <mark key="." line="11" column="63" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/app.js" timestamp="1590557470521">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/app.js" timestamp="1590560254727">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
@@ -144,11 +144,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="75" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590560228434">
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="40" column="18" />
-        <mark key="." line="40" column="17" />
-        <mark key="^" line="40" column="18" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" timestamp="1590561299473">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590513383853">
         <mark key="[" line="39" column="46" />
@@ -174,7 +174,7 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590554965979">
+      <file name="/Dummy.txt" timestamp="1590561908325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/my-webpack-loader.js" timestamp="1590544622061">
