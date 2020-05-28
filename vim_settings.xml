@@ -109,55 +109,81 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" timestamp="1590601964613">
-        <mark key="'" line="41" column="34" />
+      <file name="D:/Code Project/integration-web/.storybook/presets.js" timestamp="1590678671655">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="40" />
       </file>
-      <file name="D:/Code Project/integration-web/src/context/ViewContextConsumer.tsx" timestamp="1590602541197">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="33" />
-        <mark key="^" line="12" column="33" />
-        <mark key="." line="12" column="32" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/sample/css-in-ts--styled-component/SampleStyledComponentInput.tsx" timestamp="1590603080304" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1590600763316">
-        <mark key="[" line="28" column="22" />
-      </file>
-      <file name="/ParticipantCard.tsx" timestamp="1590600798420" />
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/playground.tsx" timestamp="1590600718478" />
-      <file name="/playground.tsx" timestamp="1590600713587" />
-      <file name="D:/Code Project/integration-web/src/components/sample/css-in-ts--styled-component/SampleStyledComponentTheme.tsx" timestamp="1590602774652" />
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1590603670733">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="31" column="40" />
-        <mark key="^" line="31" column="40" />
-        <mark key="." line="31" column="39" />
-      </file>
-      <file name="/ParticipantCardList.tsx" timestamp="1590600808595" />
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/JoinedParticipantStore.ts" timestamp="1590601791141">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="12" column="38" />
-        <mark key="^" line="12" column="38" />
-        <mark key="." line="12" column="37" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590600954596" />
-      <file name="/Display.tsx" timestamp="1590600747595" />
-      <file name="/Dummy.txt" timestamp="1590602561401">
+      <file name="/Dummy.txt" timestamp="1590689053102">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
-      <file name="/PartyStore.ts" timestamp="1590600976414" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590603868638">
-        <mark key="'" line="131" column="29" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="91" column="17" />
-        <mark key="^" line="91" column="17" />
-        <mark key="." line="91" column="16" />
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590688068597">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="47" column="8" />
+        <mark key="." line="47" column="7" />
+        <mark key="^" line="47" column="8" />
       </file>
-      <file name="D:/Code Project/integration-web/src/context/ViewContext.tsx" timestamp="1590602431260">
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="54" />
-        <mark key="^" line="5" column="55" />
+      <file name="D:/Code Project/integration-web/src/components/sample/storybook/hello/Hello.tsx" timestamp="1590679645938">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="2" />
       </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" timestamp="1590687997857">
+        <mark key="'" line="44" column="34" />
+        <mark key="[" line="72" column="99" />
+        <mark key="]" line="69" column="22" />
+        <mark key="^" line="69" column="22" />
+        <mark key="." line="69" column="21" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/sample/storybook/hello/Hello.stories.tsx" timestamp="1590676827253">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="23" column="28" />
+        <mark key="." line="23" column="27" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590684958315">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="48" />
+      </file>
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1590679668289">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="D:/Code Project/integration-web/.storybook/main.js" timestamp="1590679550094">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="66" />
+        <mark key="." line="33" column="65" />
+        <mark key="^" line="33" column="66" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590685144834">
+        <mark key="[" line="65" column="41" />
+        <mark key="]" line="65" column="41" />
+        <mark key="^" line="65" column="41" />
+        <mark key="." line="65" column="40" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590680487070">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590683928626">
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="46" column="48" />
+        <mark key="^" line="46" column="48" />
+        <mark key="." line="46" column="47" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Header.tsx" timestamp="1590688627106" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
@@ -182,48 +208,53 @@
       <jump line="15" column="26" filename="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" />
       <jump line="24" column="22" filename="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" />
       <jump line="44" column="13" filename="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" />
+      <jump line="24" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
+      <jump line="48" column="2" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="4" column="5" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="55" column="39" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="49" column="0" filename="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>size</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIHNpemU9InNtYWxsIiBvbkNsaWNrPXtjbGVhclN0b3JlfT5jbGVhciBsb2NhbFN0b3JhZ2U8L0J1dHRvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnR5LmFkZFBhcnRpY2lwYW50KHtwYXJ0aWNpcGFudH0pCg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIHNpemU9InNtYWxsIiBvbkNsaWNrPXtjbGVhclN0b3JlfT5jbGVhciBsb2NhbFN0b3JhZ2U8L0J1dHRvbj4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXJ0aWNpcGFudHM6IHBhcmFtLnBhcnRpY2lwYW50LAo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ClN0eWxlLmRlZmF1bHRQcm9wcyA9IHsKICAgIHRoZW1lOiB7CiAgICAgICAgbWFpbjogInBhbGV2aW9sZXRyZWQiCiAgICB9LAogICAgY2tlZDogIiIKfQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">QXJyYXkuZnJvbShzZWxmLmpvaW5lZFBhcnRpY2lwYW50cy52YWx1ZXMoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmluZCgodikgPT4gdi5pZCA9PT0gaWQp</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3ViamVjdCA9IGNvbnRleHQuY2xpY2tlZFBhcnR5TmFtZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN1YmplY3QpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhcnR5ID0gc3RvcmUuZmluZFBhcnR5KHtzdWJqZWN0fSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAocGFydHkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBwYXJ0aWNpcGFudCA9IHBhcnR5LmZpbmRQYXJ0aWNpcGFudCh7bmFtZTogdmFsdWUubmFtZX0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYXJ0aWNpcGFudCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0nKTsKY29uc29sZS5sb2coZW52Lk5PREVfRU5WKQpjb25zb2xlLmxvZyhwcm9jZXNzLmVudi5OT0RFX0VOVikKY29uc29sZS5sb2cocHJvY2Vzcy5lbnYuTk9ERV9FTlYpCmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CmNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc3ViamVjdCA9IGNvbnRleHQuY2xpY2tlZFBhcnR5TmFtZTsK</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
