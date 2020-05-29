@@ -118,13 +118,6 @@
       <file name="/Dummy.txt" timestamp="1590690401876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590690044509">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="47" column="41" />
-        <mark key="]" line="47" column="48" />
-        <mark key="." line="47" column="47" />
-        <mark key="^" line="47" column="48" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/sample/storybook/hello/Hello.tsx" timestamp="1590679645938">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="18" column="3" />
@@ -138,13 +131,9 @@
         <mark key="^" line="69" column="22" />
         <mark key="." line="69" column="21" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590690102911" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590691068981">
-        <mark key="'" line="25" column="29" />
+        <mark key="'" line="24" column="29" />
         <mark key="[" line="14" column="21" />
-        <mark key="]" line="15" column="14" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="14" />
       </file>
       <file name="D:/Code Project/integration-web/package.json" timestamp="1590679668289">
         <mark key="[" line="12" column="28" />
@@ -182,7 +171,6 @@
         <mark key="^" line="46" column="48" />
         <mark key="." line="46" column="47" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Header.tsx" timestamp="1590688627106" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
