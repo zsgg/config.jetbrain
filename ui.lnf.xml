@@ -1,5 +1,6 @@
 <application>
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
   </component>
 </application>
