@@ -110,8 +110,8 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Code Project/integration-web/node_modules/@zeit-ui/react/dist/checkbox/checkbox.d.ts" timestamp="1590771487424" />
-      <file name="/Dummy.txt" timestamp="1590778294466">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1590823168847">
+        <mark key="[" line="2" column="2" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590786330169">
         <mark key="[" line="34" column="68" />
@@ -167,9 +167,6 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590791207399">
-        <mark key="^" line="61" column="46" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590767160957">
         <mark key="[" line="53" column="91" />
         <mark key="]" line="53" column="97" />
@@ -183,15 +180,7 @@
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" timestamp="1590791179662">
         <mark key="'" line="33" column="50" />
-        <mark key="[" line="79" column="43" />
-        <mark key="]" line="71" column="8" />
-        <mark key="^" line="71" column="8" />
-        <mark key="." line="71" column="7" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" timestamp="1590790517373">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+        <mark key="[" line="35" column="43" />
       </file>
     </filemarks>
     <jumps>
