@@ -109,16 +109,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/node_modules/@zeit-ui/react/dist/checkbox/checkbox.d.ts" timestamp="1590771487424" />
-      <file name="/Dummy.txt" timestamp="1590823168847">
-        <mark key="[" line="2" column="2" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590831184115">
-        <mark key="[" line="34" column="68" />
-        <mark key="]" line="33" column="92" />
-        <mark key="." line="33" column="91" />
-        <mark key="^" line="33" column="92" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" timestamp="1590767109072">
         <mark key="'" line="44" column="34" />
         <mark key="[" line="63" column="33" />
@@ -129,16 +119,6 @@
       <file name="D:/Code Project/integration-web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1590771460148" />
       <file name="/a.dummy" timestamp="1590843153577">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590836730224">
-        <mark key="[" line="94" column="25" />
-        <mark key="]" line="94" column="25" />
-        <mark key="^" line="62" column="70" />
-        <mark key="." line="94" column="25" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590691068981">
-        <mark key="'" line="24" column="29" />
-        <mark key="[" line="14" column="21" />
       </file>
       <file name="D:/Code Project/integration-web/package.json" timestamp="1590771039740">
         <mark key="[" line="12" column="28" />
@@ -152,23 +132,11 @@
         <mark key="^" line="38" column="21" />
         <mark key="." line="38" column="20" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" timestamp="1590775686755">
-        <mark key="[" line="38" column="64" />
-        <mark key="]" line="38" column="70" />
-        <mark key="." line="38" column="69" />
-        <mark key="^" line="38" column="70" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590842253413">
-        <mark key="[" line="84" column="58" />
-        <mark key="]" line="84" column="57" />
-        <mark key="^" line="84" column="57" />
-        <mark key="." line="84" column="56" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590847352156">
-        <mark key="[" line="130" column="24" />
-        <mark key="]" line="130" column="48" />
-        <mark key="^" line="130" column="48" />
-        <mark key="." line="130" column="47" />
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590850963294">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590767160957">
         <mark key="[" line="53" column="91" />
@@ -181,7 +149,45 @@
         <mark key="]" line="30" column="32" />
         <mark key="." line="30" column="32" />
       </file>
+      <file name="D:/Code Project/integration-web/src/utils/ReportCalculator.ts" timestamp="1590851096564">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="16" />
+      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" timestamp="1590837263398" />
+      <file name="D:/Code Project/integration-web/node_modules/@zeit-ui/react/dist/checkbox/checkbox.d.ts" timestamp="1590771487424" />
+      <file name="/Dummy.txt" timestamp="1590850631321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590831184115">
+        <mark key="[" line="34" column="68" />
+        <mark key="]" line="33" column="92" />
+        <mark key="." line="33" column="91" />
+        <mark key="^" line="33" column="92" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590836730224">
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="25" />
+        <mark key="^" line="62" column="70" />
+        <mark key="." line="94" column="25" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590691068981">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="14" column="21" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" timestamp="1590775686755">
+        <mark key="[" line="38" column="64" />
+        <mark key="]" line="38" column="70" />
+        <mark key="." line="38" column="69" />
+        <mark key="^" line="38" column="70" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590842253413">
+        <mark key="[" line="84" column="58" />
+        <mark key="]" line="84" column="57" />
+        <mark key="^" line="84" column="57" />
+        <mark key="." line="84" column="56" />
+      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" timestamp="1590833197975">
         <mark key="]" line="119" column="40" />
         <mark key="^" line="119" column="40" />
@@ -221,17 +227,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5LmZyb20oYS5lbnRyaWVzKCkpLmZpbmQoKHZhbHVlKSA9PiAhTnVtYmVyKHZhbHVlWzFdLnRvRml4ZWQoKSkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>has</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>has</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5LmZyb20oYS5lbnRyaWVzKCkpLmZpbmQoKHZhbHVlKSA9PiAhTnVtYmVyKHZhbHVlWzFdLnRvRml4ZWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXJyYW5nZUJ5UHJpY2Uuc2V0KGZyaWVuZFBsdXNTZXR0bGVtZW50WzBdLCBwbHVzKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgIHZhciBzYXlpbmdzID0gbmV3IE1hcCgpOwogICAgICAgICAgICBzYXlpbmdzLnNldCgiZG9nIiwgIndvb2YiKTsKICAgICAgICAgICAgc2F5aW5ncy5zZXQoImNhdCIsICJtZW93Iik7CiAgICAgICAgICAgIHNheWluZ3Muc2V0KCJlbGVwaGFudCIsICJ0b290Iik7CiAgICAgICAgICAgIHNheWluZ3Muc2l6ZTsgLy8gMwogICAgICAgICAgICBzYXlpbmdzLmdldCgiZm94Iik7IC8vIHVuZGVmaW5lZAogICAgICAgICAgICBzYXlpbmdzLmhhcygiYmlyZCIpOyAvLyBmYWxzZQogICAgICAgICAgICBzYXlpbmdzLmRlbGV0ZSgiZG9nIik7CiAgICAKICAgICAgICAgICAgZm9yICh2YXIgW2tleSwgdmFsdWVdIG9mIHNheWluZ3MpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGtleSArICIgZ29lcyAiICsgdmFsdWUpOwogICAgICAgICAgICB9</text>
