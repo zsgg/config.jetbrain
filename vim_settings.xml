@@ -113,7 +113,7 @@
       <file name="/Dummy.txt" timestamp="1590823168847">
         <mark key="[" line="2" column="2" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590786330169">
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590831184115">
         <mark key="[" line="34" column="68" />
         <mark key="]" line="33" column="92" />
         <mark key="." line="33" column="91" />
@@ -127,11 +127,11 @@
         <mark key="." line="63" column="49" />
       </file>
       <file name="D:/Code Project/integration-web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1590771460148" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590767931124">
-        <mark key="[" line="62" column="64" />
-        <mark key="]" line="62" column="70" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590836730224">
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="25" />
         <mark key="^" line="62" column="70" />
-        <mark key="." line="62" column="69" />
+        <mark key="." line="94" column="25" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1590691068981">
         <mark key="'" line="24" column="29" />
@@ -155,17 +155,23 @@
         <mark key="." line="38" column="69" />
         <mark key="^" line="38" column="70" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590767484020">
-        <mark key="[" line="63" column="30" />
-        <mark key="]" line="63" column="48" />
-        <mark key="^" line="63" column="48" />
-        <mark key="." line="63" column="47" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590837665157">
+        <mark key="[" line="84" column="58" />
+        <mark key="]" line="84" column="57" />
+        <mark key="^" line="84" column="57" />
+        <mark key="." line="84" column="56" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590680487070">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="37" />
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="37" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1590838443174">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" timestamp="1590767160957">
         <mark key="[" line="53" column="91" />
@@ -178,9 +184,11 @@
         <mark key="]" line="30" column="32" />
         <mark key="." line="30" column="32" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" timestamp="1590791179662">
-        <mark key="'" line="33" column="50" />
-        <mark key="[" line="35" column="43" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" timestamp="1590837263398" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" timestamp="1590833197975">
+        <mark key="]" line="119" column="40" />
+        <mark key="^" line="119" column="40" />
+        <mark key="." line="119" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -217,16 +225,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>calculated</text>
+        <text>res</text>
       </register>
       <register name="-" type="4">
-        <text>calculated</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2NhbGN1bGF0ZWQnLCBjYWxjdWxhdGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc8IHJlcG9ydCBwYXJ0eSA+Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNoZWNrRGVib3VuY2UgPSBfLmRlYm91bmNlKChlOiBhbnkpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnJyk7CiAgICAgICAgc2V0SGFzSGUoZS50YXJnZXQuY2hlY2tlZCk7CiAgICAgICAgLy8gaWYgKGUudGFyZ2V0LmNoZWNrZWQpIHsKICAgICAgICAvLyAgICAgcGFydHkucHV0UmVsYXRlZEZyaWVuZCh7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyaWVuZDogZnJpZW5kLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc0pvaW5lZDogdHJ1ZQogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgIC8vICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgLy8gfQogICAgICAgIC8vIGVsc2UgewogICAgICAgIC8vICAgICAvLyBjb25zdCByZWxhdGVkRnJpZW5kID0gcGFydHkuZmluZFJlbGF0ZWRGcmllbmQoZnJpZW5kLmlkKTsKICAgICAgICAvLyAgICAgLy8gaWYgKHJlbGF0ZWRGcmllbmQgJiYgISFyZWxhdGVkRnJpZW5kLmFtb3VudCkgewogICAgICAgIC8vICAgICAvLwogICAgICAgIC8vICAgICAvLyAgICAgLy8gY29uc29sZS5sb2coJ8DPt86/wrTZsO0/JywgcmVsYXRlZEZyaWVuZC50b0pTT04oKSk7CiAgICAgICAgLy8gICAgIC8vCiAgICAgICAgLy8gICAgIC8vICAgICBwYXJ0eS5wdXRSZWxhdGVkRnJpZW5kKHsKICAgICAgICAvLyAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyaWVuZCwKICAgICAgICAvLyAgICAgLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzSm9pbmVkOiBmYWxzZQogICAgICAgIC8vICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAvLyAgICAgLy8gfQogICAgICAgIC8vICAgICAvLyBlbHNlIHsKICAgICAgICAvLyAgICAgcGFydHkucmVtb3ZlUmVsYXRlZEZyaWVuZChmcmllbmQuaWQpOwogICAgICAgIC8vICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAvLyAgICAgLy8gfQogICAgICAgIC8vIH0KICAgIH0sIDYwMCk7CiAgICA=</text>
@@ -267,6 +275,8 @@
       <last-search encoding="base64">XDxvdmVyZmxvd1lcPg==</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxvdmVyZmxvd1lcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxvdmVyZmxvd1lcPg==</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
