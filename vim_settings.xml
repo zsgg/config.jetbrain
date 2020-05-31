@@ -114,11 +114,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590909271144">
-        <mark key="[" line="63" column="39" />
-        <mark key="]" line="63" column="51" />
-        <mark key="^" line="63" column="51" />
-        <mark key="." line="63" column="50" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1590922697510">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/serivce/ReportCalculator.ts" timestamp="1590859771596">
         <mark key="[" line="100" column="84" />
@@ -148,12 +148,7 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="27" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590909538830">
-        <mark key="[" line="23" column="55" />
-        <mark key="]" line="23" column="67" />
-        <mark key="^" line="23" column="67" />
-        <mark key="." line="23" column="66" />
-      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590909538830" />
       <file name="D:/Code Project/integration-web/src/serivce/EnvService.ts" timestamp="1590905715735">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="13" />
@@ -172,11 +167,11 @@
         <mark key="^" line="38" column="5" />
         <mark key="." line="38" column="5" />
       </file>
-      <file name="D:/Code Project/integration-web/src/service/dutch-pay/EnvService.ts" timestamp="1590915530119">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="15" />
+      <file name="D:/Code Project/integration-web/src/service/dutch-pay/EnvService.ts" timestamp="1590922679726">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -213,10 +208,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>boolean</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
