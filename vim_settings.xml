@@ -131,11 +131,11 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="27" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590867152828">
-        <mark key="[" line="16" column="71" />
-        <mark key="]" line="16" column="75" />
-        <mark key="^" line="16" column="75" />
-        <mark key="." line="16" column="74" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1590904099424">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="65" />
+        <mark key="^" line="16" column="65" />
+        <mark key="." line="16" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1590859773065">
         <mark key="[" line="0" column="0" />
@@ -162,11 +162,11 @@
         <mark key="." line="2" column="32" />
       </file>
       <file name="/Dev.tsx" timestamp="1590856090058" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1590867094196">
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="38" column="13" />
-        <mark key="." line="21" column="17" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1590904098390">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="5" />
+        <mark key="^" line="38" column="5" />
+        <mark key="." line="38" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -203,10 +203,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mainEnvModeDevelopment</text>
+        <text>mainEnvmodedevelopment</text>
       </register>
       <register name="-" type="4">
-        <text>mainEnvModeDevelopment</text>
+        <text>mainEnvmodedevelopment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
