@@ -109,7 +109,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590923607039">
+      <file name="/Dummy.txt" timestamp="1590971366244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,32 +141,14 @@
         <mark key="^" line="38" column="11" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendPlus.tsx" timestamp="1590926784382">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="27" />
-        <mark key="." line="14" column="26" />
-      </file>
       <file name="D:/Code Project/integration-web/.env" timestamp="1590861523540">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="33" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590924926855">
-        <mark key="'" line="133" column="43" />
-        <mark key="[" line="133" column="44" />
-        <mark key="]" line="133" column="44" />
-        <mark key="^" line="133" column="44" />
-        <mark key="." line="133" column="43" />
-      </file>
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1590924926855" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1590924775053" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1590926791312">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="19" />
-      </file>
       <file name="D:/Code Project/integration-web/src/utils/ReportCalculator.ts" timestamp="1590856350373">
         <mark key="[" line="122" column="28" />
         <mark key="]" line="123" column="28" />
