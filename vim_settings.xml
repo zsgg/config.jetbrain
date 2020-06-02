@@ -109,8 +109,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591096990595">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591110210984">
+        <mark key="[" line="2" column="2" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1590923648244">
         <mark key="[" line="58" column="0" />
