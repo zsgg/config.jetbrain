@@ -146,8 +146,8 @@
         <mark key="." line="63" column="38" />
         <mark key="^" line="63" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591219528679">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591221721860">
+        <mark key="[" line="2" column="3" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -159,11 +159,11 @@
         <mark key="." line="94" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-hooks-mobx-state-tree/src/models/Root.ts" timestamp="1591216752532" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1591221461985">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="49" />
-        <mark key="^" line="43" column="49" />
-        <mark key="." line="43" column="48" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1591223348443">
+        <mark key="[" line="37" column="72" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendPlus.tsx" timestamp="1591218527983">
         <mark key="'" line="34" column="11" />
@@ -179,12 +179,12 @@
         <mark key="." line="115" column="24" />
         <mark key="^" line="115" column="25" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1591216380224" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1591221569931">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="45" />
-        <mark key="." line="29" column="44" />
-        <mark key="^" line="29" column="45" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1591223766107" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1591222486802">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="40" column="39" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="39" />
       </file>
       <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStoreConsumer.tsx" timestamp="1591217776276">
         <mark key="[" line="22" column="38" />
@@ -192,17 +192,17 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/examples/create-react-app/src/App.js" timestamp="1591221181221">
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/examples/create-react-app/src/App.js" timestamp="1591222394510">
         <mark key="[" line="52" column="46" />
         <mark key="]" line="52" column="45" />
         <mark key="^" line="52" column="45" />
         <mark key="." line="52" column="44" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591219806524">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="39" />
-        <mark key="^" line="21" column="40" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591222608805">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -244,10 +244,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setLength</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>setLength</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
