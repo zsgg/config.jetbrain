@@ -116,6 +116,8 @@
         <mark key="." line="5" column="21" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/package.json" timestamp="1591100604221" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/examples/create-react-app/package.json" timestamp="1591212654573" />
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1591212696018" />
       <file name="D:/Code Project/integration-web/tsconfig.json" timestamp="1591097692432">
         <mark key="[" line="44" column="15" />
         <mark key="]" line="44" column="21" />
@@ -149,7 +151,7 @@
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1591032043914">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" timestamp="1591212630192">
         <mark key="'" line="191" column="38" />
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="47" />
@@ -179,20 +181,17 @@
         <mark key="." line="111" column="21" />
         <mark key="^" line="111" column="22" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1591026355010">
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="57" />
-        <mark key="^" line="32" column="58" />
-      </file>
       <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1591096996350">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="31" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/examples/create-react-app/src/App.js" timestamp="1591211648966">
-        <mark key="[" line="29" column="22" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/examples/create-react-app/src/App.js" timestamp="1591213197293">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="27" />
+        <mark key="^" line="27" column="27" />
+        <mark key="." line="27" column="26" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591209639131">
         <mark key="[" line="21" column="39" />
@@ -240,10 +239,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
