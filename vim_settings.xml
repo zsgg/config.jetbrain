@@ -159,11 +159,11 @@
         <mark key="." line="94" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-hooks-mobx-state-tree/src/models/Root.ts" timestamp="1591216752532" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1591223348443">
-        <mark key="[" line="37" column="72" />
-        <mark key="]" line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-        <mark key="." line="39" column="23" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1591230298085">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="42" column="94" />
+        <mark key="^" line="42" column="94" />
+        <mark key="." line="42" column="93" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendPlus.tsx" timestamp="1591218527983">
         <mark key="'" line="34" column="11" />
@@ -179,10 +179,8 @@
         <mark key="." line="115" column="24" />
         <mark key="^" line="115" column="25" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1591223783183">
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="13" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" timestamp="1591231491169">
+        <mark key="[" line="29" column="2" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1591222486802">
         <mark key="[" line="42" column="24" />
@@ -248,10 +246,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>

@@ -34,7 +34,7 @@
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="TERNARY_OPERATION_WRAP" value="2" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
