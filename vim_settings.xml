@@ -122,24 +122,17 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1591627232194">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="86" />
-        <mark key="^" line="36" column="86" />
-        <mark key="." line="36" column="85" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1591636048576">
         <mark key="'" line="1" column="30" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1591636014970">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" timestamp="1591638640450">
         <mark key="'" line="47" column="26" />
-        <mark key="[" line="71" column="31" />
-        <mark key="]" line="71" column="31" />
-        <mark key="^" line="68" column="19" />
-        <mark key="." line="71" column="31" />
+        <mark key="[" line="70" column="52" />
+        <mark key="]" line="70" column="67" />
+        <mark key="^" line="70" column="67" />
+        <mark key="." line="70" column="66" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1591634669995">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" timestamp="1591638887513">
         <mark key="'" line="101" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/styles/_variables.scss" timestamp="1591631966459">
@@ -147,6 +140,12 @@
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="12" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" timestamp="1591638929614">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="50" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591631460234">
         <mark key="'" line="63" column="20" />
@@ -161,11 +160,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1591635955778">
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="50" column="10" />
-        <mark key="^" line="50" column="10" />
-        <mark key="." line="50" column="9" />
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1591638097325">
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="32" />
+        <mark key="^" line="49" column="32" />
+        <mark key="." line="49" column="31" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendRow.tsx" timestamp="1591629389178">
         <mark key="[" line="18" column="12" />
@@ -174,11 +173,11 @@
         <mark key="." line="18" column="14" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" timestamp="1591629346586" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.module.scss" timestamp="1591635521114">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="2" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.module.scss" timestamp="1591639066924">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="27" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="7" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1591634074318">
         <mark key="[" line="0" column="0" />
@@ -256,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>existParty</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>existParty</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
