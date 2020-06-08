@@ -125,24 +125,24 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1591600059653">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="38" />
-        <mark key="^" line="19" column="38" />
-        <mark key="." line="19" column="37" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" timestamp="1591609034645">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="18" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" timestamp="1591592359953">
         <mark key="[" line="39" column="6" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.module.scss" timestamp="1591601591667">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="23" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.module.scss" timestamp="1591608897309">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591605177788">
-        <mark key="[" line="2" column="1" />
+      <file name="/Dummy.txt" timestamp="1591605461240">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
@@ -246,10 +246,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
