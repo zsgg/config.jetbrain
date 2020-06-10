@@ -123,17 +123,17 @@
         <mark key="." line="8" column="38" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardList.tsx" timestamp="1591799446890" />
-      <file name="D:/Code Project/integration-web/src/styles/_variables.scss" timestamp="1591803242779">
-        <mark key="[" line="6" column="0" />
+      <file name="D:/Code Project/integration-web/src/styles/_variables.scss" timestamp="1591810460339">
+        <mark key="[" line="6" column="27" />
         <mark key="]" line="5" column="13" />
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591807497147">
-        <mark key="[" line="66" column="31" />
-        <mark key="]" line="66" column="32" />
-        <mark key="^" line="66" column="32" />
-        <mark key="." line="66" column="32" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591810517125">
+        <mark key="[" line="68" column="33" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="31" />
+        <mark key="^" line="68" column="32" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.tsx" timestamp="1591799624574">
         <mark key="[" line="15" column="26" />
@@ -162,7 +162,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591804735691">
+      <file name="/Dummy.txt" timestamp="1591809547694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591804729730">
@@ -245,8 +245,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICRvYy1ncmF5LTA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -255,7 +255,7 @@
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAkb2MtZ3JheS0wOwogIGJvcmRlcjogMXB4IHNvbGlkICRvYy1ncmF5LTQ7CiAgY29sb3I6ICRvYy1ncmF5LTc7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICRvYy1ncmF5LTA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
