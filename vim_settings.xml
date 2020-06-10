@@ -159,6 +159,12 @@
       <file name="/Dummy.txt" timestamp="1591802709880">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591804602186">
+        <mark key="[" line="51" column="78" />
+        <mark key="]" line="103" column="21" />
+        <mark key="^" line="103" column="21" />
+        <mark key="." line="103" column="20" />
+      </file>
       <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1591803246540">
         <mark key="[" line="2" column="3" />
       </file>
@@ -233,11 +239,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtvYnNlcnZlcn0gZnJvbSAnbW9ieC1yZWFjdCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1000</text>
       </register>
       <register name="-" type="4">
-        <text>isExistParty</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
