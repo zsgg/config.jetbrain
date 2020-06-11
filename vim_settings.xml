@@ -109,7 +109,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591839033635">
+      <file name="/Dummy.txt" timestamp="1591881886179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591804729730">
@@ -151,7 +151,13 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1591880001412">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1591882271188">
+        <mark key="'" line="54" column="32" />
+        <mark key="[" line="53" column="18" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1591882205706">
         <mark key="]" line="13" column="38" />
         <mark key="^" line="13" column="38" />
         <mark key="." line="13" column="37" />
@@ -181,6 +187,12 @@
         <mark key="]" line="20" column="35" />
         <mark key="^" line="20" column="35" />
         <mark key="." line="20" column="34" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/styles/_variables.scss" timestamp="1591881792219">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591812480873">
         <mark key="[" line="60" column="24" />
@@ -244,12 +256,13 @@
       <jump line="64" column="14" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
       <jump line="49" column="24" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" />
       <jump line="48" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" />
+      <jump line="54" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqICAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -258,7 +271,7 @@
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAkemRzLS1jb2xvci0tZ2FsYXh5LS1mb250LS1ncmF5MDsK</text>
+        <text encoding="base64">LyoqICAqLwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
