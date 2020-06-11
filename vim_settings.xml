@@ -109,109 +109,109 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591881886179">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendPlus.tsx" timestamp="1591890950108">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="42" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591883186676">
-        <mark key="[" line="169" column="34" />
-        <mark key="]" line="171" column="32" />
-        <mark key="^" line="171" column="32" />
-        <mark key="." line="171" column="31" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1591891780376">
+        <mark key="[" line="49" column="7" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="46" />
       </file>
-      <file name="D:/Code Project/integration-web/src/context/UiContext.ts" timestamp="1591808663810">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="39" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="8" column="38" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.tsx" timestamp="1591889380117">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="49" />
+        <mark key="^" line="38" column="49" />
+        <mark key="." line="38" column="48" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.tsx" timestamp="1591799624574">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="25" />
+      <file name="D:/Code Project/integration-web/src/styles/_font.scss" timestamp="1591889695498" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.module.scss" timestamp="1591890227939">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="39" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.module.scss" timestamp="1591812499468">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1591806219538">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="5" />
-        <mark key="^" line="5" column="5" />
-        <mark key="." line="5" column="4" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/context/UiContextConsumer.tsx" timestamp="1591800180051">
-        <mark key="[" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1591813095084">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="18" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1591882271188">
-        <mark key="'" line="54" column="32" />
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="19" />
-        <mark key="." line="53" column="19" />
-      </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1591883649351" />
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1591882205706">
-        <mark key="]" line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="37" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardList.tsx" timestamp="1591813335970">
-        <mark key="[" line="68" column="53" />
-        <mark key="]" line="70" column="23" />
-        <mark key="^" line="70" column="23" />
-        <mark key="." line="70" column="22" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1591809534874">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1591890795158">
         <mark key="'" line="49" column="32" />
-        <mark key="[" line="50" column="27" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="53" />
+        <mark key="^" line="22" column="53" />
+        <mark key="." line="22" column="52" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1591806951876">
-        <mark key="'" line="1" column="30" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="38" />
+      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_variables.scss" timestamp="1591889286051">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="21" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1591812494717">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="34" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1591890762931">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.module.scss" timestamp="1591883045252">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="12" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.module.scss" timestamp="1591890619987">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="39" />
       </file>
-      <file name="D:/Code Project/integration-web/src/styles/_variables.scss" timestamp="1591881792219">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="20" column="9" />
-        <mark key="^" line="20" column="9" />
-        <mark key="." line="20" column="8" />
+      <file name="/Dummy.txt" timestamp="1591890966518">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.tsx" timestamp="1591883633436">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="26" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591890705410">
+        <mark key="[" line="165" column="53" />
+        <mark key="]" line="166" column="73" />
+        <mark key="^" line="166" column="73" />
+        <mark key="." line="166" column="72" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591812480873">
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="46" column="44" />
-        <mark key="." line="46" column="43" />
-        <mark key="^" line="46" column="44" />
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" timestamp="1591890098291">
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="32" column="41" />
+        <mark key="^" line="32" column="41" />
+        <mark key="." line="32" column="40" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.module.scss" timestamp="1591890277939">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="10" column="2" />
+        <mark key="^" line="10" column="2" />
+        <mark key="." line="10" column="1" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.module.scss" timestamp="1591891559619">
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/index.scss" timestamp="1591889273115">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendPlus.module.scss" timestamp="1591890948985" />
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1591889497571">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="28" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" timestamp="1591890370404">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="77" column="22" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="50" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.tsx" timestamp="1591890140322">
+        <mark key="'" line="57" column="28" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591890425652">
+        <mark key="[" line="10" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -270,50 +270,51 @@
       <jump line="49" column="24" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" />
       <jump line="48" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" />
       <jump line="54" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" />
+      <jump line="52" column="28" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.tsx" />
+      <jump line="57" column="14" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" />
+      <jump line="0" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>FriendCard</text>
       </register>
       <register name="-" type="4">
-        <text>auwto</text>
+        <text>FriendCard</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlZGl0U3ViamVjdERlYm91bmNlKHtlZGl0U3ViamVjdH0pOwo=</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vLi4vLi4vc3R5bGVzL2R1dGNoLXBheS9pbmRleCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICA+IC5yb3cxIHsKICAgIGRpc3BsYXk6IGdyaWQ7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbi1jb250ZW50IDFmciBtaW4tY29udGVudDsKICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICAgIGdhcDogMXJlbTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldFJlbGF0ZWRGcmllbmRBbW91bnQocmVsYXRlZEZyaWVuZDogSVJlbGF0ZWRGcmllbmRTdG9yZSk6IG51bWJlciB7CiAgICBpZiAoISFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgcmV0dXJuIHJlbGF0ZWRGcmllbmQuYW1vdW50OwogICAgfQogICAgcmV0dXJuIDA7Cn0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCe3zrHXt86x1yDAzLDFtc65+D8nKTsK</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldFJlbGF0ZWRGcmllbmRBbW91bnQocmVsYXRlZEZyaWVuZDogSVJlbGF0ZWRGcmllbmRTdG9yZSk6IG51bWJlciB7CiAgICBpZiAoISFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgcmV0dXJuIHJlbGF0ZWRGcmllbmQuYW1vdW50OwogICAgfQogICAgcmV0dXJuIDA7Cn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IHNuYXBzaG90ID0gewogICAgJ3BhcnRpY2lwYW50cyc6IHsKICAgICAgICAxOiB7CiAgICAgICAgICAgICdpZCc6IDEsCiAgICAgICAgICAgICduYW1lJzogJ7HotOux2ScsCiAgICAgICAgICAgICdjb2xvcic6ICcjNzczRTAyJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMjogewogICAgICAgICAgICAnaWQnOiAyLAogICAgICAgICAgICAnbmFtZSc6ICe53bvzv+wnLAogICAgICAgICAgICAnY29sb3InOiAnIzA2NTBFNycsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDM6IHsKICAgICAgICAgICAgJ2lkJzogMywKICAgICAgICAgICAgJ25hbWUnOiAnwaTB2Mi/JywKICAgICAgICAgICAgJ2NvbG9yJzogJyMzRkNBNzgnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICA0OiB7CiAgICAgICAgICAgICdpZCc6IDQsCiAgICAgICAgICAgICduYW1lJzogJ7nau/PAzycsCiAgICAgICAgICAgICdjb2xvcic6ICcjOTk4RERFJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgNTogewogICAgICAgICAgICAnaWQnOiA1LAogICAgICAgICAgICAnbmFtZSc6ICfAzMOiv/gnLAogICAgICAgICAgICAnY29sb3InOiAnIzAwMjY3MicsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDY6IHsKICAgICAgICAgICAgJ2lkJzogNiwKICAgICAgICAgICAgJ25hbWUnOiAnvNux5ry3JywKICAgICAgICAgICAgJ2NvbG9yJzogJyNGNkVBQzQnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICA3OiB7CiAgICAgICAgICAgICdpZCc6IDcsCiAgICAgICAgICAgICduYW1lJzogJ8DMs7LIoycsCiAgICAgICAgICAgICdjb2xvcic6ICcjQUU4ODc0JywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgODogewogICAgICAgICAgICAnaWQnOiA4LAogICAgICAgICAgICAnbmFtZSc6ICe+7rjTtM8nLAogICAgICAgICAgICAnY29sb3InOiAnIzI2Q0Q1MCcsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDk6IHsKICAgICAgICAgICAgJ2lkJzogOSwKICAgICAgICAgICAgJ25hbWUnOiAnvsa59sH2JywKICAgICAgICAgICAgJ2NvbG9yJzogJyM4QzczNEYnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICAxMDogewogICAgICAgICAgICAnaWQnOiAxMCwKICAgICAgICAgICAgJ25hbWUnOiAnuLa4sLq4wMwnLAogICAgICAgICAgICAnY29sb3InOiAnIzdCODc2QicsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDExOiB7CiAgICAgICAgICAgICdpZCc6IDExLAogICAgICAgICAgICAnbmFtZSc6ICfFq7Tru9G4rrHZJywKICAgICAgICAgICAgJ2NvbG9yJzogJyM3RDZGNEMnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICAxMjogewogICAgICAgICAgICAnaWQnOiAxMiwKICAgICAgICAgICAgJ25hbWUnOiAnuei03sDHuc7BtycsCiAgICAgICAgICAgICdjb2xvcic6ICcjNUVCNzAwJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMTM6IHsKICAgICAgICAgICAgJ2lkJzogMTMsCiAgICAgICAgICAgICduYW1lJzogJ77gwO/AzCcsCiAgICAgICAgICAgICdjb2xvcic6ICcjNTkzQTM0JywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMTQ6IHsKICAgICAgICAgICAgJ2lkJzogMTQsCiAgICAgICAgICAgICduYW1lJzogJ7Trs6q5q72jJywKICAgICAgICAgICAgJ2NvbG9yJzogJyMyNzhGMTAnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfQogICAgfSwKICAgICdwYXJ0aWVzJzogewogICAgICAgIDE6IHsKICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgJ3N1YmplY3QnOiAnwM6778HWIScsCiAgICAgICAgICAgICdhbW91bnQnOiA4MjAwMCwKICAgICAgICAgICAgJ3BhcnRpY2lwYW50cyc6IFtdCiAgICAgICAgfQogICAgfQp9Ow==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCe3zrHXt86x1yDAzLDFtc65+D8nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgICAgICAgICBwYXJ0eS5wdXRSZWxhdGVkRnJpZW5kKHtmcmllbmQsIGFtb3VudDogTnVtYmVyKGVkaXRBbW91bnQpfSk7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnv6mx4r/As6o/Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Friend 레이아웃 변경
-- debounce 적용 https://blog.bitsrc.io/build-a-simple-modal-component-with-react-16decdc111a6
-- Friend Modal init</text>
+      <register name="9" type="2">
+        <text encoding="base64">CmNvbnN0IHNuYXBzaG90ID0gewogICAgJ3BhcnRpY2lwYW50cyc6IHsKICAgICAgICAxOiB7CiAgICAgICAgICAgICdpZCc6IDEsCiAgICAgICAgICAgICduYW1lJzogJ7HotOux2ScsCiAgICAgICAgICAgICdjb2xvcic6ICcjNzczRTAyJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMjogewogICAgICAgICAgICAnaWQnOiAyLAogICAgICAgICAgICAnbmFtZSc6ICe53bvzv+wnLAogICAgICAgICAgICAnY29sb3InOiAnIzA2NTBFNycsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDM6IHsKICAgICAgICAgICAgJ2lkJzogMywKICAgICAgICAgICAgJ25hbWUnOiAnwaTB2Mi/JywKICAgICAgICAgICAgJ2NvbG9yJzogJyMzRkNBNzgnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICA0OiB7CiAgICAgICAgICAgICdpZCc6IDQsCiAgICAgICAgICAgICduYW1lJzogJ7nau/PAzycsCiAgICAgICAgICAgICdjb2xvcic6ICcjOTk4RERFJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgNTogewogICAgICAgICAgICAnaWQnOiA1LAogICAgICAgICAgICAnbmFtZSc6ICfAzMOiv/gnLAogICAgICAgICAgICAnY29sb3InOiAnIzAwMjY3MicsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDY6IHsKICAgICAgICAgICAgJ2lkJzogNiwKICAgICAgICAgICAgJ25hbWUnOiAnvNux5ry3JywKICAgICAgICAgICAgJ2NvbG9yJzogJyNGNkVBQzQnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICA3OiB7CiAgICAgICAgICAgICdpZCc6IDcsCiAgICAgICAgICAgICduYW1lJzogJ8DMs7LIoycsCiAgICAgICAgICAgICdjb2xvcic6ICcjQUU4ODc0JywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgODogewogICAgICAgICAgICAnaWQnOiA4LAogICAgICAgICAgICAnbmFtZSc6ICe+7rjTtM8nLAogICAgICAgICAgICAnY29sb3InOiAnIzI2Q0Q1MCcsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDk6IHsKICAgICAgICAgICAgJ2lkJzogOSwKICAgICAgICAgICAgJ25hbWUnOiAnvsa59sH2JywKICAgICAgICAgICAgJ2NvbG9yJzogJyM4QzczNEYnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICAxMDogewogICAgICAgICAgICAnaWQnOiAxMCwKICAgICAgICAgICAgJ25hbWUnOiAnuLa4sLq4wMwnLAogICAgICAgICAgICAnY29sb3InOiAnIzdCODc2QicsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDExOiB7CiAgICAgICAgICAgICdpZCc6IDExLAogICAgICAgICAgICAnbmFtZSc6ICfFq7Tru9G4rrHZJywKICAgICAgICAgICAgJ2NvbG9yJzogJyM3RDZGNEMnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICAxMjogewogICAgICAgICAgICAnaWQnOiAxMiwKICAgICAgICAgICAgJ25hbWUnOiAnuei03sDHuc7BtycsCiAgICAgICAgICAgICdjb2xvcic6ICcjNUVCNzAwJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMTM6IHsKICAgICAgICAgICAgJ2lkJzogMTMsCiAgICAgICAgICAgICduYW1lJzogJ77gwO/AzCcsCiAgICAgICAgICAgICdjb2xvcic6ICcjNTkzQTM0JywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMTQ6IHsKICAgICAgICAgICAgJ2lkJzogMTQsCiAgICAgICAgICAgICduYW1lJzogJ7Trs6q5q72jJywKICAgICAgICAgICAgJ2NvbG9yJzogJyMyNzhGMTAnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfQogICAgfSwKICAgICdwYXJ0aWVzJzogewogICAgICAgIDE6IHsKICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgJ3N1YmplY3QnOiAnwM6778HWIScsCiAgICAgICAgICAgICdhbW91bnQnOiA4MjAwMCwKICAgICAgICAgICAgJ3BhcnRpY2lwYW50cyc6IFtdCiAgICAgICAgfQogICAgfQp9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
