@@ -115,17 +115,17 @@
         <mark key="^" line="7" column="43" />
         <mark key="." line="7" column="42" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1591891780376">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1591896505674">
         <mark key="[" line="49" column="7" />
         <mark key="]" line="52" column="46" />
         <mark key="." line="52" column="45" />
         <mark key="^" line="52" column="46" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.tsx" timestamp="1591889380117">
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="38" column="49" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.tsx" timestamp="1591896525775">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="49" />
         <mark key="^" line="38" column="49" />
-        <mark key="." line="38" column="48" />
+        <mark key="." line="37" column="49" />
       </file>
       <file name="D:/Code Project/integration-web/src/styles/_font.scss" timestamp="1591889695498" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.module.scss" timestamp="1591890227939">
@@ -276,11 +276,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDAuM3JlbTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>amount</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
