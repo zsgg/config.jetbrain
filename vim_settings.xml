@@ -115,17 +115,17 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/storybook/hello/Hello.stories.tsx" timestamp="1591944018532">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="2" column="39" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/storybook/hello/Hello.stories.tsx" timestamp="1591945028870">
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="62" />
         <mark key="^" line="1" column="62" />
-        <mark key="." line="2" column="39" />
+        <mark key="." line="1" column="61" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591943735950">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="42" />
-        <mark key="^" line="9" column="43" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591944407955">
+        <mark key="[" line="42" column="31" />
+        <mark key="]" line="44" column="40" />
+        <mark key="." line="44" column="39" />
+        <mark key="^" line="44" column="40" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1591943684401">
         <mark key="[" line="27" column="31" />
@@ -156,6 +156,7 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/zsgg-storybook-tutorial/package.json" timestamp="1591944286733" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package-lock.json" timestamp="1591943978382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -167,7 +168,7 @@
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1591942681133">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1591944338843">
         <mark key="[" line="50" column="61" />
       </file>
     </filemarks>
@@ -277,7 +278,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>s</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4167,7 +4168,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
