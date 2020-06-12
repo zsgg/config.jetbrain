@@ -109,61 +109,65 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/babel.config.js" timestamp="1591979238644" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1591977295381">
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="19" />
-        <mark key="." line="58" column="18" />
-        <mark key="^" line="58" column="19" />
-      </file>
-      <file name="D:/Code Project/integration-web/.babelrc.js" timestamp="1591979169564">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1591978304052">
-        <mark key="[" line="27" column="11" />
-        <mark key="]" line="74" column="28" />
-        <mark key="." line="74" column="27" />
-        <mark key="^" line="74" column="28" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_variables.scss" timestamp="1591976835294">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="15" />
-      </file>
-      <file name="D:/Code Project/integration-web/.stylelintrc.js" timestamp="1591979232479">
-        <mark key="'" line="42" column="1" />
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="30" />
-        <mark key="^" line="40" column="30" />
-        <mark key="." line="40" column="29" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.module.scss" timestamp="1591976664621">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="3" />
-      </file>
-      <file name="D:/Code Project/integration-web/.babelrc" timestamp="1591979047822">
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/store-in-page--pass-to-component--playground.tsx" timestamp="1591985434077" />
+      <file name="D:/Code Project/integration-web/node_modules/mobx/lib/mobx.d.ts" timestamp="1591988385216" />
+      <file name="D:/Code Project/integration-web/.storybook/babel.config.json" timestamp="1591980893133">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="D:/Code Project/integration-web/x.babelrc" timestamp="1591978931764" />
-      <file name="/.babelrc" timestamp="1591978866574" />
-      <file name="/Dummy.txt" timestamp="1591978916634">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1591988643802">
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="39" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/docs/src/modules/utils/find.js" timestamp="1591979952731" />
+      <file name="D:/Code Project/integration-web/src/public/dutch-pay/svg/money-network.svg" timestamp="1591984309376" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1591982133706">
+        <mark key="[" line="210" column="33" />
+        <mark key="]" line="210" column="33" />
+        <mark key="^" line="210" column="33" />
+        <mark key="." line="210" column="32" />
+      </file>
+      <file name="D:/Code Project/integration-web/.storybook/main.js" timestamp="1591981012476">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="17" column="80" />
+        <mark key="^" line="14" column="61" />
+        <mark key="." line="17" column="80" />
+      </file>
+      <file name="/FriendCard.tsx" timestamp="1591982314276" />
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1591987395436">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="14" />
+      </file>
+      <file name="D:/Code Project/integration-web/.storybook/.babelrc" timestamp="1591979989645" />
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1591982162821">
+        <mark key="[" line="16" column="61" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1591982947726">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="31" />
+        <mark key="." line="38" column="30" />
+        <mark key="^" line="38" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591986128632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591976096343">
-        <mark key="[" line="152" column="42" />
-        <mark key="]" line="152" column="43" />
-        <mark key="." line="152" column="43" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591981706177">
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="136" column="48" />
+        <mark key="." line="136" column="47" />
+        <mark key="^" line="136" column="48" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591976064928">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="28" column="35" />
+      <file name="D:/Code Project/integration-web/node_modules/mobx-react/dist/index.d.ts" timestamp="1591988321719" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/IconMoneyNetwork.tsx" timestamp="1591984770230">
+        <mark key="[" line="1" column="62" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -229,48 +233,49 @@
       <jump line="35" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/IconParty.tsx" />
       <jump line="23" column="1" filename="D:/Code Project/integration-web/.stylelintrc.js" />
       <jump line="45" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" />
+      <jump line="13" column="26" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb2xvcjogJHpkcy0tY29sb3ItLXdoaXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPCBpbml0ID4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA+IC5yb3cxIHsKICAgIGRpc3BsYXk6IGdyaWQ7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbi1jb250ZW50IDFmciBtaW4tY29udGVudDsKICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICAgIGdhcDogMXJlbTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
+        <text encoding="base64">ICA+IC5yb3cxIHsKICAgIGRpc3BsYXk6IGdyaWQ7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbi1jb250ZW50IDFmciBtaW4tY29udGVudDsKICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICAgIGdhcDogMXJlbTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldFJlbGF0ZWRGcmllbmRBbW91bnQocmVsYXRlZEZyaWVuZDogSVJlbGF0ZWRGcmllbmRTdG9yZSk6IG51bWJlciB7CiAgICBpZiAoISFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgcmV0dXJuIHJlbGF0ZWRGcmllbmQuYW1vdW50OwogICAgfQogICAgcmV0dXJuIDA7Cn0K</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldFJlbGF0ZWRGcmllbmRBbW91bnQocmVsYXRlZEZyaWVuZDogSVJlbGF0ZWRGcmllbmRTdG9yZSk6IG51bWJlciB7CiAgICBpZiAoISFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgcmV0dXJuIHJlbGF0ZWRGcmllbmQuYW1vdW50OwogICAgfQogICAgcmV0dXJuIDA7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCe3zrHXt86x1yDAzLDFtc65+D8nKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCe3zrHXt86x1yDAzLDFtc65+D8nKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IHNuYXBzaG90ID0gewogICAgJ3BhcnRpY2lwYW50cyc6IHsKICAgICAgICAxOiB7CiAgICAgICAgICAgICdpZCc6IDEsCiAgICAgICAgICAgICduYW1lJzogJ7HotOux2ScsCiAgICAgICAgICAgICdjb2xvcic6ICcjNzczRTAyJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMjogewogICAgICAgICAgICAnaWQnOiAyLAogICAgICAgICAgICAnbmFtZSc6ICe53bvzv+wnLAogICAgICAgICAgICAnY29sb3InOiAnIzA2NTBFNycsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDM6IHsKICAgICAgICAgICAgJ2lkJzogMywKICAgICAgICAgICAgJ25hbWUnOiAnwaTB2Mi/JywKICAgICAgICAgICAgJ2NvbG9yJzogJyMzRkNBNzgnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICA0OiB7CiAgICAgICAgICAgICdpZCc6IDQsCiAgICAgICAgICAgICduYW1lJzogJ7nau/PAzycsCiAgICAgICAgICAgICdjb2xvcic6ICcjOTk4RERFJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgNTogewogICAgICAgICAgICAnaWQnOiA1LAogICAgICAgICAgICAnbmFtZSc6ICfAzMOiv/gnLAogICAgICAgICAgICAnY29sb3InOiAnIzAwMjY3MicsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDY6IHsKICAgICAgICAgICAgJ2lkJzogNiwKICAgICAgICAgICAgJ25hbWUnOiAnvNux5ry3JywKICAgICAgICAgICAgJ2NvbG9yJzogJyNGNkVBQzQnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICA3OiB7CiAgICAgICAgICAgICdpZCc6IDcsCiAgICAgICAgICAgICduYW1lJzogJ8DMs7LIoycsCiAgICAgICAgICAgICdjb2xvcic6ICcjQUU4ODc0JywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgODogewogICAgICAgICAgICAnaWQnOiA4LAogICAgICAgICAgICAnbmFtZSc6ICe+7rjTtM8nLAogICAgICAgICAgICAnY29sb3InOiAnIzI2Q0Q1MCcsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDk6IHsKICAgICAgICAgICAgJ2lkJzogOSwKICAgICAgICAgICAgJ25hbWUnOiAnvsa59sH2JywKICAgICAgICAgICAgJ2NvbG9yJzogJyM4QzczNEYnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICAxMDogewogICAgICAgICAgICAnaWQnOiAxMCwKICAgICAgICAgICAgJ25hbWUnOiAnuLa4sLq4wMwnLAogICAgICAgICAgICAnY29sb3InOiAnIzdCODc2QicsCiAgICAgICAgICAgICdhY2NvdW50JzogJycKICAgICAgICB9LAogICAgICAgIDExOiB7CiAgICAgICAgICAgICdpZCc6IDExLAogICAgICAgICAgICAnbmFtZSc6ICfFq7Tru9G4rrHZJywKICAgICAgICAgICAgJ2NvbG9yJzogJyM3RDZGNEMnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfSwKICAgICAgICAxMjogewogICAgICAgICAgICAnaWQnOiAxMiwKICAgICAgICAgICAgJ25hbWUnOiAnuei03sDHuc7BtycsCiAgICAgICAgICAgICdjb2xvcic6ICcjNUVCNzAwJywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMTM6IHsKICAgICAgICAgICAgJ2lkJzogMTMsCiAgICAgICAgICAgICduYW1lJzogJ77gwO/AzCcsCiAgICAgICAgICAgICdjb2xvcic6ICcjNTkzQTM0JywKICAgICAgICAgICAgJ2FjY291bnQnOiAnJwogICAgICAgIH0sCiAgICAgICAgMTQ6IHsKICAgICAgICAgICAgJ2lkJzogMTQsCiAgICAgICAgICAgICduYW1lJzogJ7Trs6q5q72jJywKICAgICAgICAgICAgJ2NvbG9yJzogJyMyNzhGMTAnLAogICAgICAgICAgICAnYWNjb3VudCc6ICcnCiAgICAgICAgfQogICAgfSwKICAgICdwYXJ0aWVzJzogewogICAgICAgIDE6IHsKICAgICAgICAgICAgJ2lkJzogMSwKICAgICAgICAgICAgJ3N1YmplY3QnOiAnwM6778HWIScsCiAgICAgICAgICAgICdhbW91bnQnOiA4MjAwMCwKICAgICAgICAgICAgJ3BhcnRpY2lwYW50cyc6IFtdCiAgICAgICAgfQogICAgfQp9Ow==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
