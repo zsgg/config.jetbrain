@@ -110,16 +110,21 @@
     <globalmarks />
     <filemarks>
       <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1591949122238" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react--case1/CountContextConsumer.tsx" timestamp="1591952236722">
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="C:/zsgg/integration-web/src/stores/dutch-pay/RootStoreConsumer.tsx" timestamp="1591950508087" />
       <file name="C:/zsgg/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1591950630666" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591949050984">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="13" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="13" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1591947418429">
-        <mark key="[" line="29" column="47" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1591952283433">
+        <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="32" />
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="31" />
@@ -130,38 +135,33 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1591948253869">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="27" />
-        <mark key="." line="28" column="26" />
-        <mark key="^" line="28" column="27" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContext.ts" timestamp="1591948420892">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591950833119">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591952017266">
         <mark key="[" line="16" column="34" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="18" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="7" />
       </file>
-      <file name="C:/zsgg/integration-web/package.json" timestamp="1591947591618" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591950713983">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/dist/1.appBundle.js" timestamp="1591953865329" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591952020879">
         <mark key="[" line="26" column="13" />
         <mark key="]" line="23" column="27" />
         <mark key="^" line="23" column="27" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591947426696">
+      <file name="/Dummy.txt" timestamp="1591953745859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591950794262">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="14" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591952740510">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContextComponent.tsx" timestamp="1591948361253">
         <mark key="[" line="8" column="8" />
@@ -170,12 +170,6 @@
         <mark key="." line="8" column="21" />
       </file>
       <file name="C:/zsgg/integration-web/src/stores/sample/InvoiceStoreWithTree.ts" timestamp="1591949302272" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContextConsumer.tsx" timestamp="1591948270693">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="7" column="25" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/CountContextConsumer.tsx" timestamp="1591948674151">
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="46" />
@@ -189,6 +183,13 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1591953719379">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="48" />
+        <mark key="^" line="19" column="49" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1591953344657" />
     </filemarks>
     <jumps>
       <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
@@ -295,8 +296,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6ICdyZWQnLCBwYWRkaW5nOiAnMnJlbSd9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiAnYmx1ZScsIHBhZGRpbmc6ICcycmVtJ319PgogICAgICAgICAgICAgICAgICAgIDxDb3VudENvbXBvbmVudCBzdHlsZT17e2JhY2tncm91bmQ6ICdncmVlbicsIHBhZGRpbmc6ICcycmVtJ319Lz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>sample</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4186,7 +4187,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CountContextConsumer</text>
+        <text>sample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4205,7 +4206,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6ICdyZWQnLCBwYWRkaW5nOiAnMnJlbSd9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiAnYmx1ZScsIHBhZGRpbmc6ICcycmVtJ319PgogICAgICAgICAgICAgICAgICAgIDxDb3VudENvbXBvbmVudCBzdHlsZT17e2JhY2tncm91bmQ6ICdncmVlbicsIHBhZGRpbmc6ICcycmVtJ319Lz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e2NhbGxBeGlvc30+Y2FsbCBkdW1teTwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
