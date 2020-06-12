@@ -109,89 +109,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591972207708">
+      <file name="D:/Code Project/integration-web/babel.config.js" timestamp="1591979238644" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1591977295381">
+        <mark key="[" line="58" column="19" />
+        <mark key="]" line="58" column="19" />
+        <mark key="." line="58" column="18" />
+        <mark key="^" line="58" column="19" />
+      </file>
+      <file name="D:/Code Project/integration-web/.babelrc.js" timestamp="1591979169564">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/next.config.js" timestamp="1591957620091">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="29" column="15" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="29" column="14" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1591978304052">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="74" column="28" />
+        <mark key="." line="74" column="27" />
+        <mark key="^" line="74" column="28" />
       </file>
-      <file name="D:/Code Project/integration-web/src/styles/_open-color.scss" timestamp="1591971132030">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="46" column="21" />
-        <mark key="^" line="46" column="21" />
-        <mark key="." line="46" column="20" />
+      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_variables.scss" timestamp="1591976835294">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="15" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.module.scss" timestamp="1591964414439">
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="38" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/_reset.scss" timestamp="1591957095356">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="58" column="1" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1591957087644">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="102" />
-        <mark key="^" line="4" column="102" />
-        <mark key="." line="4" column="101" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv1/Lv1Plus.tsx" timestamp="1591954709555">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="36" />
-      </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1591955660275">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="D:/Code Project/integration-web/.stylelintrc" timestamp="1591936266992">
-        <mark key="[" line="6" column="40" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/_utils.scss" timestamp="1591969876933">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="20" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1591971064547">
-        <mark key="[" line="58" column="44" />
-        <mark key="]" line="58" column="45" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="45" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_variables.scss" timestamp="1591973504780">
-        <mark key="[" line="31" column="32" />
-        <mark key="]" line="31" column="33" />
-        <mark key="^" line="31" column="33" />
-        <mark key="." line="31" column="32" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_index.scss" timestamp="1591969844741">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="D:/Code Project/integration-web/.stylelintrc.js" timestamp="1591972206292">
+      <file name="D:/Code Project/integration-web/.stylelintrc.js" timestamp="1591979232479">
         <mark key="'" line="42" column="1" />
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="30" />
         <mark key="^" line="40" column="30" />
         <mark key="." line="40" column="29" />
       </file>
-      <file name="D:/Code Project/integration-web/src/service/dutch-pay/EnvService.ts" timestamp="1591935985681">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.module.scss" timestamp="1591976664621">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+        <mark key="." line="14" column="3" />
+      </file>
+      <file name="D:/Code Project/integration-web/.babelrc" timestamp="1591979047822">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="65" />
+      </file>
+      <file name="D:/Code Project/integration-web/x.babelrc" timestamp="1591978931764" />
+      <file name="/.babelrc" timestamp="1591978866574" />
+      <file name="/Dummy.txt" timestamp="1591978916634">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591976096343">
+        <mark key="[" line="152" column="42" />
+        <mark key="]" line="152" column="43" />
+        <mark key="." line="152" column="43" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1591976064928">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -262,16 +234,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHpkcy0tY29sb3ItLWJsdWUtOTogYmx1ZTsK</text>
+        <text encoding="base64">ICBjb2xvcjogJHpkcy0tY29sb3ItLXdoaXRlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
