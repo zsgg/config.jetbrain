@@ -116,11 +116,11 @@
         <mark key="]" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1591991092869">
-        <mark key="[" line="63" column="59" />
-        <mark key="]" line="51" column="48" />
-        <mark key="^" line="51" column="48" />
-        <mark key="." line="51" column="47" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1591995322628">
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="76" column="32" />
+        <mark key="^" line="76" column="32" />
+        <mark key="." line="76" column="31" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/docs/src/modules/utils/find.js" timestamp="1591979952731" />
       <file name="D:/Code Project/integration-web/src/public/dutch-pay/svg/money-network.svg" timestamp="1591984309376" />
@@ -162,11 +162,11 @@
         <mark key="." line="136" column="47" />
         <mark key="^" line="136" column="48" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1591991285686">
-        <mark key="[" line="27" column="68" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1591995243739">
+        <mark key="[" line="56" column="76" />
+        <mark key="]" line="58" column="62" />
+        <mark key="^" line="58" column="62" />
+        <mark key="." line="58" column="61" />
       </file>
       <file name="D:/Code Project/integration-web/node_modules/mobx-react/dist/index.d.ts" timestamp="1591988321719" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/IconMoneyNetwork.tsx" timestamp="1591984770230">
@@ -245,16 +245,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>phase</text>
+        <text>both</text>
       </register>
       <register name="-" type="4">
-        <text>phase</text>
+        <text>both</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBjY01haW4gPSBjbGFzc25hbWVzKHN0eWxlLm1haW4pCg==</text>
+      <register name="0" type="4">
+        <text>0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2UoKQo=</text>
