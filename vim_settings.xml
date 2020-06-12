@@ -116,11 +116,11 @@
         <mark key="]" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1591995322628">
-        <mark key="[" line="87" column="28" />
-        <mark key="]" line="76" column="32" />
-        <mark key="^" line="76" column="32" />
-        <mark key="." line="76" column="31" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1591998371567">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="31" column="48" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/react-swipeable-views/docs/src/modules/utils/find.js" timestamp="1591979952731" />
       <file name="D:/Code Project/integration-web/src/public/dutch-pay/svg/money-network.svg" timestamp="1591984309376" />
@@ -153,7 +153,7 @@
         <mark key="." line="38" column="30" />
         <mark key="^" line="38" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591986128632">
+      <file name="/Dummy.txt" timestamp="1591998555985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1591981706177">
@@ -162,18 +162,18 @@
         <mark key="." line="136" column="47" />
         <mark key="^" line="136" column="48" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1591995243739">
-        <mark key="[" line="56" column="76" />
-        <mark key="]" line="58" column="62" />
-        <mark key="^" line="58" column="62" />
-        <mark key="." line="58" column="61" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1591998393471">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="28" column="14" />
       </file>
       <file name="D:/Code Project/integration-web/node_modules/mobx-react/dist/index.d.ts" timestamp="1591988321719" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/IconMoneyNetwork.tsx" timestamp="1591984770230">
-        <mark key="[" line="1" column="62" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="43" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/IconMoneyNetwork.tsx" timestamp="1591998102297">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -245,40 +245,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>both</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>both</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCgtNDVkZWcsICMwMDAwMzMsICMwMDY2Y2MsICMwMDk5ZmYsICNlZGVkZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2UoKQo=</text>
+        <text encoding="base64">ICAvL2dyaWQtdGVtcGxhdGUtcm93czogYXV0byAxZnIgYXV0bzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAvL2JhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCgtNDVkZWcsIHpkcy1jb2xvci0tYmxhY2ssICMxMGVhZjAsICMwMDI4ZmYsICNlZGVkZWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA+IC5yb3cxIHsKICAgIGRpc3BsYXk6IGdyaWQ7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbi1jb250ZW50IDFmciBtaW4tY29udGVudDsKICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICAgIGdhcDogMXJlbTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3Bvc2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKGUpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICA+IC5yb3cxIHsKICAgIGRpc3BsYXk6IGdyaWQ7CiAgICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbi1jb250ZW50IDFmciBtaW4tY29udGVudDsKICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKICAgIGdhcDogMXJlbTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGdldFJlbGF0ZWRGcmllbmRBbW91bnQocmVsYXRlZEZyaWVuZDogSVJlbGF0ZWRGcmllbmRTdG9yZSk6IG51bWJlciB7CiAgICBpZiAoISFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgcmV0dXJuIHJlbGF0ZWRGcmllbmQuYW1vdW50OwogICAgfQogICAgcmV0dXJuIDA7Cn0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGFydHkuc3ViamVjdCA9PT0gZWRpdFN1YmplY3QpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICBwYXJ0eS51cGRhdGVTdWJqZWN0KGVkaXRTdWJqZWN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHVzZVN0b3JlID0gKCkgPT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCe3zrHXt86x1yDAzLDFtc65+D8nKTsK</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGdldFJlbGF0ZWRGcmllbmRBbW91bnQocmVsYXRlZEZyaWVuZDogSVJlbGF0ZWRGcmllbmRTdG9yZSk6IG51bWJlciB7CiAgICBpZiAoISFyZWxhdGVkRnJpZW5kKSB7CiAgICAgICAgcmV0dXJuIHJlbGF0ZWRGcmllbmQuYW1vdW50OwogICAgfQogICAgcmV0dXJuIDA7Cn0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
