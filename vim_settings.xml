@@ -110,6 +110,8 @@
     <globalmarks />
     <filemarks>
       <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1591949122238" />
+      <file name="C:/zsgg/integration-web/src/stores/dutch-pay/RootStoreConsumer.tsx" timestamp="1591950508087" />
+      <file name="C:/zsgg/integration-web/src/stores/dutch-pay/RootStore.ts" timestamp="1591950630666" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591949050984">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="14" />
@@ -140,36 +142,26 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591949291213">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="14" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591950833119">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="C:/zsgg/integration-web/package.json" timestamp="1591947591618" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591949348326">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.storybook/main.js" timestamp="1591947135620">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="47" />
-        <mark key="^" line="4" column="47" />
-        <mark key="." line="4" column="46" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591950713983">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1591947426696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/storybook/hello/Hello.stories.tsx" timestamp="1591945979900">
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="1" column="62" />
-        <mark key="^" line="1" column="62" />
-        <mark key="." line="1" column="61" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591948813169">
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="15" column="62" />
-        <mark key="^" line="15" column="62" />
-        <mark key="." line="15" column="61" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591950794262">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContextComponent.tsx" timestamp="1591948361253">
         <mark key="[" line="8" column="8" />
@@ -303,8 +295,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6ICdyZWQnLCBwYWRkaW5nOiAnMnJlbSd9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiAnYmx1ZScsIHBhZGRpbmc6ICcycmVtJ319PgogICAgICAgICAgICAgICAgICAgIDxDb3VudENvbXBvbmVudCBzdHlsZT17e2JhY2tncm91bmQ6ICdncmVlbicsIHBhZGRpbmc6ICcycmVtJ319Lz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4194,7 +4186,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>CountContextConsumer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4213,7 +4205,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6J3JlZCd9fT4KICAgICAgICAgICAgCiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6ICdyZWQnLCBwYWRkaW5nOiAnMnJlbSd9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiAnYmx1ZScsIHBhZGRpbmc6ICcycmVtJ319PgogICAgICAgICAgICAgICAgICAgIDxDb3VudENvbXBvbmVudCBzdHlsZT17e2JhY2tncm91bmQ6ICdncmVlbicsIHBhZGRpbmc6ICcycmVtJ319Lz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
