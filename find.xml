@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="v-react" />
-    <option name="defaultScopeName" value="v-react" />
-    <option name="SEARCH_SCOPE" value="v-react" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>

@@ -115,17 +115,17 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591940747347">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="14" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591943735950">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/husky.config.js" timestamp="1591871421284">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1591943684401">
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
       </file>
       <file name="C:/zsgg/integration-web/.babelrc" timestamp="1591940414195" />
       <file name="C:/zsgg/integration-web/next.config.js" timestamp="1591873010359">
@@ -151,23 +151,14 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="C:/zsgg/integration-web/src/styles/_variables.scss" timestamp="1591872798144">
-        <mark key="'" line="11" column="34" />
-        <mark key="[" line="23" column="1" />
-      </file>
-      <file name="C:/zsgg/integration-web/package.json" timestamp="1591942287451" />
+      <file name="C:/zsgg/integration-web/package.json" timestamp="1591943434650" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.browserslistrc" timestamp="1591932577100" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/LintTest.ts" timestamp="1591870981329">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/storybook/hello/Hello.stories.tsx" timestamp="1591942780590">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="28" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/storybook/button-group/ButtonGroup.tsx" timestamp="1591942908018" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/storybook/hello/Hello.stories.tsx" timestamp="1591943872941">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="1" column="62" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591942726023" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/apply-style/ApplyStyle.tsx" timestamp="1591941070377">
@@ -176,7 +167,7 @@
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="C:/zsgg/integration-web/.eslintrc.js" timestamp="1591940040614" />
+      <file name="C:/zsgg/integration-web/.eslintrc.js" timestamp="1591943682292" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1591942681133">
         <mark key="[" line="50" column="61" />
       </file>
@@ -287,7 +278,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>actions</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4177,7 +4168,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>actions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
