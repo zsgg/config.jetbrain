@@ -124,12 +124,6 @@
         <mark key="." line="31" column="47" />
       </file>
       <file name="D:/Code Project/integration-web/src/public/dutch-pay/svg/money-network.svg" timestamp="1591984309376" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1592001989766">
-        <mark key="[" line="53" column="73" />
-        <mark key="]" line="53" column="73" />
-        <mark key="^" line="53" column="71" />
-        <mark key="." line="53" column="73" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv1/Lv1MoneyLocalString.ts" timestamp="1592001243756">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="6" column="18" />
@@ -137,11 +131,11 @@
         <mark key="." line="6" column="17" />
       </file>
       <file name="/FriendCard.tsx" timestamp="1591982314276" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv1/Lv1MoneyLocalString.tsx" timestamp="1592001866946">
-        <mark key="[" line="10" column="86" />
-        <mark key="]" line="10" column="85" />
-        <mark key="^" line="10" column="85" />
-        <mark key="." line="10" column="84" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv1/Lv1MoneyLocalString.tsx" timestamp="1592025204037">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1592000515679">
         <mark key="[" line="58" column="19" />
@@ -149,7 +143,7 @@
         <mark key="." line="58" column="18" />
         <mark key="^" line="58" column="19" />
       </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1592001049734">
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1592025223501">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="13" />
