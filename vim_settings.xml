@@ -121,12 +121,7 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="17" column="2" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv1/README.md" timestamp="1592058368556">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="4" column="7" />
-      </file>
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592071100548" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1592065537988">
         <mark key="[" line="21" column="110" />
         <mark key="]" line="21" column="94" />
@@ -181,16 +176,10 @@
         <mark key="." line="83" column="58" />
         <mark key="^" line="83" column="59" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/README.md" timestamp="1592058353304">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="7" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1592067503618">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592070118123">
+      <file name="/Dummy.txt" timestamp="1592070328041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -212,6 +201,12 @@
         <mark key="]" line="89" column="55" />
         <mark key="^" line="89" column="55" />
         <mark key="." line="89" column="54" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592072617671">
+        <mark key="[" line="81" column="51" />
+        <mark key="]" line="81" column="56" />
+        <mark key="^" line="81" column="56" />
+        <mark key="." line="81" column="55" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFeiend.module.scss" timestamp="1592061493806">
         <mark key="[" line="8" column="60" />
@@ -305,16 +300,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>aaa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocmVwb3J0UmVmLmN1cnJlbnQgYXMgSFRNTERpdkVsZW1lbnQpLnN0eWxlLndpZHRoID0gJzYwMHB4JzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc8IExhbmd1YWdlRGV0ZWN0b3IgPicsIGFhYSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
