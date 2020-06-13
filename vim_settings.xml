@@ -109,110 +109,79 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592064137824">
-        <mark key="[" line="34" column="41" />
+      <file name="D:/Code Project/integration-web/src/components/sample/translation/translation.tsx" timestamp="1592075998225">
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="28" />
+      </file>
+      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592073595727">
+        <mark key="[" line="35" column="35" />
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592067486148">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="17" column="2" />
+      <file name="D:/Code Project/integration-web/i18n.js" timestamp="1592076883506">
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="19" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/sample/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592071100548" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1592065537988">
-        <mark key="[" line="21" column="110" />
-        <mark key="]" line="21" column="94" />
-        <mark key="^" line="21" column="94" />
-        <mark key="." line="21" column="93" />
+      <file name="D:/Code Project/integration-web/src/components/sample/translation/weather-forecast.tsx" timestamp="1592076012626" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/translation/weather-forecast.tsx" timestamp="1592076829155">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="3" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/DisplayReportModal.tsx" timestamp="1592070245431">
-        <mark key="[" line="35" column="16" />
-        <mark key="]" line="36" column="14" />
-        <mark key="^" line="36" column="14" />
-        <mark key="." line="36" column="13" />
+      <file name="D:/Code Project/integration-web/i18n/server.js" timestamp="1592073590365">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="9" column="3" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/README.md" timestamp="1592058384569">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="21" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/i18n-location/i18n-location.tsx" timestamp="1592074163667">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/_g.scss" timestamp="1592061579506">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="21" />
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1592073902414" />
+      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592077979993">
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="17" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.module.scss" timestamp="1592061626180">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="59" />
-        <mark key="." line="8" column="58" />
-        <mark key="^" line="8" column="59" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" timestamp="1592061584873">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="39" column="96" />
-        <mark key="^" line="45" column="76" />
-        <mark key="." line="45" column="75" />
-      </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1592066169716">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.tsx" timestamp="1592061593912">
-        <mark key="[" line="44" column="67" />
-        <mark key="]" line="45" column="87" />
-        <mark key="^" line="45" column="87" />
-        <mark key="." line="45" column="86" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1592067007740">
-        <mark key="[" line="83" column="31" />
-        <mark key="]" line="83" column="59" />
-        <mark key="." line="83" column="58" />
-        <mark key="^" line="83" column="59" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1592067503618">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592070328041">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1592065158976">
-        <mark key="[" line="59" column="16" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1592080066496">
+        <mark key="[" line="60" column="23" />
         <mark key="]" line="59" column="19" />
         <mark key="^" line="59" column="19" />
         <mark key="." line="59" column="18" />
       </file>
-      <file name="D:/Code Project/integration-web/husky.config.js" timestamp="1592067973334">
-        <mark key="[" line="19" column="63" />
-        <mark key="]" line="19" column="63" />
-        <mark key="^" line="19" column="62" />
-        <mark key="." line="19" column="63" />
+      <file name="D:/Code Project/integration-web/src/pages/sample/mobx/counter--class-component.tsx" timestamp="1592073810983" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592081510319">
+        <mark key="[" line="25" column="9" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592064193967">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="89" column="55" />
-        <mark key="^" line="89" column="55" />
-        <mark key="." line="89" column="54" />
+      <file name="D:/Code Project/integration-web/src/i18n/dutch-pay/i18n.js" timestamp="1592081628235">
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="62" column="16" />
+        <mark key="^" line="62" column="16" />
+        <mark key="." line="62" column="15" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592072617671">
-        <mark key="[" line="81" column="51" />
-        <mark key="]" line="81" column="56" />
-        <mark key="^" line="81" column="56" />
-        <mark key="." line="81" column="55" />
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592079022369">
+        <mark key="[" line="14" column="49" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFeiend.module.scss" timestamp="1592061493806">
-        <mark key="[" line="8" column="60" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="18" />
+      <file name="D:/Code Project/integration-web/src/public/locales/en/translation.json" timestamp="1592076170971">
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/i18n/client.js" timestamp="1592073348246">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -300,16 +269,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>aaa</text>
+        <text>en</text>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>en</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc8IExhbmd1YWdlRGV0ZWN0b3IgPicsIGFhYSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFhIGZyb20gJ2kxOG4vc2VydmVyJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
