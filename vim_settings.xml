@@ -109,67 +109,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592158127500">
-        <mark key="[" line="38" column="35" />
-        <mark key="]" line="38" column="34" />
-        <mark key="." line="38" column="33" />
-        <mark key="^" line="38" column="34" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/context-api/apply-context-api.tsx" timestamp="1592161495174">
+        <mark key="[" line="0" column="38" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.module.scss" timestamp="1592156278986">
-        <mark key="[" line="20" column="18" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/sample/mobx-state-tree/store-in-page--pass-to-component--playground.tsx" timestamp="1592161211999" />
+      <file name="D:/Code Project/integration-web/src/xxx/components/SampleIndexComponent.tsx" timestamp="1592161453576">
+        <mark key="[" line="2" column="30" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1592158252698">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="106" column="34" />
-        <mark key="." line="106" column="33" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/FriendStore.ts" timestamp="1592158122687" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.tsx" timestamp="1592158666009">
         <mark key="[" line="28" column="93" />
         <mark key="]" line="28" column="93" />
         <mark key="^" line="44" column="4" />
         <mark key="." line="28" column="93" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.tsx" timestamp="1592155967742">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="56" column="28" />
-        <mark key="^" line="56" column="28" />
-        <mark key="." line="56" column="27" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/ko.validation.json" timestamp="1592157399085" />
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" timestamp="1592155913757">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="79" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592155656854">
+      <file name="D:/Code Project/integration-web/src/xxx/pages/sample/mobx-state-tree/store-in-page--pass-to-component--localstorage.tsx" timestamp="1592161279999" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx/counter-inject-store--class-component.tsx" timestamp="1592161527959" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx/counter--class-component.tsx" timestamp="1592161521429" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592162337862">
         <mark key="'" line="10" column="39" />
-        <mark key="[" line="10" column="0" />
+        <mark key="[" line="17" column="34" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="18" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/en.glossary.json" timestamp="1592157959123">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="27" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/utils/Error.ts" timestamp="1592158055129" />
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/en.common.json" timestamp="1592157949033">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="8" column="23" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" timestamp="1592156271173">
-        <mark key="[" line="49" column="67" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="33" />
-        <mark key="^" line="41" column="34" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1592158783306">
         <mark key="[" line="7" column="18" />
@@ -177,20 +138,23 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/ko.glossary.json" timestamp="1592157398218" />
-      <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592157719429">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592161570488">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="6" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592158789436">
+      <file name="D:/Code Project/integration-web/src/xxx/pages/context-api/apply-context-api--with-provider.tsx" timestamp="1592161506653" />
+      <file name="/Dummy.txt" timestamp="1592162257002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/i18n/dutch-pay/I18nNextConfig.ts" timestamp="1592157523701">
-        <mark key="[" line="41" column="28" />
-        <mark key="]" line="41" column="30" />
-        <mark key="^" line="41" column="30" />
-        <mark key="." line="41" column="29" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx/counter--function-component.tsx" timestamp="1592161524781" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/css-in-ts/styled-component.tsx" timestamp="1592161516790" />
+      <file name="D:/Code Project/integration-web/src/xxx/components/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1592161434616">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -284,10 +248,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
