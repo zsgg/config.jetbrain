@@ -110,34 +110,26 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/utils/i18nextLocize.ts" timestamp="1592119577341" />
+      <file name="D:/Code Project/integration-web/i18n.js" timestamp="1592125127660">
+        <mark key="[" line="6" column="13" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/node_modules/react-i18next/src/index.d.ts" timestamp="1592119173967" />
+      <file name="D:/Code Project/integration-web/src/public/static/locales/en/common.json" timestamp="1592125835939">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/pages/index.js" timestamp="1592124077653">
+        <mark key="[" line="11" column="32" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/package.json" timestamp="1592117929352" />
       <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592096379345" />
-      <file name="D:/Code Project/integration-web/src/locales/ko/common.json" timestamp="1592093972090">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="17" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/locales/en/common.json" timestamp="1592093958416">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="17" />
-      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/_app.tsx" timestamp="1592119688444" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/terms.tsx" timestamp="1592120257168" />
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592120522352">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="87" column="17" />
-        <mark key="." line="87" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/i18n/dutch-pay/i18n.2.ts" timestamp="1592094142598">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="19" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/i18n.js" timestamp="1592124388620" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592126372482">
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="18" />
+        <mark key="^" line="49" column="18" />
+        <mark key="." line="49" column="17" />
       </file>
       <file name="D:/Code Project/integration-web/tsconfig.json" timestamp="1592095674650">
         <mark key="[" line="17" column="23" />
@@ -145,31 +137,22 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/universal-language-detector/examples/with-next/pages/_app.js" timestamp="1592091884098">
-        <mark key="[" line="14" column="92" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="46" />
-      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/now.json" timestamp="1592118643251" />
-      <file name="D:/Code Project/integration-web/src/i18n.ts" timestamp="1592094306172" />
+      <file name="/main.tsx" timestamp="1592125313989" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/now.customer1.staging.json" timestamp="1592118639767" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/examples.tsx" timestamp="1592119792874" />
       <file name="D:/Code Project/integration-web/package.json" timestamp="1592118942139" />
-      <file name="/Dummy.txt" timestamp="1592117939728">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Code Project/integration-web/src/i18n.config.ts" timestamp="1592095640352">
         <mark key="[" line="17" column="25" />
         <mark key="]" line="1" column="23" />
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592097102263">
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-        <mark key="." line="12" column="41" />
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592123535005">
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -258,10 +241,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>language</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>language</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
