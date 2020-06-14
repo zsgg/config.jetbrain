@@ -109,84 +109,88 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592141914403">
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="28" column="42" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="28" column="42" />
+      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592158127500">
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="34" />
+        <mark key="." line="38" column="33" />
+        <mark key="^" line="38" column="34" />
       </file>
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/en.json" timestamp="1592144541104">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/common.json" timestamp="1592146535671">
-        <mark key="]" line="3" column="1" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/i18n.js" timestamp="1592125127660">
-        <mark key="[" line="6" column="13" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.module.scss" timestamp="1592129885193">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.module.scss" timestamp="1592156278986">
         <mark key="[" line="20" column="18" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1592145633674">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="110" column="6" />
-        <mark key="." line="10" column="9" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" timestamp="1592158252698">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="106" column="34" />
+        <mark key="." line="106" column="33" />
       </file>
-      <file name="D:/Code Project/integration-web/src/public/static/locales/en/common.json" timestamp="1592125835939">
+      <file name="D:/Code Project/integration-web/src/stores/dutch-pay/FriendStore.ts" timestamp="1592158122687" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.tsx" timestamp="1592158666009">
+        <mark key="[" line="28" column="93" />
+        <mark key="]" line="28" column="93" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="28" column="93" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.tsx" timestamp="1592155967742">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="56" column="28" />
+        <mark key="^" line="56" column="28" />
+        <mark key="." line="56" column="27" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/ko.validation.json" timestamp="1592157399085" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" timestamp="1592155913757">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="79" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592155656854">
+        <mark key="'" line="10" column="39" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/en.glossary.json" timestamp="1592157959123">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="27" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/utils/Error.ts" timestamp="1592158055129" />
+      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/en.common.json" timestamp="1592157949033">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" timestamp="1592156271173">
+        <mark key="[" line="49" column="67" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="34" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.module.scss" timestamp="1592158783306">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/ko.glossary.json" timestamp="1592157398218" />
+      <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592157719429">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592158789436">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/pages/index.js" timestamp="1592124077653">
-        <mark key="[" line="11" column="32" />
-      </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/terms.tsx" timestamp="1592120257168" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/i18n.js" timestamp="1592124388620" />
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592146268116">
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="15" column="56" />
-        <mark key="^" line="15" column="56" />
-        <mark key="." line="15" column="55" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" timestamp="1592129768844">
-        <mark key="'" line="37" column="39" />
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="94" />
-        <mark key="^" line="42" column="94" />
-        <mark key="." line="42" column="93" />
-      </file>
-      <file name="/main.tsx" timestamp="1592141139738" />
-      <file name="D:/Code Project/integration-web/src/i18n.ts" timestamp="1592129021304" />
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/ko/common.json" timestamp="1592146290759">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/dutch-pay/locate/ko/isisis.json" timestamp="1592146288261">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="36" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592145156238">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" timestamp="1592129969351">
-        <mark key="[" line="60" column="23" />
-        <mark key="]" line="59" column="19" />
-        <mark key="^" line="59" column="19" />
-        <mark key="." line="59" column="18" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592146734391">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/Code Project/integration-web/src/i18n/dutch-pay/I18nNextConfig.ts" timestamp="1592157523701">
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -270,48 +274,53 @@
       <jump line="26" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.module.scss" />
       <jump line="37" column="39" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" />
       <jump line="2" column="45" filename="D:/Code Project/integration-web/src/i18n/dutch-pay/detect.js" />
+      <jump line="43" column="3" filename="D:/Code Project/integration-web/src/i18n/dutch-pay/i18n.ts" />
+      <jump line="11" column="39" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" />
+      <jump line="59" column="21" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" />
+      <jump line="50" column="79" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" />
+      <jump line="4" column="7" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IENhbGxzIHBhZ2UncyBgZ2V0SW5pdGlhbFByb3BzYCBhbmQgZmlsbHMgYGFwcFByb3BzLnBhZ2VQcm9wc2AgLSBYWFggU2VlIGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzI2N1c3RvbS1hcHA=</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENhbGxzIHBhZ2UncyBgZ2V0SW5pdGlhbFByb3BzYCBhbmQgZmlsbHMgYGFwcFByb3BzLnBhZ2VQcm9wc2AgLSBYWFggU2VlIGh0dHBzOi8vbmV4dGpzLm9yZy9kb2NzI2N1c3RvbS1hcHA=</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGVuIGZyb20gJ0BwdWJsaWMvZHV0Y2gtcGF5L2xvY2F0ZS9rby9jb21tb24uanNvbic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlVHJhbnNsYXRpb24gfSBmcm9tICdyZWFjdC1pMThuZXh0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgY3Vyck51bWJlciwgcHJldk51bWJlciA9IDAgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vbWFyZ2luOiAwICR6ZHMtLWJhc2UtZ2FwICogMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL2dyaWQtdGVtcGxhdGUtYXJlYXM6ICIiOwo=</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luOiAwICR6ZHMtLWJhc2UtZ2FwICogMjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAkemRzLS1iYXNlLWdhcCAkemRzLS1iYXNlLWdhcCAqIDI7Cg==</text>
+        <text encoding="base64">ICAvL2dyaWQtdGVtcGxhdGUtYXJlYXM6ICIiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAkemRzLS1iYXNlLWdhcCAkemRzLS1iYXNlLWdhcCAqIDI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAkemRzLS1iYXNlLWdhcDsK</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbm1heCgzcmVtLCAxZnIpIG1pbm1heCgyLjRyZW0sIDJmcikgIG1pbi1jb250ZW50IG1pbm1heCgyLjRyZW0sIDJmcikgIG1pbm1heCgzcmVtLCAxZnIpOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAkemRzLS1iYXNlLWdhcDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL2dhcDogMC4ycmVtIDAuNHJlbTsK</text>
+        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbm1heCgzcmVtLCAxZnIpIG1pbm1heCgyLjRyZW0sIDJmcikgIG1pbi1jb250ZW50IG1pbm1heCgyLjRyZW0sIDJmcikgIG1pbm1heCgzcmVtLCAxZnIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
