@@ -109,6 +109,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592135720842">
+        <mark key="[" line="35" column="35" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="34" />
+      </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/utils/i18nextLocize.ts" timestamp="1592119577341" />
       <file name="D:/Code Project/integration-web/i18n.js" timestamp="1592125127660">
         <mark key="[" line="6" column="13" />
@@ -126,11 +132,11 @@
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/_app.tsx" timestamp="1592119688444" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/terms.tsx" timestamp="1592120257168" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/i18n.js" timestamp="1592124388620" />
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592129098161">
-        <mark key="[" line="70" column="18" />
-        <mark key="]" line="66" column="43" />
-        <mark key="^" line="66" column="43" />
-        <mark key="." line="66" column="42" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592136182636">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="8" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="37" column="7" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" timestamp="1592129768844">
         <mark key="'" line="37" column="39" />
@@ -142,7 +148,6 @@
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/now.json" timestamp="1592118643251" />
       <file name="/main.tsx" timestamp="1592125313989" />
       <file name="D:/Code Project/integration-web/src/i18n.ts" timestamp="1592129021304" />
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/now.customer1.staging.json" timestamp="1592118639767" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/examples.tsx" timestamp="1592119792874" />
       <file name="D:/Code Project/integration-web/package.json" timestamp="1592128948871" />
       <file name="/Dummy.txt" timestamp="1592129982875">
@@ -247,10 +252,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>de</text>
+        <text>nonExplicitWhitelist</text>
       </register>
       <register name="-" type="4">
-        <text>de</text>
+        <text>nonExplicitWhitelist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
