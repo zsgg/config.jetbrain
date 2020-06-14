@@ -115,18 +115,13 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/package.json" timestamp="1592091436857">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="19" column="1" />
-      </file>
       <file name="D:/Code Project/integration-web/tsconfig.json" timestamp="1592095674650">
         <mark key="[" line="17" column="23" />
         <mark key="]" line="17" column="23" />
         <mark key="^" line="45" column="7" />
         <mark key="." line="17" column="23" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/utils/i18nextLocize.ts" timestamp="1592118254163" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/universal-language-detector/examples/with-next/pages/_app.js" timestamp="1592091884098">
         <mark key="[" line="14" column="92" />
         <mark key="]" line="26" column="47" />
@@ -139,7 +134,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/now.json" timestamp="1592118643251" />
       <file name="D:/Code Project/integration-web/src/i18n.ts" timestamp="1592094306172" />
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/now.customer1.staging.json" timestamp="1592118639767" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/package.json" timestamp="1592117929352" />
       <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592096379345" />
       <file name="D:/Code Project/integration-web/src/locales/ko/common.json" timestamp="1592093972090">
@@ -154,6 +151,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/_app.tsx" timestamp="1592118343854" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/universal-language-detector/examples/with-next/pages/index.js" timestamp="1592091877971" />
       <file name="/Dummy.txt" timestamp="1592117939728">
         <mark key="[" line="0" column="0" />
@@ -164,7 +162,6 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/i18n.js" timestamp="1592091115901" />
       <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592097058454">
         <mark key="[" line="29" column="16" />
         <mark key="]" line="47" column="28" />
@@ -179,7 +176,6 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/universal-language-detector/examples/with-next/package.json" timestamp="1592091465982" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
