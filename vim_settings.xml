@@ -109,11 +109,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592135720842">
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="33" />
-        <mark key="^" line="35" column="34" />
+      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592137537768">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="36" column="34" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="34" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/utils/i18nextLocize.ts" timestamp="1592119577341" />
       <file name="D:/Code Project/integration-web/i18n.js" timestamp="1592125127660">
@@ -132,11 +132,11 @@
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/_app.tsx" timestamp="1592119688444" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-right-now-master--fix/src/pages/terms.tsx" timestamp="1592120257168" />
       <file name="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/next-i18next/examples/simple/i18n.js" timestamp="1592124388620" />
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592136182636">
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" timestamp="1592137529631">
         <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="8" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="37" column="7" />
+        <mark key="]" line="44" column="14" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="44" column="13" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" timestamp="1592129768844">
         <mark key="'" line="37" column="39" />
