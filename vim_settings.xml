@@ -115,6 +115,27 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="58" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592212429652">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592200398113">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/sample1/index.tsx" timestamp="1592210606380">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="29" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592208442991">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="11" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/README.md" timestamp="1592205061900">
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
@@ -122,6 +143,12 @@
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/README.md" timestamp="1592207005006">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1592203865372">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="26" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592210684572">
         <mark key="[" line="23" column="13" />
@@ -134,6 +161,12 @@
         <mark key="]" line="44" column="46" />
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="45" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592203891011">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592209946008">
         <mark key="[" line="8" column="13" />
@@ -150,48 +183,12 @@
         <mark key="^" line="2" column="61" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592201181944">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592200398113">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/sample1/index.tsx" timestamp="1592210606380">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="29" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/postcss.config.js" timestamp="1592200261067" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592208442991">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="19" column="12" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="19" column="11" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1592203865372">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="27" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="28" column="26" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592203891011">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="32" />
-      </file>
-      <file name="C:/zsgg/integration-web/.eslintrc.js" timestamp="1592198752308" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592209809256">
-        <mark key="[" line="9" column="22" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592212492977">
+        <mark key="[" line="9" column="24" />
         <mark key="]" line="7" column="37" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592200819801" />
     </filemarks>
     <jumps>
       <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
