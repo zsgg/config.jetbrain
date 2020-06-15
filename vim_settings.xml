@@ -114,11 +114,11 @@
         <mark key="^" line="10" column="19" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/atom/README.md" timestamp="1592203377394">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="41" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/atom/README.md" timestamp="1592203677403">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="59" />
+        <mark key="." line="2" column="58" />
       </file>
       <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592192070092" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1592200280816">
@@ -141,11 +141,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591952017266">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="7" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592204201042">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="60" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.storybook/config.js" timestamp="1592201160597">
         <mark key="[" line="2" column="57" />
@@ -175,11 +175,17 @@
         <mark key="." line="5" column="25" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/postcss.config.js" timestamp="1592200261067" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591952740510">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="26" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1592203865372">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="26" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592203891011">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
       </file>
       <file name="/" timestamp="1592190967478">
         <mark key="[" line="0" column="0" />
@@ -299,7 +305,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>Sample</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4189,7 +4195,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Sample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4208,7 +4214,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJy9zZXJ2bGV0JzogJ2h0dHA6Ly9kZXYuYml6aG93cy5jb20nLAo=</text>
+        <text encoding="base64">Y29uc3QgU2FtcGxlID0gUmVhY3QubGF6eSgoKSA9PiBpbXBvcnQoJy4vc2FtcGxlL3BhZ2UvU2FtcGxlJykpOwo=</text>
       </register>
       <register name="1" type="2">
         <text>body {
