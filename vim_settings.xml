@@ -109,16 +109,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react--case1/CountContextConsumer.tsx" timestamp="1591952236722">
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/atom/README.md" timestamp="1592203677403">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="59" />
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="58" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/README.md" timestamp="1592204933396">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592192070092" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1592200280816">
@@ -152,12 +150,6 @@
         <mark key="]" line="2" column="61" />
         <mark key="^" line="2" column="61" />
         <mark key="." line="2" column="60" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591952020879">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1592201181944">
         <mark key="[" line="0" column="0" />
