@@ -20,7 +20,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -35,7 +35,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -65,7 +65,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -153,9 +153,6 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="/" timestamp="1592190967478">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/CountContextConsumer.tsx" timestamp="1591948674151">
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="46" />
@@ -180,11 +177,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592191093339">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="11" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592183492648">
+        <mark key="[" line="38" column="33" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -4640,7 +4637,43 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="5" enabled="true" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
