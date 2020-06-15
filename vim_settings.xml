@@ -123,12 +123,13 @@
       <file name="/Dummy.txt" timestamp="1591953745859">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592191568347">
-        <mark key="[" line="13" column="86" />
-        <mark key="]" line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-        <mark key="." line="14" column="16" />
+      <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592193593197">
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="85" />
+        <mark key="^" line="136" column="85" />
+        <mark key="." line="136" column="84" />
       </file>
+      <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592192070092" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591952740510">
         <mark key="[" line="29" column="15" />
         <mark key="]" line="29" column="27" />
@@ -165,14 +166,22 @@
       <file name="C:/zsgg/integration-web/src/service/dutch-pay/ReportCalculator.ts" timestamp="1592191507497">
         <mark key="[" line="100" column="0" />
       </file>
-      <file name="C:/zsgg/integration-web/.prettierrc" timestamp="1592191406936">
+      <file name="C:/zsgg/integration-web/.prettierrc" timestamp="1592192027148">
         <mark key="[" line="8" column="24" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/CountContextConsumer.tsx" timestamp="1591948674151">
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="46" />
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="46" />
+      </file>
+      <file name="C:/zsgg/integration-web/src/styles/global.scss" timestamp="1592192233439">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContext.ts" timestamp="1591948420892">
         <mark key="[" line="2" column="19" />
@@ -305,7 +314,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sample</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4195,7 +4204,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sample</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4217,27 +4226,33 @@
         <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e2NhbGxBeGlvc30+Y2FsbCBkdW1teTwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
+        <text>body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text># phase 1
 ## eslint prettier
 - init</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aXMuaW5mby5jb21tT3B0aW9uTGlzdCwgb3B0ID0+IG9wdC5wb2lOYW1lID09PSAnvucvtNy46ScgJiYgb3B0LnBvdk5hbWUgPT09ICe03LjpJyk7CiAgICAgICAgLy8gICAgIGlmIChzaWRlT3B0aW9uICYmICFpc05hTihzaWRlT3B0aW9uLnZhbHVlMikpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiB7CiAgICAgICAgLy8gICAgICAgICAgICAgYVBpY2tQYWdlSWR4TGlzdDogW3NpZGVPcHRpb24udmFsdWUyXQogICAgICAgIC8vICAgICAgICAgfTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4ge307IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4490,11 +4505,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGhMaXN0OiBnZXRGaWxlcyhgJHtwYXJlbnRQYXRofSR7Y3VyclBhdGh9YCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAKICAgICAgICBpc0ltYWdlKHVybDogc3RyaW5nLCBpZHg6IG51bWJlciwgcGhvdG9JbmZvTGlzdDogUGhvdG9JbmZvW10pewogICAgICAgICAgICB2YXIgaW1hZ2UgPSBuZXcgSW1hZ2UoKTsKICAgICAgICAgICAgaW1hZ2Uub25lcnJvciA9IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICBjb25zdCB1cmw6IHN0cmluZyA9IHBob3RvSW5mb0xpc3RbaWR4XS5pbWFnZVVybE9yaWdpbmFsOwogICAgICAgICAgICAgICAgJCgnLmNhcmQtd3JhcFtkYXRhLXBob3RvLW51bWJlcj0iJyArIGlkeCArICciXSAuY2FyZC10aHVtYm5haWwnKS5jc3MoJ2JhY2tncm91bmQtaW1hZ2UnLCd1cmwoIicrdXJsKyciKScpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGltYWdlLnNyYyA9IHVybDsKICAgICAgICB9CiAgICAgICAg</text>
+        <text encoding="base64">aXMuaW5mby5jb21tT3B0aW9uTGlzdCwgb3B0ID0+IG9wdC5wb2lOYW1lID09PSAnvucvtNy46ScgJiYgb3B0LnBvdk5hbWUgPT09ICe03LjpJyk7CiAgICAgICAgLy8gICAgIGlmIChzaWRlT3B0aW9uICYmICFpc05hTihzaWRlT3B0aW9uLnZhbHVlMikpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiB7CiAgICAgICAgLy8gICAgICAgICAgICAgYVBpY2tQYWdlSWR4TGlzdDogW3NpZGVPcHRpb24udmFsdWUyXQogICAgICAgIC8vICAgICAgICAgfTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4ge307IA==</text>
       </register>
       <register name="y" type="4">
         <keys>
