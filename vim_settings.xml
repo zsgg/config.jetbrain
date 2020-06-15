@@ -20,7 +20,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -35,7 +35,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -65,7 +65,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -109,80 +109,91 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react--case1/CountContextConsumer.tsx" timestamp="1591952236722">
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/atom/README.md" timestamp="1592203677403">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="59" />
+        <mark key="." line="2" column="58" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591952020879">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="26" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/README.md" timestamp="1592205061900">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591953745859">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/README.md" timestamp="1592207005006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591952740510">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="26" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1592200280816">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="43" column="47" />
+        <mark key="^" line="43" column="47" />
+        <mark key="." line="43" column="46" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContextComponent.tsx" timestamp="1591948361253">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="21" />
+      <file name="C:/zsgg/integration-web/.prettierrc" timestamp="1592198698832">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="10" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1591949050984">
-        <mark key="[" line="23" column="13" />
-        <mark key="]" line="23" column="14" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="23" column="13" />
+      <file name="C:/zsgg/integration-web/src/styles/global.scss" timestamp="1592192233439">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1591952283433">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="32" />
-        <mark key="^" line="30" column="32" />
-        <mark key="." line="30" column="31" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592204201042">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="61" />
+        <mark key="^" line="6" column="61" />
+        <mark key="." line="6" column="60" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/CountComponent.tsx" timestamp="1591948832405">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="18" />
-        <mark key="^" line="7" column="19" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.storybook/config.js" timestamp="1592201160597">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="60" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/CountContextConsumer.tsx" timestamp="1591948674151">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="46" />
-        <mark key="." line="8" column="45" />
-        <mark key="^" line="8" column="46" />
+      <file name="/Dummy.txt" timestamp="1592201181944">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/UiContext.ts" timestamp="1591948420892">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="24" />
+      <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592193593197">
+        <mark key="[" line="136" column="27" />
+        <mark key="]" line="136" column="85" />
+        <mark key="^" line="136" column="85" />
+        <mark key="." line="136" column="84" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591952017266">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="7" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592200398113">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="25" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react/CountContext.ts" timestamp="1591948718645">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="7" column="6" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="5" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/postcss.config.js" timestamp="1592200261067" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592206273734">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="15" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592183492648">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="33" />
-        <mark key="." line="38" column="32" />
-        <mark key="^" line="38" column="33" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1592203865372">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="26" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592203891011">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+      </file>
+      <file name="C:/zsgg/integration-web/.eslintrc.js" timestamp="1592198752308" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592201021910">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="48" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592200819801" />
     </filemarks>
     <jumps>
       <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
@@ -290,7 +301,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sample</text>
+        <text>Sample</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4180,7 +4191,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sample</text>
+        <text>Sample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4199,30 +4210,36 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e2NhbGxBeGlvc30+Y2FsbCBkdW1teTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Y29uc3QgU2FtcGxlID0gUmVhY3QubGF6eSgoKSA9PiBpbXBvcnQoJy4vc2FtcGxlL3BhZ2UvU2FtcGxlJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
+        <text>body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text># phase 1
 ## eslint prettier
 - init</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aXMuaW5mby5jb21tT3B0aW9uTGlzdCwgb3B0ID0+IG9wdC5wb2lOYW1lID09PSAnvucvtNy46ScgJiYgb3B0LnBvdk5hbWUgPT09ICe03LjpJyk7CiAgICAgICAgLy8gICAgIGlmIChzaWRlT3B0aW9uICYmICFpc05hTihzaWRlT3B0aW9uLnZhbHVlMikpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiB7CiAgICAgICAgLy8gICAgICAgICAgICAgYVBpY2tQYWdlSWR4TGlzdDogW3NpZGVPcHRpb24udmFsdWUyXQogICAgICAgIC8vICAgICAgICAgfTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4ge307IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4475,11 +4492,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBhdGhMaXN0OiBnZXRGaWxlcyhgJHtwYXJlbnRQYXRofSR7Y3VyclBhdGh9YCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAKICAgICAgICBpc0ltYWdlKHVybDogc3RyaW5nLCBpZHg6IG51bWJlciwgcGhvdG9JbmZvTGlzdDogUGhvdG9JbmZvW10pewogICAgICAgICAgICB2YXIgaW1hZ2UgPSBuZXcgSW1hZ2UoKTsKICAgICAgICAgICAgaW1hZ2Uub25lcnJvciA9IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICBjb25zdCB1cmw6IHN0cmluZyA9IHBob3RvSW5mb0xpc3RbaWR4XS5pbWFnZVVybE9yaWdpbmFsOwogICAgICAgICAgICAgICAgJCgnLmNhcmQtd3JhcFtkYXRhLXBob3RvLW51bWJlcj0iJyArIGlkeCArICciXSAuY2FyZC10aHVtYm5haWwnKS5jc3MoJ2JhY2tncm91bmQtaW1hZ2UnLCd1cmwoIicrdXJsKyciKScpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGltYWdlLnNyYyA9IHVybDsKICAgICAgICB9CiAgICAgICAg</text>
+        <text encoding="base64">aXMuaW5mby5jb21tT3B0aW9uTGlzdCwgb3B0ID0+IG9wdC5wb2lOYW1lID09PSAnvucvtNy46ScgJiYgb3B0LnBvdk5hbWUgPT09ICe03LjpJyk7CiAgICAgICAgLy8gICAgIGlmIChzaWRlT3B0aW9uICYmICFpc05hTihzaWRlT3B0aW9uLnZhbHVlMikpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiB7CiAgICAgICAgLy8gICAgICAgICAgICAgYVBpY2tQYWdlSWR4TGlzdDogW3NpZGVPcHRpb24udmFsdWUyXQogICAgICAgIC8vICAgICAgICAgfTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4ge307IA==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -4637,46 +4654,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
