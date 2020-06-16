@@ -136,6 +136,7 @@
         <mark key="^" line="11" column="12" />
         <mark key="." line="11" column="11" />
       </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.tsx" timestamp="1592290159398" />
       <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_modal.scss" timestamp="1592278923372">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -197,11 +198,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1592286719795">
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1592289737117">
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="74" column="30" />
+        <mark key="^" line="74" column="30" />
+        <mark key="." line="74" column="29" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" timestamp="1592285402300">
         <mark key="]" line="53" column="0" />
