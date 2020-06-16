@@ -109,20 +109,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592270405669">
+      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_modal.scss" timestamp="1592278923372">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592271064799">
-        <mark key="[" line="143" column="44" />
-        <mark key="]" line="143" column="52" />
-        <mark key="^" line="143" column="52" />
-        <mark key="." line="143" column="51" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/xxx/components/SampleIndexComponent.tsx" timestamp="1592161453576">
-        <mark key="[" line="2" column="30" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592163845485">
-        <mark key="[" line="4" column="102" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="D:/Code Project/integration-web/src/xxx/pages/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592161570488">
         <mark key="[" line="16" column="24" />
@@ -137,14 +128,74 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="D:/Code Project/integration-web/src/xxx/pages/context-api/apply-context-api.tsx" timestamp="1592161495174">
-        <mark key="[" line="0" column="38" />
+      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_antd.custom.scss" timestamp="1592278901599">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/xxx/components/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1592161434616">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay.tsx" timestamp="1592279800691">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="43" />
+        <mark key="^" line="17" column="43" />
+        <mark key="." line="17" column="42" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.module.scss" timestamp="1592279134620">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" timestamp="1592281855705">
+        <mark key="[" line="69" column="44" />
+        <mark key="]" line="69" column="57" />
+        <mark key="^" line="69" column="57" />
+        <mark key="." line="69" column="56" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.module.scss" timestamp="1592278880131">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" timestamp="1592282070769">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592282123599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592279212328">
+        <mark key="[" line="131" column="40" />
+        <mark key="]" line="144" column="31" />
+        <mark key="^" line="144" column="31" />
+        <mark key="." line="144" column="30" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592163845485">
+        <mark key="[" line="4" column="102" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/service/dutch-pay/EnvQueryStringService.ts" timestamp="1592279916100">
+        <mark key="[" line="10" column="36" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_index.scss" timestamp="1592278936548">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" timestamp="1592282290732">
+        <mark key="[" line="77" column="14" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="14" />
+        <mark key="^" line="77" column="15" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.tsx" timestamp="1592279258398">
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="43" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="58" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -238,43 +289,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>Funcwion</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Funcwion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlVHJhbnNsYXRpb24gfSBmcm9tICdyZWFjdC1pMThuZXh0JzsK</text>
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsKICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgY3Vyck51bWJlciwgcHJldk51bWJlciA9IDAgfSA9IHByb3BzOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Zm9udC1mYW1pbHk6ICR6ZHMtLWZvbnQtZmFtaWx5LS10ZXh0OwogIGRpc3BsYXk6IGdyaWQ7CiAgcm93LWdhcDogJHpkcy0tYmFzZS1nYXAgKiA2OwoKICAubGFiZWx7CiAgICBmb250LWZhbWlseTogJHpkcy0tZm9udC1mYW1pbHktLXRleHQ7CiAgICBmb250LXNpemU6IDAuOHJlbTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgbWFyZ2luLWJvdHRvbTogJHpkcy0tYmFzZS1nYXA7CiAgfQoKICAubnVtYmVyIHsKICAgIGZvbnQtZmFtaWx5OiAkemRzLS1mb250LWZhbWlseS0tbnVtYmVyOwogICAgd2lkdGg6IDEwMCU7CiAgICA+IGRpdnsKICAgICAgb3BhY2l0eTogMTsKICAgIH0KICB9CgogIC5idXR0b257CiAgICB3aWR0aDogMTAwJTsKICAgIGRpc3BsYXk6IGJsb2NrOwogIH0KCiAgLnN3aXRjaCB7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgY3Vyck51bWJlciwgcHJldk51bWJlciA9IDAgfSA9IHByb3BzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vbWFyZ2luOiAwICR6ZHMtLWJhc2UtZ2FwICogMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL2dyaWQtdGVtcGxhdGUtYXJlYXM6ICIiOwo=</text>
+        <text encoding="base64">ICAgIC8vbWFyZ2luOiAwICR6ZHMtLWJhc2UtZ2FwICogMjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAkemRzLS1iYXNlLWdhcCAkemRzLS1iYXNlLWdhcCAqIDI7Cg==</text>
+        <text encoding="base64">ICAvL2dyaWQtdGVtcGxhdGUtYXJlYXM6ICIiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAkemRzLS1iYXNlLWdhcCAkemRzLS1iYXNlLWdhcCAqIDI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAkemRzLS1iYXNlLWdhcDsK</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLWNvbHVtbnM6IG1pbm1heCgzcmVtLCAxZnIpIG1pbm1heCgyLjRyZW0sIDJmcikgIG1pbi1jb250ZW50IG1pbm1heCgyLjRyZW0sIDJmcikgIG1pbm1heCgzcmVtLCAxZnIpOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAkemRzLS1iYXNlLWdhcDsK</text>
       </register>
       <register name=":" type="4">
         <text>y</text>
