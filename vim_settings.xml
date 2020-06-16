@@ -109,7 +109,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardList.tsx" timestamp="1592290159398" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendPlus.tsx" timestamp="1592302036018">
         <mark key="[" line="45" column="37" />
         <mark key="]" line="46" column="99" />
@@ -122,7 +121,7 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/dutch-pay.tsx" timestamp="1592306021947">
+      <file name="D:/Code Project/integration-web/src/pages/dutch-pay.tsx" timestamp="1592313392063">
         <mark key="[" line="47" column="37" />
         <mark key="]" line="47" column="44" />
         <mark key="^" line="47" column="44" />
@@ -140,6 +139,7 @@
         <mark key="^" line="55" column="44" />
         <mark key="." line="55" column="43" />
       </file>
+      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592313400782" />
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" timestamp="1592295782457">
         <mark key="[" line="29" column="58" />
         <mark key="]" line="29" column="58" />
