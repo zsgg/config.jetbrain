@@ -115,18 +115,18 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592161570488">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="6" column="14" />
-      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592162341749">
         <mark key="'" line="10" column="39" />
         <mark key="[" line="17" column="34" />
         <mark key="]" line="17" column="40" />
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="40" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv1/Lv1Plus.tsx" timestamp="1592283066391">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="D:/Code Project/integration-web/src/styles/dutch-pay/_antd.custom.scss" timestamp="1592278901599">
         <mark key="[" line="44" column="0" />
@@ -172,6 +172,9 @@
         <mark key="]" line="144" column="31" />
         <mark key="^" line="144" column="31" />
         <mark key="." line="144" column="30" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.tsx" timestamp="1592283939471">
+        <mark key="[" line="50" column="69" />
       </file>
       <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592163845485">
         <mark key="[" line="4" column="102" />
@@ -289,10 +292,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Funcwion</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>Funcwion</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
