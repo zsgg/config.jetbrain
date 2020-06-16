@@ -109,16 +109,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/src/xxx/pages/context-api/apply-context-api.tsx" timestamp="1592161495174">
-        <mark key="[" line="0" column="38" />
+      <file name="/Dummy.txt" timestamp="1592270405669">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592271064799">
+        <mark key="[" line="143" column="44" />
+        <mark key="]" line="143" column="52" />
+        <mark key="^" line="143" column="52" />
+        <mark key="." line="143" column="51" />
       </file>
       <file name="D:/Code Project/integration-web/src/xxx/components/SampleIndexComponent.tsx" timestamp="1592161453576">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCard.tsx" timestamp="1592163966651" />
-      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx/counter-inject-store--class-component.tsx" timestamp="1592161527959" />
-      <file name="D:/Code Project/integration-web/.stylelintrc.fix.js" timestamp="1592164520328" />
-      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx/counter--class-component.tsx" timestamp="1592161521429" />
+      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592163845485">
+        <mark key="[" line="4" column="102" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592161570488">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="6" column="14" />
+      </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592162341749">
         <mark key="'" line="10" column="39" />
         <mark key="[" line="17" column="34" />
@@ -126,22 +137,9 @@
         <mark key="." line="17" column="39" />
         <mark key="^" line="17" column="40" />
       </file>
-      <file name="/PartyCard.tsx" timestamp="1592163965203" />
-      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx-state-tree/fail--store-in-page--pass-to-component-with-inject-from-server.tsx" timestamp="1592161570488">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="6" column="14" />
+      <file name="D:/Code Project/integration-web/src/xxx/pages/context-api/apply-context-api.tsx" timestamp="1592161495174">
+        <mark key="[" line="0" column="38" />
       </file>
-      <file name="D:/Code Project/integration-web/src/xxx/pages/context-api/apply-context-api--with-provider.tsx" timestamp="1592161506653" />
-      <file name="/Dummy.txt" timestamp="1592164743982">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/xxx/pages/mobx/counter--function-component.tsx" timestamp="1592161524781" />
-      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592163845485">
-        <mark key="[" line="4" column="102" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/xxx/pages/css-in-ts/styled-component.tsx" timestamp="1592161516790" />
       <file name="D:/Code Project/integration-web/src/xxx/components/mobx-state-tree/SampleMobxStateTreeComponent.tsx" timestamp="1592161434616">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
