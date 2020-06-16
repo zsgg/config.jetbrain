@@ -109,8 +109,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592291109231">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1592291950556">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592279212328">
         <mark key="[" line="131" column="40" />
@@ -209,8 +209,11 @@
         <mark key="^" line="58" column="43" />
         <mark key="." line="58" column="42" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1592291943491">
+      <file name="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" timestamp="1592291945200">
         <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="21" />
       </file>
     </filemarks>
     <jumps>
