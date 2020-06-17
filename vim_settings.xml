@@ -180,11 +180,11 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592363203686">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="31" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592367643383">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="23" column="10" />
+        <mark key="^" line="23" column="10" />
+        <mark key="." line="23" column="9" />
       </file>
       <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/package.json" timestamp="1592359715945" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592358536518">
@@ -193,7 +193,11 @@
         <mark key="^" line="45" column="34" />
         <mark key="." line="45" column="33" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592359435278" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592367291071">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
@@ -301,7 +305,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>aaa</text>
+        <text>,</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4191,7 +4195,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
