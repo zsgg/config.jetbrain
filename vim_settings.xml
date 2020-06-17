@@ -177,11 +177,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1592400525411">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="D:/Code Project/integration-web/package.json" timestamp="1592413346247">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="39" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="5" column="38" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/_document.tsx" timestamp="1592410183672">
         <mark key="[" line="7" column="22" />
@@ -195,7 +195,7 @@
         <mark key="^" line="85" column="28" />
         <mark key="." line="85" column="27" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592410489202" />
+      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592413340655" />
       <file name="D:/Code Project/integration-web/src/public/img/logo-icon-black.svg" timestamp="1592408389900">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="23" column="0" />
@@ -209,7 +209,7 @@
         <mark key="." line="44" column="92" />
       </file>
       <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592400302661" />
-      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592411858988">
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592413329575">
         <mark key="[" line="40" column="58" />
         <mark key="]" line="40" column="69" />
         <mark key="^" line="40" column="69" />
