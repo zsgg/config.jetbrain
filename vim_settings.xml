@@ -121,7 +121,7 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="8" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/tsconfig.json" timestamp="1592372826046" />
+      <file name="C:/zsgg/integration-web/src/components/layout/MainLayout.tsx" timestamp="1592379102256" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592377175423" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592378032941">
         <mark key="[" line="14" column="0" />
@@ -143,25 +143,26 @@
         <mark key="." line="33" column="52" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/package.json" timestamp="1592377156387" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592376706214">
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="53" column="29" />
-        <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="28" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592379377064">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="6" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.stylelintrc.js" timestamp="1592375945207">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="20" column="38" />
-        <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="37" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592379009184">
+        <mark key="'" line="6" column="75" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="17" column="49" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592378238456">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="31" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592379210880">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592378063450">
+      <file name="/Dummy.txt" timestamp="1592378302673">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/_reset.scss" timestamp="1592375953397">
@@ -170,30 +171,19 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/sample1/index.tsx" timestamp="1592373837164">
-        <mark key="[" line="31" column="79" />
-        <mark key="]" line="64" column="53" />
-        <mark key="^" line="64" column="53" />
-        <mark key="." line="64" column="52" />
-      </file>
       <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/zsgg-lecture-frontend-dev-env/webpack.config.js" timestamp="1592378246925" />
+      <file name="C:/zsgg/integration-web/tsconfig.json" timestamp="1592378845104" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/README.md" timestamp="1592376993614">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592374377629">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="37" column="6" />
-        <mark key="^" line="37" column="6" />
-        <mark key="." line="37" column="5" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.dev.js" timestamp="1592374188989" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592379473345" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.dev.js" timestamp="1592379397871" />
       <file name="C:/zsgg/integration-web/src/service/EnvQueryStringService.ts" timestamp="1592378278517" />
     </filemarks>
     <jumps>
-      <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
       <jump line="46" column="19" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/data_saver.ts" />
       <jump line="186" column="12" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
       <jump line="221" column="64" filename="C:/Work/Miridih/dev-web/bizhows-web/common/thumbnail/thumbnail_card_maker.ts" />
@@ -293,12 +283,13 @@
       <jump line="18" column="24" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" />
       <jump line="43" column="13" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" />
       <jump line="15" column="34" filename="C:/zsgg/integration-web/src/styles/_variables.scss" />
+      <jump line="5" column="75" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29tbW9uLnBsdWdpbnMucHVzaChuZXcgQ2xlYW5XZWJwYWNrUGx1Z2luKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>rou</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4188,7 +4179,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>rou</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4209,10 +4200,15 @@
       <register name="0" type="2">
         <text encoding="base64">Y29tbW9uLnBsdWdpbnMucHVzaChuZXcgQ2xlYW5XZWJwYWNrUGx1Z2luKCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAicGF0aHMiOiB7CiAgICAgICAiQHNhbXBsZS8qIjogWyIuL3NyYy9zYW1wbGUvKiJdLAo=</text>
+      <register name="1" type="4">
+        <text>function (v, k) {
+        return k.toLowerCase();
+    }</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAicGF0aHMiOiB7CiAgICAgICAiQHNhbXBsZS8qIjogWyIuL3NyYy9zYW1wbGUvKiJdLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text>body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
@@ -4221,21 +4217,18 @@ html {
   height: -webkit-fill-available;
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text># phase 1
 ## eslint prettier
 - init</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
@@ -4489,11 +4482,11 @@ html {
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="y" type="4">
         <keys>
