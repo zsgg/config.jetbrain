@@ -129,12 +129,6 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592372693427">
-        <mark key="[" line="15" column="41" />
-        <mark key="]" line="28" column="10" />
-        <mark key="^" line="28" column="10" />
-        <mark key="." line="28" column="9" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.prod.js" timestamp="1592376887985" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/util/README.md" timestamp="1592376677384">
         <mark key="[" line="0" column="0" />
@@ -196,6 +190,7 @@
         <mark key="." line="37" column="5" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.dev.js" timestamp="1592374188989" />
+      <file name="C:/zsgg/integration-web/src/service/EnvQueryStringService.ts" timestamp="1592378278517" />
     </filemarks>
     <jumps>
       <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
