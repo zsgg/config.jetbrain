@@ -119,8 +119,11 @@
         <mark key="." line="17" column="49" />
       </file>
       <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/zsgg-lecture-frontend-dev-env/webpack.config.js" timestamp="1592378246925" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/.gitignore" timestamp="1592380425321">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/.gitignore" timestamp="1592380427613">
         <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.gitignore" timestamp="1592380419998">
         <mark key="[" line="2" column="12" />
@@ -156,7 +159,7 @@
         <mark key="^" line="15" column="4" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592379539971">
+      <file name="/Dummy.txt" timestamp="1592380435901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/zsgg/integration-web/tsconfig.json" timestamp="1592378845104" />
