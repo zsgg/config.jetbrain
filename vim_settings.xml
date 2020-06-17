@@ -115,7 +115,7 @@
         <mark key="^" line="2" column="59" />
         <mark key="." line="2" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592212429652">
+      <file name="/Dummy.txt" timestamp="1592358315537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592200398113">
@@ -171,11 +171,11 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592209946008">
         <mark key="[" line="8" column="13" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592211022978">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="30" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592358437530">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.storybook/config.js" timestamp="1592201160597">
         <mark key="[" line="2" column="57" />
@@ -183,11 +183,11 @@
         <mark key="^" line="2" column="61" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592355772409">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="36" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592358536518">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="45" column="34" />
+        <mark key="^" line="45" column="34" />
+        <mark key="." line="45" column="33" />
       </file>
     </filemarks>
     <jumps>
