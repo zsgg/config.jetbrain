@@ -109,53 +109,85 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/babel.config.js" timestamp="1592372188420" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/FailBack.tsx" timestamp="1592376432662">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="22" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/README.md" timestamp="1592376663166">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="8" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/tsconfig.json" timestamp="1592372826046" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592374003004" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.common.js" timestamp="1592372534660" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592377175423" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592378032941">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592372693427">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="28" column="10" />
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592372461226">
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="32" column="6" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="5" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.prod.js" timestamp="1592376887985" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/util/README.md" timestamp="1592376677384">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="2" />
       </file>
-      <file name="C:/zsgg/integration-web/src/pages/_document.tsx" timestamp="1592365541661">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="16" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592378040343">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="53" />
+        <mark key="^" line="33" column="53" />
+        <mark key="." line="33" column="52" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/package.json" timestamp="1592372179028" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.shared.config.js" timestamp="1592371378800" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592372833570">
-        <mark key="[" line="8" column="21" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/package.json" timestamp="1592377156387" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592376706214">
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="28" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592374860189">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="4" column="26" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.stylelintrc.js" timestamp="1592375945207">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592374382020">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592378238456">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592378063450">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/_reset.scss" timestamp="1592374915062">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/_reset.scss" timestamp="1592375953397">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/sample1/index.tsx" timestamp="1592373837164">
         <mark key="[" line="31" column="79" />
         <mark key="]" line="64" column="53" />
         <mark key="^" line="64" column="53" />
         <mark key="." line="64" column="52" />
+      </file>
+      <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/zsgg-lecture-frontend-dev-env/webpack.config.js" timestamp="1592378246925" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/README.md" timestamp="1592376993614">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592374377629">
         <mark key="[" line="24" column="39" />
@@ -164,11 +196,6 @@
         <mark key="." line="37" column="5" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.dev.js" timestamp="1592374188989" />
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592367291071">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
@@ -275,8 +302,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>black</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29tbW9uLnBsdWdpbnMucHVzaChuZXcgQ2xlYW5XZWJwYWNrUGx1Z2luKCkpOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4166,7 +4193,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4185,9 +4212,12 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldDogJ2h0dHA6Ly9sZGV2LXd3dy5iaXpob3dzLmNvbScsCiAgICAgICAgICAgICAgICBjaGFuZ2VPcmlnaW46IHRydWUsCg==</text>
+        <text encoding="base64">Y29tbW9uLnBsdWdpbnMucHVzaChuZXcgQ2xlYW5XZWJwYWNrUGx1Z2luKCkpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAicGF0aHMiOiB7CiAgICAgICAiQHNhbXBsZS8qIjogWyIuL3NyYy9zYW1wbGUvKiJdLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text>body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
@@ -4196,25 +4226,22 @@ html {
   height: -webkit-fill-available;
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text># phase 1
 ## eslint prettier
 - init</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4467,11 +4494,11 @@ html {
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aXMuaW5mby5jb21tT3B0aW9uTGlzdCwgb3B0ID0+IG9wdC5wb2lOYW1lID09PSAnvucvtNy46ScgJiYgb3B0LnBvdk5hbWUgPT09ICe03LjpJyk7CiAgICAgICAgLy8gICAgIGlmIChzaWRlT3B0aW9uICYmICFpc05hTihzaWRlT3B0aW9uLnZhbHVlMikpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiB7CiAgICAgICAgLy8gICAgICAgICAgICAgYVBpY2tQYWdlSWR4TGlzdDogW3NpZGVPcHRpb24udmFsdWUyXQogICAgICAgIC8vICAgICAgICAgfTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4ge307IA==</text>
+        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
       </register>
       <register name="y" type="4">
         <keys>
