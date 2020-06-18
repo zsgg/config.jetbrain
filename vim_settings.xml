@@ -115,15 +115,12 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592384680154" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592379009184">
-        <mark key="'" line="6" column="75" />
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="17" column="50" />
-        <mark key="." line="17" column="49" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592385666269">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="31" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592382128643" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/.gitignore" timestamp="1592380427613">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -136,14 +133,28 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592379538592" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.dev.js" timestamp="1592379397871" />
-      <file name="C:/zsgg/integration-web/src/components/layout/MainLayout.tsx" timestamp="1592379102256" />
+      <file name="/" timestamp="1592457185302">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592386472364">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="34" />
         <mark key="^" line="18" column="34" />
         <mark key="." line="18" column="33" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/about/FailBack.tsx" timestamp="1592382208810">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="2" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/common/go_to_cart_layer.ts" timestamp="1592458196899">
+        <mark key="[" line="296" column="4" />
+        <mark key="]" line="296" column="4" />
+        <mark key="." line="296" column="4" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/tsconfig.json" timestamp="1592457154833">
+        <mark key="[" line="6" column="1" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592379377064">
         <mark key="[" line="8" column="29" />
@@ -151,30 +162,25 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592379009184">
+        <mark key="'" line="6" column="75" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="17" column="49" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/v/about/FailBack.tsx" timestamp="1592382850043">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="21" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" timestamp="1592457889275" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592386135278">
         <mark key="[" line="72" column="28" />
         <mark key="]" line="69" column="38" />
         <mark key="^" line="69" column="38" />
         <mark key="." line="69" column="37" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592385666269">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="31" />
-      </file>
-      <file name="C:/zsgg/integration-web/tsconfig.json" timestamp="1592378845104" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/about/FailBack.tsx" timestamp="1592382208810">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="4" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -283,7 +289,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ts</text>
+        <text>}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4173,7 +4179,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ts</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
