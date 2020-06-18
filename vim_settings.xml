@@ -115,21 +115,8 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/AAa.ts" timestamp="1592406478934">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="1" />
-      </file>
       <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592415768325">
         <mark key="[" line="39" column="31" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/party/PartyCardModal.tsx" timestamp="1592323008694">
-        <mark key="'" line="77" column="49" />
-        <mark key="[" line="8" column="117" />
-        <mark key="]" line="8" column="117" />
-        <mark key="^" line="8" column="124" />
-        <mark key="." line="8" column="117" />
       </file>
       <file name="D:/Code Project/integration-web/package.json" timestamp="1592415347553">
         <mark key="[" line="5" column="24" />
@@ -137,15 +124,38 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592415423724" />
-      <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592465727877" />
-      <file name="D:/Code Project/integration-web/src/public/locate/en.common.json" timestamp="1592411257788">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="54" />
-        <mark key="^" line="5" column="55" />
+      <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendCardModal.tsx" timestamp="1592469408087">
+        <mark key="[" line="178" column="30" />
+        <mark key="]" line="178" column="59" />
+        <mark key="^" line="178" column="59" />
+        <mark key="." line="178" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592466615598">
+      <file name="D:/Code Project/integration-web/src/i18n/I18nNextConfig.ts" timestamp="1592469707256">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="43" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592415423724" />
+      <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592468568803">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="39" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="39" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/locate/ch.common.json" timestamp="1592469155472">
+        <mark key="[" line="39" column="3" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/locate/en.common.json" timestamp="1592469314984">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592469470015">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/AAa.tsx" timestamp="1592406509469">
@@ -154,10 +164,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="D:/Code Project/integration-web/src/public/locate/ko.common.json" timestamp="1592411184076">
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="30" />
+      <file name="D:/Code Project/integration-web/src/public/locate/ko.common.json" timestamp="1592469331792">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="22" />
       </file>
       <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592466810868" />
       <file name="D:/Code Project/integration-web/src/components/lv3/party/PartyCard.tsx" timestamp="1592410788792">
@@ -172,10 +183,14 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="D:/Code Project/integration-web/src/service/Analytics.ts" timestamp="1592325795724">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendPlus.tsx" timestamp="1592469410601">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/locate/jp.common.json" timestamp="1592468272433">
+        <mark key="[" line="1" column="17" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/_document.tsx" timestamp="1592466236917">
         <mark key="[" line="7" column="65" />
@@ -183,20 +198,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/party/PartyPlus.tsx" timestamp="1592319866696">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="85" column="28" />
-        <mark key="^" line="85" column="28" />
-        <mark key="." line="85" column="27" />
-      </file>
       <file name="D:/Code Project/integration-web/src/public/img/logo-icon-black.svg" timestamp="1592408389900">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="23" column="0" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592466362431">
-        <mark key="[" line="52" column="1" />
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592468483209">
         <mark key="]" line="54" column="4" />
         <mark key="^" line="55" column="39" />
         <mark key="." line="54" column="4" />
@@ -295,10 +303,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getInitialProps</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>getInitialProps</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
