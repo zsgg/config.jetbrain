@@ -20,7 +20,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -109,92 +109,75 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-react--case1/CountContextConsumer.tsx" timestamp="1591952236722">
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/FailBack.tsx" timestamp="1592383101232">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="41" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/atom/README.md" timestamp="1592203377394">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-        <mark key="." line="10" column="41" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592384680154" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592379009184">
+        <mark key="'" line="6" column="75" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="17" column="50" />
+        <mark key="^" line="17" column="50" />
+        <mark key="." line="17" column="49" />
       </file>
-      <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" timestamp="1592192070092" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1592200280816">
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="43" column="47" />
-        <mark key="^" line="43" column="47" />
-        <mark key="." line="43" column="46" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592382128643" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/.gitignore" timestamp="1592380427613">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/zsgg/integration-web/src/service/dutch-pay/ReportCalculator.ts" timestamp="1592191507497">
-        <mark key="[" line="100" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.gitignore" timestamp="1592380419998">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="16" />
       </file>
-      <file name="C:/zsgg/integration-web/.prettierrc" timestamp="1592198698832">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="10" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592379538592" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/help_design/webpack.config.dev.js" timestamp="1592379397871" />
+      <file name="C:/zsgg/integration-web/src/components/layout/MainLayout.tsx" timestamp="1592379102256" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592386472364">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="33" />
       </file>
-      <file name="C:/zsgg/integration-web/src/styles/global.scss" timestamp="1592192233439">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592379377064">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="6" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CountStore.ts" timestamp="1591952017266">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="7" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/v/about/FailBack.tsx" timestamp="1592382850043">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="21" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.storybook/config.js" timestamp="1592201160597">
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="61" />
-        <mark key="^" line="2" column="61" />
-        <mark key="." line="2" column="60" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592386135278">
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="69" column="38" />
+        <mark key="^" line="69" column="38" />
+        <mark key="." line="69" column="37" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/component/mobx-state-tree--case1/CounterStoreConsumer.tsx" timestamp="1591952020879">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="26" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592385666269">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+        <mark key="." line="20" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592201181944">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/zsgg/integration-web/tsconfig.json" timestamp="1592378845104" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/about/FailBack.tsx" timestamp="1592382208810">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="2" />
       </file>
-      <file name="C:/zsgg/integration-web/src/components/dutch-pay/lv3/friend/FriendCardModal.tsx" timestamp="1592193593197">
-        <mark key="[" line="136" column="27" />
-        <mark key="]" line="136" column="85" />
-        <mark key="^" line="136" column="85" />
-        <mark key="." line="136" column="84" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592200398113">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/postcss.config.js" timestamp="1592200261067" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/sample/page/Sample.tsx" timestamp="1591952740510">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="27" />
-        <mark key="^" line="29" column="27" />
-        <mark key="." line="29" column="26" />
-      </file>
-      <file name="/" timestamp="1592190967478">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/zsgg/integration-web/.eslintrc.js" timestamp="1592198752308" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.js" timestamp="1592201021910">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="49" />
-        <mark key="^" line="13" column="49" />
-        <mark key="." line="13" column="48" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592200819801" />
     </filemarks>
     <jumps>
-      <jump line="146" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
       <jump line="46" column="19" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/data_saver.ts" />
       <jump line="186" column="12" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
       <jump line="221" column="64" filename="C:/Work/Miridih/dev-web/bizhows-web/common/thumbnail/thumbnail_card_maker.ts" />
@@ -294,12 +277,13 @@
       <jump line="18" column="24" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" />
       <jump line="43" column="13" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" />
       <jump line="15" column="34" filename="C:/zsgg/integration-web/src/styles/_variables.scss" />
+      <jump line="5" column="75" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>ts</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4189,7 +4173,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDy43sW4XD4=</text>
@@ -4208,9 +4192,17 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJy9zZXJ2bGV0JzogJ2h0dHA6Ly9kZXYuYml6aG93cy5jb20nLAo=</text>
+        <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhcHAnKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>function (v, k) {
+        return k.toLowerCase();
+    }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAicGF0aHMiOiB7CiAgICAgICAiQHNhbXBsZS8qIjogWyIuL3NyYy9zYW1wbGUvKiJdLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text>body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
@@ -4219,25 +4211,19 @@ html {
   height: -webkit-fill-available;
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text># phase 1
 ## eslint prettier
 - init</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4491,10 +4477,10 @@ html {
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICBpbXBvcnQgRGF0YVNldCA9IE15RGVzaWduQ3VzdG9tTGlzdC5NeURlc2lnbkN1c3RvbUxpc3RBcGkuRGF0YVNldDs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aXMuaW5mby5jb21tT3B0aW9uTGlzdCwgb3B0ID0+IG9wdC5wb2lOYW1lID09PSAnvucvtNy46ScgJiYgb3B0LnBvdk5hbWUgPT09ICe03LjpJyk7CiAgICAgICAgLy8gICAgIGlmIChzaWRlT3B0aW9uICYmICFpc05hTihzaWRlT3B0aW9uLnZhbHVlMikpIHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiB7CiAgICAgICAgLy8gICAgICAgICAgICAgYVBpY2tQYWdlSWR4TGlzdDogW3NpZGVPcHRpb24udmFsdWUyXQogICAgICAgIC8vICAgICAgICAgfTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4ge307IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
       </register>
       <register name="y" type="4">
         <keys>
