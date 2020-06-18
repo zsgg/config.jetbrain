@@ -138,21 +138,15 @@
         <mark key="." line="5" column="38" />
       </file>
       <file name="D:/Code Project/integration-web/src/pages/index.tsx" timestamp="1592415423724" />
-      <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592400302661" />
+      <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592465727877" />
       <file name="D:/Code Project/integration-web/src/public/locate/en.common.json" timestamp="1592411257788">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="55" />
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="55" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/display/report/DisplayReportModal.tsx" timestamp="1592319590265">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="56" column="0" />
-        <mark key="." line="55" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592411678939">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1592466615598">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/AAa.tsx" timestamp="1592406509469">
         <mark key="[" line="0" column="20" />
@@ -165,6 +159,7 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="37" column="30" />
       </file>
+      <file name="D:/Code Project/integration-web/src/styles/global.scss" timestamp="1592466810868" />
       <file name="D:/Code Project/integration-web/src/components/lv3/party/PartyCard.tsx" timestamp="1592410788792">
         <mark key="[" line="44" column="66" />
         <mark key="]" line="44" column="66" />
@@ -182,11 +177,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/_document.tsx" timestamp="1592410183672">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="22" />
+      <file name="D:/Code Project/integration-web/src/pages/_document.tsx" timestamp="1592466236917">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/lv3/party/PartyPlus.tsx" timestamp="1592319866696">
         <mark key="[" line="20" column="28" />
@@ -200,11 +195,11 @@
         <mark key="^" line="23" column="0" />
         <mark key="." line="22" column="6" />
       </file>
-      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592416055133">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="25" column="32" />
-        <mark key="^" line="25" column="32" />
-        <mark key="." line="25" column="31" />
+      <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592466362431">
+        <mark key="[" line="52" column="1" />
+        <mark key="]" line="54" column="4" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="54" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -300,16 +295,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>keywords</text>
+        <text>getInitialProps</text>
       </register>
       <register name="-" type="4">
-        <text>keywords</text>
+        <text>getInitialProps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIjogIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIsCg==</text>
+        <text encoding="base64">aW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJzsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Zm9udC1mYW1pbHk6ICR6ZHMtLWZvbnQtZmFtaWx5LS10ZXh0OwogIGRpc3BsYXk6IGdyaWQ7CiAgcm93LWdhcDogJHpkcy0tYmFzZS1nYXAgKiA2OwoKICAubGFiZWx7CiAgICBmb250LWZhbWlseTogJHpkcy0tZm9udC1mYW1pbHktLXRleHQ7CiAgICBmb250LXNpemU6IDAuOHJlbTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgbWFyZ2luLWJvdHRvbTogJHpkcy0tYmFzZS1nYXA7CiAgfQoKICAubnVtYmVyIHsKICAgIGZvbnQtZmFtaWx5OiAkemRzLS1mb250LWZhbWlseS0tbnVtYmVyOwogICAgd2lkdGg6IDEwMCU7CiAgICA+IGRpdnsKICAgICAgb3BhY2l0eTogMTsKICAgIH0KICB9CgogIC5idXR0b257CiAgICB3aWR0aDogMTAwJTsKICAgIGRpc3BsYXk6IGJsb2NrOwogIH0KCiAgLnN3aXRjaCB7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
