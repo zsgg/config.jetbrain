@@ -114,24 +114,26 @@
         <mark key="[" line="2" column="65" />
       </file>
       <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.common.js" timestamp="1592550056966" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592551753315">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="33" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592553365821">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
         <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="32" />
+        <mark key="." line="7" column="31" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592552260522">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="12" />
-        <mark key="^" line="13" column="13" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592552292320">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="39" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/dist/loader.js" timestamp="1592553619139" />
       <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.prod.js" timestamp="1592550191255" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592551931268">
         <mark key="[" line="14" column="14" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592551194306">
-        <mark key="^" line="49" column="40" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592553521711">
+        <mark key="[" line="22" column="36" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592549549608">
         <mark key="[" line="31" column="4" />
@@ -148,7 +150,7 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592549628320">
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592552051333">
+      <file name="/Dummy.txt" timestamp="1592553576926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
@@ -158,12 +160,6 @@
         <mark key="." line="7" column="19" />
       </file>
       <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/loader.ts" timestamp="1592551446936" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.gitignore" timestamp="1592549501992">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592550246056">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="8" column="44" />
@@ -281,7 +277,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4171,7 +4167,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
