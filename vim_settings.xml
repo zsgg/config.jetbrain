@@ -4658,6 +4658,9 @@ html {
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
     <notifications>
