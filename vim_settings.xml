@@ -6,6 +6,7 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxvdmVyZmxvd1lcPg==</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -109,79 +110,64 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/FailBack.tsx" timestamp="1592383101232">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="41" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/loader.ts" timestamp="1592552044476">
+        <mark key="[" line="2" column="65" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592385666269">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="32" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="20" column="31" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.common.js" timestamp="1592550056966" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592553365821">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="27" column="33" />
+        <mark key="." line="7" column="31" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/.gitignore" timestamp="1592380427613">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592552292320">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.gitignore" timestamp="1592380419998">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="16" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/dist/loader.js" timestamp="1592553619139" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.prod.js" timestamp="1592550191255" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592551931268">
+        <mark key="[" line="14" column="14" />
       </file>
-      <file name="/" timestamp="1592457185302">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592553521711">
+        <mark key="[" line="22" column="36" />
+        <mark key="^" line="43" column="40" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592549574784">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592559555803">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592553668253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592386472364">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="34" />
-        <mark key="^" line="18" column="34" />
-        <mark key="." line="18" column="33" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/about/FailBack.tsx" timestamp="1592382208810">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="4" column="2" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/loader.ts" timestamp="1592551446936" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/README.md" timestamp="1592558675147" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592550246056">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+        <mark key="." line="8" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/common/go_to_cart_layer.ts" timestamp="1592458196899">
-        <mark key="[" line="296" column="4" />
-        <mark key="]" line="296" column="4" />
-        <mark key="." line="296" column="4" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/tsconfig.json" timestamp="1592457154833">
-        <mark key="[" line="6" column="1" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592379377064">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="6" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592379009184">
-        <mark key="'" line="6" column="75" />
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="17" column="50" />
-        <mark key="^" line="17" column="50" />
-        <mark key="." line="17" column="49" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/v/about/FailBack.tsx" timestamp="1592382850043">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" timestamp="1592457889275" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592386135278">
-        <mark key="[" line="72" column="28" />
-        <mark key="]" line="69" column="38" />
-        <mark key="^" line="69" column="38" />
-        <mark key="." line="69" column="37" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/smilecat_editor/webpack.common.js" timestamp="1592550108003" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/tsconfig.json" timestamp="1592551458541" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/package.json" timestamp="1592551521366" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592550305409" />
     </filemarks>
     <jumps>
       <jump line="46" column="19" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/data_saver.ts" />
@@ -289,7 +275,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4179,10 +4165,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDy43sW4XD4=</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="o" type="4">
         <keys>
@@ -4200,15 +4186,24 @@
       <register name="0" type="2">
         <text encoding="base64">UmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhcHAnKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Jy4uLy4uLycK</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVz</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQyID0gdXNlQ29udGV4dChDT1VOVCkK</text>
+      </register>
+      <register name="4" type="4">
         <text>function (v, k) {
         return k.toLowerCase();
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAicGF0aHMiOiB7CiAgICAgICAiQHNhbXBsZS8qIjogWyIuL3NyYy9zYW1wbGUvKiJdLAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text>body {
   min-height: 100vh;
   min-height: -webkit-fill-available;
@@ -4216,17 +4211,6 @@
 html {
   height: -webkit-fill-available;
 }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text># phase 1
-## eslint prettier
-- init</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -4482,11 +4466,13 @@ html {
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJAc3Rvcnlib29rL2FkZG9uLWFjdGlvbnMiOiAiXjUuMy4xOSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU3R5bGVkRGl2ID0gc3R5bGVkLmRpdmAKICAgIGJhY2tncm91bmQ6IHllbGxvdzsK</text>
+        <text># phase 1
+## eslint prettier
+- init</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -4634,9 +4620,9 @@ html {
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDy43sW4XD4=</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDy43sW4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDy43sW4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -4644,40 +4630,7 @@ html {
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
