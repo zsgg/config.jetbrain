@@ -110,8 +110,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592785808243">
-        <mark key="[" line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1592787008778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/loader.ts" timestamp="1592552044476">
         <mark key="[" line="2" column="65" />
@@ -125,14 +125,7 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592553365821">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="31" />
-        <mark key="^" line="27" column="33" />
         <mark key="." line="7" column="31" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592552292320">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="38" />
-        <mark key="^" line="27" column="39" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592551931268">
         <mark key="[" line="14" column="14" />
@@ -146,12 +139,6 @@
         <mark key="]" line="8" column="44" />
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="43" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592549574784">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps>
