@@ -110,10 +110,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1592785808243">
+        <mark key="[" line="0" column="26" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/loader.ts" timestamp="1592552044476">
         <mark key="[" line="2" column="65" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.common.js" timestamp="1592550056966" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="19" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592553365821">
         <mark key="[" line="7" column="31" />
         <mark key="]" line="7" column="31" />
@@ -126,8 +134,6 @@
         <mark key="." line="27" column="38" />
         <mark key="^" line="27" column="39" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/dist/loader.js" timestamp="1592553619139" />
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.prod.js" timestamp="1592550191255" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592551931268">
         <mark key="[" line="14" column="14" />
       </file>
@@ -135,39 +141,18 @@
         <mark key="[" line="22" column="36" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592549574784">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592559555803">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592553668253">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/loader.ts" timestamp="1592551446936" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/README.md" timestamp="1592558675147" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592550246056">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="8" column="44" />
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/smilecat_editor/webpack.common.js" timestamp="1592550108003" />
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/tsconfig.json" timestamp="1592551458541" />
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/package.json" timestamp="1592551521366" />
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/webpack.config.dev.js" timestamp="1592550305409" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592549574784">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="46" column="19" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/data_saver.ts" />
