@@ -130,10 +130,22 @@
         <mark key="[" line="22" column="36" />
         <mark key="^" line="43" column="40" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileShow.tsx" timestamp="1592808357580">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="25" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/tsconfig.json" timestamp="1592789429703">
         <mark key="[" line="59" column="37" />
         <mark key="]" line="59" column="37" />
         <mark key="." line="59" column="37" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/DesktopShow.tsx" timestamp="1592808297839">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592791211983">
         <mark key="[" line="13" column="25" />
@@ -150,17 +162,17 @@
       <file name="/Dummy.txt" timestamp="1592805922668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="19" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/README.md" timestamp="1592789261080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="70" />
         <mark key="^" line="0" column="71" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592808383353">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/Index.tsx" timestamp="1592789531457">
         <mark key="[" line="3" column="0" />
@@ -287,7 +299,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>n</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4177,7 +4189,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
