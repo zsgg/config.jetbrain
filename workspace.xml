@@ -1,12 +1,5 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="TypeScript.ts.chain.hints" />
-        <option value="TypeScript.ts.enum.hints" />
-        <option value="TypeScript.ts.type.hints" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="ts.chain.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
 </application>
