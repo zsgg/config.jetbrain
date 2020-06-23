@@ -141,8 +141,11 @@
       <file name="/a.dummy" timestamp="1582361351819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592895367193">
+      <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592895374116">
         <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="26" />
       </file>
       <file name="D:/Code Project/integration-api/Dockerfile" timestamp="1578000801581">
         <mark key="[" line="10" column="20" />
