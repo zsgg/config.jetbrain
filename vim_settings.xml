@@ -126,6 +126,9 @@
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1592915954650">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Code Study/algo-logic-test/src/main/java/BBB.java" timestamp="1582361146527">
         <mark key="[" line="14" column="47" />
         <mark key="]" line="14" column="48" />
@@ -135,7 +138,7 @@
       <file name="/a.dummy" timestamp="1582361351819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592913241907">
+      <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592915976956">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
@@ -146,13 +149,6 @@
         <mark key="]" line="10" column="20" />
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
-      </file>
-      <file name="D:/Code Study/algo-logic-test/src/test/java/test/kakao/Test3.java" timestamp="1570970199836">
-        <mark key="'" line="90" column="48" />
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="33" />
-        <mark key="^" line="70" column="33" />
-        <mark key="." line="70" column="33" />
       </file>
       <file name="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleServer.java" timestamp="1582361434491">
         <mark key="'" line="70" column="17" />
@@ -200,16 +196,16 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="D:/Code Project/dutch-pay--native/android/settings.gradle" timestamp="1592914277953">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="2" column="54" />
+      <file name="D:/Code Project/dutch-pay--native/android/settings.gradle" timestamp="1592915557335">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
         <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="53" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="D:/Code Study/algo-logic-test/build.gradle" timestamp="1578500368139">
         <mark key="[" line="22" column="103" />
       </file>
-      <file name="/fragment.java" timestamp="1592913583287">
+      <file name="/fragment.java" timestamp="1592915314244">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -235,7 +231,7 @@
         <text encoding="base64">ICAgIMPiw7M6IGh0dHBzOi8vaHVuaXQudGlzdG9yeS5jb20vMjU2IFtBcmEgQmxvZ10gCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgogICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>@</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobmFtZSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICA=</text>
@@ -247,7 +243,7 @@
         <text>reg</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
