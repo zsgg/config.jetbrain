@@ -1,6 +1,24 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>ls</entry>
+        <entry>r</entry>
+        <entry>wq</entry>
+        <entry>reg help</entry>
+        <entry>reg</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -93,7 +111,157 @@
         <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Code Study/algo-logic-test/src/main/java/AAA.java" timestamp="1582361178645">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+      </file>
+      <file name="D:/Code Project/integration-api/package.json" timestamp="1578001246489">
+        <mark key="'" line="5" column="3" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/main/java/BBB.java" timestamp="1582361146527">
+        <mark key="[" line="14" column="47" />
+        <mark key="]" line="14" column="48" />
+        <mark key="." line="14" column="48" />
+        <mark key="^" line="42" column="8" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/kakao/package-info.java" timestamp="1570963177296">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+      </file>
+      <file name="/a.dummy" timestamp="1582361351819">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592895367193">
+        <mark key="[" line="1" column="11" />
+      </file>
+      <file name="D:/Code Project/integration-api/Dockerfile" timestamp="1578000801581">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/kakao/Test2.java" timestamp="1570966781707">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="42" column="38" />
+        <mark key="^" line="42" column="38" />
+        <mark key="." line="42" column="38" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/kakao/Test3.java" timestamp="1570970199836">
+        <mark key="'" line="90" column="48" />
+        <mark key="[" line="70" column="33" />
+        <mark key="]" line="70" column="33" />
+        <mark key="^" line="70" column="33" />
+        <mark key="." line="70" column="33" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleServer.java" timestamp="1582361434491">
+        <mark key="'" line="70" column="17" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/main/java/socket/Server.java" timestamp="1582361309799">
+        <mark key="[" line="2" column="21" />
+      </file>
+      <file name="D:/Code Project/MyApp/tsconfig.json" timestamp="1592894208733">
+        <mark key="[" line="11" column="22" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/aaa.java" timestamp="1578499477998">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/kakao/Test1.java" timestamp="1578499973858">
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="49" column="12" />
+        <mark key="^" line="49" column="12" />
+        <mark key="." line="49" column="12" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/main/java/socket/Client.java" timestamp="1582361269787">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/test/java/test/AAA.java" timestamp="1578500075338">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="32" column="34" />
+        <mark key="^" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleClient.java" timestamp="1582361495515">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+      </file>
+      <file name="D:/Code Study/algo-logic-test/build.gradle" timestamp="1578500368139">
+        <mark key="[" line="22" column="103" />
+      </file>
+      <file name="/fragment.java" timestamp="1570966872597">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="0" filename="D:/Wiki/zsgg.github.io/note/_draft/learning--시스코 네트워킹.md" />
+      <jump line="77" column="34" filename="D:/Wiki/zsgg.github.io/note/_draft/learning--시스코 네트워킹.md" />
+      <jump line="140" column="0" filename="D:/Wiki/zsgg.github.io/note/learning/learning--시스코 네트워킹.md" />
+      <jump line="138" column="36" filename="D:/Wiki/zsgg.github.io/@script/tistory/global.scss" />
+      <jump line="109" column="0" filename="D:/Wiki/zsgg.github.io/note/_xxx/test.md" />
+      <jump line="71" column="48" filename="D:/Code Study/algo-logic-test/src/test/java/test/kakao/Test3.java" />
+      <jump line="5" column="3" filename="D:/Code Project/integration-api/package.json" />
+      <jump line="56" column="0" filename="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleClient.java" />
+      <jump line="57" column="0" filename="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleClient.java" />
+      <jump line="70" column="17" filename="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleServer.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5hYnMoc3RhcnQgLSBudW1iZXJzW2ogLSAxXSkpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIMPiw7M6IGh0dHBzOi8vaHVuaXQudGlzdG9yeS5jb20vMjU2IFtBcmEgQmxvZ10gCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgogICAgfQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobmFtZSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Q09QWSBwYWNrYWdlKi5qc29uIC4vCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>reg</text>
+      </register>
+      <register name="-" type="4">
+        <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxuYW1lXD4=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
