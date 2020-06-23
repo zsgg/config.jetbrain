@@ -109,62 +109,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code Project/integration-web/src/public/locate/en.common.json" timestamp="1592469314984">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592469885377">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/locate/ko.common.json" timestamp="1592469331792">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="40" column="22" />
-        <mark key="." line="40" column="21" />
-        <mark key="^" line="40" column="22" />
-      </file>
-      <file name="D:/Code Project/integration-web/.eslintrc.js" timestamp="1592415768325">
-        <mark key="[" line="39" column="31" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/party/PartyCard.tsx" timestamp="1592410788792">
-        <mark key="[" line="44" column="66" />
-        <mark key="]" line="44" column="66" />
-        <mark key="^" line="44" column="66" />
-        <mark key="." line="44" column="65" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/header/Header.module.scss" timestamp="1592408355057">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="16" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendPlus.tsx" timestamp="1592469410601">
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="D:/Code Project/integration-web/package.json" timestamp="1592415347553">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="38" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/locate/jp.common.json" timestamp="1592468272433">
-        <mark key="[" line="1" column="17" />
-      </file>
-      <file name="D:/Code Project/samplern/package.json" timestamp="1592892666482">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="53" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/pages/_document.tsx" timestamp="1592466236917">
-        <mark key="[" line="7" column="65" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="D:/Code Project/dutch-pay--web/src/components/lv3/display/report/DisplayReportModal.tsx" timestamp="1592917179564">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendCardModal.tsx" timestamp="1592469408087">
         <mark key="[" line="178" column="30" />
@@ -177,12 +126,6 @@
         <mark key="]" line="21" column="44" />
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="43" />
-      </file>
-      <file name="D:/Code Project/integration-web/src/public/img/logo-icon-black.svg" timestamp="1592408389900">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="22" column="6" />
       </file>
       <file name="D:/Code Project/integration-web/src/service/LanguageDetector.ts" timestamp="1592468568803">
         <mark key="[" line="5" column="37" />
@@ -197,6 +140,51 @@
         <mark key="^" line="40" column="0" />
       </file>
       <file name="D:/Code Project/dutch-pay--web/.eslintrc.js" timestamp="1592913036609" />
+      <file name="D:/Code Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1592916826080" />
+      <file name="D:/Code Project/integration-web/src/public/locate/en.common.json" timestamp="1592469314984">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="D:/Code Project/dutch-pay--web/src/components/lv3/friend/FriendCardModal.tsx" timestamp="1592916643545" />
+      <file name="/Dummy.txt" timestamp="1592917329345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/locate/ko.common.json" timestamp="1592469331792">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="21" />
+        <mark key="^" line="40" column="22" />
+      </file>
+      <file name="D:/Code Project/dutch-pay--web/src/public/locate/ko.common.json" timestamp="1592917327030">
+        <mark key="[" line="34" column="44" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="35" />
+        <mark key="^" line="39" column="36" />
+      </file>
+      <file name="D:/Code Project/dutch-pay--web/src/public/locate/ch.common.json" timestamp="1592917281025">
+        <mark key="[" line="34" column="49" />
+      </file>
+      <file name="D:/Code Project/dutch-pay--web/src/stores/RootStore.ts" timestamp="1592916835842" />
+      <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendPlus.tsx" timestamp="1592469410601">
+        <mark key="[" line="40" column="36" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/Code Project/integration-web/src/public/locate/jp.common.json" timestamp="1592468272433">
+        <mark key="[" line="1" column="17" />
+      </file>
+      <file name="D:/Code Project/samplern/package.json" timestamp="1592892666482">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="18" column="54" />
+        <mark key="^" line="18" column="54" />
+        <mark key="." line="18" column="53" />
+      </file>
+      <file name="D:/Code Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1592917297184">
+        <mark key="[" line="35" column="48" />
+      </file>
       <file name="D:/Code Project/integration-web/src/pages/_app.tsx" timestamp="1592468483209">
         <mark key="]" line="54" column="4" />
         <mark key="^" line="55" column="39" />
@@ -296,10 +284,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
