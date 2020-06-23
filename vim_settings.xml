@@ -110,22 +110,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.tsx" timestamp="1592816616444">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="53" />
-        <mark key="." line="10" column="52" />
-        <mark key="^" line="10" column="53" />
+      <file name="/Dummy.txt" timestamp="1592805922668">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.prod.js" timestamp="1592791435498">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.tsx" timestamp="1592874933025">
+        <mark key="'" line="21" column="15" />
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="14" />
+        <mark key="^" line="13" column="15" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.module.scss" timestamp="1592816618463">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1592816299499">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="31" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/_App.scss" timestamp="1592809163081">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592873850368" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592873871063">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="18" column="38" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.module.scss" timestamp="1592874692003">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="17" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592808383353">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="23" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592813423710">
         <mark key="[" line="34" column="47" />
@@ -139,58 +162,6 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayDesktop.tsx" timestamp="1592815725096">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="113" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/DesktopShow.tsx" timestamp="1592808297839">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="5" column="2" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" timestamp="1592791211983">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="24" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/_App.scss" timestamp="1592813563822">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.module.scss" timestamp="1592816366894" />
-      <file name="/Dummy.txt" timestamp="1592805922668">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1592816299499">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/_App.scss" timestamp="1592809163081">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/Index.module.scss" timestamp="1592816097127" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592816192799">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="5" column="32" />
-        <mark key="." line="5" column="31" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1592808383353">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="10" column="24" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="23" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/_Reset.scss" timestamp="1592813561294">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="54" column="3" />
@@ -202,6 +173,18 @@
         <mark key="]" line="6" column="2" />
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="2" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayDesktop.tsx" timestamp="1592815725096">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="113" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/DesktopShow.tsx" timestamp="1592808297839">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/App.tsx" timestamp="1592809267296">
         <mark key="[" line="3" column="9" />
@@ -215,9 +198,14 @@
         <mark key="^" line="14" column="28" />
         <mark key="." line="14" column="27" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/_App.scss" timestamp="1592813563822">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="12" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/step_renderer.ts" />
       <jump line="221" column="64" filename="C:/Work/Miridih/dev-web/bizhows-web/common/thumbnail/thumbnail_card_maker.ts" />
       <jump line="6" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/design_service_payment.ts" />
       <jump line="378" column="28" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/css/design_service_payment.scss" />
@@ -317,12 +305,13 @@
       <jump line="15" column="34" filename="C:/zsgg/integration-web/src/styles/_variables.scss" />
       <jump line="5" column="75" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvQueryStringService.ts" />
       <jump line="4" column="7" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/Index.tsx" />
+      <jump line="15" column="15" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>selectedIndex</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4212,7 +4201,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>selectedIndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4675,25 +4664,7 @@ html {
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
