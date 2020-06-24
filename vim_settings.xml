@@ -127,12 +127,7 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="79" column="31" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/utils/Detect.ts" timestamp="1593029606511">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/utils/Detect.ts" timestamp="1593031426681" />
       <file name="D:/Code-Project/dutch-pay--web/src/pages/privacy-policy.tsx" timestamp="1593004824474">
         <mark key="[" line="62" column="73" />
         <mark key="]" line="62" column="39" />
@@ -162,6 +157,11 @@
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/public/locate/ch.common.json" timestamp="1593001269256">
         <mark key="[" line="22" column="17" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/display/report/DisplayReportModal.tsx" timestamp="1593031484449">
+        <mark key="]" line="66" column="4" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="66" column="3" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1593001283683">
         <mark key="[" line="23" column="20" />
@@ -268,10 +268,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>boolean</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
