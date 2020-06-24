@@ -110,20 +110,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/layout/Section01Desktop.module.scss" timestamp="1592902785584">
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="17" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.tsx" timestamp="1592974422456">
         <mark key="[" line="15" column="47" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/layout/Section02Desktop.tsx" timestamp="1592902963529">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="30" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1592974445359">
         <mark key="[" line="41" column="47" />
@@ -139,16 +127,14 @@
         <mark key="^" line="26" column="41" />
         <mark key="." line="26" column="40" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/Nav.scss" timestamp="1592905332424">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="0" column="5" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.html" timestamp="1592986600039">
+        <mark key="[" line="8" column="16" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.module.scss" timestamp="1592976217176">
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="35" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.module.scss" timestamp="1592986259631">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="17" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.stylelintrc.js" timestamp="1592974487569">
         <mark key="[" line="20" column="39" />
@@ -156,17 +142,23 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592974489797">
+      <file name="/Dummy.txt" timestamp="1592986275330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ScrollNav.tsx" timestamp="1592978044032" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592978246389" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592986578217">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="22" column="46" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/Nav.module.scss" timestamp="1592906767568">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="/ScrollNav.module.scss" timestamp="1592985196883" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/Var.scss" timestamp="1592972463617">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="28" />
@@ -175,17 +167,18 @@
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/App.tsx" timestamp="1592963847848" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/responsive_scss/base/_font.scss" timestamp="1592972443442" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.tsx" timestamp="1592978407208">
-        <mark key="[" line="89" column="85" />
-        <mark key="]" line="95" column="51" />
-        <mark key="^" line="95" column="51" />
-        <mark key="." line="95" column="50" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.tsx" timestamp="1592986380896">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/Nav.tsx" timestamp="1592964482645">
         <mark key="]" line="53" column="28" />
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="27" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/service/EnvService.ts" timestamp="1592983166938" />
     </filemarks>
     <jumps>
       <jump line="378" column="28" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/css/design_service_payment.scss" />
@@ -293,7 +286,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>body</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4183,7 +4176,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4202,7 +4195,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbE5hdiByZWYwMT17cmVmMX0gcmVmMDI9e3JlZjJ9IHJlZjAzPXtyZWYzfSBmaXhTdGFydFBvc2l0aW9uPXs1N30gLz4K</text>
+        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgI2Q0ZDRkNDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Lm5hdnsKCiAgYmFja2dyb3VuZDogd2hpdGU7CiAgLml0ZW17CiAgICAmLmlzU2VsZWN0ZWR7CiAgICAgIGNvbG9yOiByZWQ7CiAgICB9CiAgfQp9</text>
