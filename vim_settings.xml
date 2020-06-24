@@ -115,6 +115,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1593010468551">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/_dummy_" timestamp="1593008621218">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,7 +149,7 @@
       <file name="_http_server.js" timestamp="1593010269484">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593010171179">
+      <file name="/JavaScript Console" timestamp="1593010304038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleClient.java" timestamp="1582361495515">
@@ -173,9 +176,6 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="29" />
-      </file>
-      <file name="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleServer.java" timestamp="1582361434491">
-        <mark key="'" line="70" column="17" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/App.tsx" timestamp="1592918727233">
         <mark key="[" line="39" column="2" />
