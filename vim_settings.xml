@@ -154,10 +154,11 @@
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/ch.common.json" timestamp="1592917281025">
         <mark key="[" line="34" column="49" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/pages/privacy-policy.tsx" timestamp="1593001443703">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="6" column="20" />
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/privacy-policy.tsx" timestamp="1593004824474">
+        <mark key="[" line="62" column="73" />
+        <mark key="]" line="62" column="39" />
+        <mark key="^" line="62" column="39" />
+        <mark key="." line="62" column="38" />
       </file>
       <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendPlus.tsx" timestamp="1592469410601">
         <mark key="[" line="40" column="36" />
@@ -275,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>취소</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>취소</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
