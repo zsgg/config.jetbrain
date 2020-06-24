@@ -127,7 +127,12 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="79" column="31" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/utils/Detect.ts" timestamp="1593033190806" />
+      <file name="D:/Code-Project/dutch-pay--web/src/utils/Detect.ts" timestamp="1593034054299">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="12" />
+      </file>
       <file name="D:/Code-Project/dutch-pay--web/src/pages/privacy-policy.tsx" timestamp="1593004824474">
         <mark key="[" line="62" column="73" />
         <mark key="]" line="62" column="39" />
@@ -148,6 +153,12 @@
       </file>
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1592917297184">
         <mark key="[" line="35" column="48" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593034074491">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="10" />
+        <mark key="^" line="44" column="10" />
+        <mark key="." line="44" column="9" />
       </file>
       <file name="D:/Code Project/integration-web/src/i18n/I18nNextConfig.ts" timestamp="1592469707256">
         <mark key="[" line="21" column="15" />
@@ -268,10 +279,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>boolean</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
