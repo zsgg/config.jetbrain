@@ -121,7 +121,7 @@
       <file name="/_dummy_" timestamp="1593008621218">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native/App.tsx" timestamp="1593009545650">
+      <file name="D:/Code-Project/dutch-pay--native/App.tsx" timestamp="1593018942347">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="15" column="52" />
         <mark key="^" line="15" column="52" />
@@ -132,14 +132,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Code Project/MyApp/tsconfig.json" timestamp="1592894208733">
-        <mark key="[" line="11" column="22" />
-      </file>
-      <file name="D:/Code Project/dutch-pay--native/.eslintrc.js" timestamp="1592912965856">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="41" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593019658231">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="60" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
         <mark key="]" line="168" column="0" />
@@ -152,13 +149,6 @@
       <file name="/JavaScript Console" timestamp="1593010304038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Study/algo-logic-test/src/main/java/socket/SimpleClient.java" timestamp="1582361495515">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="41" />
-      </file>
       <file name="D:/Code Project/dutch-pay--native/android/settings.gradle" timestamp="1592915557335">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="34" />
@@ -168,7 +158,7 @@
       <file name="D:/Code Project/dutch-pay--native/README-android.md" timestamp="1592929531501">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592929851172">
+      <file name="/Dummy.txt" timestamp="1593018263677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592917866632">
@@ -182,6 +172,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--native-expo/package.json" timestamp="1593018444491">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="26" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1592915314244">
         <mark key="[" line="0" column="0" />
@@ -203,28 +199,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5hYnMoc3RhcnQgLSBudW1iZXJzW2ogLSAxXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgPFdlYlZpZXcgc291cmNlPXt7dXJpOiAnaHR0cHM6Ly9kdXRjaC1wYXkuYXBwLyd9fSAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CgpNWUFQUF9SRUxFQVNFX1NUT1JFX0ZJTEU9ZHV0Y2gtcGF5LmtleXN0b3JlCk1ZQVBQX1JFTEVBU0VfS0VZX0FMSUFTPWR1dGNoLXBheQpNWUFQUF9SRUxFQVNFX1NUT1JFX1BBU1NXT1JEPXNnczgxNjcyCk1ZQVBQX1JFTEVBU0VfS0VZX1BBU1NXT1JEPXNnczgxNjcyCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAicmVhY3QtbmF0aXZlLXdlYiI6ICJ+MC4xMS43IiwKICAgICJyZWFjdC1uYXRpdmUtd2VidmlldyI6ICJeMTAuMy4xIg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgpNWUFQUF9SRUxFQVNFX1NUT1JFX0ZJTEU9ZHV0Y2gtcGF5LmtleXN0b3JlCk1ZQVBQX1JFTEVBU0VfS0VZX0FMSUFTPWR1dGNoLXBheQpNWUFQUF9SRUxFQVNFX1NUT1JFX1BBU1NXT1JEPXNnczgxNjcyCk1ZQVBQX1JFTEVBU0VfS0VZX1BBU1NXT1JEPXNnczgxNjcyCg==</text>
+        <text encoding="base64">ICAgICAgPFdlYlZpZXcgc291cmNlPXt7dXJpOiAnaHR0cHM6Ly9kdXRjaC1wYXkuYXBwLyd9fSAvPgo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CgpNWUFQUF9SRUxFQVNFX1NUT1JFX0ZJTEU9ZHV0Y2gtcGF5LmtleXN0b3JlCk1ZQVBQX1JFTEVBU0VfS0VZX0FMSUFTPWR1dGNoLXBheQpNWUFQUF9SRUxFQVNFX1NUT1JFX1BBU1NXT1JEPXNnczgxNjcyCk1ZQVBQX1JFTEVBU0VfS0VZX1BBU1NXT1JEPXNnczgxNjcyCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIMPiw7M6IGh0dHBzOi8vaHVuaXQudGlzdG9yeS5jb20vMjU2IFtBcmEgQmxvZ10gCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobmFtZSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Q09QWSBwYWNrYWdlKi5qc29uIC4vCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
       <register name="-" type="4">
-        <text>abc123</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
