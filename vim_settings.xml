@@ -132,11 +132,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593019658231">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="60" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="26" column="0" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593022038238">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="38" column="75" />
+        <mark key="^" line="38" column="78" />
+        <mark key="." line="38" column="75" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
         <mark key="]" line="168" column="0" />
@@ -173,14 +173,11 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/package.json" timestamp="1593018444491">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="26" column="1" />
-      </file>
-      <file name="/fragment.java" timestamp="1592915314244">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/package.json" timestamp="1593020937373">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="27" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -202,28 +199,31 @@
         <text encoding="base64">ICAgICAgPFdlYlZpZXcgc291cmNlPXt7dXJpOiAnaHR0cHM6Ly9kdXRjaC1wYXkuYXBwLyd9fSAvPgo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBbcGVybWlzc2lvbiwgYXNrRm9yUGVybWlzc2lvbl0gPSBQZXJtaXNzaW9ucy51c2VQZXJtaXNzaW9ucyhQZXJtaXNzaW9ucy5DQU1FUkEsIHsgYXNrOiB0cnVlIH0pOwogICAgCiAgICBpZiAoIXBlcm1pc3Npb24gfHwgcGVybWlzc2lvbi5zdGF0dXMgIT09ICdncmFudGVkJykgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgPFRleHQ+UGVybWlzc2lvbiBpcyBub3QgZ3JhbnRlZDwvVGV4dD4KICAgICAgICAgICAgICAgIDxCdXR0b24gdGl0bGU9IkdyYW50IHBlcm1pc3Npb24iIG9uUHJlc3M9e2Fza0ZvclBlcm1pc3Npb259IC8+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICApOwogICAgfQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>LOCATION</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CiAgICAicmVhY3QtbmF0aXZlLXdlYiI6ICJ+MC4xMS43IiwKICAgICJyZWFjdC1uYXRpdmUtd2VidmlldyI6ICJeMTAuMy4xIg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFdlYlZpZXcgc291cmNlPXt7dXJpOiAnaHR0cHM6Ly9kdXRjaC1wYXkuYXBwLyd9fSAvPgo=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CgpNWUFQUF9SRUxFQVNFX1NUT1JFX0ZJTEU9ZHV0Y2gtcGF5LmtleXN0b3JlCk1ZQVBQX1JFTEVBU0VfS0VZX0FMSUFTPWR1dGNoLXBheQpNWUFQUF9SRUxFQVNFX1NUT1JFX1BBU1NXT1JEPXNnczgxNjcyCk1ZQVBQX1JFTEVBU0VfS0VZX1BBU1NXT1JEPXNnczgxNjcyCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIMPiw7M6IGh0dHBzOi8vaHVuaXQudGlzdG9yeS5jb20vMjU2IFtBcmEgQmxvZ10gCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgogICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgcHVibGljIE9wdGlvbmFsPFN0cmluZz4gZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gT3B0aW9uYWwub2YobmFtZSk7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Q09QWSBwYWNrYWdlKi5qc29uIC4vCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>LOCATION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
