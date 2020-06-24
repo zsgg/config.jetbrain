@@ -145,8 +145,10 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592989295300">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1592990073432">
+        <mark key="[" line="0" column="50" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1592989008936">
         <mark key="[" line="1" column="24" />
@@ -295,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>scroll</text>
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4185,7 +4187,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>scroll</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
