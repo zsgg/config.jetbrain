@@ -141,11 +141,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593030893095">
-        <mark key="[" line="26" column="36" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="36" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593033964987">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="27" column="54" />
+        <mark key="^" line="27" column="78" />
+        <mark key="." line="27" column="54" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
         <mark key="]" line="168" column="0" />
@@ -196,13 +196,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFdlYlZpZXcgc291cmNlPXt7dXJpOiAnaHR0cHM6Ly9kdXRjaC1wYXkuYXBwLyd9fSBvcmlnaW5XaGl0ZWxpc3Q9e1snaHR0cHM6Ly8nLCAnYmxvYjonXX0gYWxsb3dGaWxlQWNjZXNzIGphdmFTY3JpcHRFbmFibGVkICAvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8V2ViVmlldyBzb3VyY2U9e3t1cmk6ICdodHRwOi8vMTI3LjAuMC4xOjMwMDAvJ319IG9yaWdpbldoaXRlbGlzdD17WydodHRwczovLycsICdibG9iOiddfSBhbGxvd0ZpbGVBY2Nlc3MgamF2YVNjcmlwdEVuYWJsZWQgIC8+Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICBjb25zdCBbcGVybWlzc2lvbiwgYXNrRm9yUGVybWlzc2lvbl0gPSBQZXJtaXNzaW9ucy51c2VQZXJtaXNzaW9ucyhQZXJtaXNzaW9ucy5DQU1FUkEsIHsgYXNrOiB0cnVlIH0pOwogICAgCiAgICBpZiAoIXBlcm1pc3Npb24gfHwgcGVybWlzc2lvbi5zdGF0dXMgIT09ICdncmFudGVkJykgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgPFRleHQ+UGVybWlzc2lvbiBpcyBub3QgZ3JhbnRlZDwvVGV4dD4KICAgICAgICAgICAgICAgIDxCdXR0b24gdGl0bGU9IkdyYW50IHBlcm1pc3Npb24iIG9uUHJlc3M9e2Fza0ZvclBlcm1pc3Npb259IC8+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICApOwogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAicmVhY3QtbmF0aXZlLXdlYiI6ICJ+MC4xMS43IiwKICAgICJyZWFjdC1uYXRpdmUtd2VidmlldyI6ICJeMTAuMy4xIg==</text>
@@ -223,7 +223,7 @@
         <text>reg</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
