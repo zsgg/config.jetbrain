@@ -115,12 +115,6 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="79" column="31" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendCardModal.tsx" timestamp="1592469408087">
-        <mark key="[" line="178" column="30" />
-        <mark key="]" line="178" column="59" />
-        <mark key="^" line="178" column="59" />
-        <mark key="." line="178" column="58" />
-      </file>
       <file name="D:/Code Project/integration-web/src/i18n/I18nNextConfig.ts" timestamp="1592469707256">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="44" />
@@ -130,6 +124,7 @@
       <file name="D:/Code-Project/dutch-pay--web/src/public/locate/ch.common.json" timestamp="1593001269256">
         <mark key="[" line="22" column="17" />
       </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/styles/_variables.scss" timestamp="1593008334237" />
       <file name="D:/Code-Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1593001283683">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="21" />
@@ -141,7 +136,7 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593001362218">
+      <file name="/Dummy.txt" timestamp="1593007627952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Wiki/private.zsgg.github.io/script/trading/transaction-analysis-chart/index.html" timestamp="1592935159667" />
