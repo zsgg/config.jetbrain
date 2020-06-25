@@ -118,7 +118,12 @@
         <mark key="." line="6" column="1" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/xxx/LagacyOptionTsWrapper.ts" timestamp="1593059710962" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.tsx" timestamp="1593051669019" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593065459427">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="40" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/envelope-sticker/sticker/opt-sticker-1x-free/cornerstone/opt_sticker_1x_free.js" timestamp="1593051913074" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593057670512">
         <mark key="[" line="740" column="0" />
@@ -127,9 +132,6 @@
         <mark key="." line="740" column="6" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/lagacyOptionTsWrapper.ts" timestamp="1593052112932" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.html" timestamp="1593051033683">
-        <mark key="[" line="3" column="26" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/HelloExternalTs.ts" timestamp="1593051706611">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="3" column="0" />
@@ -137,6 +139,12 @@
         <mark key="." line="2" column="2" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/catalogue/opt-brochure/conerstone/opt_catalogue.ts" timestamp="1593052806645" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593065854608">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="21" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/OptionAgent.ts" timestamp="1593059712615">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -147,8 +155,20 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593065663841">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="12" column="25" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/common/option_common.js" timestamp="1593052768240" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593062427939">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593064401851">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="10" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593063391255">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="9" column="15" />
         <mark key="^" line="9" column="15" />
@@ -159,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="11" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/design_service_payment.ts" />
       <jump line="164" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/wp/design-service/payment/cornerstone/js/design_service_payment.ts" />
       <jump line="261" column="30" filename="C:/Work/Miridih/dev-web/bizhows-web/help_design/src/components/order-listing/Rows/DetailService.ts" />
       <jump line="266" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/help_design/src/components/order-listing/Rows/DetailService.ts" />
@@ -259,12 +278,13 @@
       <jump line="52" column="8" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.tsx" />
       <jump line="104" column="20" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.tsx" />
       <jump line="14" column="25" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayDesktop.module.scss" />
+      <jump line="2" column="34" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>aaa</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4154,7 +4174,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
