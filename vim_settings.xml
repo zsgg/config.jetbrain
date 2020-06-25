@@ -109,9 +109,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593022707243">
+      <file name="/Dummy.txt" timestamp="1593106019310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code-Project/dutch-pay--web/.prettierrc" timestamp="1593105026697" />
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/ko.common.json" timestamp="1592917327030">
         <mark key="[" line="34" column="44" />
         <mark key="]" line="39" column="36" />
@@ -154,12 +155,6 @@
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1592917297184">
         <mark key="[" line="35" column="48" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593103472024">
-        <mark key="[" line="42" column="37" />
-        <mark key="]" line="52" column="21" />
-        <mark key="^" line="52" column="21" />
-        <mark key="." line="52" column="20" />
-      </file>
       <file name="D:/Code Project/integration-web/src/i18n/I18nNextConfig.ts" timestamp="1592469707256">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="44" />
@@ -185,6 +180,7 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="D:/Code-Project/dutch-pay--web/package.json" timestamp="1593105590749" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
