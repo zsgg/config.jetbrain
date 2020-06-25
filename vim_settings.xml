@@ -112,12 +112,7 @@
     <filemarks>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/LagacyOptionTsWrapper.ts" timestamp="1593058033667" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/xxx/LagacyOptionTsWrapper.ts" timestamp="1593059710962" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593065459427">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="41" />
-        <mark key="." line="8" column="40" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593073293431" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593057670512">
         <mark key="[" line="740" column="0" />
         <mark key="]" line="740" column="7" />
@@ -126,11 +121,11 @@
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/common/go_to_cart_layer.ts" timestamp="1593068774808" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/catalogue/opt-brochure/conerstone/opt_catalogue.ts" timestamp="1593052806645" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593065854608">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="21" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593072412430">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="65" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="8" column="64" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/OptionAgent.ts" timestamp="1593059712615">
         <mark key="]" line="0" column="0" />
@@ -143,39 +138,39 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593060260432">
+      <file name="/Dummy.txt" timestamp="1593071832006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593065663841">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="12" column="25" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593072360571">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/common/option_common.js" timestamp="1593052768240" />
       <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/Clone.md" timestamp="1593071625129" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593064401851">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="1" column="11" />
-        <mark key="^" line="1" column="11" />
-        <mark key="." line="1" column="10" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593072053677">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="16" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593063391255">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="14" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593073302756">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="12" />
       </file>
-      <file name="/" timestamp="1593052426590">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionAgent.ts" timestamp="1593071914705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593070843628">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="4" column="18" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593072225053">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" timestamp="1593068738559" />
     </filemarks>
@@ -285,7 +280,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>aaa</text>
+        <text>CommodityKey</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4175,7 +4170,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>aaa</text>
+        <text>CommodityKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
