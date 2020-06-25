@@ -1,9 +1,0 @@
-<application>
-  <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="Web:S5254" />
-      </set>
-    </option>
-  </component>
-</application>
