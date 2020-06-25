@@ -110,75 +110,69 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/layout/Section01Desktop.module.scss" timestamp="1592988761802">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-        <mark key="." line="12" column="27" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/LagacyOptionTsWrapper.ts" timestamp="1593053403470">
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="24" />
+        <mark key="^" line="71" column="24" />
+        <mark key="." line="71" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593046569867">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/Agent.ts" timestamp="1593052058121">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/unicorn-editor/shared/src/unicorn_api/api_request.ts" timestamp="1593045963351" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1592989008936">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="21" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.tsx" timestamp="1593051669019" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/envelope-sticker/sticker/opt-sticker-1x-free/cornerstone/opt_sticker_1x_free.js" timestamp="1593051913074" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593053388967">
+        <mark key="[" line="740" column="0" />
+        <mark key="]" line="740" column="7" />
+        <mark key="^" line="740" column="7" />
+        <mark key="." line="740" column="6" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/unicorn-editor/shared/src/scss/unicorn_api/ApiAgent.ts" timestamp="1593048338522" />
-      <file name="C:/Work/Miridih/dev-web/unicorn-editor/shared/src/session_storage_util.ts" timestamp="1593046955489" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592989501945">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="17" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/lagacyOptionTsWrapper.ts" timestamp="1593052112932" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.html" timestamp="1593051033683">
+        <mark key="[" line="3" column="26" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.tsx" timestamp="1593048513193">
-        <mark key="[" line="65" column="44" />
-        <mark key="]" line="97" column="86" />
-        <mark key="^" line="97" column="86" />
-        <mark key="." line="97" column="85" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayDesktop.module.scss" timestamp="1592988734496">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="4" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/Var.scss" timestamp="1592988519894">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="12" column="7" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/unicorn-editor/editor/src/toolwindow/projectpanel/agent/DesignProjectApiAgent.ts" timestamp="1593045640361" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.module.scss" timestamp="1592994031106">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.module.scss" timestamp="1592986259631">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="39" column="18" />
-        <mark key="^" line="39" column="18" />
-        <mark key="." line="39" column="17" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/HelloExternalTs.ts" timestamp="1593051706611">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="2" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.stylelintrc.js" timestamp="1592974487569">
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-        <mark key="." line="21" column="29" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/catalogue/opt-brochure/conerstone/opt_catalogue.ts" timestamp="1593052806645" />
+      <file name="/Dummy.txt" timestamp="1593051540798">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ScrollNav.tsx" timestamp="1592988844914">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="41" column="15" />
-        <mark key="^" line="41" column="15" />
-        <mark key="." line="41" column="14" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/common/option_common.js" timestamp="1593052768240" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1592989008936">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="21" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592989501945">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="17" />
+      </file>
+      <file name="/" timestamp="1593052426590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/Index.tsx" timestamp="1593052189569">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="6" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -287,7 +281,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4177,7 +4171,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
