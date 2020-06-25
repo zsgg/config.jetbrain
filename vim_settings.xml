@@ -124,7 +124,6 @@
         <mark key="^" line="740" column="7" />
         <mark key="." line="740" column="6" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/lagacyOptionTsWrapper.ts" timestamp="1593052112932" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/common/go_to_cart_layer.ts" timestamp="1593068774808" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/catalogue/opt-brochure/conerstone/opt_catalogue.ts" timestamp="1593052806645" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593065854608">
@@ -137,6 +136,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1593070853395">
+        <mark key="[" line="0" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1593060260432">
         <mark key="[" line="0" column="0" />
@@ -165,11 +167,11 @@
       <file name="/" timestamp="1593052426590">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593066824373">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593070843628">
         <mark key="[" line="2" column="1" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="13" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="18" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" timestamp="1593068738559" />
     </filemarks>
