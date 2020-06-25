@@ -7,6 +7,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="PriceAgent" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="DeliveryStore" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />

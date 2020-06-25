@@ -148,11 +148,11 @@
         <mark key="." line="0" column="25" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/common/option_common.js" timestamp="1593052768240" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593060253549">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="31" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593062427939">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="14" />
       </file>
       <file name="/" timestamp="1593052426590">
         <mark key="[" line="0" column="0" />
@@ -264,7 +264,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>e</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4154,7 +4154,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
