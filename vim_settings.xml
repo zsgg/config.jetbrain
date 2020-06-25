@@ -110,12 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/LagacyOptionTsWrapper.ts" timestamp="1593053403470">
-        <mark key="[" line="71" column="24" />
-        <mark key="]" line="71" column="24" />
-        <mark key="^" line="71" column="24" />
-        <mark key="." line="71" column="23" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/LagacyOptionTsWrapper.ts" timestamp="1593058033667" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/Agent.ts" timestamp="1593052058121">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="6" column="2" />
@@ -124,7 +119,7 @@
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.tsx" timestamp="1593051669019" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/envelope-sticker/sticker/opt-sticker-1x-free/cornerstone/opt_sticker_1x_free.js" timestamp="1593051913074" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593053388967">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593057670512">
         <mark key="[" line="740" column="0" />
         <mark key="]" line="740" column="7" />
         <mark key="^" line="740" column="7" />
