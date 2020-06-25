@@ -115,7 +115,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593106121629">
+      <file name="/Dummy.txt" timestamp="1593107347333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1593010468551">
@@ -144,7 +144,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593105860177">
+      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593107341515">
         <mark key="[" line="39" column="32" />
         <mark key="]" line="39" column="55" />
         <mark key="^" line="39" column="55" />
