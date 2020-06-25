@@ -117,6 +117,7 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/xxx/LagacyOptionTsWrapper.ts" timestamp="1593059710962" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.tsx" timestamp="1593051669019" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/envelope-sticker/sticker/opt-sticker-1x-free/cornerstone/opt_sticker_1x_free.js" timestamp="1593051913074" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593057670512">
@@ -129,12 +130,6 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.html" timestamp="1593051033683">
         <mark key="[" line="3" column="26" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.module.scss" timestamp="1592994031106">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="4" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/HelloExternalTs.ts" timestamp="1593051706611">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="3" column="0" />
@@ -142,32 +137,25 @@
         <mark key="." line="2" column="2" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/catalogue/opt-brochure/conerstone/opt_catalogue.ts" timestamp="1593052806645" />
-      <file name="/Dummy.txt" timestamp="1593051540798">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/OptionAgent.ts" timestamp="1593059712615">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593060260432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/wp/common/option_common.js" timestamp="1593052768240" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1592989008936">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="21" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1592989501945">
-        <mark key="[" line="16" column="62" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="17" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593060253549">
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+        <mark key="." line="31" column="31" />
       </file>
       <file name="/" timestamp="1593052426590">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/Index.tsx" timestamp="1593052189569">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -276,7 +264,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4166,7 +4154,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
