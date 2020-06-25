@@ -121,6 +121,7 @@
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/unicorn-editor/shared/src/unicorn_api/api_request.ts" timestamp="1593045963351" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ThumbnailDisplayMobile.tsx" timestamp="1592974422456">
         <mark key="[" line="15" column="47" />
       </file>
@@ -158,6 +159,7 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/unicorn-editor/editor/src/toolwindow/projectpanel/agent/DesignProjectApiAgent.ts" timestamp="1593045640361" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.module.scss" timestamp="1592994031106">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="8" column="4" />
@@ -181,11 +183,6 @@
         <mark key="]" line="41" column="15" />
         <mark key="^" line="41" column="15" />
         <mark key="." line="41" column="14" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/Nav.tsx" timestamp="1592964482645">
-        <mark key="]" line="53" column="28" />
-        <mark key="^" line="53" column="28" />
-        <mark key="." line="53" column="27" />
       </file>
     </filemarks>
     <jumps>
