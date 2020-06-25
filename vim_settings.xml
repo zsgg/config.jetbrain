@@ -141,11 +141,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593035947618">
-        <mark key="[" line="33" column="68" />
-        <mark key="]" line="27" column="6" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="27" column="5" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593080779317">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="29" column="12" />
+        <mark key="^" line="29" column="12" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
         <mark key="]" line="168" column="0" />
@@ -169,6 +169,9 @@
         <mark key="]" line="3" column="34" />
         <mark key="^" line="2" column="54" />
         <mark key="." line="3" column="34" />
+      </file>
+      <file name="D:/Work/Miridih/rn-bizhows-app/src/components/webview/bizhows-web-view.tsx" timestamp="1593080615671">
+        <mark key="[" line="17" column="30" />
       </file>
       <file name="D:/Code-Project/dutch-pay--native-expo/package.json" timestamp="1593030342005">
         <mark key="[" line="15" column="37" />
