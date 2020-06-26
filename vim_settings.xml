@@ -136,9 +136,16 @@
         <mark key="^" line="8" column="65" />
         <mark key="." line="8" column="64" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/ErrorBoundary.tsx" timestamp="1593145199836" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/commodity_row/step3_admin_commodity_renderer.ts" timestamp="1593134781744" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1593070855920">
-        <mark key="[" line="0" column="40" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1593145271374">
+        <mark key="[" line="41" column="35" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="38" column="42" />
+        <mark key="." line="38" column="41" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/ErrorBoundary" timestamp="1593144839242">
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593135615013">
         <mark key="[" line="0" column="0" />
@@ -164,11 +171,11 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="44" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593140228065">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="52" />
-        <mark key="^" line="20" column="52" />
-        <mark key="." line="20" column="51" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593145698999">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="47" />
+        <mark key="^" line="25" column="47" />
+        <mark key="." line="25" column="46" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionAgent.ts" timestamp="1593071914705">
         <mark key="[" line="0" column="0" />
@@ -285,8 +292,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc8IE1vY2tDb250cm9sbGVyID4gZmluZCA+Jywga2V5LCBtYXAua2V5cygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>await</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4176,7 +4183,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>await</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
