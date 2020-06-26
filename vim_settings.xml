@@ -110,6 +110,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.tsx" timestamp="1593138282644">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/commodity_row/step3_renderer.ts" timestamp="1593134805163">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593138458309">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="12" column="59" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="58" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1593139188152" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-web/admin/freestyle/resource/js/external_sticker_download_list.ts" timestamp="1593137854706" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/type/Types.ts" timestamp="1593138567084" />
+      <file name="/fragment.ts" timestamp="1593138282503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593072412430">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="65" />
+        <mark key="^" line="8" column="65" />
+        <mark key="." line="8" column="64" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/commodity_row/step3_admin_commodity_renderer.ts" timestamp="1593134781744" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1593070855920">
+        <mark key="[" line="0" column="40" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593135615013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
@@ -121,34 +151,18 @@
         <mark key="^" line="12" column="2" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/commodity_row/step3_renderer.ts" timestamp="1593134805163">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593134971278">
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="59" />
-        <mark key="^" line="12" column="59" />
-        <mark key="." line="12" column="58" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593135244299">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593136389412">
-        <mark key="[" line="18" column="50" />
-        <mark key="]" line="18" column="50" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="18" column="50" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593057670512">
-        <mark key="[" line="740" column="0" />
-        <mark key="]" line="740" column="7" />
-        <mark key="^" line="740" column="7" />
-        <mark key="." line="740" column="6" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-web/member/resource/js/simple_user_layer.js" timestamp="1593136867390" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593138575717">
+        <mark key="[" line="19" column="61" />
+        <mark key="]" line="20" column="89" />
+        <mark key="^" line="20" column="89" />
+        <mark key="." line="20" column="88" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionAgent.ts" timestamp="1593071914705">
         <mark key="[" line="0" column="0" />
@@ -158,21 +172,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593072412430">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="65" />
-        <mark key="^" line="8" column="65" />
-        <mark key="." line="8" column="64" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/commodity_row/step3_admin_commodity_renderer.ts" timestamp="1593134781744" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/OptionAgent.ts" timestamp="1593059712615">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1593070855920">
-        <mark key="[" line="0" column="40" />
       </file>
     </filemarks>
     <jumps>
