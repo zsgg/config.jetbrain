@@ -127,8 +127,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/README.md" timestamp="1593112176269">
+      <file name="D:/Code-Project/dutch-pay--native-expo/README.md" timestamp="1593266713895">
         <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/_dummy_" timestamp="1593008621218">
         <mark key="[" line="0" column="0" />
@@ -150,11 +153,11 @@
         <mark key="^" line="39" column="55" />
         <mark key="." line="39" column="54" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/app.json" timestamp="1593112123269">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="41" />
-        <mark key="^" line="25" column="42" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/app.json" timestamp="1593266861904">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
         <mark key="]" line="168" column="0" />
