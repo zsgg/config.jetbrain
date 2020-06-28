@@ -127,7 +127,7 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/README.md" timestamp="1593291325009">
+      <file name="D:/Code-Project/dutch-pay--native-expo/README.md" timestamp="1593319731632">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -153,11 +153,11 @@
         <mark key="^" line="39" column="55" />
         <mark key="." line="39" column="54" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/app.json" timestamp="1593289054761">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="17" />
+      <file name="D:/Code-Project/dutch-pay--native-expo/app.json" timestamp="1593322033413">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
         <mark key="]" line="168" column="0" />
@@ -217,7 +217,7 @@
         <text encoding="base64">CiAgICBjb25zdCBbcGVybWlzc2lvbiwgYXNrRm9yUGVybWlzc2lvbl0gPSBQZXJtaXNzaW9ucy51c2VQZXJtaXNzaW9ucyhQZXJtaXNzaW9ucy5DQU1FUkEsIHsgYXNrOiB0cnVlIH0pOwogICAgCiAgICBpZiAoIXBlcm1pc3Npb24gfHwgcGVybWlzc2lvbi5zdGF0dXMgIT09ICdncmFudGVkJykgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgPFRleHQ+UGVybWlzc2lvbiBpcyBub3QgZ3JhbnRlZDwvVGV4dD4KICAgICAgICAgICAgICAgIDxCdXR0b24gdGl0bGU9IkdyYW50IHBlcm1pc3Npb24iIG9uUHJlc3M9e2Fza0ZvclBlcm1pc3Npb259IC8+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICApOwogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>P</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAicmVhY3QtbmF0aXZlLXdlYiI6ICJ+MC4xMS43IiwKICAgICJyZWFjdC1uYXRpdmUtd2VidmlldyI6ICJeMTAuMy4xIg==</text>
@@ -238,7 +238,7 @@
         <text>reg</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
