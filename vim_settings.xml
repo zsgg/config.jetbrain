@@ -115,44 +115,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593291298239">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Code-Project/DutchPay/android/app/build.gradle" timestamp="1593447907944">
+        <mark key="[" line="151" column="9" />
+        <mark key="]" line="156" column="47" />
+        <mark key="^" line="156" column="47" />
+        <mark key="." line="156" column="46" />
       </file>
       <file name="/fragment.js" timestamp="1593010468551">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/dutch-pay--native/package.json" timestamp="1592917866632">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="29" />
-      </file>
+      <file name="D:/Code-Project/DutchPay/.eslintrc.js" timestamp="1593446612643" />
       <file name="D:/Code-Project/dutch-pay--native-expo/README.md" timestamp="1593344855862">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/_dummy_" timestamp="1593008621218">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Code-Project/DutchPay/android/gradle.properties" timestamp="1593447853728">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="36" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--native/App.tsx" timestamp="1593445178301" />
-      <file name="D:/Code Project/dutch-pay--native/android/gradle.properties" timestamp="1592929246390">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
+      <file name="D:/Code-Project/dutch-pay--native/App.tsx" timestamp="1593446607260" />
       <file name="D:/Code-Project/dutch-pay--native-expo/App.tsx" timestamp="1593444002852">
         <mark key="[" line="39" column="32" />
         <mark key="]" line="39" column="55" />
         <mark key="^" line="39" column="55" />
         <mark key="." line="39" column="54" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--native-expo/app.json" timestamp="1593322033413">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="33" />
-        <mark key="^" line="30" column="34" />
       </file>
       <file name="D:/Code-Project/dutch-pay--native/app.json" timestamp="1593444212417">
         <mark key="[" line="1" column="11" />
@@ -160,23 +150,38 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="D:/Code Project/dutch-pay--native/android/app/build.gradle" timestamp="1592929375188">
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="D:/Code-Project/DutchPay/package.json" timestamp="1593447172325">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="21" column="37" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="21" column="36" />
+      </file>
+      <file name="D:/Code-Project/DutchPay/App.tsx" timestamp="1593446656530">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="_http_server.js" timestamp="1593010269484">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Code Project/dutch-pay--native/App.tsx" timestamp="1592918727233">
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1593010304038">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Code-Project/dutch-pay--native/package.json" timestamp="1593446238874" />
+      <file name="/Dummy.txt" timestamp="1593446664241">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code-Project/DutchPay/README-cli.md" timestamp="1593448182223">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--native-expo/app.json" timestamp="1593322033413">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="33" />
+        <mark key="^" line="30" column="34" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--native/.eslintrc.js" timestamp="1593446630833" />
       <file name="D:/Work/Miridih/rn-bizhows-app/src/components/webview/bizhows-web-view.tsx" timestamp="1593080615671">
         <mark key="[" line="17" column="30" />
       </file>
@@ -185,9 +190,6 @@
         <mark key="]" line="29" column="39" />
         <mark key="^" line="29" column="39" />
         <mark key="." line="29" column="38" />
-      </file>
-      <file name="D:/Code Project/dutch-pay--native/README-android.md" timestamp="1592929531501">
-        <mark key="[" line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -212,7 +214,7 @@
         <text encoding="base64">CiAgICBjb25zdCBbcGVybWlzc2lvbiwgYXNrRm9yUGVybWlzc2lvbl0gPSBQZXJtaXNzaW9ucy51c2VQZXJtaXNzaW9ucyhQZXJtaXNzaW9ucy5DQU1FUkEsIHsgYXNrOiB0cnVlIH0pOwogICAgCiAgICBpZiAoIXBlcm1pc3Npb24gfHwgcGVybWlzc2lvbi5zdGF0dXMgIT09ICdncmFudGVkJykgewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgICAgPFRleHQ+UGVybWlzc2lvbiBpcyBub3QgZ3JhbnRlZDwvVGV4dD4KICAgICAgICAgICAgICAgIDxCdXR0b24gdGl0bGU9IkdyYW50IHBlcm1pc3Npb24iIG9uUHJlc3M9e2Fza0ZvclBlcm1pc3Npb259IC8+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICApOwogICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MyApap</text>
+        <text>*</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAicmVhY3QtbmF0aXZlLXdlYiI6ICJ+MC4xMS43IiwKICAgICJyZWFjdC1uYXRpdmUtd2VidmlldyI6ICJeMTAuMy4xIg==</text>
@@ -233,7 +235,7 @@
         <text>reg</text>
       </register>
       <register name="-" type="4">
-        <text>MyApap</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYW1lXD4=</text>
