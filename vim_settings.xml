@@ -110,8 +110,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1592895697138">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/loader.ts" timestamp="1592552044476">
         <mark key="[" line="2" column="65" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1592553365821">
         <mark key="[" line="7" column="31" />
@@ -134,34 +145,23 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/babel.config.js" timestamp="1592551931268">
         <mark key="[" line="14" column="14" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/WEB-INF/web.xml" timestamp="1593398428323" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592553521711">
         <mark key="[" line="22" column="36" />
         <mark key="^" line="43" column="40" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/smilecat/admin/freestyle/ExternalStickerDownloadList.java" timestamp="1593137818452" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592559555803">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592895697138">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/index.tsx" timestamp="1592551482335">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/smilecat/admin/freestyle/external_sticker_download_list.jsp" timestamp="1593136845336" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592550246056">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="8" column="44" />
         <mark key="^" line="8" column="44" />
         <mark key="." line="8" column="43" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/sure/smilecat/user/NaverLoginClient.java" timestamp="1593398563450" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/app.tsx" timestamp="1592559555803">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="3" />
       </file>
     </filemarks>
     <jumps>
