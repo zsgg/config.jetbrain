@@ -146,9 +146,25 @@
         <mark key="[" line="14" column="14" />
       </file>
       <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/WEB-INF/web.xml" timestamp="1593398428323" />
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/sure/smilecat/user/NaverAuthTokenServlet.java" timestamp="1593404037256">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="59" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1592553521711">
         <mark key="[" line="22" column="36" />
         <mark key="^" line="43" column="40" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1593403675287">
+        <mark key="[" line="30" column="58" />
+        <mark key="]" line="30" column="61" />
+        <mark key="." line="30" column="60" />
+        <mark key="^" line="30" column="61" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/login/naver_login_req.jsp" timestamp="1593404245047">
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="44" column="11" />
+        <mark key="^" line="44" column="11" />
+        <mark key="." line="44" column="10" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.dev.js" timestamp="1592550246056">
         <mark key="[" line="7" column="24" />
@@ -272,8 +288,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0KCkgewogICAgICAgIHJldHVybiA7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>feature/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkaWNhLlVzZXJCZWFuIHVzZXIgPSBCZWFuVXRpbC5nZXRVc2VyQmVhbihyZXF1ZXN0KTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -3121,7 +3137,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbW1vZGl0eUJlYW4uZ2V0VHlwZTIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWNhLlVzZXJCZWFuIHVzZXIgPSBCZWFuVXRpbC5nZXRVc2VyQmVhbihyZXF1ZXN0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIG9wdGlvbiBpbmZvCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgT3B0aW9uSW5mbyB7CgogICAgICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIHZhbHVlMTsKICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyB2YWx1ZTI7CiAgICAgICAgcHJpdmF0ZSBmaW5hbCBTdHJpbmcgcG9pTmFtZTsKICAgICAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBwb3ZOYW1lOwogICAgICAgIHByaXZhdGUgZmluYWwgbG9uZyBwb3ZTZXE7CgogICAgICAgIHB1YmxpYyBPcHRpb25JbmZvKGZpbmFsIENvbW1vZGl0eU9wdGlvbkJlYW4gb3B0aW9uQmVhbikgewogICAgICAgICAgICB0aGlzLnZhbHVlMSA9IG9wdGlvbkJlYW4uZ2V0VmFsdWUxKCk7CiAgICAgICAgICAgIHRoaXMudmFsdWUyID0gb3B0aW9uQmVhbi5nZXRWYWx1ZTIoKTsKICAgICAgICAgICAgdGhpcy5wb2lOYW1lID0gb3B0aW9uQmVhbi5nZXRQb2lOYW1lKCk7CiAgICAgICAgICAgIHRoaXMucG92TmFtZSA9IG9wdGlvbkJlYW4uZ2V0Q29Qb3ZOYW1lKCk7CiAgICAgICAgICAgIHRoaXMucG92U2VxID0gb3B0aW9uQmVhbi5nZXRDb1BvdlNlcSgpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0cmluZyBnZXRWYWx1ZTEoKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnZhbHVlMTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmFsdWUyKCkgewogICAgICAgICAgICByZXR1cm4gdGhpcy52YWx1ZTI7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldFBvaU5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnBvaU5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldFBvdk5hbWUoKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnBvdk5hbWU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgbG9uZyBnZXRQb3ZTZXEoKSB7CiAgICAgICAgICAgIHJldHVybiB0aGlzLnBvdlNlcTsKICAgICAgICB9CiAgICB9</text>
