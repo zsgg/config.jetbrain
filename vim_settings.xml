@@ -112,7 +112,6 @@
       <file name="/Dummy.txt" timestamp="1593273791337">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/.prettierrc" timestamp="1593105026697" />
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/ko.common.json" timestamp="1592917327030">
         <mark key="[" line="34" column="44" />
         <mark key="]" line="39" column="36" />
@@ -147,6 +146,7 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="D:/Code-Project/sample/public/robots.txt" timestamp="1593460707894" />
       <file name="D:/Code Project/samplern/package.json" timestamp="1592892666482">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="18" column="54" />
@@ -156,7 +156,6 @@
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1592917297184">
         <mark key="[" line="35" column="48" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593106932647" />
       <file name="D:/Code Project/integration-web/src/i18n/I18nNextConfig.ts" timestamp="1592469707256">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="44" />
@@ -171,7 +170,6 @@
         <mark key="^" line="66" column="4" />
         <mark key="." line="66" column="3" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/friend/FriendPlus.tsx" timestamp="1593268881218" />
       <file name="D:/Code-Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1593001283683">
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="21" />
@@ -189,7 +187,6 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/package.json" timestamp="1593267922645" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
