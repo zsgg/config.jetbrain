@@ -4643,7 +4643,9 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="5" enabled="true" />
+    <shortcut-conflicts />
+    <editor />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
