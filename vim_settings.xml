@@ -116,11 +116,12 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="44" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593496972221">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="22" column="0" />
+      <file name="/package.json" timestamp="1593530692224" />
+      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593532064471">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/pages/_app.tsx" timestamp="1593495401726">
         <mark key="[" line="58" column="51" />
@@ -128,13 +129,13 @@
         <mark key="^" line="58" column="57" />
         <mark key="." line="58" column="56" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593525424432">
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="63" column="32" />
-        <mark key="^" line="63" column="32" />
-        <mark key="." line="63" column="31" />
+      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593531946543">
+        <mark key="[" line="105" column="21" />
+        <mark key="]" line="40" column="21" />
+        <mark key="^" line="40" column="21" />
+        <mark key="." line="40" column="20" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/service/FireStore.ts" timestamp="1593507462138">
+      <file name="D:/Code-Project/dutch-pay--web/src/service/FireStore.ts" timestamp="1593531882624">
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="16" column="32" />
@@ -151,7 +152,7 @@
         <mark key="." line="6" column="13" />
       </file>
       <file name="D:/Code-Project/sample/src/serviceWorker.js" timestamp="1593495922505" />
-      <file name="/Dummy.txt" timestamp="1593526632055">
+      <file name="/Dummy.txt" timestamp="1593531726645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/display/report/ByTotal.tsx" timestamp="1593511390007">
@@ -160,22 +161,10 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="41" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/public/manifest.json" timestamp="1593495341991">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="24" />
-      </file>
       <file name="D:/Code-Project/dutch-pay--web/worker/util.js" timestamp="1593496033296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/display/report/DisplayReportModal.tsx" timestamp="1593507742613" />
-      <file name="D:/Code-Project/dutch-pay--web/husky.config.js" timestamp="1593495286030">
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="19" column="97" />
-        <mark key="^" line="19" column="97" />
-        <mark key="." line="19" column="96" />
-      </file>
       <file name="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" timestamp="1593506815614">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="40" column="0" />
@@ -277,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
