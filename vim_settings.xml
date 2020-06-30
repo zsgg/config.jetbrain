@@ -140,11 +140,8 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Code Project/integration-web/src/components/lv3/friend/FriendPlus.tsx" timestamp="1592469410601">
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593492061393">
+        <mark key="[" line="5" column="23" />
       </file>
       <file name="D:/Code-Project/sample/public/robots.txt" timestamp="1593460707894" />
       <file name="D:/Code Project/samplern/package.json" timestamp="1592892666482">
@@ -187,6 +184,7 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="D:/Code-Project/dutch-pay--web/package.json" timestamp="1593491895625" />
     </filemarks>
     <jumps>
       <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
