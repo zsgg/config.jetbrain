@@ -117,23 +117,18 @@
         <mark key="^" line="18" column="44" />
       </file>
       <file name="/package.json" timestamp="1593530692224" />
-      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593532064471">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="31" />
+      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593533954646">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="8" column="3" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/pages/_app.tsx" timestamp="1593495401726">
-        <mark key="[" line="58" column="51" />
-        <mark key="]" line="58" column="57" />
-        <mark key="^" line="58" column="57" />
-        <mark key="." line="58" column="56" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593531946543">
-        <mark key="[" line="105" column="21" />
-        <mark key="]" line="40" column="21" />
-        <mark key="^" line="40" column="21" />
-        <mark key="." line="40" column="20" />
+      <file name="D:/Code-Project/dutch-pay--web/src/stores/dummy.json" timestamp="1593536549176" />
+      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593537894751">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="40" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/service/FireStore.ts" timestamp="1593531882624">
         <mark key="]" line="18" column="0" />
@@ -145,15 +140,19 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/tsconfig.json" timestamp="1593497010060">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-        <mark key="." line="6" column="13" />
+      <file name="D:/Code-Project/dutch-pay--web/worker/index.js" timestamp="1593533056525">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="26" />
       </file>
-      <file name="D:/Code-Project/sample/src/serviceWorker.js" timestamp="1593495922505" />
-      <file name="/Dummy.txt" timestamp="1593531726645">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Code-Project/dutch-pay--web/public/service-worker.js" timestamp="1593533224067">
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593534198086">
+        <mark key="[" line="1" column="2" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/display/report/ByTotal.tsx" timestamp="1593511390007">
         <mark key="[" line="40" column="42" />
@@ -161,11 +160,17 @@
         <mark key="^" line="40" column="42" />
         <mark key="." line="40" column="41" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/worker/util.js" timestamp="1593496033296">
+      <file name="D:/Code-Project/dutch-pay--web/worker/util.js" timestamp="1593533447686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/display/report/DisplayReportModal.tsx" timestamp="1593507742613" />
-      <file name="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" timestamp="1593506815614">
+      <file name="D:/Code-Project/dutch-pay--web/src/stores/RootStore.ts" timestamp="1593536525391">
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="19" />
+        <mark key="^" line="81" column="19" />
+        <mark key="." line="81" column="18" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" timestamp="1593534436911">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="40" column="0" />
@@ -266,16 +271,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtzbmFwc2hvdFNoYXJlSGFuZGxlcn0+c25hcHNob3QgaW5zZXJ0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzbmFwc2hvdCk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgc3c6ICdzZXJ2aWNlLXdvcmtlci5qcycs</text>
