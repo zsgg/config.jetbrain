@@ -121,11 +121,8 @@
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/ch.common.json" timestamp="1592917281025">
         <mark key="[" line="34" column="49" />
       </file>
-      <file name="D:/Code Project/dutch-pay--web/src/components/lv3/display/report/DisplayReportModal.tsx" timestamp="1592917179564">
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="80" column="0" />
-        <mark key="." line="79" column="31" />
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/_document.tsx" timestamp="1593492856991">
+        <mark key="[" line="18" column="44" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/utils/Detect.ts" timestamp="1593034054299">
         <mark key="[" line="4" column="12" />
@@ -143,21 +140,21 @@
       <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593492061393">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="D:/Code-Project/sample/public/robots.txt" timestamp="1593460707894" />
-      <file name="D:/Code Project/samplern/package.json" timestamp="1592892666482">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="53" />
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/_app.tsx" timestamp="1593493915591">
+        <mark key="[" line="41" column="104" />
+        <mark key="]" line="71" column="62" />
+        <mark key="^" line="71" column="65" />
+        <mark key="." line="71" column="62" />
       </file>
+      <file name="D:/Code-Project/sample/public/robots.txt" timestamp="1593460707894" />
       <file name="D:/Code Project/dutch-pay--web/src/public/locate/jp.common.json" timestamp="1592917297184">
         <mark key="[" line="35" column="48" />
       </file>
-      <file name="D:/Code Project/integration-web/src/i18n/I18nNextConfig.ts" timestamp="1592469707256">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="44" />
-        <mark key="^" line="21" column="44" />
-        <mark key="." line="21" column="43" />
+      <file name="D:/Code-Project/dutch-pay--web/public/manifest.json" timestamp="1593493844161">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/public/locate/ch.common.json" timestamp="1593268953666">
         <mark key="[" line="22" column="17" />
@@ -280,10 +277,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FFFFFF</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>FFFFFF</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
