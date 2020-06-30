@@ -109,7 +109,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/next.config.js" timestamp="1593511347678" />
+      <file name="/next.config.js" timestamp="1593524772547" />
       <file name="D:/Code-Project/dutch-pay--web/src/service/api/SnapshotApi.ts" timestamp="1593510847516">
         <mark key="[" line="18" column="51" />
         <mark key="]" line="18" column="44" />
@@ -117,10 +117,10 @@
         <mark key="^" line="18" column="44" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593496972221">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="11" column="0" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/pages/_app.tsx" timestamp="1593495401726">
         <mark key="[" line="58" column="51" />
