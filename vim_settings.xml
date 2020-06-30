@@ -110,88 +110,85 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1593406191254" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593413356126" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593416366420">
-        <mark key="[" line="1" column="58" />
-        <mark key="]" line="1" column="76" />
-        <mark key="^" line="1" column="76" />
-        <mark key="." line="1" column="75" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/UrlQueryString.ts" timestamp="1593420042262">
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="14" column="63" />
-        <mark key="^" line="14" column="63" />
-        <mark key="." line="14" column="62" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionStore.ts" timestamp="1593411764959">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593420074625">
+      <file name="/Dummy.txt" timestamp="1593161251690">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593413208643">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="19" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreContext.ts" timestamp="1593161801150">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+        <mark key="." line="15" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593406248022">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="11" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593153318107">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="83" />
+        <mark key="^" line="5" column="83" />
+        <mark key="." line="5" column="82" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/smilecat_editor/src/stores/image_crop_hints_store.ts" timestamp="1593411425063" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1593421302390">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="20" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreConsumer.ts" timestamp="1593158586454">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="25" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593421307385">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="7" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593161324359">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="22" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593420653677">
-        <mark key="[" line="22" column="70" />
-        <mark key="]" line="22" column="68" />
-        <mark key="^" line="22" column="68" />
-        <mark key="." line="22" column="67" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593159732539">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="20" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/util/UrlQueryStringUtil.ts" timestamp="1593418915869">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="28" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1593157217578">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="45" column="47" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionControlAgent.ts" timestamp="1593421364135">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="16" column="2" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593161336873">
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="35" column="27" />
+        <mark key="^" line="35" column="27" />
+        <mark key="." line="35" column="26" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/stores/upload/upload-store.ts" timestamp="1593420401470" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionAgent.ts" timestamp="1593414612342">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="11" />
+      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/index.tsx" timestamp="1593389448090">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593415547343">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="4" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/StaticConfigStore.ts" timestamp="1593156294845">
+        <mark key="[" line="4" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/package.json" timestamp="1593408714492" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593155666711">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593158090424">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreProvider.tsx" timestamp="1593158859408">
+        <mark key="]" line="4" column="30" />
+        <mark key="^" line="4" column="30" />
+        <mark key="." line="4" column="29" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreConsumer.tsx" timestamp="1593161850509">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="29" column="44" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="29" column="43" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="261" column="30" filename="C:/Work/Miridih/dev-web/bizhows-web/help_design/src/components/order-listing/Rows/DetailService.ts" />
@@ -299,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mode</text>
+        <text>!</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4189,7 +4186,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mode</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4208,28 +4205,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvZGUxOiBudW1iZXIsCg==</text>
+        <text encoding="base64">Y29uc3QgaW5pdCA9IGFzeW5jIChrZXk6IE1ldGFDb2RlRGF0YSk6IFByb21pc2U8dm9pZD4gPT4gewogICAgY29uc3Qgc3RhdGljQ29uZmlnOiBTdGF0aWNDb25maWdNb2RlbFJldHVyblR5cGUgPSBhd2FpdCBTdGF0aWNDb25maWdBZ2VudC5mZXRjaChrZXkpOwogICAgY29uc29sZS5sb2coJzwgc3RhdGljIGNvbmZpZyA+Jywgc3RhdGljQ29uZmlnKTsKCiAgICAvL3N0b3JlIGNvbnRleHQgaW5pdCDAuyC/qbHivK0gx9i+38fSsMUgsLDAurXwCn07Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBjb25zdCBzdG9yZSA9IHY7CiAgICByZXR1cm4gPGRpdj4uLi48L2Rpdj47Cn0pOw==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IHsKICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Lm5hdnsKCiAgYmFja2dyb3VuZDogd2hpdGU7CiAgLml0ZW17CiAgICAmLmlzU2VsZWN0ZWR7CiAgICAgIGNvbG9yOiByZWQ7CiAgICB9CiAgfQp9</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">JXNlY3Rpb24gewogIG1hcmdpbjogYXV0bzsKICBtYXgtd2lkdGg6ICRkZXNrdG9wLW1heC13aWR0aDsKICB3aWR0aDogYXV0bzsKfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyCws7nfIL7Is7sKYG5wbSBydW4gZGV2YAoKYGBgCi91c3IvbG9jYWwvYXBhY2hlMi9zaXRlcy1hdmFpbGFibGUvaW5jbHVkZQoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIGNvbmZpZ3VyYXRpb24gZm9yIHdvcmRwcmVzcyBzdGFydApBbGlhcyAiL3YiIC9ob21lL3NtaWxlY2F0L2xkZXYtd3d3LmJpemhvd3MuY29tL3RvbWNhdC93ZWJhcHBzL1JPT1Qvdi1yZWFjdAo8RGlyZWN0b3J5IC9ob21lL3NtaWxlY2F0L2xkZXYtd3d3LmJpemhvd3MuY29tL3RvbWNhdC93ZWJhcHBzL1JPT1Qvdi1yZWFjdD4KICAgIEFsbG93T3ZlcnJpZGUgIEFsbAogICAgT3B0aW9ucyBGb2xsb3dTeW1MaW5rcwogICAgRGlyZWN0b3J5SW5kZXggaW5kZXguanNwCiAgICBSZXdyaXRlRW5naW5lIE9uCiAgICBSZXdyaXRlQmFzZSAvdi8KICAgIFJld3JpdGVSdWxlIF5pbmRleFwuanNwJCAtIFtMXQogICAgUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWYKICAgIFJld3JpdGVDb25kICV7UkVRVUVTVF9GSUxFTkFNRX0gIS1kCiAgICBSZXdyaXRlUnVsZSAuIC92L2luZGV4LmpzcCBbTF0KPC9EaXJlY3Rvcnk+CiMgY29uZmlndXJhdGlvbiBmb3Igd29yZHByZXNzIHN0YXJ0CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKYGBgCgpgc2VydmljZSBodHRwZCByZXN0YXJ0YAogICAgICAgICAgICAgICAgICAgICAgICAgCgotLS0KCgojILzCxsMKPmxpbnQ6IHJlY29tbWVuZGVkILyzwaQgseLB2MC4t84gwd+/5MfPwfYgvsqw7SCwybiuwPsgsMW4rrTCILDHIGRpc2FibGUgw9+woSDB3woKIyMgY29kZSBzcGxpdCAgCicvdicgwMzHzyC48LXOIHdlYnBhY2sgufi16bfOIL+ssOEgIAotIGxkZXYgvPbBpCDHyr/kx9QKCiMjIHN0b3J5Ym9vawq8s8Shx8+w7SDA3yC1ub7GsKG0wrDFIMiuwM64uCDH1ArIsLy6yK0gx9Igu/2woiDB9rHdIL74wL0KCiMjIGJyb3dzZXJzbGl0CgojIyBlc2xpbnQKaW50ZWxsaWogv6G8rSDA2rW/vPbBpMC4t84guq+w5sfPuOnBwcC9CgojIyBzdHlsZWxpbnQKCiMjIGh1c2t5CsS/udS9wyBsaW50IC0tZml4ILz2x+AKd2VicGFjayC69LXlILz2x+AKuvS15bDhsPogY29tbW9pdL+hIMb3x9QKCiMjIGJhYmVsCnN0eWxlCi0gZ3JpZCBmbGV4IGllMTAgyKPIr7XHtbW3zwoKCi0tLQoKCiMgvbrFuMDPCiMjIHN0eWxlZC1jb21wb25lbnQKvsbB1iBhdG9tIMfRIGNvbXBvbmVudLimILi4teW0wiC55rn9IMHfIMfPs6q3ziC757/rCgojIyBjc3MgbW9kdWxlCrHiuru757/rCgojIyBpbmxpbmUKx8q/5MfPtNm46SC757/rCgojIyB1dGlsCmNsYXNzbmFtZXMKCiMjIKSkpKQKxuTAzMH2v6EgZ2xvYmFsIGNzcyDA+7/rCgoKLS0tCgoKIyBzdG9yZQrHz7OqwMcgxuTAzMH2tMIgtc6ws8DHIHN0b3JluKYgsKHB9rW1t88KLSB1aSBjb250ZXh0IL/NIGJ1c2luZXNzIHN0b3JlILfOILrQuK4KCr7Gt6EgVG9vbCDB3yBCZXN0uKYgwMy9tCC047TnwNqwoSC8scXDCi0gcmVhY3QgY29udGV4dCBhcGkKLSByZWFjdCBob29rCi0gbW9ieAoKuPC15yBzdG9yZbTCIFByb3ZpZGVyu+e/68fPtMIgsM3AuLfOIMXrwM8KCgotLS0KCgojILXwt7rF5LiuILG4wbYKYGBgCqahc3JjCiAgICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqemoWF0b20KICAgIKaiICCmp6ahbW9sZWN1bGUKICAgIKaiICCmp6ahb3JnYW5pc21zCiAgICCmoiAgpqamoXRlbXBsYXRlCiAgICCmp6ahcGFnZQogICAgpqIgIKampqFvcHRpb24KICAgIKaiICAgICAgpqemoWNvbXBvbmVudAogICAgpqIgICAgICCmp6ahc2VydmljZQogICAgpqIgICAgICCmp6ahc3R5bGUKICAgIKaiICAgICAgpqamoXV0aWwKICAgIKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVzCiAgICCmp6ahc2VydmljZQogICAgpqemoXN0eWxlCiAgICCmpqahdXRpbApgYGAKCi0tLQoKCiMgxNq15SDEwbqlvMcKxuTAzMH2tMIgvNK5rsDaICctJwqzqrjTwfYguPC1ziC067muwNq3ziC9w8DbIMSruOHEycDMvboKCgotLS0KCgojILHixbgKKipqcXVlcnkgu+e/6yDHz8H2IL7KwL0qKgoKdXRpbAotIGF4aW9zCgoKLS0tCgoKIyDHz7DtIL3NwLogsM0KaG1yCnNjc3Mguq+89iB0c7+hvK0gY29tcG9uZW50wMcgc3R5dGUgv6Egu+e/6wpzY3NzIGFicyBwYXRoILyzwaQKLmVudgrF1726xq4gxNq15QoKCi0tLQoKCiMgVGlwCmpldGJyYWluCi0gdGVybWluYWwKICAgICsgc3RhcnQgcGF0aCBDOi9Xb3JrL01pcmlkaWgvZGV2LXdlYi9iaXpob3dzLXdlYi92LXJlYWN0ILfOIMH2waQ=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Jy4uLy4uLycK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVz</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4483,10 +4480,12 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Jy4uLy4uLycK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQyID0gdXNlQ29udGV4dChDT1VOVCkK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVz</text>
+        <text>function (v, k) {
+        return k.toLowerCase();
+    }</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -4644,7 +4643,19 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="5" enabled="true" />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
