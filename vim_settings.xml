@@ -110,11 +110,11 @@
     <globalmarks />
     <filemarks>
       <file name="/next.config.js" timestamp="1593524772547" />
-      <file name="D:/Code-Project/dutch-pay--web/src/service/api/SnapshotApi.ts" timestamp="1593510847516">
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="44" />
+      <file name="D:/Code-Project/dutch-pay--web/src/service/api/SnapshotApi.ts" timestamp="1593538792831">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="/package.json" timestamp="1593530692224" />
       <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593533954646">
@@ -124,11 +124,11 @@
         <mark key="." line="8" column="3" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/stores/dummy.json" timestamp="1593536549176" />
-      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593537894751">
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="63" column="41" />
-        <mark key="^" line="63" column="41" />
-        <mark key="." line="63" column="40" />
+      <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/dev/Dev.tsx" timestamp="1593538803585">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="57" column="32" />
+        <mark key="^" line="57" column="32" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/service/FireStore.ts" timestamp="1593531882624">
         <mark key="]" line="18" column="0" />
@@ -151,8 +151,8 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593534198086">
-        <mark key="[" line="1" column="2" />
+      <file name="/Dummy.txt" timestamp="1593539460299">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/components/lv3/display/report/ByTotal.tsx" timestamp="1593511390007">
         <mark key="[" line="40" column="42" />
