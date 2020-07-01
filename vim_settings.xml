@@ -116,11 +116,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="15" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowSizeHook.tsx" timestamp="1593594996962">
-        <mark key="[" line="7" column="105" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="18" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowSizeHook.tsx" timestamp="1593597213180">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="37" column="28" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/style/Var.scss" timestamp="1593587520626" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayMobile.tsx" timestamp="1593587823998">
@@ -172,11 +172,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.tsx" timestamp="1593595323994">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="35" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.tsx" timestamp="1593597217650">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="24" column="4" />
+        <mark key="^" line="24" column="4" />
+        <mark key="." line="24" column="3" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.module.scss" timestamp="1593589370514">
         <mark key="'" line="12" column="0" />
@@ -302,7 +302,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>w</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4192,7 +4192,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
