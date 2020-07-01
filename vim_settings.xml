@@ -146,11 +146,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593569306036">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="20" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593572143482">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="46" />
+        <mark key="^" line="24" column="46" />
+        <mark key="." line="24" column="45" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/util/UrlQueryStringUtil.ts" timestamp="1593418915869">
         <mark key="[" line="6" column="24" />
@@ -158,11 +158,11 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionControlAgent.ts" timestamp="1593570135972">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="62" />
-        <mark key="^" line="9" column="62" />
-        <mark key="." line="9" column="61" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionControlAgent.ts" timestamp="1593572280638">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="46" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593161336873">
         <mark key="[" line="32" column="11" />
@@ -195,10 +195,11 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreProvider.tsx" timestamp="1593158859408">
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="29" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/OptionControlModel.ts" timestamp="1593571532019">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreConsumer.tsx" timestamp="1593161850509">
         <mark key="[" line="27" column="38" />
@@ -313,7 +314,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>parse</text>
+        <text>object</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4203,7 +4204,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parse</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4222,7 +4223,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaW5pdCA9IGFzeW5jIChrZXk6IE1ldGFDb2RlRGF0YSk6IFByb21pc2U8dm9pZD4gPT4gewogICAgY29uc3Qgc3RhdGljQ29uZmlnOiBTdGF0aWNDb25maWdNb2RlbFJldHVyblR5cGUgPSBhd2FpdCBTdGF0aWNDb25maWdBZ2VudC5mZXRjaChrZXkpOwogICAgY29uc29sZS5sb2coJzwgc3RhdGljIGNvbmZpZyA+Jywgc3RhdGljQ29uZmlnKTsKCiAgICAvL3N0b3JlIGNvbnRleHQgaW5pdCDAuyC/qbHivK0gx9i+38fSsMUgsLDAurXwCn07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IGF3YWl0IGF4aW9zLnBvc3QoQVBJLCBxcy5zdHJpbmdpZnkocmVxdWVzdFBhcmFtZXRlci5kYXRhKSk7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICA=</text>
