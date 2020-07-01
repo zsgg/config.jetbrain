@@ -127,17 +127,17 @@
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="2" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593161324359">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-        <mark key="." line="22" column="43" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593580040483">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="57" column="62" />
+        <mark key="^" line="57" column="62" />
+        <mark key="." line="57" column="61" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1593421302390">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="20" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1593581137848">
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="47" column="13" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="47" column="13" />
       </file>
       <file name="/package.json" timestamp="1593569119754" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593421307385">
@@ -146,11 +146,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593572143482">
-        <mark key="[" line="24" column="47" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-        <mark key="." line="24" column="45" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593580847850">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="30" />
+        <mark key="^" line="41" column="30" />
+        <mark key="." line="41" column="29" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/util/UrlQueryStringUtil.ts" timestamp="1593418915869">
         <mark key="[" line="6" column="24" />
@@ -158,17 +158,11 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionControlAgent.ts" timestamp="1593572280638">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="12" column="41" />
-        <mark key="." line="12" column="46" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593161336873">
-        <mark key="[" line="32" column="11" />
-        <mark key="]" line="35" column="27" />
-        <mark key="^" line="35" column="27" />
-        <mark key="." line="35" column="26" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionControlAgent.ts" timestamp="1593580038562">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/app.tsx" timestamp="1593569157485" />
       <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/index.tsx" timestamp="1593389448090">
@@ -177,6 +171,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/option/resource/js/opt/option.ts" timestamp="1593580272514" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionAgent.ts" timestamp="1593414612342">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -314,7 +309,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>`</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4204,7 +4199,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4223,28 +4218,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IGF3YWl0IGF4aW9zLnBvc3QoQVBJLCBxcy5zdHJpbmdpZnkocmVxdWVzdFBhcmFtZXRlci5kYXRhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ2YWx1ZTEiOiAiJHt0aGlzLnBhcmVudFN0b3JlLnNlbGVjdGVkT3B0aW9uLnZhbHVlMX0iLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICA=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">IHsKICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Lm5hdnsKCiAgYmFja2dyb3VuZDogd2hpdGU7CiAgLml0ZW17CiAgICAmLmlzU2VsZWN0ZWR7CiAgICAgIGNvbG9yOiByZWQ7CiAgICB9CiAgfQp9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">JXNlY3Rpb24gewogIG1hcmdpbjogYXV0bzsKICBtYXgtd2lkdGg6ICRkZXNrdG9wLW1heC13aWR0aDsKICB3aWR0aDogYXV0bzsKfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyCws7nfIL7Is7sKYG5wbSBydW4gZGV2YAoKYGBgCi91c3IvbG9jYWwvYXBhY2hlMi9zaXRlcy1hdmFpbGFibGUvaW5jbHVkZQoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIGNvbmZpZ3VyYXRpb24gZm9yIHdvcmRwcmVzcyBzdGFydApBbGlhcyAiL3YiIC9ob21lL3NtaWxlY2F0L2xkZXYtd3d3LmJpemhvd3MuY29tL3RvbWNhdC93ZWJhcHBzL1JPT1Qvdi1yZWFjdAo8RGlyZWN0b3J5IC9ob21lL3NtaWxlY2F0L2xkZXYtd3d3LmJpemhvd3MuY29tL3RvbWNhdC93ZWJhcHBzL1JPT1Qvdi1yZWFjdD4KICAgIEFsbG93T3ZlcnJpZGUgIEFsbAogICAgT3B0aW9ucyBGb2xsb3dTeW1MaW5rcwogICAgRGlyZWN0b3J5SW5kZXggaW5kZXguanNwCiAgICBSZXdyaXRlRW5naW5lIE9uCiAgICBSZXdyaXRlQmFzZSAvdi8KICAgIFJld3JpdGVSdWxlIF5pbmRleFwuanNwJCAtIFtMXQogICAgUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWYKICAgIFJld3JpdGVDb25kICV7UkVRVUVTVF9GSUxFTkFNRX0gIS1kCiAgICBSZXdyaXRlUnVsZSAuIC92L2luZGV4LmpzcCBbTF0KPC9EaXJlY3Rvcnk+CiMgY29uZmlndXJhdGlvbiBmb3Igd29yZHByZXNzIHN0YXJ0CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKYGBgCgpgc2VydmljZSBodHRwZCByZXN0YXJ0YAogICAgICAgICAgICAgICAgICAgICAgICAgCgotLS0KCgojILzCxsMKPmxpbnQ6IHJlY29tbWVuZGVkILyzwaQgseLB2MC4t84gwd+/5MfPwfYgvsqw7SCwybiuwPsgsMW4rrTCILDHIGRpc2FibGUgw9+woSDB3woKIyMgY29kZSBzcGxpdCAgCicvdicgwMzHzyC48LXOIHdlYnBhY2sgufi16bfOIL+ssOEgIAotIGxkZXYgvPbBpCDHyr/kx9QKCiMjIHN0b3J5Ym9vawq8s8Shx8+w7SDA3yC1ub7GsKG0wrDFIMiuwM64uCDH1ArIsLy6yK0gx9Igu/2woiDB9rHdIL74wL0KCiMjIGJyb3dzZXJzbGl0CgojIyBlc2xpbnQKaW50ZWxsaWogv6G8rSDA2rW/vPbBpMC4t84guq+w5sfPuOnBwcC9CgojIyBzdHlsZWxpbnQKCiMjIGh1c2t5CsS/udS9wyBsaW50IC0tZml4ILz2x+AKd2VicGFjayC69LXlILz2x+AKuvS15bDhsPogY29tbW9pdL+hIMb3x9QKCiMjIGJhYmVsCnN0eWxlCi0gZ3JpZCBmbGV4IGllMTAgyKPIr7XHtbW3zwoKCi0tLQoKCiMgvbrFuMDPCiMjIHN0eWxlZC1jb21wb25lbnQKvsbB1iBhdG9tIMfRIGNvbXBvbmVudLimILi4teW0wiC55rn9IMHfIMfPs6q3ziC757/rCgojIyBjc3MgbW9kdWxlCrHiuru757/rCgojIyBpbmxpbmUKx8q/5MfPtNm46SC757/rCgojIyB1dGlsCmNsYXNzbmFtZXMKCiMjIKSkpKQKxuTAzMH2v6EgZ2xvYmFsIGNzcyDA+7/rCgoKLS0tCgoKIyBzdG9yZQrHz7OqwMcgxuTAzMH2tMIgtc6ws8DHIHN0b3JluKYgsKHB9rW1t88KLSB1aSBjb250ZXh0IL/NIGJ1c2luZXNzIHN0b3JlILfOILrQuK4KCr7Gt6EgVG9vbCDB3yBCZXN0uKYgwMy9tCC047TnwNqwoSC8scXDCi0gcmVhY3QgY29udGV4dCBhcGkKLSByZWFjdCBob29rCi0gbW9ieAoKuPC15yBzdG9yZbTCIFByb3ZpZGVyu+e/68fPtMIgsM3AuLfOIMXrwM8KCgotLS0KCgojILXwt7rF5LiuILG4wbYKYGBgCqahc3JjCiAgICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqemoWF0b20KICAgIKaiICCmp6ahbW9sZWN1bGUKICAgIKaiICCmp6ahb3JnYW5pc21zCiAgICCmoiAgpqamoXRlbXBsYXRlCiAgICCmp6ahcGFnZQogICAgpqIgIKampqFvcHRpb24KICAgIKaiICAgICAgpqemoWNvbXBvbmVudAogICAgpqIgICAgICCmp6ahc2VydmljZQogICAgpqIgICAgICCmp6ahc3R5bGUKICAgIKaiICAgICAgpqamoXV0aWwKICAgIKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVzCiAgICCmp6ahc2VydmljZQogICAgpqemoXN0eWxlCiAgICCmpqahdXRpbApgYGAKCi0tLQoKCiMgxNq15SDEwbqlvMcKxuTAzMH2tMIgvNK5rsDaICctJwqzqrjTwfYguPC1ziC067muwNq3ziC9w8DbIMSruOHEycDMvboKCgotLS0KCgojILHixbgKKipqcXVlcnkgu+e/6yDHz8H2IL7KwL0qKgoKdXRpbAotIGF4aW9zCgoKLS0tCgoKIyDHz7DtIL3NwLogsM0KaG1yCnNjc3Mguq+89iB0c7+hvK0gY29tcG9uZW50wMcgc3R5dGUgv6Egu+e/6wpzY3NzIGFicyBwYXRoILyzwaQKLmVudgrF1726xq4gxNq15QoKCi0tLQoKCiMgVGlwCmpldGJyYWluCi0gdGVybWluYWwKICAgICsgc3RhcnQgcGF0aCBDOi9Xb3JrL01pcmlkaWgvZGV2LXdlYi9iaXpob3dzLXdlYi92LXJlYWN0ILfOIMH2waQ=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Jy4uLy4uLycK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVz</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4497,13 +4492,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQyID0gdXNlQ29udGV4dChDT1VOVCkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVz</text>
       </register>
-      <register name="9" type="4">
-        <text>function (v, k) {
-        return k.toLowerCase();
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNvbnRleHQyID0gdXNlQ29udGV4dChDT1VOVCkK</text>
       </register>
       <register name="y" type="4">
         <keys>
