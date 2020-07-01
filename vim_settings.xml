@@ -110,7 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593161251690">
+      <file name="/Dummy.txt" timestamp="1593569406651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
@@ -121,17 +121,11 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593153318107">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="83" />
-        <mark key="^" line="5" column="83" />
-        <mark key="." line="5" column="82" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreConsumer.ts" timestamp="1593158586454">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="25" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/StaticConfigAgent.ts" timestamp="1593569281709">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="2" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593161324359">
         <mark key="[" line="17" column="0" />
@@ -139,17 +133,36 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="43" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593159732539">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1593421302390">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="20" />
+      </file>
+      <file name="/package.json" timestamp="1593569119754" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593421307385">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="8" />
+        <mark key="^" line="7" column="8" />
+        <mark key="." line="7" column="7" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593569306036">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1593157217578">
-        <mark key="[" line="45" column="47" />
-        <mark key="]" line="45" column="48" />
-        <mark key="^" line="45" column="48" />
-        <mark key="." line="45" column="47" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/util/UrlQueryStringUtil.ts" timestamp="1593418915869">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionControlAgent.ts" timestamp="1593570135972">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="9" column="62" />
+        <mark key="." line="9" column="61" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593161336873">
         <mark key="[" line="32" column="11" />
@@ -157,26 +170,30 @@
         <mark key="^" line="35" column="27" />
         <mark key="." line="35" column="26" />
       </file>
+      <file name="/app.tsx" timestamp="1593569157485" />
       <file name="C:/Work/Miridih/dev-web/smilecat-hyweb/photo_app/src/index.tsx" timestamp="1593389448090">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/StaticConfigStore.ts" timestamp="1593156294845">
-        <mark key="[" line="4" column="4" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/OptionAgent.ts" timestamp="1593414612342">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="11" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593155666711">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="21" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/UrlQueryString.ts" timestamp="1593420042262">
+        <mark key="[" line="13" column="62" />
+        <mark key="]" line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+        <mark key="." line="14" column="62" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/RootAgent.ts" timestamp="1593158090424">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionStore.ts" timestamp="1593411764959">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreProvider.tsx" timestamp="1593158859408">
         <mark key="]" line="4" column="30" />
@@ -296,7 +313,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>parse</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4186,7 +4203,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>parse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4643,19 +4660,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
