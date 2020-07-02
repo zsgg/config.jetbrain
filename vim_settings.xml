@@ -110,24 +110,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile-option-layer/MMM.tsx" timestamp="1593656215256">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="6" column="38" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile-option-layer/OptionItemLayout.tsx" timestamp="1593653687344">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="22" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" timestamp="1593669849743">
+        <mark key="'" line="1" column="39" />
+        <mark key="[" line="14" column="49" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1593664296392" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile-option-layer/Index.tsx" timestamp="1593654027831">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="19" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1593667684448">
+        <mark key="[" line="45" column="48" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="34" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/sa/Photo.ts" timestamp="1593663462368">
         <mark key="]" line="17" column="0" />
@@ -141,11 +133,11 @@
         <mark key="." line="10" column="16" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/review/commodity/listing/listing_reviews_main.ts" timestamp="1593664462513" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593666547896">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="14" column="10" />
-        <mark key="^" line="14" column="10" />
-        <mark key="." line="14" column="9" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593669256087">
+        <mark key="[" line="55" column="47" />
+        <mark key="]" line="55" column="48" />
+        <mark key="^" line="55" column="48" />
+        <mark key="." line="55" column="47" />
       </file>
       <file name="/Dummy.txt" timestamp="1593665682630">
         <mark key="[" line="0" column="0" />
@@ -170,6 +162,12 @@
         <mark key="]" line="34" column="58" />
         <mark key="^" line="34" column="58" />
         <mark key="." line="34" column="57" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.module.scss" timestamp="1593668727943">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1593662642373" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593665667669">
@@ -204,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="48" filename="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/step3_main.ts" />
-      <jump line="188" column="12" filename="C:/Work/Miridih/dev-web/bizhows-web/common/global/util/opener/full_modal_ctrl.ts" />
       <jump line="0" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/step3_main.ts" />
       <jump line="594" column="3" filename="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" />
       <jump line="0" column="32" filename="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" />
@@ -304,12 +300,14 @@
       <jump line="7" column="19" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.tsx" />
       <jump line="41" column="58" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" />
       <jump line="12" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.module.scss" />
+      <jump line="46" column="15" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" />
+      <jump line="1" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pi4uLjwv</text>
+        <text>true</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4199,7 +4197,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pi4uLjwv</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4218,7 +4216,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRPcHRpb25JdGVtQ29uZmlnID0gc3RhdGljQ29uZmlnLmZpbmRVaU9wdGlvblNlbGVjdG9yKG9wdGlvbkl0ZW0udGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0YXRlIH0gPSB0aGlzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRPcHRpb25JdGVtQ29uZmlnID0gc3RhdGljQ29uZmlnLmZpbmRVaU9wdGlvblNlbGVjdG9yKG9wdGlvbkl0ZW0udGl0bGUpOwo=</text>
