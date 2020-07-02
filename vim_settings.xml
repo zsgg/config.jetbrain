@@ -110,39 +110,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1593597882069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.module.scss" timestamp="1593595133226">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="29" column="16" />
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="15" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowSizeHook.tsx" timestamp="1593597213180">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="37" column="29" />
-        <mark key="^" line="37" column="29" />
-        <mark key="." line="37" column="28" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/style/Var.scss" timestamp="1593587520626" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayMobile.tsx" timestamp="1593587823998">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="95" />
-        <mark key="^" line="22" column="95" />
-        <mark key="." line="22" column="94" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayDesktop.tsx" timestamp="1593587787298">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="27" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ShowDesktop.tsx" timestamp="1593586745082">
-        <mark key="[" line="3" column="29" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/_sample/component/mobx-react--case1/CountContext.ts" timestamp="1593592864073" />
-      <file name="/Dummy.txt" timestamp="1593597882069">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593593187386">
         <mark key="'" line="1" column="58" />
@@ -150,6 +127,12 @@
         <mark key="]" line="58" column="92" />
         <mark key="^" line="58" column="92" />
         <mark key="." line="58" column="91" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowSizeHook.tsx" timestamp="1593597213180">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="37" column="29" />
+        <mark key="^" line="37" column="29" />
+        <mark key="." line="37" column="28" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593586153917">
         <mark key="[" line="68" column="24" />
@@ -172,11 +155,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.tsx" timestamp="1593597787750">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="82" />
-        <mark key="." line="0" column="19" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.tsx" timestamp="1593651807285">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="67" />
+        <mark key="^" line="11" column="67" />
+        <mark key="." line="11" column="66" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.module.scss" timestamp="1593589370514">
         <mark key="'" line="12" column="0" />
@@ -188,8 +171,22 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/layout/Section01Desktop.tsx" timestamp="1593587716503">
         <mark key="[" line="12" column="36" />
       </file>
-      <file name="C:/zsgg/dutch-pay--web/src/components/layout/MainLayout.tsx" timestamp="1593589704618" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayMobile.tsx" timestamp="1593587823998">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="95" />
+        <mark key="^" line="22" column="95" />
+        <mark key="." line="22" column="94" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayDesktop.tsx" timestamp="1593587787298">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+        <mark key="." line="21" column="27" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ShowMobile.tsx" timestamp="1593586752132">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ShowDesktop.tsx" timestamp="1593586745082">
         <mark key="[" line="3" column="29" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/layout/Section02Desktop.tsx" timestamp="1593587720171">
