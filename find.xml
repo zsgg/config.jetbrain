@@ -19,5 +19,6 @@
     <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*repository.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
