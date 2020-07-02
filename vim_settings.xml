@@ -110,7 +110,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" timestamp="1593669849743">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" timestamp="1593670290509">
         <mark key="'" line="1" column="39" />
         <mark key="[" line="14" column="49" />
       </file>
@@ -133,11 +133,8 @@
         <mark key="." line="10" column="16" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/review/commodity/listing/listing_reviews_main.ts" timestamp="1593664462513" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593669256087">
-        <mark key="[" line="55" column="47" />
-        <mark key="]" line="55" column="48" />
-        <mark key="^" line="55" column="48" />
-        <mark key="." line="55" column="47" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593670790960">
+        <mark key="[" line="41" column="93" />
       </file>
       <file name="/Dummy.txt" timestamp="1593665682630">
         <mark key="[" line="0" column="0" />
@@ -157,11 +154,11 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="2" column="54" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Index.tsx" timestamp="1593658810841">
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="34" column="58" />
-        <mark key="^" line="34" column="58" />
-        <mark key="." line="34" column="57" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Index.tsx" timestamp="1593670886367">
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.module.scss" timestamp="1593668727943">
         <mark key="[" line="5" column="10" />
