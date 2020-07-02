@@ -110,11 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile-option-layer/MMM.tsx" timestamp="1593653882523">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="5" column="48" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="47" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile-option-layer/MMM.tsx" timestamp="1593656215256">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="37" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.module.scss" timestamp="1593595133226">
         <mark key="[" line="25" column="14" />
@@ -142,13 +142,19 @@
         <mark key="." line="28" column="19" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile-option-layer/OptionLayer.tsx" timestamp="1593652929152" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593653846448">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="12" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.module.scss" timestamp="1593657386143">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="5" column="25" />
+        <mark key="^" line="5" column="25" />
+        <mark key="." line="5" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593652889592">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593656875663">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="11" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593657193269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
@@ -158,34 +164,18 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593654089534">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593657106130">
         <mark key="'" line="1" column="58" />
-        <mark key="[" line="22" column="55" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="22" column="59" />
-        <mark key="." line="22" column="58" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1593587861849">
-        <mark key="[" line="7" column="17" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowWidthHeightHook.tsx" timestamp="1593592627978">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="23" />
+        <mark key="[" line="2" column="54" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="2" column="55" />
+        <mark key="." line="2" column="54" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.tsx" timestamp="1593651807285">
         <mark key="[" line="11" column="52" />
         <mark key="]" line="11" column="67" />
         <mark key="^" line="11" column="67" />
         <mark key="." line="11" column="66" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.module.scss" timestamp="1593589370514">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -294,7 +284,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4184,7 +4174,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4203,7 +4193,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgUmV0dXJuID0geyBpbm5lcldpZHRoOiBudW1iZXI7IGlubmVySGVpZ2h0OiBudW1iZXIgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4uLi48L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZUVmZmVjdCgoKT0+eyAKICAgICAgICAKICAgIH0pOwo=</text>
