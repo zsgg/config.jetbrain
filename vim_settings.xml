@@ -110,17 +110,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/UIRootStore.ts" timestamp="1593755137026">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="29" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="28" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593761000603">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593761065050">
         <mark key="[" line="132" column="22" />
-        <mark key="]" line="96" column="28" />
-        <mark key="^" line="96" column="28" />
-        <mark key="." line="96" column="27" />
+        <mark key="]" line="158" column="33" />
+        <mark key="^" line="158" column="33" />
+        <mark key="." line="158" column="32" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/package.json" timestamp="1593756131163" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/layout/OptionControlItemLayout.tsx" timestamp="1593758360537">
@@ -129,13 +123,36 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593752686334">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.tsx" timestamp="1593764407156">
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="22" column="43" />
+        <mark key="^" line="22" column="43" />
+        <mark key="." line="22" column="42" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593762963687">
         <mark key="[" line="13" column="34" />
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593752527601" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionItemLayout.tsx" timestamp="1593764079285">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="109" />
+        <mark key="^" line="20" column="109" />
+        <mark key="." line="20" column="108" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593763915036">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="20" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.module.scss" timestamp="1593764137875">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/DeliveryStore.ts" timestamp="1593760069441">
         <mark key="[" line="26" column="65" />
         <mark key="]" line="24" column="41" />
@@ -148,8 +165,12 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/Message.tsx" timestamp="1593752842608" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1593752301169" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1593763329810">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="46" column="36" />
+        <mark key="^" line="46" column="36" />
+        <mark key="." line="46" column="35" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/OptionItemLayout.tsx" timestamp="1593758341356">
         <mark key="[" line="49" column="16" />
         <mark key="]" line="49" column="23" />
@@ -180,7 +201,6 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1593754941243" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593755829205">
         <mark key="[" line="38" column="54" />
         <mark key="]" line="21" column="57" />
@@ -307,7 +327,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>Select</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4197,7 +4217,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Select</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4216,7 +4236,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcyA9IChidXR0b25SZWYuY3VycmVudCBhcyBIVE1MRWxlbWVudCkuc3R5bGU7Cg==</text>
+        <text encoding="base64">bGFiZWxNYXAuc2V0KExhYmVsVHlwZS5TZWxlY3QsIChwcm9wcykgPT4gPExhYmVsIHsuLi5wcm9wc30gLz4pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBib3JkZXItdG9wLXdpZHRoOiAxcHg7CiAgYm9yZGVyLXRvcC1zdHlsZTogc29saWQ7Cg==</text>
