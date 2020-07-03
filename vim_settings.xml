@@ -110,48 +110,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/UIRootStore.ts" timestamp="1593679135327">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="29" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="28" />
-      </file>
       <file name="vim_settings.xml" timestamp="1593739810939">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" timestamp="1593677922736">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="21" column="46" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="21" column="46" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593740494653">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="25" column="36" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/sss.ts" timestamp="1593742696120" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593745068491">
+        <mark key="[" line="33" column="64" />
+        <mark key="]" line="61" column="38" />
+        <mark key="^" line="61" column="38" />
+        <mark key="." line="61" column="37" />
       </file>
       <file name="C:/zsgg/dutch-pay--web/.env" timestamp="1593739712181" />
       <file name="C:/zsgg/dutch-pay--web/.env.development" timestamp="1593739714101" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/AsyncError.ts" timestamp="1593742911657">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593740562030">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="66" />
         <mark key="^" line="22" column="66" />
         <mark key="." line="22" column="65" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/hook/WindowResizeHook.tsx" timestamp="1593677859062">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="17" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/webpack.config.common.js" timestamp="1593744383714">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593680341012">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/OptionItemLayout.tsx" timestamp="1593745137882">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="25" />
+        <mark key="^" line="32" column="25" />
+        <mark key="." line="32" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593743296186">
+        <mark key="[" line="0" column="42" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreContext.ts" timestamp="1593740608685" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/AsyncError.tsx" timestamp="1593742853723">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="50" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593740664111">
         <mark key="'" line="1" column="58" />
         <mark key="[" line="28" column="8" />
@@ -159,38 +165,25 @@
         <mark key="^" line="28" column="49" />
         <mark key="." line="28" column="48" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Index.tsx" timestamp="1593678263010">
-        <mark key="^" line="40" column="27" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.module.scss" timestamp="1593743928866">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="53" column="20" />
+        <mark key="^" line="53" column="20" />
+        <mark key="." line="53" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.module.scss" timestamp="1593676564968">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="3" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStore.ts" timestamp="1593743157804">
+        <mark key="[" line="80" column="48" />
+        <mark key="]" line="80" column="56" />
+        <mark key="^" line="80" column="56" />
+        <mark key="." line="80" column="55" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.module.scss" timestamp="1593681390179">
-        <mark key="[" line="63" column="28" />
-        <mark key="]" line="64" column="16" />
-        <mark key="^" line="64" column="16" />
-        <mark key="." line="64" column="15" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593679133136">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="19" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/Message.module.scss" timestamp="1593679060842">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="12" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/hook/AsyncErrorHook.ts" timestamp="1593742942701" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/Index.tsx" timestamp="1593740776512">
         <mark key="]" line="15" column="22" />
         <mark key="^" line="15" column="22" />
         <mark key="." line="15" column="21" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreConsumer.tsx" timestamp="1593742979144" />
     </filemarks>
     <jumps>
       <jump line="594" column="3" filename="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" />
@@ -298,7 +291,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4188,7 +4181,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
