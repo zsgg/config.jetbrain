@@ -116,10 +116,8 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593680341012">
+      <file name="vim_settings.xml" timestamp="1593739810939">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" timestamp="1593677922736">
         <mark key="'" line="23" column="34" />
@@ -128,10 +126,33 @@
         <mark key="." line="21" column="45" />
         <mark key="^" line="21" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1593676141922">
-        <mark key="[" line="0" column="1" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593740494653">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="36" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593680442383">
+      <file name="C:/zsgg/dutch-pay--web/.env" timestamp="1593739712181" />
+      <file name="C:/zsgg/dutch-pay--web/.env.development" timestamp="1593739714101" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/MockController.ts" timestamp="1593740562030">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="66" />
+        <mark key="^" line="22" column="66" />
+        <mark key="." line="22" column="65" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/hook/WindowResizeHook.tsx" timestamp="1593677859062">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593680341012">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/RootStoreContext.ts" timestamp="1593740608685" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593740664111">
         <mark key="'" line="1" column="58" />
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="49" />
@@ -140,12 +161,6 @@
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Index.tsx" timestamp="1593678263010">
         <mark key="^" line="40" column="27" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593681376328">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="25" column="37" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="25" column="36" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.module.scss" timestamp="1593676564968">
         <mark key="[" line="21" column="0" />
@@ -159,37 +174,17 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="15" />
       </file>
-      <file name="C:/zsgg/dutch-pay--web/.env" timestamp="1593739712181" />
-      <file name="C:/zsgg/dutch-pay--web/.env.development" timestamp="1593739714101" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593679133136">
         <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="20" />
         <mark key="^" line="16" column="20" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/hook/WindowResizeHook.tsx" timestamp="1593677859062">
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="17" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/Message.module.scss" timestamp="1593679060842">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="13" />
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="12" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/ButtonClose.tsx" timestamp="1593676133769">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="9" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/OptionItemLayout.tsx" timestamp="1593674303619">
-        <mark key="[" line="45" column="78" />
-        <mark key="]" line="45" column="72" />
-        <mark key="^" line="45" column="72" />
-        <mark key="." line="45" column="71" />
       </file>
     </filemarks>
     <jumps>
