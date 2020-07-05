@@ -115,8 +115,10 @@
         <mark key="^" line="20" column="71" />
         <mark key="." line="20" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593926727189">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1593942946617">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/service/UrlQueryString.ts" timestamp="1593791192219">
         <mark key="[" line="6" column="13" />
@@ -288,11 +290,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj5wcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19EREQ6IHtwcm9jZXNzLmVudi5ORVhUX1BVQkxJQ19ERER9PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>정</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>정</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
