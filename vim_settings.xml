@@ -109,60 +109,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/Code-Project/dutch-pay--web/src/component/display/report/DisplayReportModal.tsx" timestamp="1593794205264">
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="100" column="21" />
-        <mark key="." line="100" column="20" />
-        <mark key="^" line="100" column="21" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/service/HashQuery.ts" timestamp="1593794095824">
-        <mark key="[" line="45" column="53" />
-        <mark key="]" line="46" column="27" />
-        <mark key="^" line="46" column="27" />
-        <mark key="." line="46" column="26" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/.env" timestamp="1593795984028" />
       <file name="D:/Code-Project/dutch-pay--web/src/service/SearchQuery.ts" timestamp="1593793714263">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="71" />
         <mark key="^" line="20" column="71" />
         <mark key="." line="20" column="70" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/component/friend/FriendPlus.tsx" timestamp="1593787800957" />
-      <file name="D:/Work/Miridih/bizhows-web/v-react/src/page/option/service/UrlQueryString.ts" timestamp="1593792228759" />
-      <file name="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" timestamp="1593793974808">
-        <mark key="[" line="54" column="36" />
-        <mark key="]" line="54" column="36" />
-        <mark key="^" line="54" column="36" />
-        <mark key="." line="54" column="35" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/component/dev/Dev.tsx" timestamp="1593794912848">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/context/UiContext.ts" timestamp="1593787936233">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="10" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/package.json" timestamp="1593794739716">
-        <mark key="[" line="44" column="20" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593794322298">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="8" column="3" />
-      </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/context/UiRootStoreConsumer.tsx" timestamp="1593788342356">
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="21" column="2" />
-        <mark key="^" line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593796749291">
+      <file name="/Dummy.txt" timestamp="1593926727189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Code-Project/dutch-pay--web/src/service/UrlQueryString.ts" timestamp="1593791192219">
@@ -181,6 +134,12 @@
         <mark key="^" line="43" column="20" />
         <mark key="." line="43" column="19" />
       </file>
+      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593794322298">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="8" column="3" />
+      </file>
       <file name="D:/Code-Project/dutch-pay--web/src/context/UiRootStore.ts" timestamp="1593792517722">
         <mark key="[" line="23" column="43" />
         <mark key="]" line="23" column="54" />
@@ -193,7 +152,46 @@
         <mark key="^" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/Code-Project/dutch-pay--web/src/service/api/FireStore.ts" timestamp="1593795868678">
+      <file name="D:/Code-Project/dutch-pay--web/src/component/display/report/DisplayReportModal.tsx" timestamp="1593926570204">
+        <mark key="[" line="55" column="77" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="38" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/service/HashQuery.ts" timestamp="1593926618220">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="25" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/context/UiRootStoreConsumer.tsx" timestamp="1593788342356">
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="22" column="0" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/.env" timestamp="1593927108679" />
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" timestamp="1593793974808">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="36" />
+        <mark key="^" line="54" column="36" />
+        <mark key="." line="54" column="35" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/dev/Dev.tsx" timestamp="1593927630641">
+        <mark key="[" line="171" column="17" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/context/UiContext.ts" timestamp="1593787936233">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="14" column="10" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/package.json" timestamp="1593794739716">
+        <mark key="[" line="44" column="20" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/service/api/FireStore.ts" timestamp="1593927073539">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="1" column="38" />
         <mark key="^" line="1" column="38" />
