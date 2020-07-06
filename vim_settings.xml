@@ -110,17 +110,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/SelectedOptionFactory.tsx" timestamp="1594011627458" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/SelectedOptionFactory.tsx" timestamp="1594013628340" />
       <file name="/a.dummy" timestamp="1594011000777">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/SelectOptionFactory.tsx" timestamp="1594012207445">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="40" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="13" column="39" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/SelectOptionFactory.tsx" timestamp="1594013633757">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1594012271150">
         <mark key="[" line="100" column="14" />
@@ -299,7 +299,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bottom</text>
+        <text>LabelType</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4189,7 +4189,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bottom</text>
+        <text>LabelType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
