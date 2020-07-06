@@ -176,11 +176,11 @@
         <mark key="^" line="16" column="46" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593763915036">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="35" column="20" />
-        <mark key="." line="35" column="19" />
-        <mark key="^" line="35" column="20" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1594004437300">
+        <mark key="[" line="45" column="80" />
+        <mark key="]" line="45" column="68" />
+        <mark key="." line="45" column="67" />
+        <mark key="^" line="45" column="68" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/OptionItemLayout.tsx" timestamp="1593998889117">
         <mark key="[" line="22" column="59" />
@@ -206,11 +206,11 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="40" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.tsx" timestamp="1594001745601">
-        <mark key="[" line="18" column="79" />
-        <mark key="]" line="18" column="80" />
-        <mark key="." line="18" column="79" />
-        <mark key="^" line="18" column="80" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.tsx" timestamp="1594003924645">
+        <mark key="[" line="36" column="69" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -318,8 +318,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLXJvd3M6IDFmcjsK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4209,7 +4209,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4228,7 +4228,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBncmlkLXRlbXBsYXRlLXJvd3M6IDFmcjsK</text>
+        <text encoding="base64">ICAgIHdpZHRoQ3VzdG9tU2l6ZUNsaWNrSGFuZGxlcjogKCkgPT4gdm9pZDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBib3JkZXItdG9wLXdpZHRoOiAxcHg7CiAgYm9yZGVyLXRvcC1zdHlsZTogc29saWQ7Cg==</text>
