@@ -110,94 +110,111 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.module.scss" timestamp="1593595133226">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="29" column="16" />
-        <mark key="^" line="29" column="16" />
-        <mark key="." line="29" column="15" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593761065050">
+        <mark key="[" line="132" column="22" />
+        <mark key="]" line="158" column="33" />
+        <mark key="^" line="158" column="33" />
+        <mark key="." line="158" column="32" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowSizeHook.tsx" timestamp="1593597213180">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="37" column="29" />
-        <mark key="^" line="37" column="29" />
-        <mark key="." line="37" column="28" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/IconClose.tsx" timestamp="1593766052317">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="1" />
+        <mark key="^" line="9" column="2" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayMobile.tsx" timestamp="1593587823998">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="95" />
-        <mark key="^" line="22" column="95" />
-        <mark key="." line="22" column="94" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.tsx" timestamp="1593770803683">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="33" />
+        <mark key="^" line="35" column="34" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/ThumbnailDisplayDesktop.tsx" timestamp="1593587787298">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-        <mark key="." line="21" column="27" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1593762963687">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="19" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ShowDesktop.tsx" timestamp="1593586745082">
-        <mark key="[" line="3" column="29" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionItemLayout.tsx" timestamp="1593770732157">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="39" column="27" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/class-transformer/sample/sample2-iheritance/Photo.ts" timestamp="1593663432605" />
-      <file name="/Dummy.txt" timestamp="1593593336640">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593763915036">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="19" />
+        <mark key="^" line="35" column="20" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.module.scss" timestamp="1593771016225">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="17" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/DeliveryStore.ts" timestamp="1593760069441">
+        <mark key="[" line="26" column="65" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="40" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/UnderlineButton.module.scss" timestamp="1593759889815">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="17" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/Message.tsx" timestamp="1593767682330">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="25" column="72" />
+        <mark key="." line="25" column="71" />
+        <mark key="^" line="25" column="72" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1593763329810">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="46" column="36" />
+        <mark key="^" line="46" column="36" />
+        <mark key="." line="46" column="35" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/OptionItemLayout.tsx" timestamp="1593772267920">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="48" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593771042892">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593593187386">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/Icon.tsx" timestamp="1593769521698">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="8" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593760321022">
         <mark key="'" line="1" column="58" />
-        <mark key="[" line="58" column="70" />
-        <mark key="]" line="58" column="92" />
-        <mark key="^" line="58" column="92" />
-        <mark key="." line="58" column="91" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="22" column="59" />
+        <mark key="^" line="28" column="49" />
+        <mark key="." line="22" column="59" />
       </file>
-      <file name="C:/zsgg/private.zsgg.github.io/code/frontend-start-kit/class-transformer/src/decorators.ts" timestamp="1593664523164">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.module.scss" timestamp="1593759891073">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1593587861849">
-        <mark key="[" line="7" column="17" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/UnderlineButton.tsx" timestamp="1593767531620">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="46" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/index.tsx" timestamp="1593586836470">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="40" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/WindowWidthHeightHook.tsx" timestamp="1593592627978">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="23" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/MobileOptionLayer.tsx" timestamp="1593597217650">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-        <mark key="." line="24" column="3" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.module.scss" timestamp="1593589370514">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="17" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/layout/Section01Desktop.tsx" timestamp="1593587716503">
-        <mark key="[" line="12" column="36" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/ShowMobile.tsx" timestamp="1593586752132">
-        <mark key="[" line="3" column="29" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/layout/Section02Desktop.tsx" timestamp="1593587720171">
-        <mark key="[" line="7" column="36" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.tsx" timestamp="1593760305410" />
     </filemarks>
     <jumps>
-      <jump line="187" column="48" filename="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/step3_main.ts" />
-      <jump line="188" column="12" filename="C:/Work/Miridih/dev-web/bizhows-web/common/global/util/opener/full_modal_ctrl.ts" />
-      <jump line="0" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/printing/resource/js/step3_cart/step3_main.ts" />
       <jump line="594" column="3" filename="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" />
       <jump line="0" column="32" filename="C:/Work/Miridih/dev-web/bizhows-web/mypage/resource/js/my_design_custom/my_design_custom_list.ts" />
       <jump line="174" column="4" filename="C:/Work/Miridih/dev-web/bizhows-web/help_design/src/components/order-listing/Rows/detail.scss" />
@@ -295,12 +312,15 @@
       <jump line="7" column="19" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.tsx" />
       <jump line="41" column="58" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" />
       <jump line="12" column="0" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/BlueButton.module.scss" />
+      <jump line="46" column="15" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" />
+      <jump line="1" column="39" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" />
+      <jump line="22" column="34" filename="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/mobile/option-layer/Message.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4190,7 +4210,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4209,28 +4229,28 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgUmV0dXJuID0geyBpbm5lcldpZHRoOiBudW1iZXI7IGlubmVySGVpZ2h0OiBudW1iZXIgfTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRMYWJlbExpbmVIZWlnaHQoKHJpZ2h0UmVmLmN1cnJlbnQgYXMgSFRNTEVsZW1lbnQpLmZpcnN0RWxlbWVudENoaWxkLnNjcm9sbEhlaWdodCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVzZUVmZmVjdCgoKT0+eyAKICAgICAgICAKICAgIH0pOwo=</text>
+        <text encoding="base64">ICBib3JkZXItdG9wLXdpZHRoOiAxcHg7CiAgYm9yZGVyLXRvcC1zdHlsZTogc29saWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjNDI4NWY0OwogIGN1cnNvcjogcG9pbnRlcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRPcHRpb25JdGVtQ29uZmlnID0gc3RhdGljQ29uZmlnLmZpbmRVaU9wdGlvblNlbGVjdG9yKG9wdGlvbkl0ZW0udGl0bGUpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHsKICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHVzZUVmZmVjdCgoKT0+eyAKICAgICAgICAKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lm5hdnsKCiAgYmFja2dyb3VuZDogd2hpdGU7CiAgLml0ZW17CiAgICAmLmlzU2VsZWN0ZWR7CiAgICAgIGNvbG9yOiByZWQ7CiAgICB9CiAgfQp9</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">JXNlY3Rpb24gewogIG1hcmdpbjogYXV0bzsKICBtYXgtd2lkdGg6ICRkZXNrdG9wLW1heC13aWR0aDsKICB3aWR0aDogYXV0bzsKfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyCws7nfIL7Is7sKYG5wbSBydW4gZGV2YAoKYGBgCi91c3IvbG9jYWwvYXBhY2hlMi9zaXRlcy1hdmFpbGFibGUvaW5jbHVkZQoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojIGNvbmZpZ3VyYXRpb24gZm9yIHdvcmRwcmVzcyBzdGFydApBbGlhcyAiL3YiIC9ob21lL3NtaWxlY2F0L2xkZXYtd3d3LmJpemhvd3MuY29tL3RvbWNhdC93ZWJhcHBzL1JPT1Qvdi1yZWFjdAo8RGlyZWN0b3J5IC9ob21lL3NtaWxlY2F0L2xkZXYtd3d3LmJpemhvd3MuY29tL3RvbWNhdC93ZWJhcHBzL1JPT1Qvdi1yZWFjdD4KICAgIEFsbG93T3ZlcnJpZGUgIEFsbAogICAgT3B0aW9ucyBGb2xsb3dTeW1MaW5rcwogICAgRGlyZWN0b3J5SW5kZXggaW5kZXguanNwCiAgICBSZXdyaXRlRW5naW5lIE9uCiAgICBSZXdyaXRlQmFzZSAvdi8KICAgIFJld3JpdGVSdWxlIF5pbmRleFwuanNwJCAtIFtMXQogICAgUmV3cml0ZUNvbmQgJXtSRVFVRVNUX0ZJTEVOQU1FfSAhLWYKICAgIFJld3JpdGVDb25kICV7UkVRVUVTVF9GSUxFTkFNRX0gIS1kCiAgICBSZXdyaXRlUnVsZSAuIC92L2luZGV4LmpzcCBbTF0KPC9EaXJlY3Rvcnk+CiMgY29uZmlndXJhdGlvbiBmb3Igd29yZHByZXNzIHN0YXJ0CiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKYGBgCgpgc2VydmljZSBodHRwZCByZXN0YXJ0YAogICAgICAgICAgICAgICAgICAgICAgICAgCgotLS0KCgojILzCxsMKPmxpbnQ6IHJlY29tbWVuZGVkILyzwaQgseLB2MC4t84gwd+/5MfPwfYgvsqw7SCwybiuwPsgsMW4rrTCILDHIGRpc2FibGUgw9+woSDB3woKIyMgY29kZSBzcGxpdCAgCicvdicgwMzHzyC48LXOIHdlYnBhY2sgufi16bfOIL+ssOEgIAotIGxkZXYgvPbBpCDHyr/kx9QKCiMjIHN0b3J5Ym9vawq8s8Shx8+w7SDA3yC1ub7GsKG0wrDFIMiuwM64uCDH1ArIsLy6yK0gx9Igu/2woiDB9rHdIL74wL0KCiMjIGJyb3dzZXJzbGl0CgojIyBlc2xpbnQKaW50ZWxsaWogv6G8rSDA2rW/vPbBpMC4t84guq+w5sfPuOnBwcC9CgojIyBzdHlsZWxpbnQKCiMjIGh1c2t5CsS/udS9wyBsaW50IC0tZml4ILz2x+AKd2VicGFjayC69LXlILz2x+AKuvS15bDhsPogY29tbW9pdL+hIMb3x9QKCiMjIGJhYmVsCnN0eWxlCi0gZ3JpZCBmbGV4IGllMTAgyKPIr7XHtbW3zwoKCi0tLQoKCiMgvbrFuMDPCiMjIHN0eWxlZC1jb21wb25lbnQKvsbB1iBhdG9tIMfRIGNvbXBvbmVudLimILi4teW0wiC55rn9IMHfIMfPs6q3ziC757/rCgojIyBjc3MgbW9kdWxlCrHiuru757/rCgojIyBpbmxpbmUKx8q/5MfPtNm46SC757/rCgojIyB1dGlsCmNsYXNzbmFtZXMKCiMjIKSkpKQKxuTAzMH2v6EgZ2xvYmFsIGNzcyDA+7/rCgoKLS0tCgoKIyBzdG9yZQrHz7OqwMcgxuTAzMH2tMIgtc6ws8DHIHN0b3JluKYgsKHB9rW1t88KLSB1aSBjb250ZXh0IL/NIGJ1c2luZXNzIHN0b3JlILfOILrQuK4KCr7Gt6EgVG9vbCDB3yBCZXN0uKYgwMy9tCC047TnwNqwoSC8scXDCi0gcmVhY3QgY29udGV4dCBhcGkKLSByZWFjdCBob29rCi0gbW9ieAoKuPC15yBzdG9yZbTCIFByb3ZpZGVyu+e/68fPtMIgsM3AuLfOIMXrwM8KCgotLS0KCgojILXwt7rF5LiuILG4wbYKYGBgCqahc3JjCiAgICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqemoWF0b20KICAgIKaiICCmp6ahbW9sZWN1bGUKICAgIKaiICCmp6ahb3JnYW5pc21zCiAgICCmoiAgpqamoXRlbXBsYXRlCiAgICCmp6ahcGFnZQogICAgpqIgIKampqFvcHRpb24KICAgIKaiICAgICAgpqemoWNvbXBvbmVudAogICAgpqIgICAgICCmp6ahc2VydmljZQogICAgpqIgICAgICCmp6ahc3R5bGUKICAgIKaiICAgICAgpqamoXV0aWwKICAgIKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVzCiAgICCmp6ahc2VydmljZQogICAgpqemoXN0eWxlCiAgICCmpqahdXRpbApgYGAKCi0tLQoKCiMgxNq15SDEwbqlvMcKxuTAzMH2tMIgvNK5rsDaICctJwqzqrjTwfYguPC1ziC067muwNq3ziC9w8DbIMSruOHEycDMvboKCgotLS0KCgojILHixbgKKipqcXVlcnkgu+e/6yDHz8H2IL7KwL0qKgoKdXRpbAotIGF4aW9zCgoKLS0tCgoKIyDHz7DtIL3NwLogsM0KaG1yCnNjc3Mguq+89iB0c7+hvK0gY29tcG9uZW50wMcgc3R5dGUgv6Egu+e/6wpzY3NzIGFicyBwYXRoILyzwaQKLmVudgrF1726xq4gxNq15QoKCi0tLQoKCiMgVGlwCmpldGJyYWluCi0gdGVybWluYWwKICAgICsgc3RhcnQgcGF0aCBDOi9Xb3JrL01pcmlkaWgvZGV2LXdlYi9iaXpob3dzLXdlYi92LXJlYWN0ILfOIMH2waQ=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4484,10 +4504,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Jy4uLy4uLycK</text>
+        <text encoding="base64">Lm5hdnsKCiAgYmFja2dyb3VuZDogd2hpdGU7CiAgLml0ZW17CiAgICAmLmlzU2VsZWN0ZWR7CiAgICAgIGNvbG9yOiByZWQ7CiAgICB9CiAgfQp9</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IKanpqFzYW1wbGUKICAgIKaiICCmp6ahY29tcG9uZW50CiAgICCmoiAgpqIgIKanpqFhcHBseS1zdHlsZQogICAgpqIgIKaiICCmp6ahbW9ieC1yZWFjdC0tY2FzZTEKICAgIKaiICCmoiAgpqamoW1vYngtc3RhdGUtdHJlZS0tY2FzZTEKICAgIKaiICCmp6ahcGFnZQogICAgpqIgIKaiICCmpqahc2FtcGxlMQogICAgpqIgIKampqFzdG9yeWJvb2sKICAgIKaiICAgICAgpqemoWhlbGxvCiAgICCmoiAgICAgIKampqFzdG9yaWVz</text>
+      <register name="9" type="2">
+        <text encoding="base64">JXNlY3Rpb24gewogIG1hcmdpbjogYXV0bzsKICBtYXgtd2lkdGg6ICRkZXNrdG9wLW1heC13aWR0aDsKICB3aWR0aDogYXV0bzsKfQo=</text>
       </register>
       <register name="y" type="4">
         <keys>

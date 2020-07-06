@@ -5,6 +5,7 @@
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="OptionItemLayout" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="PriceAgent" type="PLAIN_TEXT" />
       <mapping pattern="DeliveryStore" type="PLAIN_TEXT" />
