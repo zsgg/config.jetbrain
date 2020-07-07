@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="v" />
+    <option name="defaultScopeName" value="v" />
+    <option name="SEARCH_SCOPE" value="v" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.ng</mask>
@@ -14,11 +14,11 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.jsp</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*repository.java</mask>
     <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
