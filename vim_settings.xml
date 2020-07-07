@@ -110,11 +110,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeCustomSize.module.scss" timestamp="1594086593111">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="36" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeCustomSize.module.scss" timestamp="1594088565126">
+        <mark key="[" line="3" column="37" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1594091545318">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+        <mark key="." line="49" column="49" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelect.tsx" timestamp="1594027390340">
         <mark key="[" line="13" column="19" />
@@ -128,15 +131,8 @@
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelectedWithCustomSize.tsx" timestamp="1594028537813">
         <mark key="[" line="15" column="22" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeSelected.module.scss" timestamp="1594084584538" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/SelectedOption.tsx" timestamp="1594027276539">
-        <mark key="[" line="15" column="62" />
-        <mark key="]" line="16" column="22" />
-        <mark key="^" line="16" column="22" />
-        <mark key="." line="16" column="21" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-select/TypeCustomSize.tsx" timestamp="1594086723763" />
-      <file name="/Dummy.txt" timestamp="1594086731682">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeSelected.module.scss" timestamp="1594089179657" />
+      <file name="/Dummy.txt" timestamp="1594089289811">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
@@ -147,9 +143,17 @@
         <mark key="^" line="22" column="69" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-select/TypeCustomSize.module.scss" timestamp="1594086595408" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeSelectedWithCustomSize.tsx" timestamp="1594028885633">
-        <mark key="[" line="5" column="51" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-select/TypeCustomSize.module.scss" timestamp="1594090391177">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="23" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeSelectedWithCustomSize.tsx" timestamp="1594088766589">
+        <mark key="[" line="1" column="95" />
+        <mark key="]" line="1" column="94" />
+        <mark key="." line="1" column="93" />
+        <mark key="^" line="1" column="94" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/agent/mock/8000-200-7104--sticker-1x-free.json" timestamp="1594086542366">
         <mark key="[" line="44" column="21" />
@@ -162,10 +166,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/_index.scss" timestamp="1594086578894">
-        <mark key="]" line="33" column="22" />
-        <mark key="^" line="33" column="22" />
-        <mark key="." line="33" column="21" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/_index.scss" timestamp="1594088914520">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelect.tsx" timestamp="1594028203980">
         <mark key="[" line="20" column="8" />
@@ -179,11 +184,8 @@
         <mark key="." line="58" column="16" />
         <mark key="^" line="58" column="17" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeCustomSize.tsx" timestamp="1594086720468">
-        <mark key="[" line="37" column="25" />
-        <mark key="]" line="37" column="46" />
-        <mark key="^" line="37" column="46" />
-        <mark key="." line="37" column="45" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeCustomSize.tsx" timestamp="1594088624204">
+        <mark key="[" line="22" column="25" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/Index.tsx" timestamp="1594027724136">
         <mark key="[" line="2" column="21" />
@@ -298,7 +300,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>width</text>
+        <text>widthRef</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4188,7 +4190,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>width</text>
+        <text>widthRef</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4207,7 +4209,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlLndpZHRofSBvbkNsaWNrPXtwcm9wcy53aWR0aEN1c3RvbVNpemVDbGlja0hhbmRsZXJ9Pgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdpZHRoUmVmID0gdXNlUmVmKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmludGVyZmFjZSBQcm9wcyB7CiAgICBvcHRpb25JdGVtOiBPcHRpb25JdGVtOwp9CgppbnRlcmZhY2UgTGFiZWxTZWxlY3RQcm9wcyB7CiAgICBvcHRpb25JdGVtOiBPcHRpb25JdGVtOwogICAgY2xpY2tIYW5kbGVyOiAoKSA9PiB2b2lkOwp9Cgpjb25zdCBMYWJlbFNlbGVjdCA9IG9ic2VydmVyKCh7IGNsaWNrSGFuZGxlciwgb3B0aW9uSXRlbSB9OiBMYWJlbFNlbGVjdFByb3BzKSA9PiB7CiAgICByZXR1cm4gKAogICAgICAgIDxkaXYgb25DbGljaz17Y2xpY2tIYW5kbGVyfSBjbGFzc05hbWU9e3N0eWxlLmxhYmVsU2VsZWN0fT4KICAgICAgICAgICAgPGRpdj57b3B0aW9uSXRlbS5zZWxlY3RlZE9wdGlvbi50aXRsZX08L2Rpdj4KICAgICAgICAgICAgPEljb25Eb3duQXJyb3cgdGhlbWU9e3sgc2l6ZTogJ3NpemVTbWFsbCcgfX0gY2xhc3NOYW1lPXtzdHlsZS5pY29ufSAvPgogICAgICAgIDwvZGl2PgogICAgKTsKfSk7CgppbnRlcmZhY2UgTGFiZWxTZWxlY3RXaXRoQ3VzdG9tU2l6ZSB7CiAgICBvcHRpb25JdGVtOiBPcHRpb25JdGVtOwogICAgbWFpbkNsaWNrSGFuZGxlcjogKCkgPT4gdm9pZDsKICAgIHdpZHRoQ3VzdG9tU2l6ZUNsaWNrSGFuZGxlcjogKCkgPT4gdm9pZDsKICAgIGhlaWdodEN1c3RvbVNpemVDbGlja0hhbmRsZXI6ICgpID0+IHZvaWQ7Cn0KCmNvbnN0IExhYmVsU2VsZWN0V2l0aEN1c3RvbVNpemUgPSBvYnNlcnZlcigocHJvcHM6IExhYmVsU2VsZWN0V2l0aEN1c3RvbVNpemUpID0+IHsKICAgIHJldHVybiAoCiAgICAgICAgPGRpdj4KICAgICAgICAgICAgPExhYmVsU2VsZWN0IHsuLi5wcm9wc30gY2xpY2tIYW5kbGVyPXtwcm9wcy5tYWluQ2xpY2tIYW5kbGVyfSAvPgogICAgICAgICAgICB7cHJvcHMub3B0aW9uSXRlbS5zZWxlY3RlZE9wdGlvbi5rZXkuaW5kZXhPZignu+e/68DaJykgPiAtMSAmJiAoCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGUuY3VzdG9tU2l6ZX0+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlLndpZHRofSBvbkNsaWNrPXtwcm9wcy53aWR0aEN1c3RvbVNpemVDbGlja0hhbmRsZXJ9PgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlLmxhYmVsfT6wobfOPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlLmdyb3VwfT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGUubnVtYmVyfT57cHJvcHMub3B0aW9uSXRlbS5zZWxlY3RlZE9wdGlvbi52YWx1ZTF9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZS5jbX0+Y208L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGUuaGVpZ2h0fSBvbkNsaWNrPXtwcm9wcy5oZWlnaHRDdXN0b21TaXplQ2xpY2tIYW5kbGVyfT4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZS5sYWJlbH0+vLy3zjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZS5ncm91cH0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9e3N0eWxlLm51bWJlcn0+e3Byb3BzLm9wdGlvbkl0ZW0uc2VsZWN0ZWRPcHRpb24udmFsdWUyfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGUuY219PmNtPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICk7Cn0pOwo=</text>
