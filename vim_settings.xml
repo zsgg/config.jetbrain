@@ -110,49 +110,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeSelected.tsx" timestamp="1594101179013">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="53" />
-        <mark key="^" line="14" column="53" />
-        <mark key="." line="14" column="52" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelectedWithCustomSize.module.scss" timestamp="1594102502286">
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelectedWithCustomSize.module.scss" timestamp="1594102504535">
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelectWithCustomSize.module.scss" timestamp="1594102390381" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelectWithCustomSize.module.scss" timestamp="1594104605588">
+        <mark key="[" line="5" column="1" />
+      </file>
       <file name="/a.dummy" timestamp="1594101920570">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select-layer/Index.tsx" timestamp="1594101996885">
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="23" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select-layer/Index.tsx" timestamp="1594110015381">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="15" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/.eslintrc.js" timestamp="1594100824014">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="47" column="40" />
-        <mark key="^" line="47" column="40" />
-        <mark key="." line="47" column="39" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/component/molecule/ScrollNav.tsx" timestamp="1594105454292" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected-layer/Index.tsx" timestamp="1594101947582">
         <mark key="[" line="168" column="15" />
         <mark key="]" line="168" column="22" />
         <mark key="^" line="168" column="22" />
         <mark key="." line="168" column="21" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelectedWithCustomSize.tsx" timestamp="1594102438580">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="71" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/CustomSize.module.scss" timestamp="1594104107565">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="35" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/option-selected/TypeSelected.module.scss" timestamp="1594101224151">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="16" column="28" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelectedWithCustomSize.tsx" timestamp="1594105839198">
+        <mark key="[" line="40" column="89" />
+        <mark key="]" line="40" column="95" />
+        <mark key="^" line="40" column="95" />
+        <mark key="." line="40" column="94" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/CmNumberInput.tsx" timestamp="1594108773594">
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/CmNumberInput.module.scss" timestamp="1594101229478">
         <mark key="[" line="12" column="3" />
@@ -160,44 +157,44 @@
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelectWithCustomSize.tsx" timestamp="1594102401101">
-        <mark key="[" line="1" column="95" />
-        <mark key="]" line="1" column="95" />
-        <mark key="^" line="1" column="95" />
-        <mark key="." line="1" column="95" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelectWithCustomSize.tsx" timestamp="1594105796206">
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="14" column="48" />
+        <mark key="^" line="14" column="48" />
+        <mark key="." line="14" column="47" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/mall/estimate/resource/js/estimate.ts" timestamp="1594099248142" />
-      <file name="/Dummy.txt" timestamp="1594101332788">
+      <file name="/Dummy.txt" timestamp="1594109368957">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="7" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/Index.tsx" timestamp="1594102012366">
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="22" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/store/OptionControlStore.ts" timestamp="1594107976727">
+        <mark key="[" line="10" column="15" />
+      </file>
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/Index.tsx" timestamp="1594109627278">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected-layer/Index.module.scss" timestamp="1594100509344">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="31" column="15" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/_Index.scss" timestamp="1594102495415">
-        <mark key="[" line="11" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexDesktop.tsx" timestamp="1594105393726" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/_Index.scss" timestamp="1594104101659">
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/_index.scss" timestamp="1594101203567">
-        <mark key="[" line="17" column="23" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelect.tsx" timestamp="1594101100929">
-        <mark key="[" line="43" column="58" />
-        <mark key="]" line="43" column="71" />
-        <mark key="^" line="43" column="71" />
-        <mark key="." line="43" column="70" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelect.tsx" timestamp="1594109611232">
+        <mark key="[" line="41" column="58" />
+        <mark key="]" line="41" column="71" />
+        <mark key="^" line="41" column="71" />
+        <mark key="." line="41" column="70" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelect.module.scss" timestamp="1594101301023" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/CustomSize.tsx" timestamp="1594109366565">
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="66" column="27" />
+        <mark key="^" line="66" column="27" />
+        <mark key="." line="66" column="26" />
+      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/Index.tsx" timestamp="1594101981790">
         <mark key="]" line="12" column="23" />
         <mark key="^" line="12" column="23" />
@@ -310,7 +307,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4200,7 +4197,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4219,7 +4216,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Q21OdW1iZXJJbnB1dCAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhdGNoSXRlbT17b3B0aW9uSXRlbX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IG9ic2VydmVyKChwcm9wczogVHlwZUN1c3RvbVNpemVQcm9wcykgPT4gewogICAgcmV0dXJuICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGUubWFpbn0+CiAgICAgICAgICAgIDxDbU51bWJlcklucHV0CiAgICAgICAgICAgICAgICBpbml0VmFsdWU9e3Byb3BzLm9wdGlvbkl0ZW0uc2VsZWN0ZWRPcHRpb24udmFsdWUxfQogICAgICAgICAgICAgICAgbGFiZWxUZXh0PSKwobfOIgogICAgICAgICAgICAgICAgb25DaGFuZ2VIYW5kbGVyPXsoKTogdm9pZCA9PiBjb25zb2xlLmxvZygnd2lkdGgnKX0KICAgICAgICAgICAgICAgIG1pblZhbHVlPXsxMH0KICAgICAgICAgICAgICAgIG1heFZhbHVlPXsxMDB9CiAgICAgICAgICAgICAgICBpc0Rpc2FibGVkPXtmYWxzZX0KICAgICAgICAgICAgLz4KICAgICAgICAgICAgPENtTnVtYmVySW5wdXQKICAgICAgICAgICAgICAgIGluaXRWYWx1ZT17cHJvcHMub3B0aW9uSXRlbS5zZWxlY3RlZE9wdGlvbi52YWx1ZTF9CiAgICAgICAgICAgICAgICBsYWJlbFRleHQ9Iry8t84iCiAgICAgICAgICAgICAgICBvbkNoYW5nZUhhbmRsZXI9eygpOiB2b2lkID0+IGNvbnNvbGUubG9nKCdoZWlnaHQnKX0KICAgICAgICAgICAgICAgIG1pblZhbHVlPXsxMH0KICAgICAgICAgICAgICAgIG1heFZhbHVlPXsxMDB9CiAgICAgICAgICAgICAgICBpc0Rpc2FibGVkCiAgICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICApOwp9KTsK</text>
