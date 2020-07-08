@@ -135,11 +135,10 @@
         <mark key="." line="14" column="12" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select-layer/Index.tsx" timestamp="1594110015381">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="15" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select-layer/Index.tsx" timestamp="1594174249974">
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="44" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected-layer/Index.tsx" timestamp="1594101947582">
         <mark key="[" line="168" column="15" />
@@ -151,8 +150,7 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/CustomSize.module.scss" timestamp="1594104107565">
-        <mark key="[" line="0" column="18" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/CustomSize.module.scss" timestamp="1594173907685">
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="35" />
@@ -164,10 +162,10 @@
         <mark key="." line="41" column="70" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/CustomSize.tsx" timestamp="1594109366565">
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="27" />
-        <mark key="^" line="66" column="27" />
-        <mark key="." line="66" column="26" />
+        <mark key="[" line="67" column="26" />
+        <mark key="]" line="67" column="27" />
+        <mark key="^" line="67" column="27" />
+        <mark key="." line="67" column="26" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-selected/TypeSelectedWithCustomSize.tsx" timestamp="1594105839198">
         <mark key="[" line="40" column="89" />
@@ -175,11 +173,11 @@
         <mark key="^" line="40" column="95" />
         <mark key="." line="40" column="94" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/Var.scss" timestamp="1594173633338">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/style/Var.scss" timestamp="1594173892468">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/CmNumberInput.tsx" timestamp="1594108773594">
         <mark key="]" line="23" column="30" />
@@ -191,11 +189,11 @@
         <mark key="^" line="12" column="23" />
         <mark key="." line="12" column="22" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelectWithCustomSize.tsx" timestamp="1594105796206">
-        <mark key="[" line="19" column="56" />
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="14" column="48" />
-        <mark key="." line="14" column="47" />
+      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-select/TypeSelectWithCustomSize.tsx" timestamp="1594174464762">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -303,8 +301,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEN1c3RvbVNpemUgb3B0aW9uSXRlbT17b3B0aW9uSXRlbX0gaW5pdEZvY3VzPXtpbml0Rm9jdXN9IC8+Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4194,7 +4192,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>observer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4213,7 +4211,7 @@
         </keys>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhdGNoSXRlbT17b3B0aW9uSXRlbX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPEN1c3RvbVNpemUgb3B0aW9uSXRlbT17b3B0aW9uSXRlbX0gaW5pdEZvY3VzPXtpbml0Rm9jdXN9IC8+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IG9ic2VydmVyKChwcm9wczogVHlwZUN1c3RvbVNpemVQcm9wcykgPT4gewogICAgcmV0dXJuICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGUubWFpbn0+CiAgICAgICAgICAgIDxDbU51bWJlcklucHV0CiAgICAgICAgICAgICAgICBpbml0VmFsdWU9e3Byb3BzLm9wdGlvbkl0ZW0uc2VsZWN0ZWRPcHRpb24udmFsdWUxfQogICAgICAgICAgICAgICAgbGFiZWxUZXh0PSKwobfOIgogICAgICAgICAgICAgICAgb25DaGFuZ2VIYW5kbGVyPXsoKTogdm9pZCA9PiBjb25zb2xlLmxvZygnd2lkdGgnKX0KICAgICAgICAgICAgICAgIG1pblZhbHVlPXsxMH0KICAgICAgICAgICAgICAgIG1heFZhbHVlPXsxMDB9CiAgICAgICAgICAgICAgICBpc0Rpc2FibGVkPXtmYWxzZX0KICAgICAgICAgICAgLz4KICAgICAgICAgICAgPENtTnVtYmVySW5wdXQKICAgICAgICAgICAgICAgIGluaXRWYWx1ZT17cHJvcHMub3B0aW9uSXRlbS5zZWxlY3RlZE9wdGlvbi52YWx1ZTF9CiAgICAgICAgICAgICAgICBsYWJlbFRleHQ9Iry8t84iCiAgICAgICAgICAgICAgICBvbkNoYW5nZUhhbmRsZXI9eygpOiB2b2lkID0+IGNvbnNvbGUubG9nKCdoZWlnaHQnKX0KICAgICAgICAgICAgICAgIG1pblZhbHVlPXsxMH0KICAgICAgICAgICAgICAgIG1heFZhbHVlPXsxMDB9CiAgICAgICAgICAgICAgICBpc0Rpc2FibGVkCiAgICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICApOwp9KTsK</text>
