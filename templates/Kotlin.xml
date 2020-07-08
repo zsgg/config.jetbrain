@@ -3,5 +3,6 @@
     <variable name="DOLLAR" expression="" defaultValue="&quot;$&quot;" alwaysStopAt="false" />
     <variable name="EXPR" expression="kotlinVariable()" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
+    <context />
   </template>
 </templateSet>
