@@ -121,14 +121,6 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/common/clear_static_value.jsp" timestamp="1594082474223" />
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/IndexMobile.tsx" timestamp="1593760321022">
-        <mark key="'" line="1" column="58" />
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="22" column="59" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="22" column="59" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/Index.tsx" timestamp="1593761065050">
         <mark key="[" line="132" column="22" />
         <mark key="]" line="158" column="33" />
@@ -165,20 +157,19 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/smilecat/admin/order/tblorder_list.jsp" timestamp="1594081986355" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/UnderlineButton.tsx" timestamp="1593767531620">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="16" column="46" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/smilecat/admin/freestyle/ExternalStickerDownloadList.java" timestamp="1594203882070" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/service/model/StaticConfigModel.ts" timestamp="1593763915036">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="35" column="20" />
         <mark key="." line="35" column="19" />
         <mark key="^" line="35" column="20" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/smilecat/common/clear_static_value.jsp" timestamp="1594082366839" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/molecule/OptionItemLayout.tsx" timestamp="1593772267920">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="29" column="48" />
@@ -197,7 +188,6 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/src/com/sure/smilecat/cooper/ActiveMakeSite.java" timestamp="1594082602924" />
       <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionLabel.tsx" timestamp="1593770803683">
         <mark key="[" line="35" column="34" />
         <mark key="]" line="35" column="34" />
@@ -4656,25 +4646,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
