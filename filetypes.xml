@@ -1,23 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="OptionItemLayout" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="PriceAgent" type="PLAIN_TEXT" />
-      <mapping pattern="DeliveryStore" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="OptionItemLayout" type="PLAIN_TEXT" />
+      <mapping pattern="DeliveryStore" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="index_channel_swipe" type="TypeScript" />
-      <mapping pattern="gs" type="TypeScript" />
-      <mapping pattern="gs.gs" type="TypeScript" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -25,7 +21,11 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
+      <mapping pattern="gs" type="TypeScript" />
+      <mapping pattern="gs.gs" type="TypeScript" />
+      <mapping pattern="index_channel_swipe" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
