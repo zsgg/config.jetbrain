@@ -111,6 +111,7 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/menu_category/MenuCategoryService.java" timestamp="1595307198099" />
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/mypage/CouponApi.java" timestamp="1595310829790" />
       <file name="/a.dummy" timestamp="1595307413927">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,12 +148,6 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/Icon.tsx" timestamp="1593769521698">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="8" />
-      </file>
       <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/_gssong/gssong.jsp" timestamp="1594082612750">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -171,11 +166,11 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1595307851749">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="23" />
-        <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="22" />
+      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1595310945946">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="43" column="65" />
+        <mark key="." line="38" column="22" />
       </file>
       <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/Menu.java" timestamp="1595307899149">
         <mark key="[" line="127" column="12" />
@@ -301,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cciRootIdx</text>
+        <text>BizhowsBackup</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4191,7 +4186,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cciRootIdx</text>
+        <text>BizhowsBackup</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
