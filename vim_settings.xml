@@ -111,7 +111,7 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/menu_category/MenuCategoryService.java" timestamp="1595307198099" />
-      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/mypage/CouponApi.java" timestamp="1595310829790" />
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/mypage/CouponApi.java" timestamp="1595311985590" />
       <file name="/a.dummy" timestamp="1595307413927">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,11 +166,11 @@
         <mark key="^" line="34" column="20" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1595310945946">
+      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1595312009310">
         <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="43" column="65" />
-        <mark key="." line="38" column="22" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="32" />
       </file>
       <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/Menu.java" timestamp="1595307899149">
         <mark key="[" line="127" column="12" />
