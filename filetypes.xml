@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
+      <mapping pattern="type" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="OptionItemLayout" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
