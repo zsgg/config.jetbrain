@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
+      <mapping pattern="type" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="OptionItemLayout" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="PriceAgent" type="PLAIN_TEXT" />
       <mapping pattern="DeliveryStore" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="txs" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -26,6 +27,7 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="Vagrantfile" type="JSHELL" />
     </extensionMap>
   </component>
 </application>
