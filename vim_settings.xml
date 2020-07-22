@@ -111,6 +111,7 @@
     <globalmarks />
     <filemarks>
       <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/menu_category/MenuCategoryService.java" timestamp="1595307198099" />
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/mypage/CouponApi.java" timestamp="1595313551206" />
       <file name="/a.dummy" timestamp="1595307413927">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,17 +144,11 @@
         <mark key="." line="35" column="33" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593771042892">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="/Dummy.txt" timestamp="1595308304778">
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/atom/Icon.tsx" timestamp="1593769521698">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="8" />
-      </file>
+      <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/common/clear_static_value.jsp" timestamp="1595321735017" />
       <file name="C:/Work/Miridih/dev-web/web-java/resources/views/bizhows/_gssong/gssong.jsp" timestamp="1594082612750">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="4" />
@@ -166,19 +161,13 @@
         <mark key="." line="19" column="31" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/bizhows-web/v-react/src/page/option/component/_mobile/option-layer/OptionItemLayout.tsx" timestamp="1593770732157">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="39" column="27" />
-        <mark key="^" line="34" column="20" />
-        <mark key="." line="35" column="0" />
+      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1595312009310">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="32" />
       </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/test/_gssong/GssongLogicTest.java" timestamp="1595307851749">
-        <mark key="[" line="35" column="22" />
-        <mark key="]" line="35" column="23" />
-        <mark key="^" line="35" column="23" />
-        <mark key="." line="35" column="22" />
-      </file>
-      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/Menu.java" timestamp="1595307899149">
+      <file name="C:/Work/Miridih/dev-web/web-java/src/com/miridih/views/bizhows/common/menu/Menu.java" timestamp="1595316334117">
         <mark key="[" line="127" column="12" />
         <mark key="]" line="137" column="13" />
         <mark key="." line="137" column="12" />
@@ -302,7 +291,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cciRootIdx</text>
+        <text>BizhowsBackup</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -4192,7 +4181,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cciRootIdx</text>
+        <text>BizhowsBackup</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -4647,31 +4636,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
