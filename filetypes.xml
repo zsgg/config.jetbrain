@@ -15,9 +15,9 @@
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="txs" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="index_channel_swipe" type="TypeScript" />
       <mapping pattern="gs" type="TypeScript" />
       <mapping pattern="gs.gs" type="TypeScript" />
