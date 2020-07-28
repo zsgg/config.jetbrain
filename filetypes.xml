@@ -3,19 +3,19 @@
     <extensionMap>
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
-      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
-      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="index_channel_swipe" type="TypeScript" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="gs" type="TypeScript" />
       <mapping pattern="gs.gs" type="TypeScript" />
+      <mapping pattern="index_channel_swipe" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
