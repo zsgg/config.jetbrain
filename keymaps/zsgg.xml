@@ -5,7 +5,7 @@
   </action>
   <action id="ActivateMessagesToolWindow" />
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="alt 7" />
   </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
@@ -36,6 +36,16 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
+  <action id="GotoBookmark0" />
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
+  <action id="GotoBookmark4" />
+  <action id="GotoBookmark5" />
+  <action id="GotoBookmark6" />
+  <action id="GotoBookmark7" />
+  <action id="GotoBookmark8" />
+  <action id="GotoBookmark9" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
@@ -79,7 +89,6 @@
   <action id="SaveAs" />
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f11" />
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="SplitVertically">
@@ -91,6 +100,16 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark5" />
+  <action id="ToggleBookmark6" />
+  <action id="ToggleBookmark7" />
+  <action id="ToggleBookmark8" />
+  <action id="ToggleBookmark9" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
