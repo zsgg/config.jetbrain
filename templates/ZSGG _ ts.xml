@@ -49,7 +49,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="z l" value="console.log(`&lt; $END$ &gt;`);" toReformat="false" toShortenFQNames="true">
+  <template name="z l" value="console.log(`&lt; $END$ &gt;`);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
