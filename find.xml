@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -14,7 +13,7 @@
     <mask>*.java</mask>
     <mask>.(ts|tsx)</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
