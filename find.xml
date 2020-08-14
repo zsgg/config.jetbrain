@@ -13,7 +13,9 @@
     <mask>*.java</mask>
     <mask>.(ts|tsx)</mask>
     <mask>*.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
+    <mask>.ts</mask>
+    <mask>.tsx</mask>
   </component>
 </application>
