@@ -16,14 +16,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="TypeScript.ts.chain.hints" />
-        <option value="TypeScript.ts.enum.hints" />
-        <option value="TypeScript.ts.type.hints" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="ts.chain.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
