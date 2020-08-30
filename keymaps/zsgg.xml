@@ -28,6 +28,9 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt 9" />
