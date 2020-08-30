@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="gs" type="TypeScript" />
       <mapping pattern="gs.gs" type="TypeScript" />
@@ -25,6 +23,7 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="Vagrantfile" type="JSHELL" />
     </extensionMap>
   </component>
 </application>
