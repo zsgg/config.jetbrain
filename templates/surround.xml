@@ -1,5 +1,3 @@
 <templateSet group="surround">
-  <template name="P" value="($SELECTION$)" shortcut="NONE" description="Surround with ()" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="P" value="($SELECTION$)" shortcut="NONE" description="Surround with ()" toReformat="false" toShortenFQNames="true" />
 </templateSet>
