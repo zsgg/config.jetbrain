@@ -4,6 +4,7 @@
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
