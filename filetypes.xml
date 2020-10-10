@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
