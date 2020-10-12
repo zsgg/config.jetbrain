@@ -1,21 +1,21 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="v without scss" />
-    <option name="defaultScopeName" value="v without scss" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="v without scss" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
+    <mask>*.css</mask>
+    <mask>*.ng</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.ats</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
     <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>.(ts|tsx)</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.tsx</mask>
-    <mask>.tsx</mask>
-    <mask>.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
