@@ -10,37 +10,11 @@
   </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
-    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="OBJECT_LITERAL_WRAP" value="0" />
-    <option name="UNION_TYPES_WRAP" value="2" />
-    <option name="ALIGN_UNION_TYPES" value="true" />
-    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </TypeScriptCodeStyleSettings>
-  <codeStyleSettings language="Markdown">
-    <option name="WRAP_ON_TYPING" value="1" />
-  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
-    <option name="RIGHT_MARGIN" value="120" />
-    <option name="BLANK_LINES_AFTER_IMPORTS" value="3" />
-    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
-    <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
-    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
-    <option name="PREFER_PARAMETERS_WRAP" value="true" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="2" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="TERNARY_OPERATION_WRAP" value="1" />
-    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
-    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="WRAP_COMMENTS" value="true" />
-    <option name="IF_BRACE_FORCE" value="3" />
-    <option name="WRAP_ON_TYPING" value="1" />
     <indentOptions>
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
