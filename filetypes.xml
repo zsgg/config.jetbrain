@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.prod" type=".env file" />
+      <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
