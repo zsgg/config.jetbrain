@@ -2,6 +2,16 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxvdmVyZmxvd1lcPg==</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -96,8 +106,221 @@
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/friend/FriendCardList.module.scss" timestamp="1594052937334">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/next.config.js" timestamp="1593941960173">
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/_app.tsx" timestamp="1594053618568">
+        <mark key="[" line="31" column="103" />
+        <mark key="]" line="31" column="103" />
+        <mark key="." line="31" column="102" />
+        <mark key="^" line="31" column="103" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/share/index.tsx" timestamp="1594054209924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/display/report/DisplayReportModal.tsx" timestamp="1593926570204">
+        <mark key="[" line="55" column="77" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="56" column="38" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/service/HashQuery.ts" timestamp="1593926618220">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="26" />
+        <mark key="^" line="31" column="26" />
+        <mark key="." line="31" column="25" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/share-modal/Index.tsx" timestamp="1594218028931">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="16" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/share/Index.tsx" timestamp="1594054318972">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Code-Study/sutdy--udemy--coursejs-algorithms-and-data-structures/test.js" timestamp="1594218293653">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="20" column="13" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" timestamp="1593793974808">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="36" />
+        <mark key="^" line="54" column="36" />
+        <mark key="." line="54" column="35" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/component/dev/Dev.tsx" timestamp="1594054175060">
+        <mark key="[" line="14" column="13" />
+      </file>
+      <file name="D:/Code-Project/dutch-pay--web/src/service/api/FireStore.ts" timestamp="1593942671520">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="37" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="69" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/PlaygroundComponent.tsx" />
+      <jump line="35" column="12" filename="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" />
+      <jump line="44" column="49" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="33" column="60" filename="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" />
+      <jump line="6" column="17" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/webpack--inflearn/webpack.config.js" />
+      <jump line="47" column="31" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="36" column="12" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="113" column="37" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="29" column="33" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="48" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="39" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/ParticipantCard.tsx" />
+      <jump line="38" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="122" column="32" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="50" column="44" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" />
+      <jump line="32" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCardList.tsx" />
+      <jump line="42" column="34" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/ParticipantCard.tsx" />
+      <jump line="28" column="7" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
+      <jump line="33" column="10" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
+      <jump line="53" column="14" filename="D:/Wiki/private.zsgg.github.io/code/frontend-start-kit/lecture-frontend-dev-env/webpack.config.js" />
+      <jump line="15" column="26" filename="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" />
+      <jump line="24" column="22" filename="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" />
+      <jump line="44" column="13" filename="D:/Code Project/integration-web/src/stores/dutch-pay/RootStore.ts" />
+      <jump line="24" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
+      <jump line="48" column="2" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="4" column="5" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="49" column="0" filename="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" />
+      <jump line="56" column="50" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCardList.tsx" />
+      <jump line="133" column="43" filename="D:/Code Project/integration-web/src/pages/dutch-pay/main.tsx" />
+      <jump line="17" column="12" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" />
+      <jump line="192" column="38" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" />
+      <jump line="37" column="11" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendPlus.tsx" />
+      <jump line="111" column="55" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" />
+      <jump line="28" column="30" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
+      <jump line="30" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
+      <jump line="55" column="22" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCard.tsx" />
+      <jump line="89" column="94" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" />
+      <jump line="47" column="11" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" />
+      <jump line="45" column="34" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" />
+      <jump line="58" column="27" filename="D:/Code Project/integration-web/src/stores/dutch-pay/PartyStore.ts" />
+      <jump line="95" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/FriendCard.tsx" />
+      <jump line="47" column="50" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardModal.tsx" />
+      <jump line="27" column="25" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Display.tsx" />
+      <jump line="59" column="20" filename="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.module.scss" />
+      <jump line="34" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/DisplayReport.tsx" />
+      <jump line="39" column="47" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/DisplayReportModal.tsx" />
+      <jump line="0" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/DisplayReportModal.tsx" />
+      <jump line="52" column="26" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
+      <jump line="106" column="29" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/DisplayReportModal.tsx" />
+      <jump line="40" column="30" filename="D:/Code Project/integration-web/src/components/dutch-pay/layout/MainLayout.tsx" />
+      <jump line="99" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" />
+      <jump line="65" column="27" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/Dev.tsx" />
+      <jump line="64" column="14" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyCardList.tsx" />
+      <jump line="49" column="24" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/PartyPlus.tsx" />
+      <jump line="48" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.tsx" />
+      <jump line="54" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/dev/Dev.tsx" />
+      <jump line="52" column="28" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyCardModal.tsx" />
+      <jump line="57" column="14" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" />
+      <jump line="0" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/party/PartyPlus.tsx" />
+      <jump line="0" column="0" filename="D:/Code Project/integration-web/.lintstagedrc" />
+      <jump line="35" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/IconParty.tsx" />
+      <jump line="23" column="1" filename="D:/Code Project/integration-web/.stylelintrc.js" />
+      <jump line="45" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" />
+      <jump line="13" column="26" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" />
+      <jump line="18" column="23" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/DisplayReportModal.tsx" />
+      <jump line="1" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/friend/FriendCard.module.scss" />
+      <jump line="53" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.tsx" />
+      <jump line="25" column="8" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.module.scss" />
+      <jump line="45" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.module.scss" />
+      <jump line="41" column="51" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.tsx" />
+      <jump line="22" column="25" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.module.scss" />
+      <jump line="36" column="3" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByParty.tsx" />
+      <jump line="59" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" />
+      <jump line="56" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" />
+      <jump line="58" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" />
+      <jump line="14" column="2" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" />
+      <jump line="79" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" />
+      <jump line="40" column="32" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByFriend.tsx" />
+      <jump line="26" column="0" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.module.scss" />
+      <jump line="37" column="39" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" />
+      <jump line="2" column="45" filename="D:/Code Project/integration-web/src/i18n/dutch-pay/detect.js" />
+      <jump line="43" column="3" filename="D:/Code Project/integration-web/src/i18n/dutch-pay/i18n.ts" />
+      <jump line="11" column="39" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv2/Lv2MoneyLocalString.tsx" />
+      <jump line="59" column="21" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/Display.module.scss" />
+      <jump line="50" column="79" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" />
+      <jump line="4" column="7" filename="D:/Code Project/integration-web/src/components/dutch-pay/lv3/display/report/ByTotal.tsx" />
+      <jump line="65" column="49" filename="D:/Code Project/integration-web/src/components/lv3/party/PartyCardModal.tsx" />
+      <jump line="44" column="0" filename="D:/Code Project/integration-web/src/components/layout/MainLayout.tsx" />
+      <jump line="35" column="0" filename="D:/Code-Project/dutch-pay--web/src/pages/privacy-policy.tsx" />
+      <jump line="55" column="18" filename="D:/Code-Project/dutch-pay--web/src/pages/index.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coMSk7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxvdmVyZmxvd1lcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coMSk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZVNldCA9IChrZXk6IHN0cmluZykgPT4gewogICAgICAgIHRoaXMudXJsU2VhcmNoUGFyYW1zLmRlbGV0ZShpZCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZVNldCA9IChrZXk6IHN0cmluZykgPT4gewogICAgICAgIHRoaXMudXJsU2VhcmNoUGFyYW1zLmRlbGV0ZShpZCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBzbmFwc2hvdEFwaVJlc3VsdCA/IHNuYXBzaG90QXBpUmVzdWx0LmRhdGEoKSA6IG51bGw7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgc3c6ICdzZXJ2aWNlLXdvcmtlci5qcycs</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Zm9udC1mYW1pbHk6ICR6ZHMtLWZvbnQtZmFtaWx5LS10ZXh0OwogIGRpc3BsYXk6IGdyaWQ7CiAgcm93LWdhcDogJHpkcy0tYmFzZS1nYXAgKiA2OwoKICAubGFiZWx7CiAgICBmb250LWZhbWlseTogJHpkcy0tZm9udC1mYW1pbHktLXRleHQ7CiAgICBmb250LXNpemU6IDAuOHJlbTsKICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgbWFyZ2luLWJvdHRvbTogJHpkcy0tYmFzZS1nYXA7CiAgfQoKICAubnVtYmVyIHsKICAgIGZvbnQtZmFtaWx5OiAkemRzLS1mb250LWZhbWlseS0tbnVtYmVyOwogICAgd2lkdGg6IDEwMCU7CiAgICA+IGRpdnsKICAgICAgb3BhY2l0eTogMTsKICAgIH0KICB9CgogIC5idXR0b257CiAgICB3aWR0aDogMTAwJTsKICAgIGRpc3BsYXk6IGJsb2NrOwogIH0KCiAgLnN3aXRjaCB7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgY3Vyck51bWJlciwgcHJldk51bWJlciA9IDAgfSA9IHByb3BzOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEB0cy1pZ25vcmUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQHRzLWlnbm9yZQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vbWFyZ2luOiAwICR6ZHMtLWJhc2UtZ2FwICogMjsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>y</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxvdmVyZmxvd1lcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxvdmVyZmxvd1lcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxvdmVyZmxvd1lcPg==</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

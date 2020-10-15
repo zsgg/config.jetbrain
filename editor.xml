@@ -1,5 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -9,12 +11,17 @@
     <option name="FONT_FAMILY" value="Hack" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
-    <pattern icon="question" useCustomColors="true" pattern="\bgssong\b.*">
+    <pattern icon="question" useCustomColors="true" pattern="\b(?&lt;!@author )gssong\b.*">
       <option name="FOREGROUND" value="ffffff" />
       <option name="BACKGROUND" value="181a1f" />
       <option name="FONT_TYPE" value="2" />
@@ -28,8 +35,16 @@
       <option name="ERROR_STRIPE_COLOR" value="181a1f" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
+    <pattern icon="question" pattern="\b(?&lt;!@author )gssong v \b.*" />
+    <pattern pattern="\br\b.*" />
     <filter name="gssong">
       <pattern index="2" />
+    </filter>
+    <filter name="gssong v">
+      <pattern index="4" />
+    </filter>
+    <filter name="review">
+      <pattern index="5" />
     </filter>
   </component>
 </application>
