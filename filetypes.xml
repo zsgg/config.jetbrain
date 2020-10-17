@@ -8,6 +8,7 @@
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
@@ -32,7 +33,6 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="mdx" type="Markdown" />
     </extensionMap>
   </component>
 </application>
