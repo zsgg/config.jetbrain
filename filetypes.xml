@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".env.production" type=".env file" />
+      <mapping pattern="options.config" type=".env file" />
       <mapping pattern=".env.prod" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
@@ -22,6 +23,7 @@
       <mapping pattern="gs" type="TypeScript" />
       <mapping pattern="gs.gs" type="TypeScript" />
       <mapping pattern="index_channel_swipe" type="TypeScript" />
+      <mapping ext="config" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
