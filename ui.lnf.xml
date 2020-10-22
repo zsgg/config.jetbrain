@@ -2,7 +2,4 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
   </component>
-  <component name="UISettings">
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-  </component>
 </application>
