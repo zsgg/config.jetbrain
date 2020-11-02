@@ -6,9 +6,6 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="db2.11">
-      <option name="auto-sync" value="false" />
-    </driver>
     <driver id="db2">
       <option name="auto-sync" value="false" />
     </driver>
@@ -74,6 +71,7 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql_aurora">
@@ -110,6 +108,9 @@
     </driver>
     <driver id="vertica">
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2.11" name="">
+      <option name="auto-sync" value="false" />
     </driver>
   </component>
 </application>
