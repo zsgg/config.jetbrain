@@ -1,6 +1,13 @@
 <application>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
+      <entry key="ChangesView">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="SHOW_INDENT_LINES" value="true" />
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
@@ -10,6 +17,7 @@
       <entry key="Merge">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
     </option>

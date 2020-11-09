@@ -6,10 +6,19 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="zsgg121212@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git2.miridih.com:7990" />
+          <option name="userName" value="gssong" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="SONGGILSEOP" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -20,6 +29,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="PATCH_STORAGE_LOCATION" value="D:/patch/헬프디자인옵션페이지" />
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
