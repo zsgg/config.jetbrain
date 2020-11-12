@@ -26,6 +26,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Debugger.RemoveAllBreakpointsInFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="EditBreakpoint" />
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.LightEditGotoOpenedFile">
@@ -113,6 +117,10 @@
   <action id="ToggleBookmark7" />
   <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
+  <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
@@ -122,5 +130,9 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="ViewBreakpoints" />
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
 </keymap>
