@@ -31,6 +31,7 @@
   </action>
   <action id="EditBreakpoint" />
   <action id="EditorContextInfo" />
+  <action id="EditorPageUp" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.LightEditGotoOpenedFile">
     <keyboard-shortcut first-keystroke="alt g" />
@@ -94,6 +95,7 @@
   </action>
   <action id="SavaAs" />
   <action id="SaveAs" />
+  <action id="SearchEverywhere.NavigateToPrevGroup" />
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
