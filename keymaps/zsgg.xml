@@ -93,6 +93,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="Runner.CloseAllUnpinnedViews">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="SavaAs" />
   <action id="SaveAs" />
   <action id="SearchEverywhere.NavigateToPrevGroup" />
