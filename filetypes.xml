@@ -8,7 +8,6 @@
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="config" type="LOMBOK_CONFIG" />
       <mapping ext="mdx" type="Markdown" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
