@@ -18,7 +18,6 @@
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />

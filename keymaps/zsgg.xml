@@ -20,22 +20,17 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="Debugger.RemoveAllBreakpointsInFile">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-  </action>
-  <action id="EditBreakpoint" />
   <action id="EditorContextInfo" />
-  <action id="EditorPageUp" />
   <action id="ExportToTextFile" />
-  <action id="FileChooser.LightEditGotoOpenedFile">
-    <keyboard-shortcut first-keystroke="alt g" />
-  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt 9" />
@@ -93,12 +88,8 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="Runner.CloseAllUnpinnedViews">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
   <action id="SavaAs" />
   <action id="SaveAs" />
-  <action id="SearchEverywhere.NavigateToPrevGroup" />
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
@@ -122,10 +113,6 @@
   <action id="ToggleBookmark7" />
   <action id="ToggleBookmark8" />
   <action id="ToggleBookmark9" />
-  <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
-  </action>
-  <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
@@ -135,9 +122,5 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-  <action id="ViewBreakpoints" />
-  <action id="XDebugger.MuteBreakpoints">
-    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
   </action>
 </keymap>
