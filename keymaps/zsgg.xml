@@ -90,6 +90,10 @@
   </action>
   <action id="SavaAs" />
   <action id="SaveAs" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
