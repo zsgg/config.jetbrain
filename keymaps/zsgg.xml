@@ -39,6 +39,12 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
   </action>
+  <action id="GoToLastTab">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="GoToTab1">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
@@ -65,8 +71,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
   </action>
-  <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt r" />
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -98,9 +105,7 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
+  <action id="Terminal.NextSplitter" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
