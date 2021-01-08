@@ -1,8 +1,36 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mdx" type="Markdown" />
+      <mapping ext="gs" type="Native" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="compare" type="PLAIN_TEXT" />
+      <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping pattern="ignore" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
+      <mapping pattern="gs" type="TypeScript" />
+      <mapping pattern="gs.gs" type="TypeScript" />
+      <mapping pattern="index_channel_swipe" type="TypeScript" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".env.local" type=".env file" />
+      <mapping pattern=".env.prod" type=".env file" />
+      <mapping pattern=".env.production" type=".env file" />
+      <mapping pattern="options.config" type=".env file" />
     </extensionMap>
   </component>
 </application>

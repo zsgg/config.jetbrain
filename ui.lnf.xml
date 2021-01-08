@@ -1,5 +1,19 @@
 <application>
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
