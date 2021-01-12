@@ -11,6 +11,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc " type="PLAIN_TEXT" />
+      <mapping pattern=".babelrcxxx" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
