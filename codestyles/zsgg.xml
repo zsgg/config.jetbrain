@@ -1,4 +1,5 @@
 <code_scheme name="zsgg" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -18,6 +19,9 @@
     <option name="ALIGN_UNION_TYPES" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Markdown">
     <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
