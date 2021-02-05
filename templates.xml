@@ -119,6 +119,18 @@
           <option name="key" value="shell_command exists" />
         </TemplateKey>
         <TemplateKey>
+          <option name="groupName" value="Maven" />
+          <option name="key" value="dep" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Maven" />
+          <option name="key" value="pl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Maven" />
+          <option name="key" value="repo" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="jsf" />
           <option name="key" value="tldTag" />
         </TemplateKey>
