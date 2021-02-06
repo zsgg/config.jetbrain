@@ -1139,6 +1139,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.mdx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="mdx.js" />
+              <option name="myPluginName" value="MDX" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mf">
           <value>
             <plugin>
