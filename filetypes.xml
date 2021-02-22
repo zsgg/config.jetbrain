@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env.production" type=".env file" />
-      <mapping pattern="options.config" type=".env file" />
-      <mapping pattern=".env.prod" type=".env file" />
-      <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
@@ -32,8 +30,10 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="mdx" approved="true" type="Markdown" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".env.local" type=".env file" />
+      <mapping pattern=".env.prod" type=".env file" />
+      <mapping pattern=".env.production" type=".env file" />
+      <mapping pattern="options.config" type=".env file" />
     </extensionMap>
   </component>
 </application>
