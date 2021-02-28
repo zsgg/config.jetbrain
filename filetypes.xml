@@ -9,6 +9,7 @@
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc " type="PLAIN_TEXT" />
       <mapping pattern=".babelrcxxx" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
