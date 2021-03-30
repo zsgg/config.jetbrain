@@ -2,6 +2,7 @@
   <component name="ProjectViewSharedSettings">
     <option name="autoscrollToSource" value="true" />
     <option name="showExcludedFiles" value="false" />
+    <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
 </application>
