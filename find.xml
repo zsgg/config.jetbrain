@@ -9,17 +9,18 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>.(ts|tsx)</mask>
-    <mask>*.scss</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.java</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
