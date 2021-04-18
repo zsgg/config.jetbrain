@@ -6,6 +6,9 @@
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="12.2.0.1" />
     </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+    </driver>
     <driver id="sqlite.xerial">
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
