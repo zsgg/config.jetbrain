@@ -48,5 +48,8 @@
     <filter name="gssong v">
       <pattern index="4" />
     </filter>
+    <filter name="todo">
+      <pattern index="0" />
+    </filter>
   </component>
 </application>
