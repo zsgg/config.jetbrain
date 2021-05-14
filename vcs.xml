@@ -14,6 +14,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="SONGGILSEOP" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.miridih.com" />
+          <option name="userName" value="gssong" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
