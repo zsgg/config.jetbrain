@@ -3,5 +3,6 @@
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
     <variable name="name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
     <variable name="selector_name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>

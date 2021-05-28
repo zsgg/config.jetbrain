@@ -14,22 +14,25 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="SONGGILSEOP" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.miridih.com" />
+          <option name="userName" value="gssong" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="PREFER_COMMIT_DATE" value="true" />
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <option value="0" />
-        <option value="1" />
-        <option value="2" />
-        <option value="3" />
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
       </list>
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="D:/patch/헬프디자인옵션페이지" />
+    <option name="PATCH_STORAGE_LOCATION" value="D:/patch" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
