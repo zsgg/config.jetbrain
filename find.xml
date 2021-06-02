@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
@@ -11,11 +12,11 @@
     <mask>.ts</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
-    <mask>*.tsx</mask>
     <mask>*.mdx</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.jsp</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
