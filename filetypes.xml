@@ -1,10 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern=".env.production" type=".env file" />
-      <mapping pattern="options.config" type=".env file" />
-      <mapping pattern=".env.prod" type=".env file" />
-      <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
