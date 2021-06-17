@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="~ ignore" />
+    <option name="defaultScopeName" value="~ ignore" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="~ ignore" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
