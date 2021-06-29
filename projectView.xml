@@ -1,5 +1,6 @@
 <application>
   <component name="ProjectViewSharedSettings">
     <option name="autoscrollToSource" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
 </application>
