@@ -1,6 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="post-merge" type="AUTO_DETECTED" />
+      <mapping pattern="pre-push" type="AUTO_DETECTED" />
+      <mapping pattern="post-checkout" type="AUTO_DETECTED" />
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="post-commit" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
