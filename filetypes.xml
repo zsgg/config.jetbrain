@@ -1,6 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env.production" type=".env file" />
+      <mapping pattern="options.config" type=".env file" />
+      <mapping pattern=".env.prod" type=".env file" />
+      <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="post-merge" type="AUTO_DETECTED" />
       <mapping pattern="pre-push" type="AUTO_DETECTED" />
       <mapping pattern="post-checkout" type="AUTO_DETECTED" />
@@ -37,10 +41,6 @@
       <removed_mapping ext="mdx" approved="true" type="Markdown" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type=".env file" />
-      <mapping pattern=".env.prod" type=".env file" />
-      <mapping pattern=".env.production" type=".env file" />
-      <mapping pattern="options.config" type=".env file" />
     </extensionMap>
   </component>
 </application>
