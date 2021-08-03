@@ -7,6 +7,7 @@
       <mapping pattern=".env.local" type=".env file" />
       <mapping pattern="post-merge" type="AUTO_DETECTED" />
       <mapping pattern="pre-push" type="AUTO_DETECTED" />
+      <mapping pattern="servlet\a" type="AUTO_DETECTED" />
       <mapping pattern="post-checkout" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="post-commit" type="AUTO_DETECTED" />
