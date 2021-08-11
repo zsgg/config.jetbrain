@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="hello--madge" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="gs" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
