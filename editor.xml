@@ -42,6 +42,7 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="0" />
     </pattern>
+    <pattern pattern="\bsuggest\b.*" />
     <filter name="gssong">
       <pattern index="2" />
     </filter>
