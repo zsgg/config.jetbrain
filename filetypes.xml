@@ -11,6 +11,7 @@
       <mapping pattern="post-checkout" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="post-commit" type="AUTO_DETECTED" />
+      <mapping ext="pro" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
