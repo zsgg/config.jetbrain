@@ -20,6 +20,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -29,6 +32,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="ExportToTextFile" />
   <action id="FindUsages">
@@ -36,14 +42,16 @@
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+    <keyboard-shortcut first-keystroke="shift alt f12" />
   </action>
   <action id="GoToLastTab">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="GoToTab1">
     <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
@@ -68,8 +76,7 @@
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="NewElementSamePlace">
-    <keyboard-shortcut first-keystroke="ctrl alt insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+    <keyboard-shortcut first-keystroke="shift alt f11" />
   </action>
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -95,6 +102,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
   <action id="SavaAs" />
   <action id="SaveAs" />
   <action id="SelectInProjectView">
@@ -104,6 +114,9 @@
   <action id="SelectNextOccurrence" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
   <action id="Terminal.NextSplitter" />
   <action id="Terminal.OpenInTerminal">
