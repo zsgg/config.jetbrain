@@ -1,7 +1,13 @@
 <keymap version="1" name="zsgg base macOS" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
     <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
@@ -26,17 +32,17 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
-  <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="alt e" />
+  <action id="CloseAllUnpinnedEditors">
+    <keyboard-shortcut first-keystroke="alt dead_acute" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
+  <action id="DeviceAndSnapshotComboBox" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt 9" />
@@ -54,5 +60,61 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="GotoNextElementUnderCaretUsage">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="shift alt f11" />
+  </action>
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="OptimizeImports" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
 </keymap>

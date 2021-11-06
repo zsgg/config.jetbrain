@@ -85,20 +85,14 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
-  <action id="OptimizeImports">
-    <keyboard-shortcut first-keystroke="ctrl alt o" />
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
-  </action>
+  <action id="OptimizeImports" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
+  <action id="ReformatCode" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
