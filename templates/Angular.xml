@@ -1,0 +1,8 @@
+<templateSet group="Angular">
+  <template name="a-component" value="import { Component, OnInit } from '@angular/core';&#10;&#10;@Component({&#10; selector: '$selector_name$',&#10; templateUrl: '$name$.component.html'&#10;})&#10;&#10;export class $Name$Component implements OnInit {&#10; constructor() { }&#10;&#10; ngOnInit() { }$END$&#10;}" description="Angular component" toReformat="true" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <variable name="name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
+    <variable name="selector_name" expression="lowercaseAndDash(Name)" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
