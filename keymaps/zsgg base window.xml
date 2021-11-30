@@ -32,11 +32,19 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorContextInfo" />
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="ExportToTextFile" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt 9" />
@@ -106,6 +114,7 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="SendEOF" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
