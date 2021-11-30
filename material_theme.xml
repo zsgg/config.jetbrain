@@ -1,9 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highContrast" value="true" />
     <option name="premium" value="true" />
-    <option name="accentColor" value="416a9b" />
-    <option name="selectedTheme" value="NATIVE" />
-    <option name="userId" value="-7c9300d4:17d6f310516:-8000" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ff79c5" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-d3dcff:1691f26bbed:-8000" />
     <option name="version" value="6.9.1" />
   </component>
 </application>

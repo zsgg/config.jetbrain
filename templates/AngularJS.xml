@@ -1,0 +1,6 @@
+<templateSet group="AngularJS ">
+  <template name="$w" value="$scope.$watch('$watchExpr$',function(newValue, oldValue){&#10;  $END$&#10;});" description="Define a $watch for an expression. You can change the expression  to be watched." toReformat="true" toShortenFQNames="true">
+    <variable name="watchExpr" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

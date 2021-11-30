@@ -1,0 +1,5 @@
+<templateSet group="React">
+  <template name="state" value="this.state.$END$" description="Access component's state" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
