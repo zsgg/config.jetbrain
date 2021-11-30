@@ -79,6 +79,8 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="GuiDesigner.Duplicate" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
@@ -130,5 +132,21 @@
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow" />
+  <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow" />
+  <action id="com.mnw.tabmover.actions.MovePinnedTabsToFirst" />
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabToFirstAction" />
+  <action id="com.mnw.tabmover.actions.MoveTabToLastAction" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNewWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNextWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabToPreviousWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="com.mnw.tabmover.actions.ShowTabMoveActions" />
+  <action id="com.mnw.tabmover.actions.TogglePinOnAllOpenTabsAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
