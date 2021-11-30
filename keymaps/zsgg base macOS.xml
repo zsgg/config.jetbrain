@@ -36,7 +36,7 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="CloseAllUnpinnedEditors">
-    <keyboard-shortcut first-keystroke="alt dead_acute" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt w" />
