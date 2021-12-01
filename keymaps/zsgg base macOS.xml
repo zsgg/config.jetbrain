@@ -33,9 +33,6 @@
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="CloseContent">
