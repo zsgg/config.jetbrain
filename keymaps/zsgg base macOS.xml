@@ -99,8 +99,6 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="RecentFiles">
