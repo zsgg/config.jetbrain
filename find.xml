@@ -3,18 +3,20 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.properties</mask>
-    <mask>*.jsp</mask>
+    <option name="FILE_MASK" value="*.json" />
     <mask>.(ts|tsx)</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
