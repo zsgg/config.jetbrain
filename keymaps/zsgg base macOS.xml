@@ -59,9 +59,7 @@
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
   <action id="Generate">
-    <keyboard-shortcut first-keystroke="meta n" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-    <keyboard-shortcut first-keystroke="shift alt f12" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt z" />
@@ -85,7 +83,7 @@
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="NewElementSamePlace">
-    <keyboard-shortcut first-keystroke="shift alt f11" />
+    <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
@@ -115,6 +113,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="SelectVirtualTemplateElement" />
   <action id="SendEOF" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
@@ -159,5 +158,6 @@
   </action>
   <action id="com.mnw.tabmover.actions.ShowTabMoveActions" />
   <action id="com.mnw.tabmover.actions.TogglePinOnAllOpenTabsAction" />
+  <action id="hg4idea.QPushAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
