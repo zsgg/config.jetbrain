@@ -1,6 +1,7 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="showEditorInlineBlame" value="false" />
+    <option name="version" value="5" />
   </component>
 </application>
