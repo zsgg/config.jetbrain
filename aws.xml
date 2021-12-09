@@ -1,0 +1,17 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSCLIV2\aws.exe" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1602164054000" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>
