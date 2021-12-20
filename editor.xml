@@ -23,7 +23,7 @@
       <option name="FONT_TYPE" value="2" />
       <option name="EFFECT_COLOR" value="181a1f" />
     </pattern>
-    <pattern icon="question" useCustomColors="true" pattern="\bzsgg\b.*">
+    <pattern icon="question" useCustomColors="true" case-sensitive="true" pattern="\bgssong spa\b.*">
       <option name="FOREGROUND" value="0" />
       <option name="BACKGROUND" value="fff800" />
       <option name="FONT_TYPE" value="3" />
@@ -37,8 +37,6 @@
     </filter>
     <filter name="gssong v">
       <pattern index="3" />
-      <pattern index="-1" />
-      <pattern index="-1" />
     </filter>
   </component>
 </application>
