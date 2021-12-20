@@ -6,7 +6,6 @@
     <mask>.(ts|tsx)</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
@@ -15,8 +14,9 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.json</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
