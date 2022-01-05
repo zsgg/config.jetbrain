@@ -4,7 +4,7 @@
     <property name="created">2021-11-07T07:56:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-01-05T14:04:38</property>
+    <property name="modified">2022-01-06T04:29:50</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <console-font>
@@ -48,9 +48,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f780bf" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8aff80" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f89580" />
     <option name="FILESTATUS_MERGED" value="9580ff" />
     <option name="FILESTATUS_MODIFIED" value="80ffea" />
