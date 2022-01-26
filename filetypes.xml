@@ -20,6 +20,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="*.*rc" type="Shell Script" />
