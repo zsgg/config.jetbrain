@@ -51,7 +51,11 @@
       <removed_mapping ext="otf" approved="true" type="Font" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".eslintignore" type="ESLint File" />
+      <removed_mapping pattern=".jshintignore" type="JSHint File" />
+      <removed_mapping pattern=".npmignore" type="Npm File" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
+      <removed_mapping pattern=".stylelintignore" type="StyleLint File" />
       <mapping pattern="gs" type="TypeScript" />
       <mapping pattern="gs.gs" type="TypeScript" />
       <mapping pattern="index_channel_swipe" type="TypeScript" />
