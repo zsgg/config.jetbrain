@@ -40,7 +40,11 @@
       <removed_mapping ext="otf" approved="true" type="Font" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
+      <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
+      <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
+      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
     </extensionMap>
   </component>
 </application>
