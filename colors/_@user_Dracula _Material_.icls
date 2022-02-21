@@ -1,12 +1,22 @@
 <scheme name="_@user_Dracula (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-11-07T07:56:09</property>
+    <property name="created">2022-02-18T17:02:35</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2022-02-18T04:20:05</property>
+    <property name="ideVersion">2021.3.2.0.0</property>
+    <property name="modified">2022-02-19T07:39:39</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -15,27 +25,42 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8aff80" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="ActionButton.hoverBackground" value="44475ac0" />
     <option name="ActionButton.iconTextForeground" value="6272a4" />
     <option name="ActionButton.pressedBackground" value="44475a" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="666b87" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="666b87" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="ffffff" />
+    <option name="Bookmark.iconBackground" value="ff79c5" />
     <option name="BookmarkIcon.background" value="ff79c5" />
+    <option name="BookmarkMnemonicIcon.background" value="666b87" />
+    <option name="BookmarkMnemonicIcon.borderColor" value="666b87" />
+    <option name="BookmarkMnemonicIcon.foreground" value="ffffff" />
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282a36" />
     <option name="DELETED_LINES_COLOR" value="f780bf" />
     <option name="DIAGRAM_ANNOTATION_EDGE" value="f780bf" />
+    <option name="DIAGRAM_COARSE_GRID" value="44475a" />
     <option name="DIAGRAM_DEFAULT_EDGE" value="f8f8f2" />
+    <option name="DIAGRAM_FINE_GRID" value="424450" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="8aff80" />
+    <option name="DIAGRAM_HOT_SPOTS" value="80ffea" />
     <option name="DIAGRAM_INNER_EDGE" value="78dce8" />
     <option name="DIAGRAM_NODE_BACKGROUND" value="282a36" />
-    <option name="DIAGRAM_NODE_HEADER" value="44475a" />
+    <option name="DIAGRAM_NODE_BORDER" value="424450" />
+    <option name="DIAGRAM_NODE_HEADER" value="282a36" />
+    <option name="DIAGRAM_NODE_SLOPPY_BACKGROUND" value="44475a" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="282a36" />
     <option name="DIAGRAM_NOTE_BORDER" value="f8f8f2" />
+    <option name="DIAGRAM_NOTE_SLOPPY_BACKGROUND" value="44475a" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="9580ff" />
+    <option name="DIAGRAM_SELECTED_NODE_BORDER" value="ff79c5" />
+    <option name="DIAGRAM_SELECTION_BOX_BORDER" value="ff79c5" />
+    <option name="DIAGRAM_SNAPPING_LINES" value="ff79c5" />
     <option name="DOCUMENTATION_COLOR" value="282a36" />
     <option name="DOC_COMMENT_GUIDE" value="666879" />
     <option name="DOC_COMMENT_LINK" value="feff80" />
@@ -48,7 +73,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f780bf" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8aff80" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f89580" />
@@ -69,7 +94,16 @@
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="282a36" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="666b87" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="44475a" />
+    <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="ff79c5" />
+    <option name="JUPYTER.CELL_UNDER_CARET_EDITOR_MODE_STRIPE_COLOR" value="44475a" />
+    <option name="JUPYTER.CODE_CELL_BACKGROUND" value="282a36" />
+    <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="f89580" />
+    <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="feff80" />
+    <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="ff79c5" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="21222c" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_SHORTCUT_COLOR" value="6272a4" />
     <option name="LINE_NUMBERS_COLOR" value="666879" />
+    <option name="LOOKUP_COLOR" value="282a36" />
     <option name="METHOD_SEPARATORS_COLOR" value="424450" />
     <option name="MODIFIED_LINES_COLOR" value="80ffea" />
     <option name="MODIFIED_TAB_ICON" value="ff79c5" />
@@ -417,6 +451,7 @@
       <value>
         <option name="FOREGROUND" value="79cbdc" />
         <option name="EFFECT_COLOR" value="79cbdc" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1141,6 +1176,12 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="393c4b" />
+      </value>
+    </option>
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="333646" />
@@ -1219,7 +1260,10 @@
       </value>
     </option>
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="80ffea" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="KOTLIN_QUEST">
       <value>
@@ -2776,6 +2820,11 @@
         <option name="EFFECT_COLOR" value="ff5555" />
         <option name="ERROR_STRIPE_COLOR" value="9e2927" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="R_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="f89580" />
       </value>
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
