@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="useDesktopMegaMenuOpendCommGroupNameStorage" type="AUTO_DETECTED" />
       <mapping pattern="hello--madge" type="AUTO_DETECTED" />
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -24,6 +25,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="Rust" />
       <mapping pattern="*.*rc" type="Shell Script" />
       <mapping pattern="gs.gs" type="TypeScript" />
       <mapping pattern="index_channel_swipe" type="TypeScript" />
