@@ -1,0 +1,24 @@
+<templateSet group="ZSGG">
+  <template name="z a gssong" value="/*&#10; * gssong $date$ : $END$ &#10; */" description="gssong 주석" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="z a zsgg" value="/*&#10; * zsgg $date$ : $END$ &#10; */" description="zsgg 주석" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="z aa" value="/**" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="z a" value="/*$END$&#10;*/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

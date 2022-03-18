@@ -1,0 +1,22 @@
+<application>
+  <component name="OsSpecificEditorSettings">
+    <option name="CARET_STOP_OPTIONS">
+      <CaretStopOptions>
+        <option name="BACKWARD">
+          <CaretStopPolicy>
+            <option name="WORD">
+              <CaretStop start="true" />
+            </option>
+          </CaretStopPolicy>
+        </option>
+        <option name="FORWARD">
+          <CaretStopPolicy>
+            <option name="WORD">
+              <CaretStop end="true" />
+            </option>
+          </CaretStopPolicy>
+        </option>
+      </CaretStopOptions>
+    </option>
+  </component>
+</application>
