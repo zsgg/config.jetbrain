@@ -4,42 +4,31 @@
       <mapping pattern="useDesktopMegaMenuOpendCommGroupNameStorage" type="AUTO_DETECTED" />
       <mapping pattern="hello--madge" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
-      <mapping pattern="jest.config" type="JSON" />
-      <mapping pattern=".eslintrc" type="JSON" />
-      <mapping pattern=".stylelintrc" type="JSON" />
-      <mapping pattern=".babelrc" type="JSON" />
-      <mapping pattern="bowerrc" type="JSON" />
-      <mapping ext="jsb3" type="JSON" />
-      <mapping ext="jsb2" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gs" type="Native" />
-      <mapping pattern=".jshintignore" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc " type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Buildfile" type="PLAIN_TEXT" />
       <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
-      <mapping pattern=".npmignore" type="PLAIN_TEXT" />
       <mapping pattern="compare" type="PLAIN_TEXT" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".babelrcxxx" type="PLAIN_TEXT" />
       <mapping pattern="ignore" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping pattern=".node-version" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintignore" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="*.*rc" type="Shell Script" />
+      <mapping pattern="gs.gs" type="TypeScript" />
+      <mapping pattern="index_channel_swipe" type="TypeScript" />
+      <mapping pattern="gs" type="TypeScript" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -51,6 +40,7 @@
       <removed_mapping ext="mdx" approved="true" type="Markdown" />
       <removed_mapping ext="otf" approved="true" type="Font" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
@@ -58,9 +48,6 @@
       <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
       <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
-      <mapping pattern="gs" type="TypeScript" />
-      <mapping pattern="gs.gs" type="TypeScript" />
-      <mapping pattern="index_channel_swipe" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
