@@ -5,11 +5,11 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>.(ts|tsx)</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -20,5 +20,6 @@
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
