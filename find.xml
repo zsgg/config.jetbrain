@@ -14,10 +14,10 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.spec.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.json</mask>
+    <mask>*.spec.tsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
