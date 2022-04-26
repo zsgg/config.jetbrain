@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>.(ts|tsx)</mask>
     <mask>.tsx</mask>
     <mask>.ts</mask>
@@ -16,8 +19,8 @@
     <mask>*.spec.ts</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*.json</mask>
     <mask>*.spec.tsx</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
