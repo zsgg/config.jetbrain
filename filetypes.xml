@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="useDesktopMegaMenuOpendCommGroupNameStorage" type="AUTO_DETECTED" />
+      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="hello--madge" type="AUTO_DETECTED" />
+      <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -24,6 +26,7 @@
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="*.*rc" type="Shell Script" />
