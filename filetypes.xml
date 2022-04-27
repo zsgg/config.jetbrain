@@ -22,10 +22,10 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="clio" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="*.*rc" type="Shell Script" />
       <mapping pattern="gs.gs" type="TypeScript" />
       <mapping pattern="index_channel_swipe" type="TypeScript" />
@@ -43,11 +43,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping pattern=".eslintignore" approved="true" type="ESLint File" />
-      <removed_mapping pattern=".jshintignore" approved="true" type="JSHint File" />
-      <removed_mapping pattern=".npmignore" approved="true" type="Npm File" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
-      <removed_mapping pattern=".stylelintignore" approved="true" type="StyleLint File" />
     </extensionMap>
   </component>
 </application>
