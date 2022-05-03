@@ -10,6 +10,7 @@
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
     </driver>
     <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.36.0.3" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.34.0/sqlite-jdbc-3.34.0.jar</url>
       </library>
