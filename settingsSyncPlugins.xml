@@ -159,6 +159,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="io.techtrails.intellij.prisma">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="izhangzhihao.rainbow.brackets">
           <value>
             <PluginData>
