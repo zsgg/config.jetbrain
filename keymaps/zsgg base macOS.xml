@@ -42,10 +42,6 @@
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="CompileDirty">
-    <keyboard-shortcut first-keystroke="meta f9" />
-    <keyboard-shortcut first-keystroke="shift alt comma" />
-  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="DeviceAndSnapshotComboBox" />
   <action id="Diff.ShowDiff" />
@@ -106,10 +102,16 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Rust.Build">
+    <keyboard-shortcut first-keystroke="meta f9" />
+  </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
