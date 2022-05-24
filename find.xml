@@ -19,10 +19,10 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.spec.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.spec.tsx</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
     <mask>*.json</mask>
   </component>
 </application>
