@@ -6,6 +6,7 @@
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="hello--madge" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
+      <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
