@@ -33,13 +33,12 @@
         <option value="Default.Root" />
         <option value="Default.Subject" />
         <option value="Space.CommitStatus" />
-        <option value="Default.Date" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
       <map>
         <entry key="Table.Default.Author.ColumnIdVisibility" value="false" />
-        <entry key="Table.Default.Date.ColumnIdVisibility" value="true" />
+        <entry key="Table.Default.Date.ColumnIdVisibility" value="false" />
       </map>
     </option>
   </component>
