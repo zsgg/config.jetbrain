@@ -18,8 +18,8 @@
     <mask>*.spec.ts</mask>
     <mask>*.spec.tsx</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.tsx</mask>
     <mask>*.json</mask>
   </component>
 </application>
