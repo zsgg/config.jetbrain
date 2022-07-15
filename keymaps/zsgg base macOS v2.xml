@@ -154,6 +154,9 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt v" />
   </action>
@@ -179,8 +182,12 @@
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="XDebugger.CopyWatch" />
-  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow" />
-  <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow" />
+  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="com.mnw.tabmover.actions.MovePinnedTabsToFirst" />
   <action id="com.mnw.tabmover.actions.MoveTabDownAction">
     <keyboard-shortcut first-keystroke="meta alt f" />
