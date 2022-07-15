@@ -31,6 +31,12 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift alt period" />
@@ -50,6 +56,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathBar" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -60,6 +67,9 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
@@ -79,6 +89,10 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
@@ -94,8 +108,17 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -122,6 +145,9 @@
   </action>
   <action id="SelectVirtualTemplateElement" />
   <action id="SendEOF" />
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
@@ -138,6 +164,9 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.ShowDiffWithLocal">
