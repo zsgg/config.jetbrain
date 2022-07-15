@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="ssh.config.backend" value="OPENSSH" />
       </map>
     </option>
   </component>
