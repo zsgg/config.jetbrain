@@ -1,42 +1,42 @@
 <keymap version="1" name="zsgg base macOS v2" parent="Mac OS X 10.5+">
+  <action id="$SelectAll" />
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ActivateFindToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
     <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
@@ -50,6 +50,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathBar" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt 9" />
@@ -86,6 +87,7 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="OptimizeImports" />
+  <action id="ParameterInfo" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -96,12 +98,15 @@
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ReformatCode" />
+  <action id="Refresh" />
   <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
@@ -134,6 +139,7 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="UsageView.Rerun" />
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
