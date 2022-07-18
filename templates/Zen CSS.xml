@@ -1,0 +1,6 @@
+<templateSet group="Zen CSS">
+  <template name="cur" value="cursor:$VAR0$;" description="cursor:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;pointer&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>

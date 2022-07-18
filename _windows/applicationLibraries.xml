@@ -1,0 +1,23 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.8 interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python38/DLLs" />
+        <root url="file://C:/Python38/Lib" />
+        <root url="file://C:/Python38" />
+        <root url="file://C:/Python38/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/-926495050" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python38/DLLs" />
+        <root url="file://C:/Python38/Lib" />
+        <root url="file://C:/Python38" />
+        <root url="file://C:/Python38/Lib/site-packages" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/-926495050" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

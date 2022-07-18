@@ -1,0 +1,32 @@
+<application>
+  <component name="aws">
+    <option name="promptedForTelemetry" value="true" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="C:\Program Files\Amazon\AWSCLIV2\aws.exe" />
+          <option name="id" value="awsCli" />
+          <option name="lastKnownFileTime" value="1602164054000" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+  <component name="resources">
+    <option name="selected">
+      <list>
+        <option value="AWS::CloudFront::Function" />
+        <option value="AWS::CloudFront::KeyGroup" />
+        <option value="AWS::CloudFront::OriginRequestPolicy" />
+        <option value="AWS::CloudFront::CachePolicy" />
+        <option value="AWS::CloudFront::CloudFrontOriginAccessIdentity" />
+        <option value="AWS::CloudFront::Distribution" />
+        <option value="AWS::CloudFront::PublicKey" />
+        <option value="AWS::CloudFront::RealtimeLogConfig" />
+        <option value="AWS::CloudFront::ResponseHeadersPolicy" />
+      </list>
+    </option>
+  </component>
+</application>
