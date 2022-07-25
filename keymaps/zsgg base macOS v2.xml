@@ -154,6 +154,9 @@
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
