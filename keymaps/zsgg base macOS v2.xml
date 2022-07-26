@@ -31,12 +31,18 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="meta alt w" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
@@ -50,6 +56,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathBar" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
@@ -60,6 +67,9 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt v" />
@@ -79,6 +89,10 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
@@ -94,8 +108,17 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="QuickTypeDefinition">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -107,6 +130,9 @@
   </action>
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
@@ -122,11 +148,20 @@
   </action>
   <action id="SelectVirtualTemplateElement" />
   <action id="SendEOF" />
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="shift alt v" />
@@ -139,6 +174,9 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="UsageView.Rerun" />
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="alt k" />
@@ -150,8 +188,12 @@
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="XDebugger.CopyWatch" />
-  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow" />
-  <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow" />
+  <action id="com.mnw.tabmover.actions.MoveFocusToNextWindow">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveFocusToPreviousWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="com.mnw.tabmover.actions.MovePinnedTabsToFirst" />
   <action id="com.mnw.tabmover.actions.MoveTabDownAction">
     <keyboard-shortcut first-keystroke="meta alt f" />
@@ -159,7 +201,13 @@
   <action id="com.mnw.tabmover.actions.MoveTabToFirstAction" />
   <action id="com.mnw.tabmover.actions.MoveTabToLastAction" />
   <action id="com.mnw.tabmover.actions.MoveTabToNewWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabToNextSplitter">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="com.mnw.tabmover.actions.MoveTabToNextWindow" />
+  <action id="com.mnw.tabmover.actions.MoveTabToPreviousSplitter">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="com.mnw.tabmover.actions.MoveTabToPreviousWindow" />
   <action id="com.mnw.tabmover.actions.MoveTabUpAction">
     <keyboard-shortcut first-keystroke="meta alt s" />

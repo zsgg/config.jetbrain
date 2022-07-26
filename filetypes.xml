@@ -8,6 +8,9 @@
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
       <mapping pattern="Vagrantfile" type="JSHELL" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gs" type="Native" />
       <mapping pattern=".browserslistrc " type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
@@ -22,13 +25,13 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="clio" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
       <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
-      <mapping ext="lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="*.*rc" type="Shell Script" />
       <mapping pattern="gs.gs" type="TypeScript" />
       <mapping pattern="index_channel_swipe" type="TypeScript" />
@@ -47,9 +50,6 @@
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
