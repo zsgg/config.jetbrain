@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.ts, *.tsx" />
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.scss</mask>
@@ -24,7 +24,7 @@
     <mask>.js</mask>
     <mask>.(ts|tsx)</mask>
     <mask>package.json</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.md</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
