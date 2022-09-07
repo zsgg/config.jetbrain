@@ -1,5 +1,4 @@
 <keymap version="1" name="zsgg base macOS v2" parent="Mac OS X 10.5+">
-  <action id="$SelectAll" />
   <action id="ActivateBookmarksToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -51,6 +50,9 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="DeviceAndSnapshotComboBox" />
   <action id="Diff.ShowDiff" />
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta d" />
@@ -125,9 +127,6 @@
   </action>
   <action id="ReformatCode" />
   <action id="Refresh" />
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="meta a" />
-  </action>
   <action id="Replace" />
   <action id="Rerun" />
   <action id="Resume">
@@ -153,6 +152,9 @@
   </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="ShowNpmScripts">
+    <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
