@@ -39,12 +39,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="z arrow v" value="(v)=&gt;{ v$END$ }" description="" toReformat="false" toShortenFQNames="true">
+  <template name="z arr v" value="(v) =&gt; v$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="z arrow rr" value="(req, res, next)=&gt;{ &#10;    $END$ &#10;}" description="req res next" toReformat="false" toShortenFQNames="true">
+  <template name="z arr rr" value="(req, res, next)=&gt;{ &#10;    $END$ &#10;}" description="req res next" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -54,7 +54,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="z arrow fc" value="const $END$ = (): JSX.Element =&gt; { &#10;    return &lt;div&gt;Hello&lt;/div&gt; &#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="z arr fc" value="const $END$ = (): JSX.Element =&gt; { &#10;    return &lt;div&gt;Hello&lt;/div&gt; &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
