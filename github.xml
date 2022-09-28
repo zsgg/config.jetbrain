@@ -1,7 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="cc9e3d58-8cb6-4394-b5a4-5e3eeb295d01" name="zsgg">
+    <account name="zsgg" id="cc9e3d58-8cb6-4394-b5a4-5e3eeb295d01">
       <server host="github.com" />
     </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="COPY_URL_GIST" value="true" />
   </component>
 </application>
