@@ -1,0 +1,31 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="\b(?&lt;!@author )gssong\b.*" />
+    <pattern icon="question" pattern="\bgssong spa\b.*" />
+    <pattern icon="question" pattern="\b(?&lt;!@author )gt\b.*" />
+    <pattern pattern="\bgssong todo\b.*" />
+    <filter name="gssong">
+      <pattern index="2" />
+    </filter>
+    <filter name="gssong v">
+      <pattern index="-1" />
+    </filter>
+  </component>
+</application>
