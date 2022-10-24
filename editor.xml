@@ -24,8 +24,6 @@
     <filter name="gssong">
       <pattern index="2" />
     </filter>
-    <filter name="gssong v">
-      <pattern index="-1" />
-    </filter>
+    <filter name="gssong v" />
   </component>
 </application>
