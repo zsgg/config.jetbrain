@@ -9,6 +9,7 @@
       <w>blabla</w>
       <w>corejs</w>
       <w>cpdev</w>
+      <w>crossregion</w>
       <w>devweb</w>
       <w>dsignhub</w>
       <w>failback</w>
@@ -16,14 +17,17 @@
       <w>httphandler</w>
       <w>jotai</w>
       <w>korail</w>
+      <w>maxdepth</w>
       <w>miricanvas</w>
       <w>nextjs</w>
       <w>onlyfold</w>
       <w>pnpify</w>
       <w>randomstring</w>
       <w>refetch</w>
+      <w>stylis</w>
       <w>vercel</w>
       <w>yarnrc</w>
+      <w>zipls</w>
       <w>zsgg</w>
     </words>
   </component>
