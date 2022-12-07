@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.scss</mask>
@@ -18,7 +19,6 @@
     <mask>*.java</mask>
     <mask>*.spec.ts</mask>
     <mask>*.spec.tsx</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>.(ts|tsx)</mask>
@@ -27,5 +27,6 @@
     <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.md</mask>
+    <mask>*.js</mask>
   </component>
 </application>
