@@ -23,9 +23,9 @@
     <mask>*.tsx</mask>
     <mask>.(ts|tsx)</mask>
     <mask>package.json</mask>
-    <mask>.js</mask>
     <mask>*.md</mask>
-    <mask>*.json</mask>
+    <mask>.js</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.json</mask>
   </component>
 </application>
