@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value=".gitignore" />
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.scss</mask>
@@ -28,5 +28,6 @@
     <mask>.js</mask>
     <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>.gitignore</mask>
   </component>
 </application>
