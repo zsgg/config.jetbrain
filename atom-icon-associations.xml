@@ -1,0 +1,28 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER" />
+        <option name="ownAssociations">
+          <map>
+            <entry key="Features">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value="^[\._]?(features?|feats?|feature-.*)$" />
+                  <option name="pattern" value="^[\._]?(features?|feats?|feature-.*)$" />
+                  <option name="touched" value="true" />
+                  <option name="iconType" value="FOLDER" />
+                  <option name="name" value="Features" />
+                  <option name="icon" value="/features.svg" />
+                  <option name="iconColor" />
+                  <option name="folderColor" value="ef5350" />
+                  <option name="folderIconColor" value="ffcdd2" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
