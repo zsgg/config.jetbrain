@@ -46,6 +46,12 @@
         <entry key="Table.Space.CommitStatus.ColumnIdVisibility" value="false" />
       </map>
     </option>
+    <option name="CUSTOM_BOOLEAN_PROPERTIES">
+      <map>
+        <entry key="Change.Log.Filter.on.Branch.Selection" value="true" />
+        <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="false" />
+      </map>
+    </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
