@@ -16,15 +16,15 @@
     <mask>*.java</mask>
     <mask>*.spec.ts</mask>
     <mask>*.spec.tsx</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>.(ts|tsx)</mask>
-    <mask>package.json</mask>
-    <mask>*.md</mask>
     <mask>.js</mask>
     <mask>*.json</mask>
     <mask>.gitignore</mask>
+    <mask>*.md</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>package.json</mask>
+    <mask>*.js</mask>
   </component>
 </application>
