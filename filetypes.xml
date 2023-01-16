@@ -7,6 +7,10 @@
       <mapping pattern="hello--madge" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
       <mapping pattern="commit-msg" type="AUTO_DETECTED" />
+      <mapping pattern="Vagrantfile" type="JSHELL" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gs" type="Native" />
       <mapping pattern=".browserslistrc " type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
@@ -46,10 +50,6 @@
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping pattern="Vagrantfile" type="JSHELL" />
     </extensionMap>
   </component>
 </application>
