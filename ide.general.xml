@@ -14,4 +14,11 @@
     <entry key="editor.focus.mode.color.light" value="6272a4" />
     <entry key="editor.focus.mode.color.dark" value="6272a4" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="aws.codewhisperer" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
