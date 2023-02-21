@@ -7,14 +7,13 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>.tsx</mask>
     <mask>.ts</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.spec.ts</mask>
     <mask>*.spec.tsx</mask>
@@ -29,5 +28,6 @@
     <mask>package.json</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.java</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>
